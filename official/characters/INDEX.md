@@ -3,7 +3,7 @@
 ## Mục tiêu
 Mỗi nhân vật có **tên ổn định** xuất hiện, được gọi tên, được ghi trên race card/roster/caption hoặc được credit trong animation thuộc phạm vi repo phải có **một file Markdown riêng**.
 
-**Baseline đã chuẩn hóa hiện tại: 164 profile.** Đây là độ phủ đã xác minh tới pass 2026-08-21; **không phải tuyên bố đã audit 100% từng frame của toàn bộ video Google Drive**.
+**Baseline đã chuẩn hóa hiện tại: 166 profile.** Đây là độ phủ đã xác minh tới pass 2026-08-21; **không phải tuyên bố đã audit 100% từng frame của toàn bộ video Google Drive**.
 
 `Gentildonna` là benchmark profile giàu dữ liệu: [season3-profiles/gentildonna.md](season3-profiles/gentildonna.md).
 
@@ -17,18 +17,19 @@ Audit ledger: [ANIMATION_NAME_AUDIT.md](ANIMATION_NAME_AUDIT.md).
 | TV supporting / anime-exclusive | 33 | [tv-supporting-profiles/](tv-supporting-profiles/) |
 | Season 3 / later anime | 19 | [season3-profiles/](season3-profiles/) |
 | RTTT / Beginning of a New Era | 11 | [rttt-boane-profiles/](rttt-boane-profiles/) |
-| Umayuru / Umayon / shorts | 15 | [shorts-profiles/](shorts-profiles/) |
+| Umayuru / Umayon / shorts | 17 | [shorts-profiles/](shorts-profiles/) |
 | Cinderella Gray | 36 | [cinderella-gray-profiles/](cinderella-gray-profiles/) |
 | Trainer / staff / officials / media / named humans | 30 | [staff-human-profiles/](staff-human-profiles/) |
-| **Tổng** | **164** | |
+| **Tổng** | **166** | |
 
 Mỗi file trong các thư mục trên là **một nhân vật**, không quay lại mô hình một Markdown nhồi nhiều character.
 
-## Các bổ sung gần nhất từ audit Cinderella Gray
+## Các bổ sung gần nhất từ episode-level audit
 
-Racer/Uma: Nanto Ichiban, Sekai Touha, Walk Dancer, Yamano Thousand, Spring Thing, Face No More, Romance Bubbly, Fuyuno Nakasumi, Massive Viking, Top Shunbetsu, Long Live Free.
-
-Human/trainer/media: Yuichi Iwao, Igawa, Tadashi Kouchi, Yaeno Muteki's Trainer/Shihandai, Frank McMonahan, Ryuko Yusuhara, Taro Yusuhara, **Ai-chan**.
+- **Biko Pegasus** — bị cast-table baseline bỏ sót nhưng xuất hiện trong Umayon tập 8.
+- **Nakayama Festa** — xuất hiện trong Umayuru tập 20 và cameo Season 3.
+- **Ai-chan** — named civilian ở Cinderella Gray tập 10.
+- Cùng các racer/trainer CG được ghi trong `ANIMATION_NAME_AUDIT.md`.
 
 ## Quy tắc độ phủ
 
