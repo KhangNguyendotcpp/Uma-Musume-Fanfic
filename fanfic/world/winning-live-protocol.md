@@ -1,13 +1,13 @@
-# Fanfic Winning Live Protocol
+# Quy trình Winning Live của Fanfic
 
-**Origin:** ORIGINAL operational convention built around the franchise's established Winning Live culture.
+**Nguồn gốc:** quy ước vận hành ORIGINAL xây trên văn hóa Winning Live đã được franchise thiết lập.
 
-For major race days, use this writing clock unless a chapter overrides it:
-- 16:30 awards/media;
-- 17:30 Live rehearsal/sound check;
+Với ngày có major race, dùng đồng hồ viết này trừ khi chapter ghi đè:
+- 16:30 trao giải/truyền thông;
+- 17:30 rehearsal/sound check Live;
 - 19:00 Winning Live;
-- 20:15 team debrief/recovery.
+- 20:15 họp team/recovery.
 
-An injured racer can be medically excused or have stage activity reduced. Exact performer/center/song selection should follow the event/source when known; otherwise mark it TBD before writing.
+Racer bị thương có thể được miễn vì y tế hoặc giảm hoạt động sân khấu. Người biểu diễn/center/bài hát chính xác nên theo event/nguồn khi biết; nếu chưa biết thì đánh dấu TBD trước khi viết.
 
-This file exists to keep time-of-day continuity stable, not to claim Cygames published these clock times.
+File này tồn tại để giữ continuity thời gian trong ngày ổn định, không phải để tuyên bố Cygames đã công bố các giờ này.

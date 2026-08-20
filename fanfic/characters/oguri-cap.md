@@ -1,8 +1,8 @@
-# Oguri Cap — Fanfic State
+# Oguri Cap — Trạng thái trong Fanfic
 
-- **2025:** Kasamatsu-to-Central/Tracen transfer generation is compressed into this year.
-- **2026:** remains an active young Tracen racer/student rather than being aged according to the real horse's 1980s chronology.
-- **Exact age / division in April 2026:** TBD; working range ~17–18 only, not canon.
-- **Cinderella Gray events:** adopted selectively; chronology is overridden by the synthetic 2025 placement.
+- **2025:** thế hệ chuyển từ Kasamatsu lên Central/Tracen được nén vào năm này.
+- **2026:** vẫn là một racer/sinh viên Tracen trẻ đang active, thay vì bị tính tuổi theo chronology ngựa thật thập niên 1980.
+- **Tuổi / division chính xác tháng 04/2026:** TBD; khoảng làm việc ~17–18 chỉ là tham chiếu, chưa canon.
+- **Sự kiện Cinderella Gray:** áp dụng có chọn lọc; chronology được override bằng placement tổng hợp vào 2025.
 
-Official baseline is stored under `official/characters/`.
+Baseline chính thức nằm trong `official/characters/`.

@@ -1,11 +1,11 @@
-# INTERNAL — Equinox Writing Guide
+# INTERNAL — Hướng dẫn viết Equinox
 
-OU identity/history/metaphysics remain authoritative in `KhangNguyendotcpp/original-universe-canon`.
+Danh tính/lịch sử/siêu hình học OU vẫn do `KhangNguyendotcpp/original-universe-canon` quyết định.
 
-Local story function: adult Uma trainer/staff, not racer; institutional counterweight to Haise/Takiyama and to student leadership.
+Chức năng trong truyện địa phương: Uma trưởng thành làm trainer/staff, không phải racer; đối trọng thể chế với Haise/Takiyama và ban lãnh đạo học sinh.
 
-Baseline personality: sleepy/goofy presentation with very high capability; do not let cosmological ability solve ordinary racing/school stakes automatically.
+Tính cách baseline: vẻ ngoài buồn ngủ/ngơ ngác nhưng năng lực cực cao; không để năng lực vũ trụ tự động giải mọi stakes racing/trường học thông thường.
 
-Eye-mode characterization is a genuine behavioral presentation rule, not a cheap power-level indicator. Both-open remains intentionally underdefined.
+Characterization theo trạng thái mắt là quy tắc hành vi thật, không phải chỉ báo power level rẻ tiền. Trạng thái mở cả hai mắt cố ý chưa được định nghĩa sâu.
 
-Equinox can formally correct/discipline Rudolf because Rudolf is still a student under the fanfic Tracen University/Central Council model. Avoid infantilizing adult University students; staff authority is institutional, not parental.
+Equinox có thể chính thức chỉnh/kỷ luật Rudolf vì Rudolf vẫn là sinh viên theo mô hình Tracen University/Central Council của fanfic. Tránh infantilize sinh viên University đã trưởng thành; quyền staff là quyền thể chế, không phải quyền phụ huynh.

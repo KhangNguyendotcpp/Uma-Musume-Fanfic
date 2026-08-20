@@ -1,11 +1,11 @@
-# Fanfic Education Model
+# Mô hình giáo dục Fanfic
 
-**Status:** ORIGINAL operational scaffold.
+**Trạng thái:** scaffold vận hành `ORIGINAL`.
 
-Academic year begins in early April; classroom study coexists with afternoon athletic training. The exact daily clock and exam blocks are in `fanfic/calendar/WRITING_SCHEDULE_2026_2029.md`.
+Năm học bắt đầu đầu tháng 4; học văn hóa trong lớp tồn tại song song với training thể thao buổi chiều. Đồng hồ ngày thường và các block thi chính xác nằm trong `fanfic/calendar/WRITING_SCHEDULE_2026_2029.md`.
 
-Senior students must complete normal cultural/academic requirements in addition to racing/training obligations. Race travel can trigger authorized make-up exams; it does not erase academic requirements.
+Học sinh Senior phải hoàn thành yêu cầu văn hóa/học thuật bình thường bên cạnh nghĩa vụ racing/training. Đi thi đấu có thể kích hoạt kỳ thi bù được cấp phép; không xóa nghĩa vụ học tập.
 
-University Division is a legitimate higher-education division. Degree catalogue is TBD; do not invent Rudolf's exact major until approved.
+University Division là division giáo dục đại học chính quy. Danh mục ngành vẫn TBD; không tự bịa chuyên ngành chính xác của Rudolf trước khi được duyệt.
 
-Equinox is permanent professional staff/trainer with faculty-equivalent student authority. Exact academic subject/title is TBD; `History teacher` remains only a DRAFT proposal.
+Equinox là staff/trainer chuyên nghiệp thường trực với quyền quản lý học sinh tương đương faculty. Môn/chức danh học thuật chính xác vẫn TBD; `giáo viên Lịch sử` chỉ là đề xuất DRAFT.

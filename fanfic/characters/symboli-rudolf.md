@@ -1,12 +1,12 @@
-# Symboli Rudolf — Fanfic State
+# Symboli Rudolf — Trạng thái trong Fanfic
 
-This file records fanfic state, not her official profile.
+File này ghi trạng thái fanfic, không phải profile chính thức của cô.
 
-- **Fanfic date anchor:** 2026-04
-- **Age:** approximately 18 — ORIGINAL / APPROVED, not LOCKED
-- **Education:** Tracen University Division, Year 1 — ORIGINAL / APPROVED
-- **Role:** President, Tracen Central Student Council — official presidency adapted into fanfic structure
-- **Racing status:** active unless prose establishes otherwise
-- **Staff relationship:** despite her authority and reputation, Rudolf remains a Tracen student; authorized faculty/staff such as Equinox can formally instruct or discipline her.
+- **Mốc thời gian fanfic:** 2026-04
+- **Tuổi:** khoảng 18 — ORIGINAL / APPROVED, chưa LOCKED
+- **Giáo dục:** Tracen University Division, Year 1 — ORIGINAL / APPROVED
+- **Vai trò:** Chủ tịch Tracen Central Student Council — chức chủ tịch chính thức được chuyển vào cấu trúc fanfic
+- **Tình trạng thi đấu:** active trừ khi prose xác lập khác
+- **Quan hệ với staff:** dù có quyền lực và danh tiếng, Rudolf vẫn là sinh viên Tracen; faculty/staff có thẩm quyền như Equinox có thể chính thức hướng dẫn hoặc kỷ luật cô.
 
-Official source baseline is stored under `official/characters/`.
+Baseline nguồn chính thức nằm trong `official/characters/`.

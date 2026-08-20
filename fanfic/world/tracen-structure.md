@@ -1,20 +1,20 @@
-# Fanfic Tracen Structure
+# Cấu trúc Tracen trong Fanfic
 
-**Origin:** `ORIGINAL_EXTENSION`; **status:** `APPROVED` unless noted.
+**Nguồn gốc:** `ORIGINAL_EXTENSION`; **trạng thái:** `APPROVED` trừ khi ghi khác.
 
-Tracen is treated as one national elite education/racing umbrella institution in Fuchu with:
+Tracen được xem là một hệ thống giáo dục/racing tinh hoa cấp quốc gia đặt tại Fuchu, gồm:
 
-1. **Junior Division** — lower secondary-equivalent education and developmental racing.
-2. **Senior Division** — upper secondary-equivalent education; Haise/Takiyama enter here as Year 1 students.
-3. **University Division** — legitimate four-year higher-education division for adult students/racers.
-4. **Professional / postgraduate training facilities** — racing, coaching, sports science and continuing professional work; exact degree/status rules TBD.
-5. **Central Student Council** — cross-divisional student representation for Senior + University students.
+1. **Junior Division** — giáo dục tương đương trung học cơ sở và racing phát triển.
+2. **Senior Division** — giáo dục tương đương trung học phổ thông; Haise/Takiyama nhập vào đây với tư cách Year 1.
+3. **University Division** — division đại học chính quy 4 năm cho sinh viên/racer trưởng thành.
+4. **Cơ sở đào tạo chuyên nghiệp / sau đại học** — racing, coaching, sports science và công việc chuyên môn tiếp tục; quy tắc bằng cấp/trạng thái cụ thể còn TBD.
+5. **Central Student Council** — cơ quan đại diện sinh viên liên division cho Senior + University.
 
-## Why this override exists
-Official sources keep many generations co-present and do not provide a legal/educational model sufficient for the fic's explicit years. The University Division lets Rudolf remain an enrolled student leader in 2026 without making her an uncredentialed adult informally running school business.
+## Vì sao override này tồn tại
+Nguồn chính thức giữ nhiều thế hệ cùng tồn tại và không đưa ra mô hình pháp lý/giáo dục đủ dùng cho những năm cụ thể của fic. University Division cho phép Rudolf tiếp tục là một student leader đang theo học vào 2026 mà không biến cô thành người trưởng thành không có tư cách học thuật nhưng lại điều hành công việc trường.
 
-## Rudolf baseline
-April 2026: approximately 18, University Year 1, Central Student Council President. `ORIGINAL / APPROVED`, not LOCKED.
+## Baseline Rudolf
+Tháng 4/2026: khoảng 18 tuổi, University Year 1, Chủ tịch Central Student Council. `ORIGINAL / APPROVED`, chưa LOCKED.
 
-## Staff authority
-Faculty/trainers can supervise and discipline students according to role. Equinox therefore retains legitimate staff authority over Rudolf even though Rudolf is an adult University student and a powerful student leader. Exact disciplinary hierarchy remains TBD.
+## Quyền staff
+Faculty/trainer có thể giám sát và kỷ luật sinh viên theo vai trò. Vì vậy Equinox vẫn có quyền staff hợp lệ đối với Rudolf dù Rudolf là sinh viên University trưởng thành và là student leader rất quyền lực. Thứ bậc kỷ luật chính xác còn TBD.

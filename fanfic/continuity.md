@@ -1,17 +1,17 @@
-# Fanfic Continuity
+# Continuity Fanfic
 
-## Core chronological model
+## Mô hình chronology cốt lõi
 
-- 2025: compressed Cinderella Gray-compatible prior-generation block.
-- 2026: Special Week/TV-S1-derived opening; Equinox already becomes staff shortly before opening; Haise and Takiyama arrive separately after Special Week's introduction; RTTT-compatible Classic events may run in parallel.
-- 2027: Haise/Takiyama Classic year; TV-S2/BOANE-derived characters/events are available as source anchors without forcing historical horse years.
-- 2028: Haise/Takiyama Senior/Open year; S3/Kitasan generation material can become prominent.
-- 2029: graduation/transition point and fully divergent future.
+- 2025: block thế hệ trước tương thích Cinderella Gray được nén lại.
+- 2026: mở đầu dựa trên Special Week/TV-S1; Equinox đã trở thành staff ngay trước khai giảng; Haise và Takiyama đến riêng biệt sau phần giới thiệu của Special Week; các sự kiện Classic tương thích RTTT có thể chạy song song.
+- 2027: Classic Year của Haise/Takiyama; nhân vật/sự kiện từ TV-S2/BOANE có thể dùng làm source anchor mà không ép theo năm lịch sử của ngựa thật.
+- 2028: Senior/Open Year của Haise/Takiyama; material thế hệ S3/Kitasan có thể nổi bật.
+- 2029: điểm tốt nghiệp/chuyển tiếp và tương lai divergence hoàn toàn.
 
-## Butterfly rule
+## Quy tắc butterfly
 
-Official-source outcomes are a forecast only until the fic reaches them. As Haise/Takiyama/Equinox alter events, source knowledge becomes less reliable. Already-written fanfic events outrank unused source outcomes.
+Kết quả từ nguồn chính thức chỉ là dự báo cho đến khi fic thực sự chạm tới nó. Khi Haise/Takiyama/Equinox thay đổi sự kiện, độ tin cậy của kiến thức nguồn giảm dần. Sự kiện fanfic đã được viết có ưu tiên cao hơn kết quả nguồn chưa dùng.
 
-## Age rule
+## Quy tắc tuổi
 
-Do not derive character ages from real horses. The fanfic's Tracen includes a legitimate University Division, allowing older student leaders/racers such as Rudolf to remain enrolled without an educational/legal absurdity.
+Không suy tuổi nhân vật từ ngựa thật. Tracen của fanfic có University Division chính quy, cho phép các student leader/racer lớn tuổi hơn như Rudolf tiếp tục là sinh viên hợp pháp mà không tạo nghịch lý giáo dục/pháp lý.

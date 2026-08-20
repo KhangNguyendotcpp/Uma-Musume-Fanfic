@@ -1,39 +1,39 @@
-# Unresolved Decisions
+# Các quyết định chưa giải quyết
 
-Nothing in this file is canon merely because it is listed.
+Không có thứ gì trong file này trở thành canon chỉ vì nó được liệt kê ở đây.
 
 ## Haise Kimegaya
-- Exact birthday: TBD
-- Exact fake age on entry (15 or 16): TBD
-- Weight/measurements: TBD
-- Ear design: TBD
-- Tail design: TBD
+- Ngày sinh chính xác: TBD
+- Tuổi giả chính xác khi nhập học (15 hay 16): TBD
+- Cân nặng/số đo: TBD
+- Thiết kế tai: TBD
+- Thiết kế đuôi: TBD
 - Race outfit: TBD
-- Dorm/roommate/class: TBD
-- Exact hometown: `Aomori / Tsugaru` is a DRAFT based on accent, not LOCKED
-- Exact distance/style aptitude ranks: TBD
-- Broken concentric target-ring iris motif: DRAFT, not LOCKED
-- Exact first official race/result: TBD until story/calendar is approved
+- Ký túc xá/bạn cùng phòng/lớp: TBD
+- Quê chính xác: `Aomori / Tsugaru` là DRAFT dựa trên accent, chưa LOCKED
+- Rank aptitude khoảng cách/phong cách chính xác: TBD
+- Motif mống mắt vòng target đồng tâm bị khuyết: DRAFT, chưa LOCKED
+- Race chính thức đầu tiên/kết quả: TBD cho đến khi story/calendar được duyệt
 
 ## Takiyama Shizurawa
-- Exact birthday/fake age/weight/measurements: TBD
-- Ear/tail/race outfit: TBD
-- Dorm/roommate/class: TBD
-- Exact hometown: `Osaka / Kansai` is a DRAFT based on accent, not LOCKED
-- Exact aptitude ranks: TBD
-- Fine asymmetric fracture-line iris motif: DRAFT, not LOCKED
-- Exact first official race/result: TBD
+- Ngày sinh/tuổi giả/cân nặng/số đo chính xác: TBD
+- Tai/đuôi/race outfit: TBD
+- Ký túc xá/bạn cùng phòng/lớp: TBD
+- Quê chính xác: `Osaka / Kansai` là DRAFT dựa trên accent, chưa LOCKED
+- Rank aptitude chính xác: TBD
+- Motif mống mắt các đường nứt bất đối xứng mảnh: DRAFT, chưa LOCKED
+- Race chính thức đầu tiên/kết quả: TBD
 
 ## Equinox
-- Fake age 27: APPROVED baseline, not LOCKED
-- Exact trainer/faculty title: TBD
-- Whether she teaches a normal academic subject: TBD
-- History as her teaching subject: DRAFT only
-- Team ownership/roster: TBD
+- Tuổi giả 27: baseline APPROVED, chưa LOCKED
+- Chức danh trainer/faculty chính xác: TBD
+- Có dạy môn văn hóa bình thường hay không: TBD
+- Lịch sử là môn giảng dạy: chỉ DRAFT
+- Quyền sở hữu team/roster: TBD
 
-## Institution / cast
-- Rudolf exact birthday-year/age: fanfic baseline ~18 in Apr 2026; not LOCKED
-- Oguri exact fanfic age/year: TBD
-- Exact University Division degree catalogue: TBD
-- Exact trainer medical-veto workflow: TBD after further source audit
-- Exact mapping of every official arc to the synthetic timeline: APPROVED framework, individual outcomes can diverge
+## Thể chế / cast
+- Năm sinh/tuổi chính xác của Rudolf: baseline fanfic ~18 vào 04/2026; chưa LOCKED
+- Tuổi/năm học fanfic chính xác của Oguri: TBD
+- Danh mục ngành học cụ thể của University Division: TBD
+- Quy trình trainer/y tế veto race chính xác: TBD sau khi audit nguồn sâu hơn
+- Mapping chính xác mọi official arc vào synthetic timeline: framework APPROVED, kết quả riêng lẻ có thể divergence

@@ -1,40 +1,40 @@
-# Repository Rules
+# Quy tắc Repo
 
-## Separation rule
+## Quy tắc phân tách
 
-- `official/` answers: **What does the franchise/source say?**
-- `fanfic/` answers: **What is true in this story?**
-- `drafts/` answers: **What are we considering?**
+- `official/` trả lời: **Franchise/nguồn thực sự nói gì?**
+- `fanfic/` trả lời: **Trong truyện này điều gì là sự thật?**
+- `drafts/` trả lời: **Chúng ta đang cân nhắc điều gì?**
 
-Do not put fanfic repairs into `official/` and do not present an official-source detail as adopted fanfic canon unless it is explicitly adopted.
+Không đưa phần vá/giải thích của fanfic vào `official/`, và không trình bày một chi tiết từ nguồn chính thức như canon fanfic đã được áp dụng nếu chưa có quyết định `ADOPTED` rõ ràng.
 
-## Evidence rule
+## Quy tắc bằng chứng
 
-Every important official fact must identify its source continuity and a source URL, episode, chapter or source file. If the source is silent, write `UNSPECIFIED`; do not infer from the real horse.
+Mọi thông tin chính thức quan trọng phải xác định continuity nguồn và URL/tập/chương/file nguồn. Nếu nguồn im lặng, ghi `UNSPECIFIED`; không suy ra từ ngựa thật.
 
-## Override rule
+## Quy tắc override
 
-Every deliberate fanfic override or extension should record:
+Mỗi chỉnh sửa hoặc phần mở rộng fanfic có chủ đích nên ghi:
 
-- official/source state;
-- fanfic state;
-- status (`OVERRIDDEN` or `ORIGINAL`);
-- reason.
+- trạng thái của nguồn/chính thức;
+- trạng thái trong fanfic;
+- status (`OVERRIDDEN` hoặc `ORIGINAL`);
+- lý do.
 
-## Haise/Takiyama profile rule — HARD
+## Quy tắc profile Haise/Takiyama — HARD
 
-`fanfic/characters/haise-kimegaya.md` and `fanfic/characters/takiyama-shizurawa.md` must read like standard Uma Musume character profiles. They must **not** become crossover dossiers.
+`fanfic/characters/haise-kimegaya.md` và `fanfic/characters/takiyama-shizurawa.md` phải đọc giống profile nhân vật Uma Musume tiêu chuẩn. Chúng **không được** biến thành dossier crossover.
 
-Their OU origin, old combat history, combat-to-racing cognitive translation, meta-knowledge asymmetry, psychological severity calibration, power bottlenecks and OOC guardrails belong only in `fanfic/internal-character-notes/` and/or the linked OU repository.
+Nguồn gốc OU, lịch sử chiến đấu cũ, cách tư duy chiến đấu chuyển sang đua, bất đối xứng meta-knowledge, hiệu chuẩn mức độ tâm lý, giới hạn sức mạnh và guardrail chống OOC chỉ được đặt trong `fanfic/internal-character-notes/` và/hoặc repo OU liên kết.
 
-## Unknowns
+## Thông tin chưa biết
 
-A `DRAFT`, `TBD`, `UNSPECIFIED` or `NOT_YET_NORMALIZED` value must never be upgraded to `APPROVED`/`LOCKED` merely because it is convenient for prose.
+Một giá trị `DRAFT`, `TBD`, `UNSPECIFIED` hoặc `NOT_YET_NORMALIZED` tuyệt đối không được nâng lên `APPROVED`/`LOCKED` chỉ vì thuận tiện cho prose.
 
-## Timeline rule
+## Quy tắc timeline
 
-The explicit 2025–2029 dates are a fanfic chronology. Where official adaptations do not provide Gregorian dates, the dates here are **ORIGINAL chronology assignments**, not claims about official canon.
+Các mốc ngày tháng cụ thể 2025–2029 là chronology của fanfic. Nếu adaptation chính thức không cung cấp ngày dương lịch, ngày trong repo là **mốc chronology `ORIGINAL`**, không phải tuyên bố về canon chính thức.
 
-## Character coverage rule
+## Quy tắc độ phủ nhân vật
 
-Target coverage: every named/credited character who appears in the animation corpus in scope (TV S1–S3, 1st Anniversary animation, RTTT, Beginning of a New Era, Umayon, Umayuru, Cinderella Gray). Generic unnamed roles are excluded unless a stable canonical name is discovered. New named on-screen discoveries must be added to `official/characters/INDEX.md` and receive a profile.
+Mục tiêu: mọi nhân vật có tên/được credit xuất hiện trong corpus animation thuộc phạm vi (TV S1–S3, animation kỷ niệm 1 năm, RTTT, Beginning of a New Era, Umayon, Umayuru, Cinderella Gray). Vai nền không tên bị loại trừ trừ khi tìm được tên canon ổn định. Bất kỳ nhân vật mới nào được gọi tên trên màn ảnh phải được thêm vào `official/characters/INDEX.md` và có profile.

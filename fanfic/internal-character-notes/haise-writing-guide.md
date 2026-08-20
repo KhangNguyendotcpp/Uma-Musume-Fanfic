@@ -1,33 +1,33 @@
-# INTERNAL — Haise Writing Guide
+# INTERNAL — Hướng dẫn viết Haise
 
-**Do not copy this material into Haise's standard Uma profile.** For pre-Uma identity/history/personality, `KhangNguyendotcpp/original-universe-canon` is authoritative.
+**Không sao chép nội dung này vào profile Uma tiêu chuẩn của Haise.** Đối với danh tính/lịch sử/tính cách trước Uma, `KhangNguyendotcpp/original-universe-canon` là nguồn có thẩm quyền.
 
-## Identity continuity
-Haise is the same OU individual, not a native Uma with a mysterious lookalike backstory. Uma-world body/legal identity does not erase memory, worldview or lived experience.
+## Tính liên tục của danh tính
+Haise là cùng một cá nhân OU, không phải một Uma bản địa có quá khứ bí ẩn giống hệt ai đó. Cơ thể/danh tính pháp lý trong thế giới Uma không xóa ký ức, worldview hay trải nghiệm sống.
 
 ## Meta-knowledge
-- Deeply played the Uma Musume game and researched game lore/information.
-- Never watched the anime and never read the manga before arrival.
-- Knowledge reliability decays as fanfic divergence grows.
+- Đã chơi game Uma Musume cực sâu và nghiên cứu lore/thông tin game rất kỹ.
+- Chưa từng xem anime và chưa từng đọc manga trước khi xuất hiện ở đây.
+- Độ tin cậy kiến thức giảm khi divergence của fanfic tăng.
 
-## Combat-derived cognition → racing
-- Original combat style is dense continuous pressure, but calculated rather than berserk.
-- Reads/predicts nearly ten upcoming opponent actions in combat.
-- Racing translation: reads cadence, breathing, stride, fatigue, line, positioning and intent; manipulates pace/pressure so opponents drift into predicted choices.
-- This is race intelligence, **not supernatural precognition**.
-- Senko/pace-chaser classification is plausible but NOT LOCKED.
+## Tư duy từ chiến đấu → đua
+- Phong cách chiến đấu gốc là áp lực dày đặc, liên tục, nhưng được tính toán chứ không berserk.
+- Trong combat đọc/dự đoán gần mười hành động sắp tới của đối thủ.
+- Khi chuyển sang racing: đọc cadence, nhịp thở, stride, fatigue, line, vị trí và ý định; thao túng pace/pressure để đối thủ trượt vào các lựa chọn đã dự đoán.
+- Đây là race intelligence, **không phải precognition siêu nhiên**.
+- Classification Senko/pace chaser hợp lý nhưng CHƯA LOCKED.
 
-## Tell
-Haise normally smiles even under combat pressure. If the smile disappears and her face goes completely cold, the social/play layer has ended and she has committed to objective/finish processing.
+## Dấu hiệu
+Haise bình thường vẫn mỉm cười ngay cả khi chịu áp lực chiến đấu. Nếu nụ cười biến mất và gương mặt lạnh hoàn toàn, lớp xã hội/chơi đùa đã kết thúc và cô đã chuyển sang xử lý mục tiêu/finish thuần túy.
 
-## Loss calibration — HARD
-Ordinary race defeat matters but must not be written as an existential collapse. Plausible response: quieter, replay review, error analysis, training adjustment. Stronger breakdown needs stakes beyond simply finishing behind someone (harm to another person, catastrophic consequence, family/life threat, etc.).
+## Hiệu chuẩn phản ứng khi thua — HARD
+Một thất bại race bình thường có ý nghĩa nhưng không được viết thành sụp đổ hiện sinh. Phản ứng hợp lý: ít nói hơn, xem replay, phân tích lỗi, chỉnh training. Breakdown mạnh hơn phải có stakes vượt xa chuyện đơn giản là về sau người khác (gây hại cho ai đó, hậu quả thảm khốc, đe dọa gia đình/tính mạng...).
 
-## Power/body rule
-Cognition, memory and tactics remain. Local Uma-body/world constraints limit physical output and preserve racing stakes.
+## Quy tắc sức mạnh/cơ thể
+Nhận thức, ký ức và chiến thuật giữ nguyên. Giới hạn của cơ thể Uma/thế giới địa phương giới hạn output vật lý để giữ stakes của racing.
 
-## Common OOC errors
-- turning prediction into magic precognition;
-- making her rage randomly instead of calculate;
-- giving her a Teio/McQueen-style identity collapse solely because of a normal loss;
-- importing a DRAFT aptitude/eye motif as locked canon.
+## Lỗi OOC thường gặp
+- biến prediction thành precognition phép thuật;
+- cho cô nổi điên ngẫu nhiên thay vì tính toán;
+- cho cô sụp đổ bản sắc kiểu Teio/McQueen chỉ vì một trận thua bình thường;
+- biến aptitude/motif mắt đang DRAFT thành canon LOCKED.

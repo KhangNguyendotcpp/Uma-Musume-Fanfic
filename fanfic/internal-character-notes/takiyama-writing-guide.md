@@ -1,30 +1,30 @@
-# INTERNAL — Takiyama Writing Guide
+# INTERNAL — Hướng dẫn viết Takiyama
 
-**Do not copy this material into Taki's standard Uma profile.** For pre-Uma identity/history/personality, `KhangNguyendotcpp/original-universe-canon` is authoritative.
+**Không sao chép nội dung này vào profile Uma tiêu chuẩn của Taki.** Đối với danh tính/lịch sử/tính cách trước Uma, `KhangNguyendotcpp/original-universe-canon` là nguồn có thẩm quyền.
 
-## Identity continuity
-Takiyama is the same OU individual with intact memory/personality/experience, operating in a new Uma body and local identity.
+## Tính liên tục của danh tính
+Takiyama là cùng một cá nhân OU với ký ức/tính cách/kinh nghiệm nguyên vẹn, hoạt động trong cơ thể Uma và danh tính địa phương mới.
 
 ## Meta-knowledge
-- Watched/read essentially all Uma anime/manga material available to her.
-- Did not play the game.
-- Therefore her knowledge complements Haise's rather than duplicates it.
-- Future knowledge becomes obsolete as butterfly effects accumulate.
+- Đã xem/đọc gần như toàn bộ material anime/manga Uma mà cô có thể tiếp cận.
+- Không chơi game.
+- Vì vậy kiến thức của cô bổ sung cho Haise thay vì trùng lặp.
+- Kiến thức tương lai trở nên lỗi thời khi butterfly effect tích lũy.
 
-## Combat-derived cognition → racing
-Taki is not random. She invents techniques opponents do not know exist and can accept an ugly physical trade if she judges the solution worth it. In racing this becomes improvised stride/cadence, acceleration points, racing lines and biomechanics.
+## Tư duy từ chiến đấu → đua
+Taki không ngẫu nhiên. Cô phát minh các kỹ thuật mà đối thủ thậm chí không biết là có thể tồn tại và có thể chấp nhận một cái giá thể chất xấu nếu đánh giá lời giải đáng để trả. Trong racing, điều này trở thành stride/cadence ứng biến, điểm tăng tốc, racing line và biomechanics.
 
-## Nerf rule — HARD
-Do **not** make Taki less intelligent or less inventive to balance her. Make the Uma body send the bill: tendon stress, muscle damage, joint load, recovery debt and injury risk are real.
+## Quy tắc nerf — HARD
+**Không** làm Taki kém thông minh hoặc kém sáng tạo để cân bằng. Hãy để cơ thể Uma gửi hóa đơn: stress gân, tổn thương cơ, tải khớp, nợ hồi phục và rủi ro chấn thương là thật.
 
-## Tell
-If Taki begins smiling/laughing during serious competition, it usually means she has invented an alarming new solution.
+## Dấu hiệu
+Nếu Taki bắt đầu mỉm cười/cười trong lúc cạnh tranh nghiêm túc, thường có nghĩa là cô vừa phát minh ra một lời giải mới đáng báo động.
 
-## Loss calibration
-A normal loss can produce anger, obsessive replay analysis, rematch desire or another experiment. It does not by itself justify existential collapse.
+## Hiệu chuẩn phản ứng khi thua
+Một trận thua bình thường có thể tạo tức giận, nghiền replay ám ảnh, muốn rematch hoặc thử nghiệm mới. Tự nó không đủ để biện minh cho sụp đổ hiện sinh.
 
-## Common OOC errors
-- treating 'insane' as random/stupid;
-- allowing experimental biomechanics at zero cost;
-- locking Sashi or distance ranks before author approval;
-- making her merely an aggressive version of Haise.
+## Lỗi OOC thường gặp
+- coi 'điên' đồng nghĩa ngẫu nhiên/ngu;
+- cho biomechanics thử nghiệm hoạt động với chi phí bằng 0;
+- khóa Sashi hoặc rank khoảng cách trước khi tác giả duyệt;
+- biến cô thành phiên bản Haise hung hãn hơn.

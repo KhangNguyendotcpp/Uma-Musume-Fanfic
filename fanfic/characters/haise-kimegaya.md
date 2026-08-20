@@ -1,55 +1,55 @@
 # Haise Kimegaya
 
-> Standard Uma Musume profile. Deep writer-only background is intentionally excluded; see `fanfic/internal-character-notes/haise-writing-guide.md`.
+> Profile Uma Musume tiêu chuẩn. Bối cảnh sâu chỉ dành cho người viết được cố ý loại khỏi đây; xem `fanfic/internal-character-notes/haise-writing-guide.md`.
 
-## Basic Profile
-- **Name:** Haise Kimegaya
-- **Japanese-order name:** Kimegaya Haise
-- **Nickname:** Haise
-- **Birthday:** TBD
-- **Height:** **182 cm** — ORIGINAL / LOCKED
-- **Weight:** TBD
-- **Measurements:** TBD
-- **Hometown:** TBD (`Aomori / Tsugaru` is DRAFT, not canon)
-- **School:** Tracen Academy
+## Hồ sơ cơ bản
+- **Tên:** Haise Kimegaya
+- **Tên theo thứ tự Nhật:** Kimegaya Haise
+- **Biệt danh:** Haise
+- **Ngày sinh:** TBD
+- **Chiều cao:** **182 cm** — ORIGINAL / LOCKED
+- **Cân nặng:** TBD
+- **Số đo:** TBD
+- **Quê quán:** TBD (`Aomori / Tsugaru` là DRAFT, chưa phải canon)
+- **Trường:** Tracen Academy
 - **Division:** Senior Division
-- **Year:** Year 1 at entry
-- **Class:** TBD
-- **Dorm / roommate:** TBD
+- **Năm học:** Year 1 khi nhập học
+- **Lớp:** TBD
+- **Ký túc xá / bạn cùng phòng:** TBD
 
-## Introduction
-A very tall first-year Uma with an unusually ordinary Japanese-style personal name. Calmly observant in competition and difficult to shake once she has settled into a rhythm. Her exact public tagline and formal self-introduction are TBD.
+## Giới thiệu
+Một Uma năm nhất rất cao với cái tên mang cấu trúc giống tên người Nhật bình thường một cách khá khác lạ. Trong thi đấu cô quan sát bình tĩnh và rất khó bị lay chuyển một khi đã bắt được nhịp. Tagline công khai và lời tự giới thiệu chính thức vẫn TBD.
 
-## Appearance
-- **Hair:** white; waist-length in Uma form — LOCKED
-- **Eyes:** normal white sclera; left iris red, right iris extremely dark/nearly black — LOCKED baseline
-- **Eye pattern:** broken concentric target-ring motif — DRAFT only
-- **Ears / tail:** TBD
-- **School wear:** normal Tracen uniform — LOCKED baseline
+## Ngoại hình
+- **Tóc:** trắng; dài tới eo trong dạng Uma — LOCKED
+- **Mắt:** củng mạc trắng bình thường; mống mắt trái đỏ, mống mắt phải cực tối/gần đen — baseline LOCKED
+- **Hoa văn mắt:** motif các vòng target đồng tâm bị khuyết — chỉ DRAFT
+- **Tai / đuôi:** TBD
+- **Trang phục ở trường:** đồng phục Tracen bình thường — baseline LOCKED
 - **Race outfit:** TBD
 
-## Personality
-- **Public profile:** composed, observant, competitive without treating every race result as existential.
-- **Likes / dislikes / hobbies:** TBD for standard Uma profile.
-- **Special skills:** exceptional observation and race-reading.
-- **Weaknesses:** exact public-facing weaknesses TBD.
+## Tính cách
+- **Hình ảnh công khai:** điềm tĩnh, quan sát kỹ, cạnh tranh nhưng không xem mọi kết quả race như vấn đề tồn vong.
+- **Thích / ghét / sở thích:** TBD cho profile Uma tiêu chuẩn.
+- **Kỹ năng đặc biệt:** quan sát và đọc race đặc biệt xuất sắc.
+- **Điểm yếu:** điểm yếu công khai chính xác còn TBD.
 
-## Racing Profile
-- **Surface:** TBD
+## Hồ sơ đua
+- **Mặt sân:** TBD
 - **Sprint / Mile / Medium / Long:** TBD
-- **Preferred style:** pace-control / pressure-oriented; exact official-style classification TBD
-- **Strengths:** field reading, rhythm/cadence observation, tactical prediction, pace manipulation
-- **Weaknesses:** TBD through actual races
-- **Signature behavior:** becomes visibly colder and more minimal when she has fully committed to a finishing plan
+- **Phong cách ưa thích:** kiểm soát pace / tạo áp lực; classification kiểu official chính xác còn TBD
+- **Điểm mạnh:** đọc field, quan sát rhythm/cadence, dự đoán chiến thuật, thao túng pace
+- **Điểm yếu:** TBD qua các race thực tế
+- **Hành vi đặc trưng:** trở nên lạnh và tối giản thấy rõ khi đã khóa hoàn toàn kế hoạch finish
 
-## Goals
-- **Dream:** TBD
-- **Current racing goal:** establish a real record in this world's racing system rather than live on prior assumptions.
+## Mục tiêu
+- **Ước mơ:** TBD
+- **Mục tiêu đua hiện tại:** xây dựng thành tích thật trong hệ thống thi đấu của thế giới này thay vì sống dựa trên giả định cũ.
 
-## Relationships
-- **Equinox:** local trainer/staff relationship details TBD
-- **Takiyama:** pre-existing close relationship; public/local framing TBD
-- **Special Week and other Tracen cast:** develops in prose
+## Quan hệ
+- **Equinox:** chi tiết quan hệ trainer/staff tại chỗ TBD
+- **Takiyama:** quan hệ thân thiết có từ trước; cách thể hiện công khai/tại chỗ TBD
+- **Special Week và cast Tracen khác:** phát triển trong prose
 
-## Race Record
-No finish result is canon until written/approved. See `fanfic/timeline/CANON_TIMELINE_2025_2029.md` for planned entries.
+## Thành tích thi đấu
+Không có kết quả finish nào là canon cho đến khi được viết/duyệt. Xem `fanfic/timeline/CANON_TIMELINE_2025_2029.md` để biết các entry dự kiến.

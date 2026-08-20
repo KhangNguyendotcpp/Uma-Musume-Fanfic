@@ -1,10 +1,10 @@
-UMA MUSUME FANFIC — RESEARCH SOURCE OF TRUTH
-Last research pass: 2026-08-21
+UMA MUSUME FANFIC — NGUỒN SỰ THẬT NGHIÊN CỨU
+Lần research gần nhất: 2026-08-21
 
-This file lists sources actually used to construct or verify this repository. Presence here does not mean every statement on a community source is automatically adopted canon.
+File này liệt kê các nguồn đã thực sự được dùng để xây dựng hoặc kiểm chứng repo. Việc một nguồn cộng đồng xuất hiện ở đây không có nghĩa mọi câu trên nguồn đó tự động trở thành canon được áp dụng.
 
-=== USER-PROVIDED GOOGLE DRIVE CORPUS ===
-Root corpus:
+=== CORPUS GOOGLE DRIVE DO USER CUNG CẤP ===
+Corpus gốc:
 https://drive.google.com/drive/folders/1sMITSxdfeJK_9Oz_zQFCK8BV9Tn6T3pA?usp=drive_link
 
 Anime Season 1:
@@ -19,43 +19,43 @@ Beginning of a New Era:
 https://drive.google.com/file/d/1xZu0fgafNLgnJN5tMBMosehG9JgR4jU0/view?usp=drivesdk
 UmaYon:
 https://drive.google.com/drive/folders/1Y7_8mUAFR-A1GZVc9xIUM6NirWIx-wSq
-Umayuru corpus:
+Corpus Umayuru:
 https://drive.google.com/drive/folders/1cNRDu7kN0gqVGH5ckR5SibKLR8dN76Tb
-Umayuru SRT:
+SRT Umayuru:
 https://drive.google.com/drive/folders/1N2g26C8l6nR3_ctv4dcrY8AruK2ANEFV
-Other utility/dialogue corpus:
+Corpus utility/dialogue khác:
 https://drive.google.com/drive/folders/1kgwCuuy3sBtYIlb3-hR2GdH-uL7Lh0a6
-Other utility SRT:
+SRT utility khác:
 https://drive.google.com/drive/folders/1SCAdpqYYtVrpXX3OxKYqZXYLQYO6Okgd
-Cinderella Gray anime corpus:
+Corpus anime Cinderella Gray:
 https://drive.google.com/drive/folders/1wHY2cl9eK7UaxWccns9ZqMdeYsUC8-xl
-Umayuru ep.22 English subtitle specifically inspected (Special Week / Oguri / Matikanetannhauser):
+Phụ đề tiếng Anh Umayuru tập 22 đã được kiểm tra trực tiếp (Special Week / Oguri / Matikanetannhauser):
 https://drive.google.com/file/d/1eRLTBC5g46ArHrRnpF_B7AiE3SrD5Chs/view?usp=drivesdk
 
-=== OFFICIAL UMA MUSUME / ANIME SOURCES ===
-Official franchise character portal:
+=== NGUỒN UMA MUSUME / ANIME CHÍNH THỨC ===
+Portal nhân vật chính thức:
 https://umamusume.jp/character/
-Official S1 cast/staff:
+Cast/staff S1 chính thức:
 https://anime-umamusume.jp/archive/1st/caststaff/
-Official S2 cast/staff:
+Cast/staff S2 chính thức:
 https://anime-umamusume.jp/archive/2nd/caststaff/
-Official S2 cast news:
+Tin cast S2 chính thức:
 https://anime-umamusume.jp/archive/2nd/news/detail_675.html
-Official S3 character portal:
+Portal nhân vật S3 chính thức:
 https://anime-umamusume.jp/character/
-Official S3 cast/staff:
+Cast/staff S3 chính thức:
 https://anime-umamusume.jp/caststaff/
-Official Cinderella Gray characters:
+Nhân vật Cinderella Gray chính thức:
 https://anime-cinderellagray.com/character/
-Official Cinderella Gray staff/cast:
+Staff/cast Cinderella Gray chính thức:
 https://anime-cinderellagray.com/staffcast/
-Official Mei Satake profile (organization/worldbuilding cross-check):
+Profile Mei Satake chính thức (cross-check tổ chức/worldbuilding):
 https://umamusume.jp/character/satakemei
 
-=== COMMUNITY INDEX / CROSS-CONTINUITY NAVIGATION ===
-Master character index:
+=== INDEX CỘNG ĐỒNG / ĐIỀU HƯỚNG XUYÊN CONTINUITY ===
+Index nhân vật tổng:
 https://umamusu.wiki/List_of_Characters
-Human-character index:
+Index nhân vật người:
 https://umamusu.wiki/Category%3AHuman_Characters
 Season 1:
 https://umamusu.wiki/Season_1
@@ -67,16 +67,16 @@ ROAD TO THE TOP:
 https://umamusu.wiki/ROAD_TO_THE_TOP
 Beginning of a New Era:
 https://umamusu.wiki/Beginning_of_a_New_Era
-Cinderella Gray anime:
+Anime Cinderella Gray:
 https://umamusu.wiki/Cinderella_Gray_%28anime%29
 Umayuru:
 https://umamusu.wiki/Umayuru
-Umayon anime:
+Anime Umayon:
 https://umamusu.wiki/Umayon_%28Anime%29
 1st Anniversary Special Animation:
 https://umamusu.wiki/1st_Anniversary_Special_Animation
 
-=== HUMAN / STAFF PAGES USED ===
+=== TRANG HUMAN / STAFF ĐÃ DÙNG ===
 https://umamusu.wiki/Trainer
 https://umamusu.wiki/Hana_Toujou
 https://umamusu.wiki/Tazuna_Hayakawa
@@ -86,7 +86,7 @@ https://umamusu.wiki/Jo_Kitahara
 https://umamusu.wiki/Aoi_Kiryuin
 https://umamusu.wiki/Yayoi_Akikawa
 
-=== CORE CHARACTER PAGES USED ===
+=== TRANG NHÂN VẬT CỐT LÕI ĐÃ DÙNG ===
 https://umamusu.wiki/Special_Week
 https://umamusu.wiki/Silence_Suzuka
 https://umamusu.wiki/Gold_Ship
@@ -108,7 +108,7 @@ https://umamusu.wiki/Taiki_Shuttle
 https://umamusu.wiki/Hishi_Amazon
 https://umamusu.wiki/King_Halo
 
-=== WORLD / GAME REFERENCE USED ===
+=== THAM KHẢO WORLDBUILDING / GAME ĐÃ DÙNG ===
 https://umamusu.wiki/Game%3AURA_Finale
 https://umamusu.wiki/The_Twinkle_Legends
 https://umamusu.wiki/First_Big_Win
@@ -117,23 +117,23 @@ https://umamusu.wiki/Team_Rigil
 https://umamusu.wiki/Game%3ATokyo_Daishoten
 https://umamusu.wiki/Umapyoi_Densetsu
 
-=== REAL-WORLD JRA REFERENCE (REFERENCE ONLY, NOT UMA CANON) ===
-Official 2026 graded/special race schedule:
+=== THAM KHẢO JRA ĐỜI THẬT (CHỈ THAM KHẢO, KHÔNG PHẢI CANON UMA) ===
+Lịch graded/special race 2026 chính thức:
 https://www.jra.go.jp/keiba/tokubetsu/2026.html
-2026 G1 replay/index:
+Index/replay G1 2026:
 https://www.jra.go.jp/datafile/seiseki/replay/2026/g1.html
-2026 graded races:
+Các graded race 2026:
 https://www.jra.go.jp/datafile/seiseki/replay/2026/jyusyo.html
-Satsuki Sho reference:
+Tham khảo Satsuki Sho:
 https://www.jra.go.jp/keiba/g1/satsuki.html
 
-=== SECONDARY CAST CROSS-CHECKS (DO NOT OUTRANK OFFICIAL SOURCES) ===
+=== CROSS-CHECK CAST THỨ CẤP (KHÔNG ĐƯỢC VƯỢT NGUỒN CHÍNH THỨC) ===
 https://us.oricon-group.com/news/4555/
 https://www.crunchyroll.com/id/news/latest/2025/8/22/umamusume-cinderella-gray-anime-cour-2-october-5-new-trailer
 https://www.imdb.com/title/tt35437675/fullcredits/
 https://m.imdb.com/title/tt38615976/fullcredits/
 https://umamusume.fandom.com/wiki/Cinderella_Gray/Characters
 
-=== LINKED FANFIC SOURCE ===
-Original Universe canon:
+=== NGUỒN FANFIC LIÊN KẾT ===
+Canon Original Universe:
 https://github.com/KhangNguyendotcpp/original-universe-canon

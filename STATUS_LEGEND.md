@@ -1,31 +1,33 @@
-# Status Legend
+# Chú giải trạng thái
 
-## Origin / relation to source
+> Các token trạng thái được giữ bằng tiếng Anh để dùng nhất quán trong toàn repo.
 
-- `OFFICIAL` — explicitly supported by an official franchise source.
-- `ADOPTED` — official fact selected as true in the fanfic.
-- `OVERRIDDEN` — official/source treatment deliberately replaced for fanfic continuity.
-- `ORIGINAL` — fanfic-created fact/extension where official material is silent or intentionally not followed.
+## Nguồn gốc / quan hệ với nguồn
 
-## Maturity
+- `OFFICIAL` — được một nguồn franchise chính thức hỗ trợ trực tiếp.
+- `ADOPTED` — thông tin chính thức được chọn làm sự thật trong fanfic.
+- `OVERRIDDEN` — cách xử lý của nguồn/chính thức bị thay thế có chủ đích cho continuity fanfic.
+- `ORIGINAL` — thông tin/phần mở rộng do fanfic tạo ra khi nguồn chính thức im lặng hoặc cố ý không được làm theo.
 
-- `LOCKED` — do not change without an explicit author decision.
-- `APPROVED` — usable canon baseline, still revisable by the author.
-- `DRAFT` — proposal only; do not treat as fact in prose.
-- `TBD` — unresolved.
-- `SUPERSEDED` — replaced by a newer version; retained only for traceability.
-- `DEPRECATED` — explicitly discarded and must not be revived accidentally.
+## Mức độ chốt canon
 
-## Research state
+- `LOCKED` — không thay đổi nếu không có quyết định trực tiếp của tác giả.
+- `APPROVED` — baseline canon dùng được, nhưng tác giả vẫn có thể sửa.
+- `DRAFT` — chỉ là đề xuất; không được xem là fact trong prose.
+- `TBD` — chưa quyết định.
+- `SUPERSEDED` — đã bị phiên bản mới thay thế; chỉ giữ để truy vết.
+- `DEPRECATED` — đã bị loại bỏ rõ ràng và không được vô tình hồi sinh.
 
-- `FOUND` — source evidence located.
-- `UNSPECIFIED` — source does not state the field.
-- `CONFLICTING` — sources disagree or belong to incompatible continuities.
-- `NOT_APPLICABLE` — field does not apply.
-- `NOT_YET_NORMALIZED` — source/profile exists but the field has not yet been extracted into the standardized profile.
-- `NEEDS_FANFIC_DECISION` — official information is insufficient for the story and a deliberate story decision is required.
-- `FANFIC_LOCKED` — resolved and locked in fanfic canon.
+## Trạng thái nghiên cứu
 
-## Source-continuity tags
+- `FOUND` — đã tìm thấy bằng chứng nguồn.
+- `UNSPECIFIED` — nguồn không nói về trường dữ liệu này.
+- `CONFLICTING` — các nguồn bất đồng hoặc thuộc continuity không tương thích.
+- `NOT_APPLICABLE` — trường dữ liệu không áp dụng.
+- `NOT_YET_NORMALIZED` — nguồn/profile tồn tại nhưng dữ liệu chưa được bóc vào format chuẩn.
+- `NEEDS_FANFIC_DECISION` — thông tin chính thức không đủ cho truyện và cần một quyết định fanfic có chủ đích.
+- `FANFIC_LOCKED` — đã giải quyết và khóa trong canon fanfic.
+
+## Tag continuity nguồn
 
 `OFFICIAL_PROFILE`, `GAME`, `TV_S1`, `TV_S2`, `TV_S3`, `RTTT`, `BOANE`, `CINDERELLA_GRAY`, `UMAYURU`, `UMAYON`, `ANNIVERSARY_ANIMATION`, `OTHER_OFFICIAL`, `REAL_HORSE_REFERENCE`.

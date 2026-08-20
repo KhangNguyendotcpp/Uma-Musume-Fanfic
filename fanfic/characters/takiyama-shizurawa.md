@@ -1,51 +1,51 @@
 # Takiyama Shizurawa
 
-> Standard Uma Musume profile. Deep writer-only background is intentionally excluded; see `fanfic/internal-character-notes/takiyama-writing-guide.md`.
+> Profile Uma Musume tiêu chuẩn. Bối cảnh sâu chỉ dành cho người viết được cố ý loại khỏi đây; xem `fanfic/internal-character-notes/takiyama-writing-guide.md`.
 
-## Basic Profile
-- **Name:** Takiyama Shizurawa
-- **Japanese-order name:** Shizurawa Takiyama
-- **Nickname:** Taki
-- **Birthday:** TBD
-- **Height:** **188 cm** — ORIGINAL / LOCKED
-- **Weight / measurements:** TBD
-- **Hometown:** TBD (`Osaka / Kansai` is DRAFT, not canon)
-- **School:** Tracen Academy
+## Hồ sơ cơ bản
+- **Tên:** Takiyama Shizurawa
+- **Tên theo thứ tự Nhật:** Shizurawa Takiyama
+- **Biệt danh:** Taki
+- **Ngày sinh:** TBD
+- **Chiều cao:** **188 cm** — ORIGINAL / LOCKED
+- **Cân nặng / số đo:** TBD
+- **Quê quán:** TBD (`Osaka / Kansai` là DRAFT, chưa phải canon)
+- **Trường:** Tracen Academy
 - **Division:** Senior Division
-- **Year:** Year 1 at entry
-- **Class / dorm / roommate:** TBD
+- **Năm học:** Year 1 khi nhập học
+- **Lớp / ký túc xá / bạn cùng phòng:** TBD
 
-## Introduction
-An exceptionally tall first-year Uma whose race form rarely stays inside one textbook category for long. She is most dangerous when an unusual solution occurs to her in real time. Formal public tagline is TBD.
+## Giới thiệu
+Một Uma năm nhất cực kỳ cao, với cách chạy hiếm khi chịu nằm yên trong một phân loại giáo khoa quá lâu. Cô nguy hiểm nhất khi một lời giải bất thường xuất hiện ngay trong lúc thi đấu. Tagline công khai chính thức vẫn TBD.
 
-## Appearance
-- **Hair:** black, short bob — LOCKED
-- **Eyes:** normal white sclera; right iris dark purple, left near-black/graphite — LOCKED baseline
-- **Dark circles:** persistent beneath both eyes — LOCKED
-- **Eye pattern:** fine asymmetric fracture/lightning lines — DRAFT only
-- **Ears / tail / race outfit:** TBD
-- **School wear:** normal Tracen uniform — LOCKED baseline
+## Ngoại hình
+- **Tóc:** đen, bob ngắn — LOCKED
+- **Mắt:** củng mạc trắng bình thường; mống mắt phải tím đậm, trái gần đen/graphite — baseline LOCKED
+- **Quầng thâm:** luôn hiện dưới cả hai mắt — LOCKED
+- **Hoa văn mắt:** các đường nứt/tia sét mảnh bất đối xứng — chỉ DRAFT
+- **Tai / đuôi / race outfit:** TBD
+- **Trang phục ở trường:** đồng phục Tracen bình thường — baseline LOCKED
 
-## Personality
-- **Public profile:** intelligent, inventive, stubborn and much less random than first impressions suggest.
-- **Likes / dislikes / hobbies:** TBD for standard profile.
-- **Special skills:** extreme improvisation and rapid technique invention.
-- **Weakness:** self-preservation can lose arguments to a sufficiently interesting solution.
+## Tính cách
+- **Hình ảnh công khai:** thông minh, sáng tạo, cứng đầu và ít ngẫu nhiên hơn rất nhiều so với ấn tượng ban đầu.
+- **Thích / ghét / sở thích:** TBD cho profile tiêu chuẩn.
+- **Kỹ năng đặc biệt:** ứng biến cực mạnh và phát minh kỹ thuật rất nhanh.
+- **Điểm yếu:** bản năng tự bảo toàn đôi khi thua tranh luận trước một lời giải đủ thú vị.
 
-## Racing Profile
-- **Surface / distance aptitude:** TBD
-- **Preferred style:** no final classification; Sashi-like base is DRAFT
-- **Strengths:** acceleration ideas, line selection, cadence/stride experimentation, tactical improvisation
-- **Weaknesses:** biomechanical cost and injury risk from aggressive experimental technique
-- **Signature behavior:** a smile/laugh during intense competition usually means she has just conceived a dangerous new idea
+## Hồ sơ đua
+- **Mặt sân / aptitude khoảng cách:** TBD
+- **Phong cách ưa thích:** chưa có classification cuối; nền gần Sashi chỉ là DRAFT
+- **Điểm mạnh:** ý tưởng tăng tốc, chọn line, thử nghiệm cadence/stride, ứng biến chiến thuật
+- **Điểm yếu:** chi phí biomechanics và rủi ro chấn thương từ kỹ thuật thử nghiệm hung hãn
+- **Hành vi đặc trưng:** việc cô bắt đầu cười trong cạnh tranh căng thẳng thường có nghĩa là vừa nghĩ ra một ý tưởng mới đáng báo động
 
-## Goals
-- **Dream / current racing goal:** TBD through story.
+## Mục tiêu
+- **Ước mơ / mục tiêu đua hiện tại:** TBD qua story.
 
-## Relationships
-- **Equinox:** local trainer/staff relationship details TBD
-- **Haise:** pre-existing close relationship; public/local framing TBD
-- **Tracen cast:** develops in prose
+## Quan hệ
+- **Equinox:** chi tiết quan hệ trainer/staff tại chỗ TBD
+- **Haise:** quan hệ thân thiết có từ trước; cách thể hiện công khai/tại chỗ TBD
+- **Cast Tracen:** phát triển trong prose
 
-## Race Record
-No finish result is canon until written/approved. Planned race windows are in the synthetic timeline.
+## Thành tích thi đấu
+Không có kết quả finish nào là canon cho đến khi được viết/duyệt. Các cửa sổ race dự kiến nằm trong synthetic timeline.

@@ -1,10 +1,10 @@
-# Takiyama — Meta Knowledge Registry
+# Takiyama — Registry Meta-Knowledge
 
-| Domain | Initial state |
+| Lĩnh vực | Trạng thái ban đầu |
 |---|---|
-| TV anime / animation story material | KNOWN, very deep |
-| Manga material | KNOWN, very deep |
-| Game-only systems/stories | UNKNOWN |
-| Future fanfic events after intervention | progressively OBSOLETE |
+| Material câu chuyện TV anime / animation | KNOWN, rất sâu |
+| Material manga | KNOWN, rất sâu |
+| Hệ thống/câu chuyện chỉ có trong game | UNKNOWN |
+| Sự kiện fanfic tương lai sau can thiệp | dần trở thành OBSOLETE |
 
-Taki's source knowledge must not become omniscience. Once an event has materially diverged, downgrade predictions to `PARTIALLY_KNOWN` or `OBSOLETE_AFTER_DIVERGENCE`.
+Kiến thức nguồn của Taki không được biến thành toàn tri. Khi một sự kiện đã divergence đáng kể, hạ dự đoán xuống `PARTIALLY_KNOWN` hoặc `OBSOLETE_AFTER_DIVERGENCE`.

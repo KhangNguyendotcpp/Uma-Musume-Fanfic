@@ -1,28 +1,28 @@
-# Linkage to Original Universe Canon
+# Liên kết với Canon Original Universe
 
-**Linked repository:** https://github.com/KhangNguyendotcpp/original-universe-canon
+**Repo liên kết:** https://github.com/KhangNguyendotcpp/original-universe-canon
 
-This Uma Musume fanfic is tightly and intentionally linked to the Original Universe (OU) canon.
+Fanfic Uma Musume này được liên kết chặt chẽ và có chủ đích với canon Original Universe (OU).
 
-## Authority split
+## Phân chia thẩm quyền
 
-### OU repository wins for
-- pre-existing identity of Haise, Takiyama and Equinox;
-- their history before entering the Uma world;
-- personality fundamentals;
-- family and pre-existing relationships;
-- metaphysics/cosmology and pre-existing abilities;
-- any OU fact that this repository has not explicitly overridden by a newer author decision.
+### Repo OU có ưu tiên đối với
+- danh tính vốn có của Haise, Takiyama và Equinox;
+- lịch sử của họ trước khi vào thế giới Uma;
+- nền tảng tính cách;
+- gia đình và các mối quan hệ đã tồn tại từ trước;
+- siêu hình học/vũ trụ học và năng lực vốn có;
+- mọi sự thật OU mà repo này chưa trực tiếp ghi đè bằng một quyết định tác giả mới hơn.
 
-### This repository wins for
-- their Uma-body/incarnation design;
-- forged/local legal identity and Tracen records;
-- local school/staff status;
-- racing aptitude, race history and injuries in this continuity;
-- relationships formed in the Uma world;
-- the 2025–2029 synthetic chronology;
-- all post-arrival divergence from Uma source material.
+### Repo này có ưu tiên đối với
+- thiết kế cơ thể/incarnation Uma của họ;
+- danh tính pháp lý tại chỗ và hồ sơ Tracen;
+- trạng thái học sinh/nhân viên trong thế giới Uma;
+- aptitude đua, lịch sử thi đấu và chấn thương trong continuity này;
+- các mối quan hệ hình thành trong thế giới Uma;
+- chronology tổng hợp 2025–2029;
+- toàn bộ divergence sau khi họ xuất hiện so với nguồn Uma.
 
-## Duplication policy
+## Quy tắc chống trùng lặp
 
-Do not copy the entire OU biography into Uma character profiles. Main Haise/Takiyama profiles must look like ordinary Uma profiles. Deep cross-universe context belongs in `fanfic/internal-character-notes/` and should reference the OU repository instead of spawning a competing copy of OU canon.
+Không sao chép toàn bộ tiểu sử OU vào profile Uma. Profile chính của Haise/Takiyama phải trông như profile Uma thông thường. Bối cảnh crossover sâu chỉ được đặt trong `fanfic/internal-character-notes/` và nên tham chiếu repo OU thay vì tạo một bản sao canon OU cạnh tranh.

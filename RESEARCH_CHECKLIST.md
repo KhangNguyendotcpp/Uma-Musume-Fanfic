@@ -1,52 +1,52 @@
-# Master Research Checklist
+# Checklist nghiên cứu tổng
 
-Use statuses: `FOUND`, `UNSPECIFIED`, `CONFLICTING`, `NOT_APPLICABLE`, `NOT_YET_NORMALIZED`, `NEEDS_FANFIC_DECISION`, `FANFIC_LOCKED`.
+Dùng các trạng thái: `FOUND`, `UNSPECIFIED`, `CONFLICTING`, `NOT_APPLICABLE`, `NOT_YET_NORMALIZED`, `NEEDS_FANFIC_DECISION`, `FANFIC_LOCKED`.
 
-## A — Source / continuity
-- [x] Official franchise character portal
-- [x] TV S1 cast/staff
-- [x] TV S2 cast/staff
-- [x] TV S3 cast/character sources
-- [x] RTTT index
-- [x] Beginning of a New Era index
-- [x] Cinderella Gray anime index/cast sources
-- [x] Umayuru index + user subtitle corpus
-- [x] Umayon index + user video corpus
-- [x] 1st Anniversary animation index
-- [ ] Full episode-by-episode on-screen-name audit against every Drive video
+## A — Nguồn / continuity
+- [x] Portal nhân vật chính thức của franchise
+- [x] Cast/staff TV S1
+- [x] Cast/staff TV S2
+- [x] Nguồn cast/nhân vật TV S3
+- [x] Index RTTT
+- [x] Index Beginning of a New Era
+- [x] Index anime/cast Cinderella Gray
+- [x] Index Umayuru + corpus phụ đề của user
+- [x] Index Umayon + corpus video của user
+- [x] Index animation kỷ niệm 1 năm
+- [ ] Audit đầy đủ tên xuất hiện trên màn ảnh theo từng tập đối chiếu với toàn bộ video Drive
 
-## B — Character identity fields
-Canonical name; Japanese spelling; romanization; nickname/alias; birthday; explicit age if any; school division/year/class; dorm; roommate; club; student-council position; team; trainer; hometown/regional origin.
+## B — Trường định danh nhân vật
+Tên canon; cách viết tiếng Nhật; romanization; biệt danh/alias; ngày sinh; tuổi cụ thể nếu có; division/năm/lớp; ký túc xá; bạn cùng phòng; CLB; chức vụ hội học sinh; team; trainer; quê quán/xuất thân vùng miền.
 
-## C — Standard Uma profile fields
-Tagline; short introduction; height; weight; measurements if useful; shoe size if sourced; hair; eyes; ears; ear habits; tail; tail habits; distinguishing features; school outfit; race outfit; casual style; constitution; physical quirks; silhouette.
+## C — Trường profile Uma tiêu chuẩn
+Tagline; giới thiệu ngắn; chiều cao; cân nặng; số đo nếu hữu ích; cỡ giày nếu có nguồn; tóc; mắt; tai; thói quen của tai; đuôi; thói quen của đuôi; đặc điểm nhận diện; đồng phục; race outfit; phong cách thường ngày; thể chất; đặc điểm sinh lý; silhouette.
 
-## D — Personality / daily life
-Core personality; public/private presentation; temperament; humor; social confidence; leadership; competitiveness; win/loss attitude; training/school attitude; likes; dislikes; hobbies; talents; bad habits; daily routine.
+## D — Tính cách / đời sống thường ngày
+Tính cách cốt lõi; biểu hiện công khai/riêng tư; khí chất; khiếu hài hước; tự tin xã hội; khả năng lãnh đạo; tính cạnh tranh; thái độ khi thắng/thua; thái độ với training/học tập; thích; ghét; sở thích; tài năng; thói quen xấu; lịch sinh hoạt.
 
-## E — Speech
-First-person pronoun; second-person habits; Trainer address; teacher/senior/junior/friend address; honorifics; formality; dialect/accent; verbal tics; sentence endings; rhythm; emotional changes; sourced example context.
+## E — Cách nói
+Đại từ ngôi một; thói quen ngôi hai; cách gọi Trainer; cách gọi giáo viên/senior/junior/bạn bè; kính ngữ; mức độ trang trọng; phương ngữ/giọng; tật nói; đuôi câu; nhịp nói; thay đổi khi xúc động; ví dụ có nguồn.
 
-## F — Relationships
-Target; source continuity; relationship type; initial/current state; respect; rivalry; conflict; dependence; address pattern; shared events; fanfic divergence.
+## F — Quan hệ
+Đối tượng; continuity nguồn; loại quan hệ; trạng thái ban đầu/hiện tại; tôn trọng; đối thủ; xung đột; phụ thuộc; cách xưng hô; sự kiện chung; divergence trong fanfic.
 
-## G — Racing profile
-Turf/dirt; Sprint/Mile/Medium/Long; Nige/Senko/Sashi/Oikomi; narrative style; pack position; acceleration; top speed; stamina; power; cornering; race IQ; weakness; signature behavior. Keep game ranks separate from narrative characterization.
+## G — Hồ sơ đua
+Turf/dirt; Sprint/Mile/Medium/Long; Nige/Senko/Sashi/Oikomi; phong cách narrative; vị trí trong pack; tăng tốc; tốc độ tối đa; stamina; power; cornering; race IQ; điểm yếu; hành vi đặc trưng. Rank trong game phải tách khỏi mô tả narrative.
 
-## H — Race system
-Debut eligibility; school status; trainer requirement; registration/deadlines; veto authority; medical clearance; grades; divisions; qualification; fan voting; starting procedure; infringements; withdrawals; post-race procedure; frequency/over-racing consequences.
+## H — Hệ thống giải đua
+Điều kiện debut; tình trạng học sinh; yêu cầu trainer; đăng ký/hạn chót; quyền veto; kiểm tra y tế; grade; division; qualification; bình chọn fan; thủ tục xuất phát; vi phạm; rút lui; quy trình sau race; tần suất/hậu quả over-racing.
 
 ## I — Winning Live
-Eligibility/participants; center; song/costume; rehearsal/choreography; broadcast; medical exemption; refusal rules; fan expectations.
+Điều kiện/người tham gia; center; bài hát/trang phục; rehearsal/choreography; phát sóng; miễn vì y tế; quyền từ chối; kỳ vọng của fan.
 
-## J — Tracen education / administration
-Structure; admission age/exams/transfers; academic year; terms; exams; vacations/camps; graduation; curriculum; attendance; dorm/curfew; Student Council; teacher/trainer/medical authority; discipline; URA relationship.
+## J — Giáo dục / hành chính Tracen
+Cấu trúc; tuổi/thi tuyển/chuyển trường; năm học; học kỳ; thi; nghỉ/camp; tốt nghiệp; chương trình học; chuyên cần; ký túc xá/giờ giới nghiêm; hội học sinh; quyền của giáo viên/trainer/y tế; kỷ luật; quan hệ với URA.
 
-## K — Uma biology / medicine
-Strength/speed/stamina; metabolism/calories; muscle/bone/joint/tendon behavior; stress fracture; recovery/sleep; ears/tail/hearing; screening; rehabilitation; return-to-race clearance.
+## K — Sinh học / y học Uma
+Sức mạnh/tốc độ/stamina; chuyển hóa/calories; cơ/xương/khớp/gân; stress fracture; hồi phục/giấc ngủ; tai/đuôi/thính giác; screening; rehab; clearance trở lại thi đấu.
 
-## L — Society / law / media
-Legal status; majority age; school liability; trainer licensing/employment; racing contracts; prizes; sponsors; media/image rights; journalism; fans/idol culture; merchandising; medical privacy; transport; retirement/post-career.
+## L — Xã hội / luật / truyền thông
+Địa vị pháp lý; tuổi thành niên; trách nhiệm của trường; cấp phép/việc làm trainer; hợp đồng thi đấu; tiền thưởng; tài trợ; quyền truyền thông/hình ảnh; báo chí; fan/văn hóa idol; merchandise; riêng tư y tế; vận chuyển; giải nghệ/nghề nghiệp sau đó.
 
-## Fanfic-only decisions
-Calendar; Tracen divisions; University curriculum; faculty hierarchy; Central Student Council powers; protagonists' exact birthdays/weights/ears/tails/race outfits/dorms/roommates; exact racing aptitudes; exact results; team/trainer contracts; divergence points.
+## Các quyết định chỉ thuộc fanfic
+Calendar; các division Tracen; chương trình University; hệ thống faculty; quyền Central Student Council; ngày sinh/cân nặng/tai/đuôi/race outfit/ký túc xá/bạn cùng phòng chính xác của protagonist; aptitude đua; kết quả race; hợp đồng team/trainer; các điểm divergence.

@@ -1,10 +1,10 @@
-# Fanfic Racing Rules
+# Quy tắc Racing của Fanfic
 
-**Status:** APPROVED scaffold; individual clauses may be revised after deeper source audit.
+**Trạng thái:** scaffold APPROVED; từng điều khoản có thể được sửa sau audit nguồn sâu hơn.
 
-- Race names/course/surface/distance can use official franchise/JRA-derived references.
-- Real-horse birth years and historical separation are ignored.
-- A student must be registered through Tracen/team race operations and medically cleared.
-- A trainer can recommend/withhold entry; final emergency medical veto belongs to medical staff. Exact paperwork chain is ORIGINAL and still subject to revision.
-- Over-racing is treated as a real welfare/performance concern; three/four consecutive race dialogue in the user-provided game-voice corpus is evidence that excessive scheduling matters in franchise characterization, but the exact fanfic threshold is a story rule.
-- Results are never pre-committed as canon before the author approves/writes them. Calendar entries can be `planned` without deciding finish order.
+- Tên race/course/surface/distance có thể dùng tham chiếu từ franchise chính thức/JRA.
+- Năm sinh và khoảng cách lịch sử của ngựa thật bị bỏ qua.
+- Học sinh phải được đăng ký thông qua bộ phận race operations của Tracen/team và có medical clearance.
+- Trainer có thể đề xuất hoặc từ chối entry; quyền medical veto khẩn cấp cuối cùng thuộc staff y tế. Chuỗi giấy tờ chính xác là ORIGINAL và vẫn có thể sửa.
+- Over-racing được xem là vấn đề welfare/performance thật; dialogue về ba/bốn race liên tiếp trong corpus voice game do user cung cấp là bằng chứng rằng xếp lịch quá dày có ý nghĩa trong characterization franchise, nhưng ngưỡng chính xác của fanfic là story rule.
+- Kết quả không bao giờ được pre-commit thành canon trước khi tác giả duyệt/viết. Calendar có thể ghi `planned` mà chưa quyết định thứ hạng finish.
