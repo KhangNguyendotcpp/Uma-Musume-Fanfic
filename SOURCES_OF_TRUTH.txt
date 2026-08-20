@@ -1,7 +1,7 @@
 UMA MUSUME FANFIC — NGUỒN SỰ THẬT NGHIÊN CỨU
 Lần research gần nhất: 2026-08-21
 
-File này liệt kê các nguồn đã thực sự được dùng để xây dựng hoặc kiểm chứng repo. Việc một nguồn cộng đồng xuất hiện ở đây không có nghĩa mọi câu trên nguồn đó tự động trở thành canon được áp dụng.
+File này liệt kê các nguồn đã thực sự được dùng để xây dựng hoặc kiểm chứng repo. Nguồn community không tự động vượt nguồn official.
 
 === CORPUS GOOGLE DRIVE DO USER CUNG CẤP ===
 Corpus gốc:
@@ -22,27 +22,23 @@ Corpus Umayuru:
 https://drive.google.com/drive/folders/1cNRDu7kN0gqVGH5ckR5SibKLR8dN76Tb
 SRT Umayuru:
 https://drive.google.com/drive/folders/1N2g26C8l6nR3_ctv4dcrY8AruK2ANEFV
-Corpus utility/dialogue khác:
+Corpus utility/dialogue:
 https://drive.google.com/drive/folders/1kgwCuuy3sBtYIlb3-hR2GdH-uL7Lh0a6
-SRT utility khác:
+SRT utility:
 https://drive.google.com/drive/folders/1SCAdpqYYtVrpXX3OxKYqZXYLQYO6Okgd
-Corpus anime Cinderella Gray:
+Corpus Cinderella Gray:
 https://drive.google.com/drive/folders/1wHY2cl9eK7UaxWccns9ZqMdeYsUC8-xl
-Phụ đề tiếng Anh Umayuru tập 22 đã được kiểm tra trực tiếp:
-https://drive.google.com/file/d/1eRLTBC5g46ArHrRnpF_B7AiE3SrD5Chs/view?usp=drivesdk
 
 === NGUỒN UMA MUSUME / ANIME CHÍNH THỨC ===
 https://umamusume.jp/character/
 https://anime-umamusume.jp/archive/1st/caststaff/
 https://anime-umamusume.jp/archive/2nd/caststaff/
-https://anime-umamusume.jp/archive/2nd/news/detail_675.html
 https://anime-umamusume.jp/character/
 https://anime-umamusume.jp/caststaff/
 https://anime-cinderellagray.com/character/
 https://anime-cinderellagray.com/staffcast/
-https://umamusume.jp/character/satakemei
 
-=== INDEX CỘNG ĐỒNG / ĐIỀU HƯỚNG XUYÊN CONTINUITY ===
+=== INDEX / CROSS-CONTINUITY NAVIGATION ===
 https://umamusu.wiki/List_of_Characters
 https://umamusu.wiki/Category%3AHuman_Characters
 https://umamusu.wiki/Season_1
@@ -55,17 +51,66 @@ https://umamusu.wiki/Umayuru
 https://umamusu.wiki/Umayon_%28Anime%29
 https://umamusu.wiki/1st_Anniversary_Special_Animation
 
-=== TRANG HUMAN / STAFF ĐÃ DÙNG ===
-https://umamusu.wiki/Trainer
-https://umamusu.wiki/Hana_Toujou
-https://umamusu.wiki/Tazuna_Hayakawa
-https://umamusu.wiki/Trainer_Okita
-https://umamusu.wiki/Trainer_Tanabe
-https://umamusu.wiki/Jo_Kitahara
-https://umamusu.wiki/Aoi_Kiryuin
-https://umamusu.wiki/Yayoi_Akikawa
+=== EPISODE-LEVEL AUDIT UMAYON ===
+Các trang episode/character list đã được dùng để đối chiếu roster 24 tập; các trang tiêu biểu và trang phát hiện missing character:
+https://umamusu.wiki/Hero_Theater:_Uma_Soldier_V!!
+https://umamusu.wiki/Make_the_Dream_Come_True!_Getaway_Sisters
+https://umamusu.wiki/You_Get_Spooked,_You_Lose!_Test_of_Courage_Showdown!
+https://umamusu.wiki/Umayon_Suspense_Theater
+https://umamusu.wiki/Today%27s_Main_Race!_The_Gilded_Vessel_Obstacle_Course_(G1)
+https://umamusu.wiki/Empress_Without_A_Gap
+https://umamusu.wiki/Don%27t_You_Care_About_The_Back%3F
+https://umamusu.wiki/Aim_For_The_First_Prize_Grand_Strategy!
+https://umamusu.wiki/Qualification_To_Challenge_The_Emperor
+https://umamusu.wiki/Uniforms_With_Torn_Sleeves_And_Bandages
+https://umamusu.wiki/Miho_Dormitory_Ghost_Story_Competition!
+https://umamusu.wiki/D_On_The_Beach%3F
 
-=== TRANG NHÂN VẬT CỐT LÕI ĐÃ DÙNG ===
+Biko Pegasus profile sources:
+https://umamusu.wiki/Biko_Pegasus
+https://umamusu.wiki/Biko_Pegasus/Gallery
+
+=== EPISODE/CHARACTER AUDIT UMAYURU ===
+https://umamusu.wiki/The_Stormbringers
+https://umamusu.wiki/Taciturn_Threat
+https://umamusu.wiki/Tea_on_the_Rocks
+https://umamusu.wiki/Tsuyoshi%27s_Glow_Up
+https://umamusu.wiki/Solved_by_Breakfast
+https://umamusu.wiki/Winning_Over_Sirius
+https://umamusu.wiki/Otonashi%27s_New_Scoop
+https://umamusu.wiki/Initial_Derby
+https://umamusu.wiki/Curse_of_the_Umamusume
+https://umamusu.wiki/Tracen_Turf_Warz
+https://umamusu.wiki/Put_Your_Hands_Up!_Umayuru_Rap
+https://umamusu.wiki/As_the_Golshis_Will
+https://umamusu.wiki/Into_the_Light
+https://umamusume.fandom.com/wiki/Episode_20_Uma_Yuru
+
+Nakayama Festa profile sources:
+https://umamusu.wiki/Nakayama_Festa
+https://umamusu.wiki/Nakayama_Festa/Gallery
+https://umamusume.fandom.com/wiki/Nakayama_Festa
+
+=== CINDERELLA GRAY CAST / PROFILE AUDIT ===
+https://times.abema.tv/articles/-/10169707
+https://www.mau2.com/anime/umamusumecinderellagray
+https://www.mau2.com/anime/umamusumecinderellagray-2
+https://www.fukikaekingdom.com/post-30974/
+https://www.aoni.co.jp/search/yamada-keina.html
+https://www.oricon.co.jp/anime/384/
+https://umamusu.wiki/Massive_Viking
+https://umamusu.wiki/Yamano_Thousand
+https://umamusu.wiki/Walk_Dancer
+https://umamusu.wiki/Sekai_Touha
+https://umamusu.wiki/Top_Shunbetsu
+https://umamusu.wiki/Long_Live_Free
+https://umamusu.wiki/Faith_No_More
+https://umamusu.wiki/Romance_Bubbly
+https://umamusu.wiki/Fuyuno_Nakasumi
+https://umamusu.wiki/Tadashi_Kouchi
+https://enpedia.org/wiki/ウマ娘_シンデレラグレイ
+
+=== CORE PROFILE PAGES ĐÃ KHAI THÁC ===
 https://umamusu.wiki/Special_Week
 https://umamusu.wiki/Silence_Suzuka
 https://umamusu.wiki/Gold_Ship
@@ -88,62 +133,20 @@ https://umamusu.wiki/Hishi_Amazon
 https://umamusu.wiki/King_Halo
 https://umamusu.wiki/Gentildonna
 
-=== AUDIT CINDERELLA GRAY — CAST / PROFILE / ON-SCREEN NAME ===
-Nguồn cast/phát sóng/agency dùng để xác nhận animation presence:
-https://times.abema.tv/articles/-/10169707
-https://www.mau2.com/anime/umamusumecinderellagray
-https://www.mau2.com/anime/umamusumecinderellagray-2
-https://www.mau2.com/anime/umamusumecinderellagray/ep/1
-https://www.mau2.com/anime/umamusumecinderellagray/ep/2
-https://www.fukikaekingdom.com/post-30974/
-https://www.aoni.co.jp/search/yamada-keina.html
-https://www.oricon.co.jp/anime/384/
-
-Profile/community pages đã khai thác trực tiếp:
-https://umamusu.wiki/Massive_Viking
-https://umamusu.wiki/Yamano_Thousand
-https://umamusu.wiki/Walk_Dancer
-https://umamusu.wiki/Sekai_Touha
-https://umamusu.wiki/Top_Shunbetsu
-https://umamusu.wiki/Long_Live_Free
-https://umamusu.wiki/Faith_No_More
-https://umamusu.wiki/Romance_Bubbly
-https://umamusu.wiki/Fuyuno_Nakasumi
-https://umamusu.wiki/Tadashi_Kouchi
-
-Nguồn secondary/manga cross-check; không được tự nâng lên trên nguồn official/anime credit:
-https://enpedia.org/wiki/ウマ娘_シンデレラグレイ
-https://w.atwiki.jp/aniwotawiki/pages/51362.html
-https://w.atwiki.jp/aniwotawiki/pages/52402.html
-https://w.atwiki.jp/aniwotawiki/pages/54859.html
-https://yurunago.or.jp/manga/2294/
-https://umamusume.net/archives/221336
-https://umamusume.net/archives/239273
-https://wikiwiki.jp/vip_umamusu/元馬情報
-https://www.imdb.com/title/tt35437675/fullcredits/
-
-=== THAM KHẢO WORLDBUILDING / GAME ĐÃ DÙNG ===
+=== WORLDBUILDING / GAME REFERENCE ===
 https://umamusu.wiki/Game%3AURA_Finale
 https://umamusu.wiki/The_Twinkle_Legends
 https://umamusu.wiki/First_Big_Win
 https://umamusu.wiki/List_of_Live_Events
 https://umamusu.wiki/Team_Rigil
-https://umamusu.wiki/Game%3ATokyo_Daishoten
 https://umamusu.wiki/Umapyoi_Densetsu
 
-=== THAM KHẢO JRA ĐỜI THẬT — CHỈ THAM KHẢO, KHÔNG PHẢI CANON UMA ===
+=== JRA ĐỜI THẬT — CHỈ REFERENCE ===
 https://www.jra.go.jp/keiba/tokubetsu/2026.html
 https://www.jra.go.jp/datafile/seiseki/replay/2026/g1.html
 https://www.jra.go.jp/datafile/seiseki/replay/2026/jyusyo.html
 https://www.jra.go.jp/keiba/g1/satsuki.html
 
-=== CROSS-CHECK CAST THỨ CẤP — KHÔNG ĐƯỢC VƯỢT NGUỒN CHÍNH THỨC ===
-https://us.oricon-group.com/news/4555/
-https://www.crunchyroll.com/id/news/latest/2025/8/22/umamusume-cinderella-gray-anime-cour-2-october-5-new-trailer
-https://www.imdb.com/title/tt35437675/fullcredits/
-https://m.imdb.com/title/tt38615976/fullcredits/
-https://umamusume.fandom.com/wiki/Cinderella_Gray/Characters
-
-=== NGUỒN FANFIC LIÊN KẾT ===
-Canon Original Universe:
+=== FANFIC SOURCE LIÊN KẾT ===
+Original Universe canon:
 https://github.com/KhangNguyendotcpp/original-universe-canon

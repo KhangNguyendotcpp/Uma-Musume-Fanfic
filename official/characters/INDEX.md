@@ -1,201 +1,41 @@
 # Chỉ mục hồ sơ nhân vật Animation
 
-**Mục tiêu:** mỗi nhân vật có tên ổn định xuất hiện, được gọi tên, được ghi trên bảng race/roster, hoặc được credit trong animation thuộc phạm vi repo phải có **một file Markdown riêng**.
+## Mục tiêu
+Mỗi nhân vật có **tên ổn định** xuất hiện, được gọi tên, được ghi trên race card/roster/caption hoặc được credit trong animation thuộc phạm vi repo phải có **một file Markdown riêng**.
 
-**Baseline đã chuẩn hóa hiện tại: 163 profile.** Con số này là độ phủ đã xác minh tới pass 2026-08-21, **không phải tuyên bố đã hoàn tất audit từng frame của toàn bộ video Google Drive**. Race-card/on-screen-name audit vẫn tiếp tục; nếu phát hiện thêm tên thì phải tạo profile mới.
+**Baseline đã chuẩn hóa hiện tại: 166 profile.** Đây là độ phủ đã xác minh tới pass 2026-08-21; **không phải tuyên bố đã audit 100% từng frame của toàn bộ video Google Drive**.
 
-`Gentildonna` hiện là benchmark `HIGH-DETAIL`: [xem profile](season3-profiles/gentildonna.md).
+`Gentildonna` là benchmark profile giàu dữ liệu: [season3-profiles/gentildonna.md](season3-profiles/gentildonna.md).
 
-Xem trạng thái audit chi tiết tại [ANIMATION_NAME_AUDIT.md](ANIMATION_NAME_AUDIT.md).
+Audit ledger: [ANIMATION_NAME_AUDIT.md](ANIMATION_NAME_AUDIT.md).
 
-## Core (20)
+## Cấu trúc thư mục
 
-- [Air Groove](core-profiles/air-groove.md)
-- [Daiwa Scarlet](core-profiles/daiwa-scarlet.md)
-- [El Condor Pasa](core-profiles/el-condor-pasa.md)
-- [Fuji Kiseki](core-profiles/fuji-kiseki.md)
-- [Gold Ship](core-profiles/gold-ship.md)
-- [Grass Wonder](core-profiles/grass-wonder.md)
-- [Haru Urara](core-profiles/haru-urara.md)
-- [Hishi Amazon](core-profiles/hishi-amazon.md)
-- [King Halo](core-profiles/king-halo.md)
-- [Maruzensky](core-profiles/maruzensky.md)
-- [Mejiro McQueen](core-profiles/mejiro-mcqueen.md)
-- [Narita Brian](core-profiles/narita-brian.md)
-- [Oguri Cap](core-profiles/oguri-cap.md)
-- [Seiun Sky](core-profiles/seiun-sky.md)
-- [Silence Suzuka](core-profiles/silence-suzuka.md)
-- [Special Week](core-profiles/special-week.md)
-- [Symboli Rudolf](core-profiles/symboli-rudolf.md)
-- [Taiki Shuttle](core-profiles/taiki-shuttle.md)
-- [Tokai Teio](core-profiles/tokai-teio.md)
-- [Vodka](core-profiles/vodka.md)
+| Nhóm | Số profile hiện tại | Thư mục |
+|---|---:|---|
+| Core | 20 | [core-profiles/](core-profiles/) |
+| TV supporting / anime-exclusive | 33 | [tv-supporting-profiles/](tv-supporting-profiles/) |
+| Season 3 / later anime | 19 | [season3-profiles/](season3-profiles/) |
+| RTTT / Beginning of a New Era | 11 | [rttt-boane-profiles/](rttt-boane-profiles/) |
+| Umayuru / Umayon / shorts | 17 | [shorts-profiles/](shorts-profiles/) |
+| Cinderella Gray | 36 | [cinderella-gray-profiles/](cinderella-gray-profiles/) |
+| Trainer / staff / officials / media / named humans | 30 | [staff-human-profiles/](staff-human-profiles/) |
+| **Tổng** | **166** | |
 
-## TV supporting / anime-exclusive (33)
+Mỗi file trong các thư mục trên là **một nhân vật**, không quay lại mô hình một Markdown nhồi nhiều character.
 
-- [Agnes Tachyon](tv-supporting-profiles/agnes-tachyon.md)
-- [Biwa Hayahide](tv-supporting-profiles/biwa-hayahide.md)
-- [Broye](tv-supporting-profiles/broye.md)
-- [Daisangen](tv-supporting-profiles/daisangen.md)
-- [Daitaku Helios](tv-supporting-profiles/daitaku-helios.md)
-- [Eishin Flash](tv-supporting-profiles/eishin-flash.md)
-- [Hard Control](tv-supporting-profiles/hard-control.md)
-- [Hishi Akebono](tv-supporting-profiles/hishi-akebono.md)
-- [Ikuno Dictus](tv-supporting-profiles/ikuno-dictus.md)
-- [Kitasan Black](tv-supporting-profiles/kitasan-black.md)
-- [Manhattan Cafe](tv-supporting-profiles/manhattan-cafe.md)
-- [Matikanefukukitaru](tv-supporting-profiles/matikanefukukitaru.md)
-- [Matikanetannhauser](tv-supporting-profiles/matikanetannhauser.md)
-- [Mayano Top Gun](tv-supporting-profiles/mayano-top-gun.md)
-- [Meisho Doto](tv-supporting-profiles/meisho-doto.md)
-- [Mejiro Dober](tv-supporting-profiles/mejiro-dober.md)
-- [Mejiro Palmer](tv-supporting-profiles/mejiro-palmer.md)
-- [Mejiro Ryan](tv-supporting-profiles/mejiro-ryan.md)
-- [Mihono Bourbon](tv-supporting-profiles/mihono-bourbon.md)
-- [Narita Taishin](tv-supporting-profiles/narita-taishin.md)
-- [Nice Nature](tv-supporting-profiles/nice-nature.md)
-- [Queen Berry](tv-supporting-profiles/queen-berry.md)
-- [Relic Earth](tv-supporting-profiles/relic-earth.md)
-- [Rice Shower](tv-supporting-profiles/rice-shower.md)
-- [Rionatal](tv-supporting-profiles/rionatal.md)
-- [Sakura Bakushin O](tv-supporting-profiles/sakura-bakushin-o.md)
-- [Satono Diamond](tv-supporting-profiles/satono-diamond.md)
-- [Sun Visor](tv-supporting-profiles/sun-visor.md)
-- [Super Creek](tv-supporting-profiles/super-creek.md)
-- [Tamamo Cross](tv-supporting-profiles/tamamo-cross.md)
-- [Twin Turbo](tv-supporting-profiles/twin-turbo.md)
-- [Winning Ticket](tv-supporting-profiles/winning-ticket.md)
-- [Yukino Bijin](tv-supporting-profiles/yukino-bijin.md)
+## Các bổ sung gần nhất từ episode-level audit
 
-## Season 3 / later anime (19)
-
-- [All Haiyu](season3-profiles/all-haiyu.md)
-- [Aston Machan](season3-profiles/aston-machan.md)
-- [Cheval Grand](season3-profiles/cheval-grand.md)
-- [Copano Rickey](season3-profiles/copano-rickey.md)
-- [Daring Tact](season3-profiles/daring-tact.md)
-- [Divinity](season3-profiles/divinity.md)
-- [Duramente](season3-profiles/duramente.md)
-- [Genjitsu Steal](season3-profiles/genjitsu-steal.md)
-- [Gentildonna](season3-profiles/gentildonna.md)
-- [Orfevre](season3-profiles/orfevre.md)
-- [Read Fantasy](season3-profiles/read-fantasy.md)
-- [Ribbon Pia](season3-profiles/ribbon-pia.md)
-- [River Light](season3-profiles/river-light.md)
-- [Royce and Royce](season3-profiles/royce-and-royce.md)
-- [Satono Crown](season3-profiles/satono-crown.md)
-- [Sounds of Earth](season3-profiles/sounds-of-earth.md)
-- [To-Car](season3-profiles/to-car.md)
-- [Verxina](season3-profiles/verxina.md)
-- [Vivlos](season3-profiles/vivlos.md)
-
-## RTTT / Beginning of a New Era (11)
-
-- [Admire Vega](rttt-boane-profiles/admire-vega.md)
-- [Curren Chan](rttt-boane-profiles/curren-chan.md)
-- [Dantsu Flame](rttt-boane-profiles/dantsu-flame.md)
-- [Jungle Pocket](rttt-boane-profiles/jungle-pocket.md)
-- [Mai](rttt-boane-profiles/mai.md)
-- [Nana Izumoto](rttt-boane-profiles/nana-izumoto.md)
-- [Narita Top Road](rttt-boane-profiles/narita-top-road.md)
-- [Perry Steam](rttt-boane-profiles/perry-steam.md)
-- [Ru](rttt-boane-profiles/ru.md)
-- [Shima](rttt-boane-profiles/shima.md)
-- [T.M. Opera O](rttt-boane-profiles/t-m-opera-o.md)
-
-## Umayuru / Umayon / short animation (15)
-
-- [Agnes Digital](shorts-profiles/agnes-digital.md)
-- [Air Shakur](shorts-profiles/air-shakur.md)
-- [Bitter Glasse](shorts-profiles/bitter-glasse.md)
-- [Fine Motion](shorts-profiles/fine-motion.md)
-- [Gold City](shorts-profiles/gold-city.md)
-- [Happy Meek](shorts-profiles/happy-meek.md)
-- [Inari One](shorts-profiles/inari-one.md)
-- [Ines Fujin](shorts-profiles/ines-fujin.md)
-- [Little Cocon](shorts-profiles/little-cocon.md)
-- [Sirius Symboli](shorts-profiles/sirius-symboli.md)
-- [Smart Falcon](shorts-profiles/smart-falcon.md)
-- [Symboli Kris S](shorts-profiles/symboli-kris-s.md)
-- [Tanino Gimlet](shorts-profiles/tanino-gimlet.md)
-- [Tosen Jordan](shorts-profiles/tosen-jordan.md)
-- [Tsurumaru Tsuyoshi](shorts-profiles/tsurumaru-tsuyoshi.md)
-
-## Cinderella Gray (36)
-
-- [Akitsu Teio](cinderella-gray-profiles/akitsu-teio.md)
-- [Belno Light](cinderella-gray-profiles/belno-light.md)
-- [Black Ale](cinderella-gray-profiles/black-ale.md)
-- [Dicta Striker](cinderella-gray-profiles/dicta-striker.md)
-- [Dynamu Heroine](cinderella-gray-profiles/dynamu-heroine.md)
-- [Ellerslie Pride](cinderella-gray-profiles/ellerslie-pride.md)
-- [Face No More](cinderella-gray-profiles/face-no-more.md)
-- [Fujimasa March](cinderella-gray-profiles/fujimasa-march.md)
-- [Fuyuno Nakasumi](cinderella-gray-profiles/fuyuno-nakasumi.md)
-- [God Hannibal](cinderella-gray-profiles/god-hannibal.md)
-- [Kraft Univer](cinderella-gray-profiles/kraft-univer.md)
-- [Long Live Free](cinderella-gray-profiles/long-live-free.md)
-- [Lord Royal](cinderella-gray-profiles/lord-royal.md)
-- [Luna Swallow](cinderella-gray-profiles/luna-swallow.md)
-- [Massive Viking](cinderella-gray-profiles/massive-viking.md)
-- [Meikun Tsukasa](cinderella-gray-profiles/meikun-tsukasa.md)
-- [Mejiro Ardan](cinderella-gray-profiles/mejiro-ardan.md)
-- [Merry Beauty](cinderella-gray-profiles/merry-beauty.md)
-- [Michelle My Baby](cinderella-gray-profiles/michelle-my-baby.md)
-- [Mini the Lady](cinderella-gray-profiles/mini-the-lady.md)
-- [Moonlight Lunacy](cinderella-gray-profiles/moonlight-lunacy.md)
-- [Mr. C.B.](cinderella-gray-profiles/mr-cb.md)
-- [Nanto Ichiban](cinderella-gray-profiles/nanto-ichiban.md)
-- [Norn Ace](cinderella-gray-profiles/norn-ace.md)
-- [Obey Your Master](cinderella-gray-profiles/obey-your-master.md)
-- [Romance Bubbly](cinderella-gray-profiles/romance-bubbly.md)
-- [Rudy Lemono](cinderella-gray-profiles/rudy-lemono.md)
-- [Sakura Chiyono O](cinderella-gray-profiles/sakura-chiyono-o.md)
-- [Sekai Touha](cinderella-gray-profiles/sekai-touha.md)
-- [South Heroine](cinderella-gray-profiles/south-heroine.md)
-- [Spring Thing](cinderella-gray-profiles/spring-thing.md)
-- [Toni Bianca](cinderella-gray-profiles/toni-bianca.md)
-- [Top Shunbetsu](cinderella-gray-profiles/top-shunbetsu.md)
-- [Walk Dancer](cinderella-gray-profiles/walk-dancer.md)
-- [Yaeno Muteki](cinderella-gray-profiles/yaeno-muteki.md)
-- [Yamano Thousand](cinderella-gray-profiles/yamano-thousand.md)
-
-## Trainer / staff / officials / media / human (29)
-
-- [Aoi Kiryuin](staff-human-profiles/aoi-kiryuin.md)
-- [Etsuko Otonashi](staff-human-profiles/etsuko-otonashi.md)
-- [Frank McMonahan](staff-human-profiles/frank-mcmonahan.md)
-- [Fumino Nase](staff-human-profiles/fumino-nase.md)
-- [Ginjirou Musaka](staff-human-profiles/ginjirou-musaka.md)
-- [Hana Toujou](staff-human-profiles/hana-toujou.md)
-- [Hiyori Kawamura](staff-human-profiles/hiyori-kawamura.md)
-- [Igawa](staff-human-profiles/igawa.md)
-- [Jo Kitahara](staff-human-profiles/jo-kitahara.md)
-- [Junko Hosoe](staff-human-profiles/junko-hosoe.md)
-- [Kouichi Shibasaki](staff-human-profiles/kouichi-shibasaki.md)
-- [Kuronuma](staff-human-profiles/kuronuma.md)
-- [Masami Komiyama](staff-human-profiles/masami-komiyama.md)
-- [Minamizaka](staff-human-profiles/minamizaka.md)
-- [Misato Akasaka](staff-human-profiles/misato-akasaka.md)
-- [Riko Kashimoto](staff-human-profiles/riko-kashimoto.md)
-- [Ryuko Yusuhara](staff-human-profiles/ryuko-yusuhara.md)
-- [Sasami Anshinzawa](staff-human-profiles/sasami-anshinzawa.md)
-- [Satono's Trainer](staff-human-profiles/satonos-trainer.md)
-- [Sensuke Fujii](staff-human-profiles/sensuke-fujii.md)
-- [Tadashi Kouchi](staff-human-profiles/tadashi-kouchi.md)
-- [Taro Yusuhara](staff-human-profiles/taro-yusuhara.md)
-- [Tazuna Hayakawa](staff-human-profiles/tazuna-hayakawa.md)
-- [Trainer Okita](staff-human-profiles/trainer-okita.md)
-- [Trainer (Spica)](staff-human-profiles/trainer-spica.md)
-- [Trainer Tanabe](staff-human-profiles/trainer-tanabe.md)
-- [Yaeno Muteki's Trainer / Shihandai](staff-human-profiles/yaeno-muteki-trainer-shihandai.md)
-- [Yayoi Akikawa](staff-human-profiles/yayoi-akikawa.md)
-- [Yuichi Iwao](staff-human-profiles/yuichi-iwao.md)
+- **Biko Pegasus** — bị cast-table baseline bỏ sót nhưng xuất hiện trong Umayon tập 8.
+- **Nakayama Festa** — xuất hiện trong Umayuru tập 20 và cameo Season 3.
+- **Ai-chan** — named civilian ở Cinderella Gray tập 10.
+- Cùng các racer/trainer CG được ghi trong `ANIMATION_NAME_AUDIT.md`.
 
 ## Quy tắc độ phủ
 
-- Không cần có thoại mới được tính: racer có proper name trên race card/roster hoặc production asset vẫn thuộc coverage.
-- Generic role như `Reporter`, `Doctor`, `Teacher`, `Audience Member`... không tạo profile nếu không có stable canonical name.
+- Không cần có thoại mới được tính: proper name trên race card/roster hoặc production asset vẫn có thể đủ evidence.
+- Generic role như `Reporter`, `Doctor`, `Teacher`, `Audience Member`, `Head Chef`... không tạo profile nếu không có stable canonical name.
 - `UNSPECIFIED` = đã kiểm tra nguồn nhưng nguồn không nói.
-- `NOT_YET_NORMALIZED` chỉ được dùng khi field đó thực sự chưa được research; mục tiêu character database là loại bỏ trạng thái này bằng research, không bằng suy đoán.
+- `TBD` = fanfic chưa quyết định.
+- `NOT_YET_NORMALIZED` không phải trạng thái đích cho character database; nếu còn gặp trong một profile nhân vật thì phải tiếp tục research hoặc đổi thành `UNSPECIFIED` khi đã xác nhận source im lặng.
 - Manga-only character không tự động được kéo vào anime baseline. Phải có evidence animation.
