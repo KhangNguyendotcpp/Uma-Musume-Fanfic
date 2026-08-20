@@ -1,7 +1,7 @@
-# TV S3 — Source Timeline
+# TV S3 — Timeline theo nguồn
 
-Source continuity: `TV_S3`.
+Continuity nguồn: `TV_S3`.
 
-Primary generation: Kitasan Black / Satono Diamond, with Satono Crown, Cheval Grand, Sounds of Earth, Duramente and recurring Spica/Tracen cast. The fanfic reserves this material as a later-generation anchor rather than inheriting real-horse birth years.
+Thế hệ chính: Kitasan Black / Satono Diamond, cùng Satono Crown, Cheval Grand, Sounds of Earth, Duramente và cast Spica/Tracen tái xuất. Fanfic giữ material này làm anchor cho thế hệ muộn hơn thay vì kế thừa năm sinh ngựa thật.
 
-Exact episode-to-Gregorian mapping remains a fanfic decision.
+Mapping từng tập sang năm/tháng/ngày dương lịch cụ thể vẫn là quyết định fanfic.

@@ -1,7 +1,7 @@
-# Official Timeline Notes
+# Ghi chú Timeline Chính thức
 
-These files record narrative/race ordering inside each source. They intentionally do **not** force separate adaptations into one Gregorian chronology.
+Các file trong thư mục này ghi lại thứ tự narrative/race **bên trong từng nguồn riêng**. Chúng cố ý **không** ép các adaptation khác nhau vào một chronology dương lịch duy nhất.
 
-The fanfic's exact calendar is in `fanfic/timeline/CANON_TIMELINE_2025_2029.md`.
+Calendar chính xác của fanfic nằm tại `fanfic/timeline/CANON_TIMELINE_2025_2029.md`.
 
-Continuities in scope: TV S1, TV S2, TV S3, RTTT, Beginning of a New Era, Cinderella Gray, Umayuru/Umayon, 1st Anniversary animation.
+Các continuity trong phạm vi: TV S1, TV S2, TV S3, RTTT, Beginning of a New Era, Cinderella Gray, Umayuru/Umayon và animation kỷ niệm 1 năm.

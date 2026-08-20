@@ -1,18 +1,18 @@
-# Official Research — Tracen Academy
+# Nghiên cứu Chính thức — Tracen Academy
 
-**Scope:** source-derived baseline only. Fanfic institutional repairs live under `fanfic/world/`.
+**Phạm vi:** chỉ baseline rút từ nguồn. Các phần sửa/giải thích riêng của fanfic nằm dưới `fanfic/world/`.
 
-## Confirmed/useful source observations
-- The animation and game consistently treat Tracen as both an educational institution and elite racing/training environment.
-- Dorms, academic classes, clubs/student council, trainers, training facilities and race preparation all coexist in the setting.
-- TV sources explicitly identify a `Trainer`, Team Spica and Team Rigil/Hana Toujou; game material provides additional trainer/institutional detail.
+## Quan sát nguồn đã xác nhận/hữu ích
+- Animation và game nhất quán trong việc xem Tracen vừa là cơ sở giáo dục vừa là môi trường racing/training tinh hoa.
+- Ký túc xá, lớp văn hóa, CLB/hội học sinh, trainer, cơ sở training và chuẩn bị cho race cùng tồn tại trong setting.
+- Nguồn TV xác định rõ một `Trainer`, Team Spica và Team Rigil/Hana Toujou; material game cung cấp thêm chi tiết trainer/thể chế.
 
-## Not safely fixed by the current official audit
-- A complete legally equivalent Japanese school-system mapping.
-- A canonical four-year university division.
-- Exact legal ages for every student.
-- A single trainer authority model shared by every adaptation.
+## Chưa thể chốt an toàn từ audit chính thức hiện tại
+- Mapping pháp lý đầy đủ tương đương hệ thống trường học Nhật Bản.
+- Một University Division 4 năm mang tính canon.
+- Tuổi pháp lý chính xác của từng học sinh.
+- Một mô hình quyền hạn trainer duy nhất dùng chung cho mọi adaptation.
 
-These remain `UNSPECIFIED/CONFLICTING` until sourced. Do not backfill them from ordinary Japanese education assumptions.
+Các mục này giữ trạng thái `UNSPECIFIED/CONFLICTING` cho đến khi có nguồn. Không lấp bằng giả định thông thường về giáo dục Nhật Bản.
 
-Sources: official anime cast/staff pages; official character portal; Drive anime corpus; community cross-continuity index in `SOURCES_OF_TRUTH.txt`.
+Nguồn: các trang cast/staff anime chính thức; portal nhân vật chính thức; corpus anime Drive; index xuyên continuity cộng đồng trong `SOURCES_OF_TRUTH.txt`.

@@ -1,8 +1,8 @@
-# Official Research — Winning Live
+# Nghiên cứu Chính thức — Winning Live
 
-Winning Lives are a core public-performance component associated with racing in the franchise. Animation, game and music/live materials demonstrate racing-to-stage culture, but the current source pass does **not** establish one exhaustive cross-continuity operating manual for rehearsal timing, refusal, injury exemptions or exact post-race scheduling.
+Winning Live là thành phần biểu diễn công khai cốt lõi gắn với racing trong franchise. Animation, game và material âm nhạc/live chứng minh văn hóa chuyển từ race lên sân khấu, nhưng vòng research hiện tại **không** xác lập một operating manual xuyên continuity hoàn chỉnh cho thời gian rehearsal, quyền từ chối, miễn vì chấn thương hoặc lịch chính xác sau race.
 
-Therefore:
-- official presence/cultural importance: `FOUND`;
-- universal exact operating rules: `UNSPECIFIED/NOT_YET_NORMALIZED`;
-- fixed clock used for prose: `FANFIC ORIGINAL`, documented in `fanfic/world/winning-live-protocol.md` and the writing schedule.
+Vì vậy:
+- sự tồn tại chính thức/tầm quan trọng văn hóa: `FOUND`;
+- quy tắc vận hành chính xác dùng chung toàn bộ continuity: `UNSPECIFIED/NOT_YET_NORMALIZED`;
+- giờ cố định dùng trong prose: `FANFIC ORIGINAL`, được ghi tại `fanfic/world/winning-live-protocol.md` và writing schedule.

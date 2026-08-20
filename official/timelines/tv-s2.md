@@ -1,7 +1,7 @@
-# TV S2 — Source Timeline
+# TV S2 — Timeline theo nguồn
 
-Source continuity: `TV_S2`.
+Continuity nguồn: `TV_S2`.
 
-Primary arc: Tokai Teio / Mejiro McQueen. Official episode material explicitly covers the Derby, Tenno Sho (Spring), Rice Shower/McQueen confrontation, repeated Teio fractures, Fan Appreciation Festival, Kikuka Sho observation and McQueen's serious leg condition.
+Arc chính: Tokai Teio / Mejiro McQueen. Material tập chính thức bao gồm rõ các mốc Derby, Tenno Sho (Spring), cuộc đối đầu Rice Shower/McQueen, nhiều lần gãy xương của Teio, Fan Appreciation Festival, việc theo dõi Kikuka Sho và tình trạng chân nghiêm trọng của McQueen.
 
-The source's race-history inspiration must not be used to push these characters decades backward in the fanfic. Gregorian placement is assigned separately.
+Nguồn cảm hứng race-history của series không được dùng để đẩy các nhân vật này lùi hàng chục năm trong fanfic. Placement dương lịch được gán riêng.

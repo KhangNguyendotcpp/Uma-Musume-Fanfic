@@ -1,7 +1,7 @@
-# TV S1 — Source Timeline
+# TV S1 — Timeline theo nguồn
 
-Source continuity: `TV_S1`.
+Continuity nguồn: `TV_S1`.
 
-Narrative spine: Special Week arrives at Tracen, joins the elite racing environment around Team Spica, forms a central relationship with Silence Suzuka, progresses through major races and the Suzuka/Special Week arc. Official cast/staff source confirms Special Week, Suzuka, Teio, Vodka, Daiwa Scarlet, Gold Ship, McQueen, El Condor Pasa, Grass Wonder, Seiun Sky, Haru Urara, Tazuna, Trainer and Hana Toujou among principal cast.
+Trục narrative: Special Week đến Tracen, bước vào môi trường racing tinh hoa quanh Team Spica, hình thành mối quan hệ trung tâm với Silence Suzuka, tiến qua các major race và arc Suzuka/Special Week. Nguồn cast/staff chính thức xác nhận Special Week, Suzuka, Teio, Vodka, Daiwa Scarlet, Gold Ship, McQueen, El Condor Pasa, Grass Wonder, Seiun Sky, Haru Urara, Tazuna, Trainer và Hana Toujou nằm trong số cast chính.
 
-No Gregorian year is imposed here. The fanfic maps this narrative spine into 2026.
+Không gán năm dương lịch ở đây. Fanfic map trục narrative này vào năm 2026.

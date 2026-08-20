@@ -1,5 +1,5 @@
-# Official Research — Society, Media and Public Life
+# Nghiên cứu Chính thức — Xã hội, Truyền thông và Đời sống Công chúng
 
-The animation/game corpus supports a society in which elite Uma racers are major public figures: racing is broadcast and reported, fans follow named racers, public stages/Winning Lives exist, and school/training life intersects with celebrity culture.
+Corpus animation/game hỗ trợ một xã hội nơi các elite Uma racer là nhân vật công chúng lớn: racing được phát sóng và đưa tin, fan theo dõi các racer có tên, có sân khấu công khai/Winning Live, và đời sống trường học/training giao thoa với văn hóa người nổi tiếng.
 
-The current source pass does not safely establish a single comprehensive legal code for image rights, prize-money ownership, medical privacy, professional contracts or retirement across all continuities. These fields remain `UNSPECIFIED/NOT_YET_NORMALIZED` until sourced or deliberately extended for fanfic.
+Vòng research hiện tại chưa thể xác lập an toàn một bộ luật toàn diện duy nhất về quyền hình ảnh, quyền sở hữu tiền thưởng, riêng tư y tế, hợp đồng chuyên nghiệp hoặc giải nghệ xuyên mọi continuity. Các trường này giữ `UNSPECIFIED/NOT_YET_NORMALIZED` cho đến khi có nguồn hoặc được fanfic chủ động mở rộng.
