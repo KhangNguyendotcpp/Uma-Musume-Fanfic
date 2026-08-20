@@ -1,43 +1,43 @@
-# Season 3 / Later TV Profiles
+# Profile Season 3 / TV giai đoạn sau
 
 ## Satono Crown
-- **Type:** Umamusume; **source:** TV_S3.
-- **Role:** major Kitasan/Satono-generation racer; Satono family connection.
-- Standard fields: NOT_YET_NORMALIZED.
+- **Loại:** Umamusume; **nguồn:** TV_S3.
+- **Vai trò:** racer lớn của thế hệ Kitasan/Satono; có kết nối với gia đình Satono.
+- Các trường tiêu chuẩn: `NOT_YET_NORMALIZED`.
 
 ## Cheval Grand
-- **Type:** Umamusume; **source:** TV_S3/Anniversary.
-- **Role:** major TV_S3 competitor; sibling relationship with Verxina/Vivlos is relevant.
-- Fields NOT_YET_NORMALIZED.
+- **Loại:** Umamusume; **nguồn:** TV_S3/Anniversary.
+- **Vai trò:** đối thủ lớn trong TV_S3; quan hệ anh/chị/em với Verxina/Vivlos là thông tin quan trọng.
+- Các trường `NOT_YET_NORMALIZED`.
 
 ## Sounds of Earth
-- **Type:** Umamusume; **source:** TV_S3.
-- **Role:** named major competitor; music/metaphor-heavy persona.
-- Fields NOT_YET_NORMALIZED.
+- **Loại:** Umamusume; **nguồn:** TV_S3.
+- **Vai trò:** đối thủ lớn có tên; persona sử dụng nhiều âm nhạc/ẩn dụ.
+- Các trường `NOT_YET_NORMALIZED`.
 
 ## Duramente
-- **Type:** Umamusume; **source:** TV_S3.
-- **Role:** elite Kitasan-generation rival.
-- Fields NOT_YET_NORMALIZED.
+- **Loại:** Umamusume; **nguồn:** TV_S3.
+- **Vai trò:** elite rival thuộc thế hệ Kitasan.
+- Các trường `NOT_YET_NORMALIZED`.
 
 ## Verxina
-- **Type:** Umamusume; **source:** TV_S3.
-- **Role:** Cheval Grand sibling/family cast.
-- Fields NOT_YET_NORMALIZED.
+- **Loại:** Umamusume; **nguồn:** TV_S3.
+- **Vai trò:** cast gia đình/anh chị em của Cheval Grand.
+- Các trường `NOT_YET_NORMALIZED`.
 
 ## Vivlos
-- **Type:** Umamusume; **source:** TV_S3.
-- **Role:** Cheval Grand sibling/family cast.
-- Fields NOT_YET_NORMALIZED.
+- **Loại:** Umamusume; **nguồn:** TV_S3.
+- **Vai trò:** cast gia đình/anh chị em của Cheval Grand.
+- Các trường `NOT_YET_NORMALIZED`.
 
 ## Copano Rickey
-- **Type:** Umamusume; **source:** TV_S3.
-- **Profile:** named supporting racer; fields NOT_YET_NORMALIZED.
+- **Loại:** Umamusume; **nguồn:** TV_S3.
+- **Profile:** supporting racer có tên; các trường `NOT_YET_NORMALIZED`.
 
 ## Royce and Royce
-- **Type:** Umamusume; **source:** TV_S3.
-- **Profile:** named supporting character; fields NOT_YET_NORMALIZED.
+- **Loại:** Umamusume; **nguồn:** TV_S3.
+- **Profile:** supporting character có tên; các trường `NOT_YET_NORMALIZED`.
 
 ## Aston Machan
-- **Type:** Umamusume; **source:** 1st Anniversary animation / animation index.
-- **Profile:** named animation presence; fields NOT_YET_NORMALIZED.
+- **Loại:** Umamusume; **nguồn:** animation kỷ niệm 1 năm / index animation.
+- **Profile:** có mặt trong animation với tên; các trường `NOT_YET_NORMALIZED`.

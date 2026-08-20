@@ -1,12 +1,12 @@
-# Named Animation Character Coverage Index
+# Chỉ mục độ phủ nhân vật có tên trong Animation
 
-**Coverage target:** every named/credited character found in the animation corpus in scope: TV S1–S3, 1st Anniversary animation, ROAD TO THE TOP, Beginning of a New Era, Umayon, Umayuru and Cinderella Gray. Generic unnamed `Reporter`, `Doctor`, `Teacher`, crowd roles etc. are excluded unless a stable canonical name is discovered.
+**Mục tiêu độ phủ:** mọi nhân vật có tên/được credit được tìm thấy trong corpus animation thuộc phạm vi: TV S1–S3, animation kỷ niệm 1 năm, ROAD TO THE TOP, Beginning of a New Era, Umayon, Umayuru và Cinderella Gray. Các vai nền chung chung không tên như `Reporter`, `Doctor`, `Teacher`, đám đông... bị loại trừ trừ khi tìm được một tên canon ổn định.
 
-**Current source-indexed baseline: 142 unique named characters.** This is an audit baseline, not a claim that every Drive video has already been frame-by-frame OCRed. If a later subtitle/frame audit reveals another on-screen name, add it immediately.
+**Baseline hiện tại được index theo nguồn: 142 nhân vật có tên riêng biệt.** Đây là baseline audit, không phải tuyên bố rằng mọi video Drive đã được OCR frame-by-frame hoàn chỉnh. Nếu audit phụ đề/frame sau này phát hiện thêm tên xuất hiện trên màn ảnh, phải thêm ngay.
 
-Detailed normalized profiles are in the sibling profile files. A name whose fields are not yet fully extracted is explicitly `NOT_YET_NORMALIZED`; nothing is invented to fill blanks.
+Các profile đã chuẩn hóa chi tiết nằm trong các file profile cùng thư mục. Nhân vật có trường dữ liệu chưa được bóc đầy đủ phải ghi rõ `NOT_YET_NORMALIZED`; tuyệt đối không bịa để lấp chỗ trống.
 
-## A — TV / recurring core and named TV-supporting cast
+## A — Nhân vật TV cốt lõi/tái xuất hiện và supporting cast TV có tên
 1. Special Week
 2. Silence Suzuka
 3. Gold Ship
@@ -61,7 +61,7 @@ Detailed normalized profiles are in the sibling profile files. A name whose fiel
 52. Relic Earth
 53. Rionatal
 
-## B — Season 3 / later TV named additions
+## B — Nhân vật có tên được bổ sung từ Season 3 / TV giai đoạn sau
 54. Satono Crown
 55. Cheval Grand
 56. Sounds of Earth
@@ -83,7 +83,7 @@ Detailed normalized profiles are in the sibling profile files. A name whose fiel
 70. Shima
 71. Mai
 
-## D — Umayuru / Umayon / animation-short named additions
+## D — Umayuru / Umayon / nhân vật có tên được bổ sung từ short animation
 72. Symboli Kris S
 73. Tanino Gimlet
 74. Tsurumaru Tsuyoshi
@@ -100,7 +100,7 @@ Detailed normalized profiles are in the sibling profile files. A name whose fiel
 85. Little Cocon
 86. Bitter Glasse
 
-## E — Cinderella Gray and named CG-animation cast
+## E — Cinderella Gray và cast animation CG có tên
 87. Belno Light
 88. Fujimasa March
 89. Norn Ace
@@ -136,7 +136,7 @@ Detailed normalized profiles are in the sibling profile files. A name whose fiel
 119. To-Car
 120. Mr. C.B.
 
-## F — Named human trainers, staff, officials and media
+## F — Trainer, staff, viên chức và nhân vật truyền thông là người có tên
 121. Tazuna Hayakawa
 122. Trainer (Spica Trainer)
 123. Hana Toujou
@@ -160,5 +160,5 @@ Detailed normalized profiles are in the sibling profile files. A name whose fiel
 141. Yayoi Akikawa
 142. Riko Kashimoto
 
-## Audit note
-This list is deliberately conservative about generic background roles and deliberately inclusive about stable on-screen names. The next full Drive subtitle/frame audit may increase the count; it must never reduce coverage by silently deleting a named character.
+## Ghi chú audit
+Danh sách này cố ý thận trọng với các vai nền chung chung và cố ý bao quát các tên ổn định xuất hiện trên màn ảnh. Audit đầy đủ phụ đề/frame Drive sau này có thể làm số lượng tăng lên; không bao giờ được giảm độ phủ bằng cách âm thầm xóa một nhân vật có tên.

@@ -1,97 +1,97 @@
-# Named Trainers, Staff, Officials and Media Profiles
+# Profile Trainer, Staff, Viên chức và Truyền thông có tên
 
 ## Tazuna Hayakawa
-- **Japanese:** 駿川たづな
-- **Type:** human/Tracen administrative-support character
-- **Birthday:** May 2; **height:** 166 cm (profile baseline)
-- **Animation:** TV S1/S2, shorts, other appearances.
-- **Sources:** official S1 cast; https://umamusu.wiki/Tazuna_Hayakawa
+- **Tiếng Nhật:** 駿川たづな
+- **Loại:** nhân vật người/hỗ trợ hành chính Tracen
+- **Ngày sinh:** 2 tháng 5; **chiều cao:** 166 cm (baseline profile)
+- **Animation:** TV S1/S2, shorts, các lần xuất hiện khác.
+- **Nguồn:** cast S1 chính thức; https://umamusu.wiki/Tazuna_Hayakawa
 
 ## Trainer / Spica Trainer
-- **Japanese credit:** トレーナー
-- **Type:** human trainer; anime-original central Team Spica trainer
-- **Height:** 180 cm (wiki/setting baseline)
-- **Official naming caution:** TV cast credits him simply as `Trainer`. A setting-book name reported by secondary/reference material must not be silently promoted as his anime canonical spoken name.
-- **Sources:** official S1/S2 cast; https://umamusu.wiki/Trainer
+- **Credit tiếng Nhật:** トレーナー
+- **Loại:** trainer người; trainer trung tâm anime-original của Team Spica
+- **Chiều cao:** 180 cm (baseline wiki/setting)
+- **Lưu ý tên chính thức:** cast TV chỉ credit anh là `Trainer`. Một tên từ setting book được material tham khảo/thứ cấp ghi nhận không được âm thầm nâng thành tên canon được gọi trên màn ảnh anime.
+- **Nguồn:** cast S1/S2 chính thức; https://umamusu.wiki/Trainer
 
 ## Hana Toujou
-- **Japanese:** 東条ハナ
-- **Type:** human trainer; Team Rigil trainer in TV anime
-- **Sources:** official S1/S2 cast; https://umamusu.wiki/Hana_Toujou
+- **Tiếng Nhật:** 東条ハナ
+- **Loại:** trainer người; trainer Team Rigil trong TV anime
+- **Nguồn:** cast S1/S2 chính thức; https://umamusu.wiki/Hana_Toujou
 
 ## Junko Hosoe
-- **Type:** named media/commentary figure; animation/Umayuru presence.
-- Detailed standard fields NOT_YET_NORMALIZED.
+- **Loại:** nhân vật truyền thông/bình luận có tên; xuất hiện animation/Umayuru.
+- Các trường tiêu chuẩn chi tiết `NOT_YET_NORMALIZED`.
 
 ## Misato Akasaka
-- **Type:** named media/commentary figure in TV anime.
-- Detailed fields NOT_YET_NORMALIZED.
+- **Loại:** nhân vật truyền thông/bình luận có tên trong TV anime.
+- Các trường chi tiết `NOT_YET_NORMALIZED`.
 
 ## Kuronuma
-- **Type:** named trainer; associated with Mihono Bourbon in TV_S3/related anime continuity.
-- Detailed fields NOT_YET_NORMALIZED.
+- **Loại:** trainer có tên; gắn với Mihono Bourbon trong TV_S3/continuity anime liên quan.
+- Các trường chi tiết `NOT_YET_NORMALIZED`.
 
 ## Minamizaka
-- **Type:** named trainer; Team Canopus trainer in TV anime.
-- Detailed fields NOT_YET_NORMALIZED.
+- **Loại:** trainer có tên; trainer Team Canopus trong TV anime.
+- Các trường chi tiết `NOT_YET_NORMALIZED`.
 
 ## Trainer Okita
-- **Japanese:** 沖田トレーナー
-- **Type:** human trainer; RTTT; Narita Top Road's trainer.
-- **Source:** https://umamusu.wiki/Trainer_Okita
+- **Tiếng Nhật:** 沖田トレーナー
+- **Loại:** trainer người; RTTT; trainer của Narita Top Road.
+- **Nguồn:** https://umamusu.wiki/Trainer_Okita
 
 ## Trainer Tanabe
-- **Type:** human trainer; BOANE; associated with Jungle Pocket and prior Fuji Kiseki context.
-- **Source:** https://umamusu.wiki/Trainer_Tanabe
+- **Loại:** trainer người; BOANE; gắn với Jungle Pocket và bối cảnh Fuji Kiseki trước đó.
+- **Nguồn:** https://umamusu.wiki/Trainer_Tanabe
 
 ## Satono's Trainer
-- **Type:** named/identified trainer role in animation index; exact personal name/details NOT_YET_NORMALIZED.
+- **Loại:** vai trò trainer được gọi tên/xác định trong index animation; tên cá nhân/chi tiết chính xác `NOT_YET_NORMALIZED`.
 
 ## Sasami Anshinzawa
-- **Type:** named human supporting character; UMAYURU/game-origin animation appearance.
-- Fields NOT_YET_NORMALIZED.
+- **Loại:** supporting human có tên; xuất hiện UMAYURU/animation từ nguồn gốc game.
+- Các trường `NOT_YET_NORMALIZED`.
 
 ## Etsuko Otonashi
-- **Type:** named media/reporter character; UMAYURU.
-- Fields NOT_YET_NORMALIZED.
+- **Loại:** nhân vật truyền thông/phóng viên có tên; UMAYURU.
+- Các trường `NOT_YET_NORMALIZED`.
 
 ## Jo Kitahara
-- **Type:** human trainer/mentor; Cinderella Gray Kasamatsu side; central to Oguri's early arc.
-- **Source:** https://umamusu.wiki/Jo_Kitahara
+- **Loại:** trainer/mentor người; phía Kasamatsu trong Cinderella Gray; rất quan trọng với arc đầu của Oguri.
+- **Nguồn:** https://umamusu.wiki/Jo_Kitahara
 
 ## Ginjirou Musaka
-- **Type:** named Cinderella Gray human/staff figure.
-- Fields NOT_YET_NORMALIZED.
+- **Loại:** nhân vật người/staff có tên trong Cinderella Gray.
+- Các trường `NOT_YET_NORMALIZED`.
 
 ## Masami Komiyama
-- **Type:** named Cinderella Gray trainer/staff figure.
-- Fields NOT_YET_NORMALIZED.
+- **Loại:** trainer/staff có tên trong Cinderella Gray.
+- Các trường `NOT_YET_NORMALIZED`.
 
 ## Fumino Nase
-- **Type:** named Cinderella Gray trainer/staff figure.
-- Fields NOT_YET_NORMALIZED.
+- **Loại:** trainer/staff có tên trong Cinderella Gray.
+- Các trường `NOT_YET_NORMALIZED`.
 
 ## Sensuke Fujii
-- **Type:** named Cinderella Gray human/staff figure; secondary cast cross-check.
-- Fields NOT_YET_NORMALIZED.
+- **Loại:** nhân vật người/staff có tên trong Cinderella Gray; cross-check cast thứ cấp.
+- Các trường `NOT_YET_NORMALIZED`.
 
 ## Kouichi Shibasaki
-- **Type:** named Cinderella Gray human/staff figure; secondary cast cross-check.
-- Fields NOT_YET_NORMALIZED.
+- **Loại:** nhân vật người/staff có tên trong Cinderella Gray; cross-check cast thứ cấp.
+- Các trường `NOT_YET_NORMALIZED`.
 
 ## Hiyori Kawamura
-- **Type:** named Cinderella Gray human/staff figure; secondary cast cross-check.
-- Fields NOT_YET_NORMALIZED.
+- **Loại:** nhân vật người/staff có tên trong Cinderella Gray; cross-check cast thứ cấp.
+- Các trường `NOT_YET_NORMALIZED`.
 
 ## Aoi Kiryuin
-- **Type:** human rookie trainer; game-origin; animation/BOANE cameo cross-check.
-- **Association:** Happy Meek.
-- **Source:** https://umamusu.wiki/Aoi_Kiryuin
+- **Loại:** trainer người mới vào nghề; nguồn gốc game; cross-check cameo animation/BOANE.
+- **Liên hệ:** Happy Meek.
+- **Nguồn:** https://umamusu.wiki/Aoi_Kiryuin
 
 ## Yayoi Akikawa
-- **Type:** human Tracen chairwoman/director figure; appears in animation/anniversary/short-form material.
-- **Source:** https://umamusu.wiki/Yayoi_Akikawa
+- **Loại:** nhân vật người giữ vai trò chairwoman/director của Tracen; xuất hiện trong animation/anniversary/short-form material.
+- **Nguồn:** https://umamusu.wiki/Yayoi_Akikawa
 
 ## Riko Kashimoto
-- **Type:** human trainer/administrative figure from game-origin material; BOANE cameo cross-check.
-- Detailed animation-specific fields NOT_YET_NORMALIZED.
+- **Loại:** trainer/nhân vật hành chính người có nguồn gốc game; cross-check cameo BOANE.
+- Các trường riêng cho animation chi tiết `NOT_YET_NORMALIZED`.

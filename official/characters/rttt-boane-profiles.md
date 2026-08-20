@@ -1,47 +1,47 @@
-# RTTT / Beginning of a New Era Profiles
+# Profile RTTT / Beginning of a New Era
 
 ## T.M. Opera O
-- **Type:** Umamusume; **sources:** RTTT, BOANE, shorts.
-- **Role:** central RTTT Classic rival; theatrical self-presentation.
-- Standard fields NOT_YET_NORMALIZED.
+- **Loại:** Umamusume; **nguồn:** RTTT, BOANE, shorts.
+- **Vai trò:** đối thủ Classic trung tâm của RTTT; cách tự trình bày mang tính sân khấu mạnh.
+- Các trường tiêu chuẩn `NOT_YET_NORMALIZED`.
 
 ## Narita Top Road
-- **Type:** Umamusume; **source:** RTTT, BOANE.
-- **Role:** RTTT protagonist; Trainer Okita's athlete.
-- **Racing anchors:** Yayoi Sho, Satsuki Sho, Derby, Kyoto Shimbun Hai, Kikuka Sho.
-- Fields NOT_YET_NORMALIZED.
+- **Loại:** Umamusume; **nguồn:** RTTT, BOANE.
+- **Vai trò:** protagonist RTTT; vận động viên của Trainer Okita.
+- **Mốc racing:** Yayoi Sho, Satsuki Sho, Derby, Kyoto Shimbun Hai, Kikuka Sho.
+- Các trường `NOT_YET_NORMALIZED`.
 
 ## Admire Vega
-- **Type:** Umamusume; **source:** RTTT.
-- **Role:** central RTTT rival; serious/withdrawn demeanor.
-- Fields NOT_YET_NORMALIZED.
+- **Loại:** Umamusume; **nguồn:** RTTT.
+- **Vai trò:** rival trung tâm RTTT; khí chất nghiêm túc/thu mình.
+- Các trường `NOT_YET_NORMALIZED`.
 
 ## Curren Chan
-- **Type:** Umamusume; **source:** RTTT/animation index.
-- **Profile:** named appearance; fields NOT_YET_NORMALIZED.
+- **Loại:** Umamusume; **nguồn:** RTTT/index animation.
+- **Profile:** có tên xuất hiện; các trường `NOT_YET_NORMALIZED`.
 
 ## Jungle Pocket
-- **Type:** Umamusume; **source:** BOANE.
-- **Role:** BOANE protagonist; Trainer Tanabe connection.
-- Fields NOT_YET_NORMALIZED.
+- **Loại:** Umamusume; **nguồn:** BOANE.
+- **Vai trò:** protagonist BOANE; có kết nối với Trainer Tanabe.
+- Các trường `NOT_YET_NORMALIZED`.
 
 ## Dantsu Flame
-- **Type:** Umamusume; **source:** BOANE.
-- **Role:** BOANE main racing-generation cast.
-- Fields NOT_YET_NORMALIZED.
+- **Loại:** Umamusume; **nguồn:** BOANE.
+- **Vai trò:** cast thế hệ thi đấu chính của BOANE.
+- Các trường `NOT_YET_NORMALIZED`.
 
 ## Nana Izumoto
-- **Type:** named supporting human; **source:** BOANE.
-- **Profile:** identity/appearance in BOANE FOUND; standard human-role details NOT_YET_NORMALIZED.
+- **Loại:** supporting human có tên; **nguồn:** BOANE.
+- **Profile:** danh tính/việc xuất hiện trong BOANE `FOUND`; chi tiết vai trò tiêu chuẩn của nhân vật người `NOT_YET_NORMALIZED`.
 
 ## Ru
-- **Type:** named BOANE supporting character; **source:** BOANE cast/index.
-- Exact species/role: NOT_YET_NORMALIZED.
+- **Loại:** supporting character BOANE có tên; **nguồn:** cast/index BOANE.
+- Loài/vai trò chính xác: `NOT_YET_NORMALIZED`.
 
 ## Shima
-- **Type:** named BOANE supporting character; **source:** BOANE cast/index.
-- Exact species/role: NOT_YET_NORMALIZED.
+- **Loại:** supporting character BOANE có tên; **nguồn:** cast/index BOANE.
+- Loài/vai trò chính xác: `NOT_YET_NORMALIZED`.
 
 ## Mai
-- **Type:** named BOANE supporting character; **source:** BOANE cast/index.
-- Exact species/role: NOT_YET_NORMALIZED.
+- **Loại:** supporting character BOANE có tên; **nguồn:** cast/index BOANE.
+- Loài/vai trò chính xác: `NOT_YET_NORMALIZED`.

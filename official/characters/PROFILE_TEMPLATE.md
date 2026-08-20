@@ -1,26 +1,26 @@
-# Official Character Profile Template
+# Mẫu Profile Nhân vật Chính thức
 
 ```text
-Name:
-Japanese name:
-Character type:
-Source continuities:
-Named/on-screen evidence:
-Birthday:
-Height:
-Weight:
-Measurements:
-School division/year/class:
-Dorm/roommate:
-Role/team/trainer:
-Appearance:
-Personality:
-Speech/address:
-Racing profile:
-Relationships:
-Major animation events:
-Source URLs:
-Research status:
+Tên:
+Tên tiếng Nhật:
+Loại nhân vật:
+Continuity nguồn:
+Bằng chứng được gọi tên/xuất hiện trên màn ảnh:
+Ngày sinh:
+Chiều cao:
+Cân nặng:
+Số đo:
+Division/năm/lớp:
+Ký túc xá/bạn cùng phòng:
+Vai trò/team/trainer:
+Ngoại hình:
+Tính cách:
+Cách nói/xưng hô:
+Hồ sơ đua:
+Quan hệ:
+Sự kiện animation lớn:
+URL nguồn:
+Trạng thái nghiên cứu:
 ```
 
-Unknown fields stay `UNSPECIFIED` or `NOT_YET_NORMALIZED`. A profile being present here proves source-indexed coverage; it does not automatically adopt every field into fanfic canon.
+Các trường chưa biết phải giữ `UNSPECIFIED` hoặc `NOT_YET_NORMALIZED`. Việc một profile tồn tại ở đây chứng minh nhân vật đã được index theo nguồn; nó không tự động biến mọi trường dữ liệu thành canon fanfic đã được áp dụng.

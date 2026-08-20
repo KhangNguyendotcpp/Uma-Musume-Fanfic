@@ -1,34 +1,34 @@
-# Umayuru / Umayon / Short-Animation Profiles
+# Profile Umayuru / Umayon / Short Animation
 
-These profiles record named animation presence and key characterization targets. The Drive subtitle corpus is the preferred speech-mining source.
+Các profile này ghi nhận sự hiện diện có tên trong animation và các mục characterization quan trọng. Corpus phụ đề Drive là nguồn ưu tiên để khai thác cách nói.
 
 ## Symboli Kris S
-- Umamusume; UMAYURU. Stoic/serious named lead in short-form cast. Fields NOT_YET_NORMALIZED.
+- Umamusume; UMAYURU. Nhân vật chính có tên trong short-form với phong thái nghiêm nghị/khắc kỷ. Các trường `NOT_YET_NORMALIZED`.
 ## Tanino Gimlet
-- Umamusume; UMAYURU. Dramatic/wild presentation; fields NOT_YET_NORMALIZED.
+- Umamusume; UMAYURU. Cách thể hiện kịch tính/hoang dã; các trường `NOT_YET_NORMALIZED`.
 ## Tsurumaru Tsuyoshi
-- Umamusume; UMAYURU. Named short-form lead; fields NOT_YET_NORMALIZED.
+- Umamusume; UMAYURU. Nhân vật chính có tên trong short-form; các trường `NOT_YET_NORMALIZED`.
 ## Fine Motion
-- Umamusume; UMAYURU/UMAYON. Refined/royal-background framing; fields NOT_YET_NORMALIZED.
+- Umamusume; UMAYURU/UMAYON. Framing thanh lịch/gắn với xuất thân hoàng gia; các trường `NOT_YET_NORMALIZED`.
 ## Air Shakur
-- Umamusume; UMAYURU. Data/logic-heavy persona; fields NOT_YET_NORMALIZED.
+- Umamusume; UMAYURU. Persona thiên về dữ liệu/logic; các trường `NOT_YET_NORMALIZED`.
 ## Inari One
-- Umamusume; UMAYURU. Named supporting racer; fields NOT_YET_NORMALIZED.
+- Umamusume; UMAYURU. Supporting racer có tên; các trường `NOT_YET_NORMALIZED`.
 ## Sirius Symboli
-- Umamusume; UMAYURU/Cinderella Gray-related appearance index. Fields NOT_YET_NORMALIZED.
+- Umamusume; UMAYURU/index xuất hiện liên quan Cinderella Gray. Các trường `NOT_YET_NORMALIZED`.
 ## Happy Meek
-- Umamusume; UMAYURU/BOANE cameo-related material. Fields NOT_YET_NORMALIZED.
+- Umamusume; UMAYURU/material liên quan cameo BOANE. Các trường `NOT_YET_NORMALIZED`.
 ## Agnes Digital
-- Umamusume; UMAYURU. Intense fan/otaku enthusiasm toward other Umas; fields NOT_YET_NORMALIZED.
+- Umamusume; UMAYURU. Sự cuồng nhiệt fan/otaku rất mạnh đối với các Uma khác; các trường `NOT_YET_NORMALIZED`.
 ## Tosen Jordan
-- Umamusume; UMAYURU. Named short-form cast; fields NOT_YET_NORMALIZED.
+- Umamusume; UMAYURU. Cast short-form có tên; các trường `NOT_YET_NORMALIZED`.
 ## Smart Falcon
-- Umamusume; UMAYON/RTTT-related animation index. Idol/racing image; fields NOT_YET_NORMALIZED.
+- Umamusume; UMAYON/index animation liên quan RTTT. Hình ảnh idol/racing; các trường `NOT_YET_NORMALIZED`.
 ## Gold City
-- Umamusume; UMAYON/Cinderella Gray-related cast index. Fields NOT_YET_NORMALIZED.
+- Umamusume; UMAYON/index cast liên quan Cinderella Gray. Các trường `NOT_YET_NORMALIZED`.
 ## Ines Fujin
-- Umamusume; UMAYON. Fields NOT_YET_NORMALIZED.
+- Umamusume; UMAYON. Các trường `NOT_YET_NORMALIZED`.
 ## Little Cocon
-- Umamusume; BOANE cameo/game-origin animation appearance cross-check. Fields NOT_YET_NORMALIZED.
+- Umamusume; cameo BOANE/nhân vật có nguồn gốc game được cross-check trong animation. Các trường `NOT_YET_NORMALIZED`.
 ## Bitter Glasse
-- Umamusume; BOANE cameo/game-origin animation appearance cross-check. Fields NOT_YET_NORMALIZED.
+- Umamusume; cameo BOANE/nhân vật có nguồn gốc game được cross-check trong animation. Các trường `NOT_YET_NORMALIZED`.

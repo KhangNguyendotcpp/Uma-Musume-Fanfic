@@ -1,73 +1,73 @@
-# Cinderella Gray Animation Profiles
+# Profile Animation Cinderella Gray
 
-Source continuity: `CINDERELLA_GRAY`. Exact source fields not listed remain `NOT_YET_NORMALIZED`; international/anime-only names are especially kept conservative.
+Continuity nguồn: `CINDERELLA_GRAY`. Các trường nguồn chính xác không được liệt kê giữ trạng thái `NOT_YET_NORMALIZED`; các tên quốc tế/anime-only đặc biệt được xử lý thận trọng.
 
 ## Belno Light
-- Umamusume; major Oguri-side companion/support in CG. Source: official CG character/cast + adaptation index.
+- Umamusume; companion/support quan trọng bên phía Oguri trong CG. Nguồn: character/cast CG chính thức + index adaptation.
 ## Fujimasa March
-- Umamusume; Kasamatsu-era rival. Source: CG.
+- Umamusume; rival thời Kasamatsu. Nguồn: CG.
 ## Norn Ace
-- Umamusume; Kasamatsu cast. Source: CG.
+- Umamusume; cast Kasamatsu. Nguồn: CG.
 ## Rudy Lemono
-- Umamusume; Kasamatsu cast. Source: CG.
+- Umamusume; cast Kasamatsu. Nguồn: CG.
 ## Mini the Lady
-- Umamusume; Kasamatsu cast. Source: CG.
+- Umamusume; cast Kasamatsu. Nguồn: CG.
 ## Sakura Chiyono O
-- Umamusume; Central-racing generation cast. Source: official/secondary CG cast.
+- Umamusume; cast thế hệ racing Central. Nguồn: cast CG chính thức/thứ cấp.
 ## Kraft Univer
-- Umamusume; named CG animation cast. Detail NOT_YET_NORMALIZED.
+- Umamusume; cast animation CG có tên. Chi tiết `NOT_YET_NORMALIZED`.
 ## Yaeno Muteki
-- Umamusume; Central-racing generation cast. Source: CG cast announcements.
+- Umamusume; cast thế hệ racing Central. Nguồn: thông báo cast CG.
 ## Mejiro Ardan
-- Umamusume; Central-racing generation cast. Source: CG cast announcements.
+- Umamusume; cast thế hệ racing Central. Nguồn: thông báo cast CG.
 ## Dicta Striker
-- Umamusume/anime adaptation character; Central-racing cast. Source: CG cast announcements.
+- Umamusume/nhân vật adaptation anime; cast racing Central. Nguồn: thông báo cast CG.
 ## God Hannibal
-- Named CG racer; detail NOT_YET_NORMALIZED.
+- Racer CG có tên; chi tiết `NOT_YET_NORMALIZED`.
 ## Toni Bianca
-- Named international CG racer; cour-2 cast announcement/cross-check. Detail NOT_YET_NORMALIZED.
+- Racer quốc tế CG có tên; thông báo cast cour 2/cross-check. Chi tiết `NOT_YET_NORMALIZED`.
 ## Obey Your Master
-- Named international CG racer; cour-2 cast announcement/cross-check. Detail NOT_YET_NORMALIZED.
+- Racer quốc tế CG có tên; thông báo cast cour 2/cross-check. Chi tiết `NOT_YET_NORMALIZED`.
 ## Moonlight Lunacy
-- Named international CG racer; cour-2 cast announcement/cross-check. Detail NOT_YET_NORMALIZED.
+- Racer quốc tế CG có tên; thông báo cast cour 2/cross-check. Chi tiết `NOT_YET_NORMALIZED`.
 ## Michelle My Baby
-- Named international CG racer; cour-2 cast announcement/cross-check. Detail NOT_YET_NORMALIZED.
+- Racer quốc tế CG có tên; thông báo cast cour 2/cross-check. Chi tiết `NOT_YET_NORMALIZED`.
 ## Ellerslie Pride
-- Named international CG racer; cour-2 cast announcement/cross-check. Detail NOT_YET_NORMALIZED.
+- Racer quốc tế CG có tên; thông báo cast cour 2/cross-check. Chi tiết `NOT_YET_NORMALIZED`.
 ## Merry Beauty
-- Named CG animation character; secondary cast cross-check. Detail NOT_YET_NORMALIZED.
+- Nhân vật animation CG có tên; cross-check cast thứ cấp. Chi tiết `NOT_YET_NORMALIZED`.
 ## Lord Royal
-- Named CG animation character; secondary cast cross-check. Detail NOT_YET_NORMALIZED.
+- Nhân vật animation CG có tên; cross-check cast thứ cấp. Chi tiết `NOT_YET_NORMALIZED`.
 ## Black Ale
-- Named CG animation character; secondary cast cross-check. Detail NOT_YET_NORMALIZED.
+- Nhân vật animation CG có tên; cross-check cast thứ cấp. Chi tiết `NOT_YET_NORMALIZED`.
 ## Meikun Tsukasa
-- Named CG animation character; secondary cast cross-check. Detail NOT_YET_NORMALIZED.
+- Nhân vật animation CG có tên; cross-check cast thứ cấp. Chi tiết `NOT_YET_NORMALIZED`.
 ## Dynamu Heroine
-- Named CG animation character; secondary cast cross-check. Detail NOT_YET_NORMALIZED.
+- Nhân vật animation CG có tên; cross-check cast thứ cấp. Chi tiết `NOT_YET_NORMALIZED`.
 ## Akitsu Teio
-- Named CG/anime-exclusive indexed character. Detail NOT_YET_NORMALIZED.
+- Nhân vật được index có tên trong CG/anime-exclusive. Chi tiết `NOT_YET_NORMALIZED`.
 ## South Heroine
-- Named CG/anime-exclusive indexed character. Detail NOT_YET_NORMALIZED.
+- Nhân vật được index có tên trong CG/anime-exclusive. Chi tiết `NOT_YET_NORMALIZED`.
 ## Luna Swallow
-- Named CG/anime-exclusive indexed character. Detail NOT_YET_NORMALIZED.
+- Nhân vật được index có tên trong CG/anime-exclusive. Chi tiết `NOT_YET_NORMALIZED`.
 ## All Haiyu
-- Named anime-exclusive indexed character. Detail NOT_YET_NORMALIZED.
+- Nhân vật anime-exclusive được index có tên. Chi tiết `NOT_YET_NORMALIZED`.
 ## Divinity
-- Named anime-exclusive indexed character. Detail NOT_YET_NORMALIZED.
+- Nhân vật anime-exclusive được index có tên. Chi tiết `NOT_YET_NORMALIZED`.
 ## Genjitsu Steal
-- Named anime-exclusive indexed character. Detail NOT_YET_NORMALIZED.
+- Nhân vật anime-exclusive được index có tên. Chi tiết `NOT_YET_NORMALIZED`.
 ## Hard Control
-- Named anime-exclusive indexed character. Detail NOT_YET_NORMALIZED.
+- Nhân vật anime-exclusive được index có tên. Chi tiết `NOT_YET_NORMALIZED`.
 ## Perry Steam
-- Named anime-exclusive indexed character. Detail NOT_YET_NORMALIZED.
+- Nhân vật anime-exclusive được index có tên. Chi tiết `NOT_YET_NORMALIZED`.
 ## Read Fantasy
-- Named anime-exclusive indexed character. Detail NOT_YET_NORMALIZED.
+- Nhân vật anime-exclusive được index có tên. Chi tiết `NOT_YET_NORMALIZED`.
 ## Ribbon Pia
-- Named anime-exclusive indexed character. Detail NOT_YET_NORMALIZED.
+- Nhân vật anime-exclusive được index có tên. Chi tiết `NOT_YET_NORMALIZED`.
 ## River Light
-- Named anime-exclusive indexed character. Detail NOT_YET_NORMALIZED.
+- Nhân vật anime-exclusive được index có tên. Chi tiết `NOT_YET_NORMALIZED`.
 ## To-Car
-- Named anime-exclusive indexed character. Exact role/species/detail NOT_YET_NORMALIZED.
+- Nhân vật anime-exclusive được index có tên. Vai trò/loài/chi tiết chính xác `NOT_YET_NORMALIZED`.
 
-### CG characters already normalized elsewhere
-Oguri Cap, Symboli Rudolf, Maruzensky, Tamamo Cross and Super Creek are covered in core/supporting files. Mr. C.B. is covered in the remaining-character registry.
+### Nhân vật CG đã được chuẩn hóa ở nơi khác
+Oguri Cap, Symboli Rudolf, Maruzensky, Tamamo Cross và Super Creek được quản lý trong các file core/supporting. Mr. C.B. nằm trong remaining-character registry.
