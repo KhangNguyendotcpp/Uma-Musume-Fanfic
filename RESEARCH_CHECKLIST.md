@@ -10,10 +10,16 @@ Dùng các trạng thái: `FOUND`, `UNSPECIFIED`, `CONFLICTING`, `NOT_APPLICABLE
 - [x] Index RTTT
 - [x] Index Beginning of a New Era
 - [x] Index anime/cast Cinderella Gray
-- [x] Index Umayuru + corpus phụ đề của user
-- [x] Index Umayon + corpus video của user
-- [x] Index animation kỷ niệm 1 năm
-- [ ] Audit đầy đủ tên xuất hiện trên màn ảnh theo từng tập đối chiếu với toàn bộ video Drive
+- [x] Umayuru + corpus phụ đề do user cung cấp
+- [x] Umayon + corpus video do user cung cấp
+- [x] Animation kỷ niệm 1 năm
+- [x] Refactor profile tổng thành **mỗi nhân vật một Markdown riêng**
+- [x] Loại bỏ `NOT_YET_NORMALIZED` khỏi baseline character profiles bằng research; field đã kiểm tra nhưng source không nói chuyển thành `UNSPECIFIED`
+- [x] Audit cast-credit Cinderella Gray qua nguồn cast/phát sóng hiện hành; bổ sung các trainer, media và racer có tên bị baseline cũ bỏ sót
+- [x] Tạo `official/characters/ANIMATION_NAME_AUDIT.md` để phân biệt credit, on-screen name, visual-confirmed và manga-only
+- [ ] Audit **frame-by-frame / race-card / roster / on-screen text** của toàn bộ video Google Drive theo từng episode để chốt 100% named visual characters
+
+**Baseline character profile đã chuẩn hóa tại pass 2026-08-21: 163.** Đây chưa phải con số cuối cho tới khi dòng audit frame-by-frame phía trên được hoàn tất.
 
 ## B — Trường định danh nhân vật
 Tên canon; cách viết tiếng Nhật; romanization; biệt danh/alias; ngày sinh; tuổi cụ thể nếu có; division/năm/lớp; ký túc xá; bạn cùng phòng; CLB; chức vụ hội học sinh; team; trainer; quê quán/xuất thân vùng miền.
