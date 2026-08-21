@@ -12,18 +12,22 @@ Dùng các trạng thái: `FOUND`, `UNSPECIFIED`, `CONFLICTING`, `NOT_APPLICABLE
 - [x] Index anime/cast Cinderella Gray
 - [x] Umayuru + corpus phụ đề do user cung cấp
 - [x] Umayon + corpus video do user cung cấp
+- [x] **Umayuru: Pretty Gray** — official 4-episode spin-off được bổ sung vào scope từ online official source
 - [x] Animation kỷ niệm 1 năm
 - [x] Refactor profile tổng thành **mỗi nhân vật một Markdown riêng**
 - [x] Loại bỏ `NOT_YET_NORMALIZED` khỏi baseline character profiles bằng research; field đã kiểm tra nhưng source không nói chuyển thành `UNSPECIFIED`
 - [x] Audit cast-list TV S1/S2/S3, RTTT, BOANE, Umayon, Umayuru, 1st Anniversary và Cinderella Gray so với profile tree
-- [x] Audit episode-level character list của **24 tập Umayon**; bổ sung Biko Pegasus
-- [x] Audit episode/character-list của **24 tập Umayuru**; bổ sung Nakayama Festa
+- [x] Audit episode-level character list 24 tập Umayon; bổ sung Biko Pegasus
+- [x] Audit episode/character-list 24 tập Umayuru; bổ sung Nakayama Festa
+- [x] Audit toàn bộ cast 4 tập Umayuru: Pretty Gray; bổ sung Chrono Genesis, Mejiro Bright, No Reason, Gran Alegria, Loves Only You
 - [x] Audit cast-credit Cinderella Gray; bổ sung trainer, media, named civilian và racer bị baseline cũ bỏ sót
 - [x] Audit BOANE/cross-animation cameo source; bổ sung Neo Universe, Sweep Tosho, Daiichi Ruby, K.S.Miracle, Yamanin Zephyr, Air Messiah, Zenno Rob Roy, Hishi Miracle
+- [x] Audit Season 3 episode/background source pass; bổ sung Nishino Flower, Wonder Acute, Hokko Tarumae, Sakura Laurel, It's Calling
+- [x] Kiểm tra alias S3: `To-Car` = English name, `Tsuukaa` = romaji; `Genjitsu Steal` là master-index spelling, `Genjitsu Steel` là secondary variant
 - [x] Tạo `official/characters/ANIMATION_NAME_AUDIT.md`
 - [ ] Audit **frame-by-frame / race-card / roster / on-screen text** của toàn bộ video Google Drive theo từng episode/movie để chốt 100% named visual characters
 
-**Baseline character profile đã chuẩn hóa tại pass 2026-08-21: 174.** Đây chưa phải con số cuối cho tới khi audit frame-by-frame phía trên hoàn tất.
+**Baseline character profile đã chuẩn hóa tại pass 2026-08-21: 184.** Đây chưa phải con số cuối cho tới khi audit frame-by-frame phía trên hoàn tất.
 
 ## B — Trường định danh nhân vật
 Tên canon; cách viết tiếng Nhật; romanization; biệt danh/alias; ngày sinh; tuổi cụ thể nếu có; division/năm/lớp; ký túc xá; bạn cùng phòng; CLB; chức vụ hội học sinh; team; trainer; quê quán/xuất thân vùng miền.
