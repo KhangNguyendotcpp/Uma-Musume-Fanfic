@@ -19,10 +19,11 @@ Dùng các trạng thái: `FOUND`, `UNSPECIFIED`, `CONFLICTING`, `NOT_APPLICABLE
 - [x] Audit episode-level character list của **24 tập Umayon**; bổ sung Biko Pegasus
 - [x] Audit episode/character-list của **24 tập Umayuru**; bổ sung Nakayama Festa
 - [x] Audit cast-credit Cinderella Gray; bổ sung trainer, media, named civilian và racer bị baseline cũ bỏ sót
+- [x] Audit BOANE/cross-animation cameo source; bổ sung Neo Universe, Sweep Tosho, Daiichi Ruby, K.S.Miracle, Yamanin Zephyr, Air Messiah, Zenno Rob Roy, Hishi Miracle
 - [x] Tạo `official/characters/ANIMATION_NAME_AUDIT.md`
 - [ ] Audit **frame-by-frame / race-card / roster / on-screen text** của toàn bộ video Google Drive theo từng episode/movie để chốt 100% named visual characters
 
-**Baseline character profile đã chuẩn hóa tại pass 2026-08-21: 166.** Đây chưa phải con số cuối cho tới khi audit frame-by-frame phía trên hoàn tất.
+**Baseline character profile đã chuẩn hóa tại pass 2026-08-21: 174.** Đây chưa phải con số cuối cho tới khi audit frame-by-frame phía trên hoàn tất.
 
 ## B — Trường định danh nhân vật
 Tên canon; cách viết tiếng Nhật; romanization; biệt danh/alias; ngày sinh; tuổi cụ thể nếu có; division/năm/lớp; ký túc xá; bạn cùng phòng; CLB; chức vụ hội học sinh; team; trainer; quê quán/xuất thân vùng miền.

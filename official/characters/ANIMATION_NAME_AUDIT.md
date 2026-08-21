@@ -14,8 +14,24 @@ Nếu source đã được kiểm tra mà không nói một field, ghi `UNSPECIF
 
 ## Audit adaptation
 
-### TV Season 1 / Season 2 / Season 3 / 1st Anniversary / RTTT / BOANE
-Proper-named cast trong các cast table đã được đối chiếu với profile tree. Các role generic không tên riêng bị loại. BOANE vẫn cần **cameo/on-screen-name frame audit** vì movie có nhiều background hơn credited main cast.
+### TV Season 1 / Season 2 / Season 3 / 1st Anniversary / RTTT
+Proper-named cast trong các cast table đã được đối chiếu với profile tree. Role generic không tên riêng bị loại. Cameo pass vẫn tiếp tục vì credited cast không bao phủ toàn bộ visual presence.
+
+### Beginning of a New Era — cameo pass
+Cast chính/credit đã được cover từ trước. Pass mới đối chiếu `Media Appearances` và background/campus cameo, phát hiện 8 nhân vật có animation presence nhưng baseline 166 chưa có profile riêng:
+
+- **Neo Universe** — `ANIME_VISUAL_CONFIRMED`; background cameo ở RTTT, Season 3 và BOANE.
+- **Sweep Tosho** — `ANIME_VISUAL_CONFIRMED`; background cameo BOANE.
+- **Daiichi Ruby** — `ANIME_VISUAL_CONFIRMED`; Season 3 background + BOANE opening/campus.
+- **K.S.Miracle** — `ANIME_VISUAL_CONFIRMED`; background ở cảnh Jungle Pocket vào Tracen.
+- **Yamanin Zephyr** — `ANIME_VISUAL_CONFIRMED`; background ở cảnh Jungle Pocket vào Tracen.
+- **Air Messiah** — `ANIME_VISUAL_CONFIRMED`; cameo BOANE.
+- **Zenno Rob Roy** — `ANIME_VISUAL_CONFIRMED`; cameo Season 2 + BOANE, đồng thời có Umayuru appearance.
+- **Hishi Miracle** — `ANIME_VISUAL_CONFIRMED`; xuất hiện trong BOANE và `Umayuru: Pretty Gray`.
+
+Cả 8 đã được tạo profile riêng ở `rttt-boane-profiles/`. Pass này nâng baseline từ **166 lên 174 profile**.
+
+**Quan trọng:** đây vẫn chưa phải frame audit hoàn chỉnh của movie. BOANE có nhiều racer/background shot hơn cast table và vẫn cần quét trực tiếp race card, bảng tên, caption và crowd/campus frames trong file Drive.
 
 ### Umayon — episode character-list audit
 Đã đối chiếu character section của toàn bộ 24 tập ở mức episode wiki/list. Phát hiện một thiếu sót của baseline cast-table:
@@ -27,7 +43,7 @@ Biko đã được bổ sung profile. Trivia của trang Umayon cũng cho biết
 Đã đối chiếu cast table, episode character lists và character index xuyên 24 tập. Phát hiện:
 - **Nakayama Festa — tập 20 `Dealing with Danger`**; trước đó baseline repo thiếu profile dù cô nằm trong Umayuru character ecosystem.
 
-Các nhân vật proper-named khác trong character list đã có profile. Hishi Akebono có recurring background sighting nhưng đã được cover từ trước.
+Các nhân vật proper-named khác trong character list đã có profile. Hishi Akebono có recurring background sighting nhưng đã được cover từ trước. Zenno Rob Roy cũng có cameo ở tập 20 dưới dạng chip trong mahjong và hiện đã có profile riêng.
 
 ### Cinderella Gray
 Credit/name-confirmed mới bổ sung ở các pass gần nhất:
@@ -54,6 +70,6 @@ Anime visual/race-name confirmed nhưng không có voice credit riêng: Massive 
 `Teacher`, `Reporter`, `Doctor`, `Audience Member`, `Head Chef`, `Chairman`, `Vice-Chairman`, `Maintenance Staff`, `Innkeeper Host/Hostess`, `Narrator`... không tạo profile nếu không có stable canonical personal name.
 
 ## Audit chưa hoàn thành tuyệt đối
-- Cast/episode-character-list audit đã sâu hơn baseline cũ và hiện là **166 profile**.
-- **Race-card/on-screen text/cameo audit vẫn phải tiếp tục trực tiếp trên video Google Drive**, đặc biệt BOANE và các race scene có runner không thoại.
+- Cast/episode-character-list/cameo-source audit hiện đạt **174 profile**.
+- **Race-card/on-screen text/cameo frame audit vẫn phải tiếp tục trực tiếp trên video Google Drive**, đặc biệt BOANE và các race scene có runner không thoại.
 - Không được tuyên bố “100% mọi named frame đã cover” cho tới khi từng episode/movie được đánh dấu frame-audited.
