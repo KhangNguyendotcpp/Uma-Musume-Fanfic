@@ -56,7 +56,7 @@ Daily clock, exams, camp, festivals và live windows nằm trong writing schedul
 
 ## 10. Cấu trúc vòng vấn đáp Equinox
 
-Scene ngày 2026-03-9 xác lập một panel sáu người:
+Scene ngày 2026-03-09 xác lập một panel sáu người:
 
 - ba thành viên có quyền đánh giá: đại diện học thuật, đại diện trainer và người điều phối/tiếp nhận hồ sơ;
 - Yayoi Akikawa tham dự với tư cách người đứng đầu cơ sở và có quyền chấp thuận việc tiếp tục quy trình tăng tốc;
