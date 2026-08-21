@@ -12,30 +12,28 @@
 - **Các trường class, dorm, roommate, measurements, shoe size, weight:** `UNSPECIFIED` trong profile nguồn hiện có.
 
 ## 3. Tính cách
-`UNSPECIFIED` trong nguồn đã audit; không suy từ ngựa thật, thiết kế hình ảnh hoặc vai trò race.
-
+Hiền, đãng trí, ít nói và thường thả hồn; biểu cảm khiến người khác khó đoán cô đang nghĩ gì. Dưới Aoi, Meek vẫn chủ động muốn chạy và thắng, dù cách bộc lộ rất nhỏ. “Meek” không đồng nghĩa không có ý chí.
 ## 4. Đời thường / sở thích / thói quen
-`UNSPECIFIED` trong nguồn đã audit.
-
+- Rất giỏi tongue twister, đối lập với việc ít nói.
+- Ngày sinh 20/3, cao 163 cm; tự xưng `Watashi`, gọi `Trainer`.
+- Hobbies, family, dorm và roommate chưa được nguồn profile công bố.
 ## 5. Ngoại hình
-Chỉ dùng character art/animation frame làm bằng chứng trực quan; mô tả chi tiết chưa được chuẩn hóa trong source text giữ `UNSPECIFIED`.
-
+Mắt hồng half-lidded, tóc kem ngang vai nhạt dần sang nâu, kẹp hoa hồng; tai có band hoa nhiều màu, đuôi kem–nâu cắt ngang. Source character page không mô tả race outfit đầy đủ; dùng art/frame nếu cần.
 ## 6. Racing / vai trò narrative
-Game-origin support/rival Umamusume với hình tượng yên lặng và understated; không tự gán thêm đặc điểm nếu chưa có event source cụ thể. Animation presence chủ yếu cameo/short-related cross-check, không có đủ material để biến game story thành anime fact.
-
+Rival/trainee trọng tâm của Aoi trong `GAME_URA_FINALE`. Tài năng lớn nhưng nở chậm là premise; không tự gán aptitude, race record hoặc ceiling ngoài scenario.
 ## 7. Quan hệ
-`UNSPECIFIED` ngoài các tương tác được nguồn trực tiếp xác nhận.
-
+- **Aoi Kiryuin:** trainer và người hướng dẫn chính.
+- Các quan hệ khác `UNSPECIFIED` nếu event không trực tiếp xác nhận.
 ## 8. Animation / media appearances
-Chỉ đánh dấu continuity/tập khi cast credit, caption, dialogue, race card hoặc frame nguồn xác nhận; chưa có evidence bổ sung thì giữ `UNSPECIFIED`.
-
+- `GAME_URA_FINALE`: primary scenario.
+- `UMAYURU`: animation appearance.
+- `BOANE`: cameo.
+- `UMAMUSUMESHI` / `PARTY_DASH`: appearances khác.
 ## 9. Trivia / lưu ý cho fanfic
-- Không chuyển quan hệ/ngày tháng/thành tích của ngựa thật thành canon nhân vật.
-- Profile ngắn phản ánh độ sâu của nguồn, không phải giấy phép bịa thêm personality.
-
+Đừng lấp khoảng lặng của Meek bằng nội tâm phức tạp vô nguồn. Có thể viết nhịp nói ngắn, phản ứng nhỏ và quyết tâm qua hành động; không biến cô thành vô cảm.
 ## 10. Nguồn đã khai thác
 - https://umamusu.wiki/Happy_Meek
 - https://umamusu.wiki/Game%3AURA_Finale
 
 ## 11. Trạng thái nghiên cứu
-`FOUND / NORMALIZED / SOURCE-LIMITED`
+`FOUND / NORMALIZED / HIGH-DETAIL`

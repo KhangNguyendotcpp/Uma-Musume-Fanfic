@@ -9,27 +9,22 @@
 Các trường ngày sinh, division, ký túc xá, chiều cao, số đo hoặc seiyuu chưa được nguồn đã audit công bố đều giữ `UNSPECIFIED`.
 
 ## 3. Tính cách
-`UNSPECIFIED` trong nguồn đã audit; không suy từ ngựa thật, thiết kế hình ảnh hoặc vai trò race.
-
+Bề ngoài tough/intimidating nhưng tử tế và có lý với người thân. Rudy thường bị cuốn vào prank của Mini; personality source tách cô khỏi vai “bully cơ bắp” đơn giản.
 ## 4. Đời thường / sở thích / thói quen
-`UNSPECIFIED` trong nguồn đã audit.
-
+Birthday, family, hobby và đời tư `UNSPECIFIED`. Nguồn chỉ khóa nét sensible/kind với người gần và vai trong nhóm Norn.
 ## 5. Ngoại hình
-Chỉ dùng character art/animation frame làm bằng chứng trực quan; mô tả chi tiết chưa được chuẩn hóa trong source text giữ `UNSPECIFIED`.
-
+Ngoại hình chi tiết phải dựa official Cinderella Gray art/frame; seiyuu You Taichi. Không suy measurements/outfit hay aptitude từ design.
 ## 6. Racing / vai trò narrative
-Một thành viên nhóm Norn Ace / Mini the Lady; ban đầu tham gia bullying Oguri nhưng dần trở thành friend/supporting cast trong `Cinderella Gray`.
-
+Student/racer Kasamatsu supporting cast. Vai narrative đầu là thành viên nhóm gây khó cho Oguri, nhưng nguồn nhấn cô thường bị Mini kéo theo. Race record/style chưa được official bio công bố.
 ## 7. Quan hệ
-`UNSPECIFIED` ngoài các tương tác được nguồn trực tiếp xác nhận.
-
+- **Norn Ace / Mini the Lady:** bạn thân; quan hệ Rudy–Norn hơi abrasive nhưng bền.
+- **Oguri Cap:** từng bị nhóm bắt nạt; thay đổi quan hệ phải theo episode/chapter.
+- Các quan hệ khác `UNSPECIFIED`.
 ## 8. Animation / media appearances
-Chỉ đánh dấu continuity/tập khi cast credit, caption, dialogue, race card hoặc frame nguồn xác nhận; chưa có evidence bổ sung thì giữ `UNSPECIFIED`.
-
+- `CINDERELLA_GRAY_ANIME` / `CINDERELLA_GRAY_MANGA`: supporting character.
+- Official anime character page là nguồn mạnh nhất.
 ## 9. Trivia / lưu ý cho fanfic
-- Không chuyển quan hệ/ngày tháng/thành tích của ngựa thật thành canon nhân vật.
-- Profile ngắn phản ánh độ sâu của nguồn, không phải giấy phép bịa thêm personality.
-
+Profile source-limited. Không dùng vẻ ngoài tough để bịa bạo lực/quá khứ; cũng không xóa trách nhiệm chỉ vì cô bị Mini kéo theo. Đây là original character, không có ngựa thật đối chiếu.
 ## 10. Nguồn đã khai thác
 Wiki/source hiện không công bố birth date, height, dorm/roommate, measurements, trainer-independent profile, aptitude hay biography chi tiết tương đương main cast. Các trường đó là `UNSPECIFIED`, không phải chưa bóc.
 
