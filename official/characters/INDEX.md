@@ -3,7 +3,7 @@
 ## Mục tiêu
 Mỗi nhân vật có **tên ổn định** xuất hiện, được gọi tên, được ghi trên race card/roster/caption hoặc được credit trong animation thuộc phạm vi repo phải có **một file Markdown riêng**.
 
-**Baseline đã chuẩn hóa hiện tại: 184 profile.** Đây là độ phủ đã xác minh tới pass 2026-08-21; **không phải tuyên bố đã audit 100% từng frame của toàn bộ video Google Drive**.
+**Baseline đã chuẩn hóa hiện tại: 186 profile.** Đây là độ phủ đã xác minh tới pass 2026-08-21; **không phải tuyên bố đã audit 100% từng frame của toàn bộ video Google Drive**.
 
 `Gentildonna` là benchmark profile giàu dữ liệu: [season3-profiles/gentildonna.md](season3-profiles/gentildonna.md).
 
@@ -18,13 +18,19 @@ Audit ledger: [ANIMATION_NAME_AUDIT.md](ANIMATION_NAME_AUDIT.md).
 | Season 3 / later anime | 24 | [season3-profiles/](season3-profiles/) |
 | RTTT / Beginning of a New Era | 19 | [rttt-boane-profiles/](rttt-boane-profiles/) |
 | Umayuru / Umayon / Umayuru: Pretty Gray / shorts | 22 | [shorts-profiles/](shorts-profiles/) |
-| Cinderella Gray | 36 | [cinderella-gray-profiles/](cinderella-gray-profiles/) |
+| Cinderella Gray | 38 | [cinderella-gray-profiles/](cinderella-gray-profiles/) |
 | Trainer / staff / officials / media / named humans | 30 | [staff-human-profiles/](staff-human-profiles/) |
-| **Tổng** | **184** | |
+| **Tổng** | **186** | |
 
 Mỗi file trong các thư mục trên là **một nhân vật**, không quay lại mô hình một Markdown nhồi nhiều character.
 
 ## Các bổ sung gần nhất từ animation audit
+
+### Cinderella Gray media/profile pass
+- [Bamboo Memory](cinderella-gray-profiles/bamboo-memory.md) — profile nguồn xác nhận `Anime -> Cinderella Gray`; hồ sơ được chuẩn hóa `HIGH-DETAIL`.
+- [Katsuragi Ace](cinderella-gray-profiles/katsuragi-ace.md) — profile nguồn xác nhận `Anime -> Cinderella Gray (Cameo)`; hồ sơ được chuẩn hóa `HIGH-DETAIL`.
+
+**Không tự động kéo nhân vật chỉ có tag `Cinderella Gray (Cameo)` mơ hồ từ manga/epilogue vào animation baseline.** Nếu source không tách medium rõ hoặc anime chưa tới phần truyện đó, giữ ở trạng thái pending cho tới khi có cast/on-screen/production evidence.
 
 ### Season 3 episode/background pass
 - [Nishino Flower](season3-profiles/nishino-flower.md) — S3 cameo.
