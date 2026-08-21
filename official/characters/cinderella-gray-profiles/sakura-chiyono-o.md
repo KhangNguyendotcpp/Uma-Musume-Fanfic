@@ -15,27 +15,30 @@
 Trong sáng, chăm chỉ và cực kỳ ngưỡng mộ Maruzensky. Chiyono thường ghi “Chiyonotes”, biến kinh nghiệm thành lesson/aphorism. Sự earnest có thể hơi ngây nhưng không yếu; cô thật sự muốn chứng minh mình xứng đáng với hình mẫu đang theo đuổi.
 
 ## 4. Đời thường / sở thích / thói quen
-`UNSPECIFIED` trong nguồn đã audit.
-
+- Ghi “Chiyonotes” chứa các câu châm ngôn tự nghĩ từ trải nghiệm hằng ngày; thường khó hiểu với người khác.
+- Thích làm wagashi, dọn dẹp và sumo; say xe/máy bay.
+- Cập nhật schedule book trước khi ngủ, dùng cùng loại dầu dưỡng đuôi với Maruzensky.
+- Có chó tên Sakura Doggo O, thích sticker động vật và hay ngân nga enka khi ghi chép.
 ## 5. Ngoại hình
-Chỉ dùng character art/animation frame làm bằng chứng trực quan; mô tả chi tiết chưa được chuẩn hóa trong source text giữ `UNSPECIFIED`.
-
+Tóc hồng đậm ngắn, các lọn hai bên đặc trưng, ear cover trắng và phụ kiện sakura; mắt xanh nhạt. Race outfit gợi yukata không tay, hồng–trắng–đen với blossom motif, tights họa tiết cánh hoa và sandals chạy. Character design nhấn “hoa nở” và sự ngay thẳng.
 ## 6. Racing / vai trò narrative
-Vai trò/entry chưa được nguồn đã audit xác nhận thêm; không suy career từ ngựa thật.
-
+Mục tiêu là đứng ngang sân khấu với thần tượng Maruzensky. Arc cần giữ ranh giới giữa noi gương và mất bản sắc: Mr. C.B. cảnh báo cô đừng lý tưởng hóa toàn bộ cuộc đời Maruzensky. Trong Cinderella Gray, Chiyono là đối thủ cùng lớp với Oguri/Yaeno/Ardan.
 ## 7. Quan hệ
-Roommate Mejiro Ardan; Maruzensky là idol/senior; Yaeno Muteki và các Central racers cùng generation. `Cinderella Gray` dùng cô như một phần của lớp elite mà Oguri bước vào.
-
+- **Maruzensky:** tiền bối, hình mẫu và người ủng hộ.
+- **Mejiro Ardan:** roommate, bạn thân và đối thủ; Chiyono chú ý sức khỏe của Ardan.
+- **Yaeno Muteki / Oguri Cap:** bạn học và đối thủ.
+- **Dicta Striker:** bạn/đối thủ trong `CINDERELLA_GRAY`.
+- **Sakura Laurel / Bakushin O / Chitose O:** Victory Club; Team Alkes thuộc manga khác.
+- **Curren Chan / Hishi Akebono:** bạn qua sở thích chung.
 ## 8. Animation / media appearances
-Chỉ đánh dấu continuity/tập khi cast credit, caption, dialogue, race card hoặc frame nguồn xác nhận; chưa có evidence bổ sung thì giữ `UNSPECIFIED`.
-
+- `CINDERELLA_GRAY_ANIME` / `CINDERELLA_GRAY_MANGA`: featured character.
+- `BOANE`: cameo.
+- `STAR_BLOSSOM`: appearance nhưng Team Alkes là manga continuity riêng.
 ## 9. Trivia / lưu ý cho fanfic
-- Không chuyển quan hệ/ngày tháng/thành tích của ngựa thật thành canon nhân vật.
-- Profile ngắn phản ánh độ sâu của nguồn, không phải giấy phép bịa thêm personality.
-
+Không biến Chiyonotes thành triết lý luôn đúng; sức hút nằm ở nỗ lực diễn giải đời sống bằng câu chữ của riêng cô. Idolization Maruzensky có thể tạo conflict nhưng không tự nâng thành lệ thuộc bệnh lý.
 ## 10. Nguồn đã khai thác
 - https://umamusu.wiki/Sakura_Chiyono_O
 - https://anime-cinderellagray.com/character/
 
 ## 11. Trạng thái nghiên cứu
-`FOUND / NORMALIZED / SOURCE-LIMITED`
+`FOUND / NORMALIZED / HIGH-DETAIL`
