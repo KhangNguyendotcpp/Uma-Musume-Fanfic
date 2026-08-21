@@ -16,27 +16,34 @@
 Data/logic-heavy genius, giao tiếp sắc, dễ cáu và không thích những kết luận không có cơ sở. Shakur có xu hướng model hóa vấn đề bằng dữ liệu và code, nhưng sự ám ảnh với “kết quả đã tính ra” cũng có thể trở thành conflict khi thực tế đòi hỏi phá mô hình. Đây là nguồn rất tốt để viết sports-science/data scenes với Taki sau này, nhưng mọi interaction fanfic phải tự phát triển.
 
 ## 4. Đời thường / sở thích / thói quen
-`UNSPECIFIED` trong nguồn đã audit.
-
+- Chỉ tin data tự thu thập; lập simulation để phá dự báo thua 7 cm.
+- Thích programming, ghét ve sầu; tắt mọi SNS notification. Ảnh nền đen plaid.
+- Tai dựng khi suy luận; tính chiều dài/độ dày đuôi tối ưu. Trước race mải nghĩ nên phản hồi gọi chậm.
+- Xem bóng đá Italy; có tật nghiêng phải khi right-click.
 ## 5. Ngoại hình
-Chỉ dùng character art/animation frame làm bằng chứng trực quan; mô tả chi tiết chưa được chuẩn hóa trong source text giữ `UNSPECIFIED`.
-
+- Tóc đen ngắn rối/spiky với streak giữa, mắt vàng; piercings trên mày trái và ear chain bên phải.
+- Race outfit street/punk đen–xanh–vàng bất đối xứng, ripped layers và straps.
 ## 6. Racing / vai trò narrative
-Vai trò/entry chưa được nguồn đã audit xác nhận thêm; không suy career từ ngựa thật.
-
+- “Barrier-Breaking Genius”: race được mô hình hóa bằng data/mathematics; điểm mù là coi phần chưa đo được như noise.
+- Mục tiêu Triple Crown bị prediction 7 cm ám ảnh trong game continuity.
+- Không biến data skill thành omniscience; source cho thấy Shakur tìm lỗi và chịu tác động cảm xúc.
 ## 7. Quan hệ
-`UNSPECIFIED` ngoài các tương tác được nguồn trực tiếp xác nhận.
-
+- **Fine Motion:** bạn; optimism của Fine thách deterministic worldview.
+- **Agnes Tachyon:** research partner/rival phương pháp.
+- **Meisho Doto:** roommate; Shakur âm thầm ngăn Doto gặp rắc rối.
+- **Manhattan Cafe:** bạn cùng khó chịu vì Tachyon; **Agnes Digital:** bạn cùng thế hệ.
 ## 8. Animation / media appearances
-Nổi bật trong `Umayuru`, đặc biệt ở tập có Agnes Tachyon/data-science comedy.
-
+- `UMAYON`, `UMAYURU`.
+- Game là nguồn chính cho prediction/relationship detail; phải tag `GAME`.
 ## 9. Trivia / lưu ý cho fanfic
-- Không chuyển quan hệ/ngày tháng/thành tích của ngựa thật thành canon nhân vật.
-- Profile ngắn phản ánh độ sâu của nguồn, không phải giấy phép bịa thêm personality.
-
+- OOC trap: “hacker thiên tài vô cảm”. Shakur abrasive nhưng chăm người khác bằng hành động.
+- Tự xưng `Ore`; gọi đối phương `Omae/Temee/Anta`. Quy tắc tôn trọng trainer của fanfic vẫn áp dụng trong context chuyên môn.
+- Không dùng simulation như bằng chứng kết quả đã định.
 ## 10. Nguồn đã khai thác
+- https://umamusume.jp/character/
 - https://umamusu.wiki/Air_Shakur
-- Google Drive Umayuru SRT corpus
-
+- https://umamusu.wiki/Umayon_%28Anime%29
+- https://umamusu.wiki/Umayuru
+- Footage/subtitle: Drive corpus shorts.
 ## 11. Trạng thái nghiên cứu
-`FOUND / NORMALIZED / SOURCE-LIMITED`
+`FOUND / NORMALIZED / HIGH-DETAIL`

@@ -16,27 +16,34 @@
 Du học sinh sinh ở nước ngoài, ít nói, biểu cảm tiết chế và rất coi trọng hiệu suất/tỷ lệ thắng. Động lực không phải hư vô hay máy móc: Kris S mang ý thức “nhiệm vụ” mạnh và muốn trả món nợ ân tình với Symboli family bằng kết quả. Vì vậy sự lạnh và khô trong giao tiếp đi cùng một sense of duty rất nghiêm túc.
 
 ## 4. Đời thường / sở thích / thói quen
-`UNSPECIFIED` trong nguồn đã audit.
-
+- Exchange student nước ngoài, ít lời, ưu tiên efficiency/win probability vì nghĩa vụ với Symboli family.
+- Thích làm protein drink; ghét đi chân trần. Luyện lại kanji viết sai mỗi tối.
+- Uống nước nhiệt độ phòng trước race; ảnh nền là to-do list.
+- Thích onomatopoeia Nhật; gia đình uống black coffee buổi sáng.
+- Ít biểu cảm không có nghĩa không có cảm xúc; động lực là biết ơn và danh dự.
 ## 5. Ngoại hình
-Chỉ dùng character art/animation frame làm bằng chứng trực quan; mô tả chi tiết chưa được chuẩn hóa trong source text giữ `UNSPECIFIED`.
-
+- Cao 170 cm, da ấm, tóc đen dài buộc thành hai phần lớn, mắt xanh; laurel pin xanh và earring dài.
+- Race outfit xanh đậm–đen–vàng kiểu military/Symboli, jacket crop, gloves, shorts và boots.
 ## 6. Racing / vai trò narrative
-Vai trò/entry chưa được nguồn đã audit xác nhận thêm; không suy career từ ngựa thật.
-
+- “Mission” framing: đặt mục tiêu và hoàn thành với effort tối thiểu lãng phí.
+- `UMAYURU`: rivalry/friendship với Tanino Gimlet; tập 24 hồi tưởng trước Derby.
+- Kết quả/race plan chi tiết lấy game, không suy real horse.
 ## 7. Quan hệ
-`UNSPECIFIED` ngoài các tương tác được nguồn trực tiếp xác nhận.
-
+- **Tanino Gimlet / No Reason / Hishi Miracle:** classmates/rivals.
+- **Zenno Rob Roy:** mentee/underclassman.
+- **Mejiro Ramonu:** roommate, dễ hiểu nhau vì đều nói ngắn.
+- **Symboli Rudolf / Sirius Symboli:** Symboli family network, không mặc định huyết thống.
 ## 8. Animation / media appearances
-Lead/major cast của `Umayuru`; xuất hiện trong franchise animation khác tùy source. Khi dùng speech, ưu tiên SRT Umayuru trong Drive.
-
+- `UMAYURU`: lead cùng Gimlet; cameo `TV_S3`.
+- `UMAYURU_PRETTY_GRAY` không tự động nếu cast/episode không xác nhận.
 ## 9. Trivia / lưu ý cho fanfic
-- Không chuyển quan hệ/ngày tháng/thành tích của ngựa thật thành canon nhân vật.
-- Profile ngắn phản ánh độ sâu của nguồn, không phải giấy phép bịa thêm personality.
-
+- OOC trap: literal machine/soldier. “Mission” là speech frame; Kris S có noble motive và sở thích cụ thể.
+- Tự xưng `Watashi`, gọi `Trainer`; nói cực ngắn nhưng không bất lịch sự vô cớ.
+- Không biến outfit military thành combat authority.
 ## 10. Nguồn đã khai thác
+- https://umamusume.jp/character/
 - https://umamusu.wiki/Symboli_Kris_S
-- Google Drive Umayuru SRT corpus
-
+- https://umamusu.wiki/Umayuru
+- Footage/subtitle: Drive corpus Umayuru và S3.
 ## 11. Trạng thái nghiên cứu
-`FOUND / NORMALIZED / SOURCE-LIMITED`
+`FOUND / NORMALIZED / HIGH-DETAIL`

@@ -15,27 +15,34 @@
 Tiểu thư xuất thân danh giá, được đồn có liên hệ hoàng gia, sang Nhật từ Ireland theo diện exchange student. Vì lớn lên khá được bảo bọc, cô tò mò mãnh liệt về những thứ đời thường và muốn tích lũy càng nhiều kỷ niệm càng tốt. Motif ramen là một phần đời thường nổi tiếng nhưng không nên lấn át sự tinh tế và background ngoại giao/quý tộc.
 
 ## 4. Đời thường / sở thích / thói quen
-`UNSPECIFIED` trong nguồn đã audit.
-
+- Exchange student từ Ireland, gia đình danh giá/được đồn là hoàng gia; tò mò văn hóa Nhật và đặc biệt ramen.
+- Thích hòa giải, ghét nghi ngờ người khác; đọc tin quê nhà đầu tiên mỗi sáng.
+- Ảnh nền slideshow ảnh trường; trước race chào mọi runner. Giỏi English, social studies, dance.
+- Mua cup noodles mới, licorice và stationery xanh; chơi violin được `Umapyoi`.
 ## 5. Ngoại hình
-Chỉ dùng character art/animation frame làm bằng chứng trực quan; mô tả chi tiết chưa được chuẩn hóa trong source text giữ `UNSPECIFIED`.
-
+- Tóc nâu mềm với streak trắng giữa, ribbons đỏ–trắng và clover hairpins; mắt xanh/ấm.
+- Race outfit jacket trắng, vest xanh, dress đen và shamrock motifs đỏ–xanh, boots trắng.
 ## 6. Racing / vai trò narrative
-Vai trò/entry chưa được nguồn đã audit xác nhận thêm; không suy career từ ngựa thật.
-
+- Mục tiêu chính là học và tạo ký ức trong thời gian hữu hạn ở Nhật; không phải tiểu thư chỉ đi tham quan.
+- Game đặt tension giữa tương lai đã sắp và lựa chọn cá nhân; race facts phải tag game.
+- Curiosity có thể gây rắc rối nhưng cô có social intelligence và kỹ năng học.
 ## 7. Quan hệ
-Air Groove là roommate và một người thường phải quản/cân bằng sự tò mò của Fine. Xuất hiện trong `Umayuru`, `Umayon` và các source khác.
-
+- **Air Groove:** roommate/bạn, thường quản lịch và lo obsession ramen.
+- **Air Shakur:** bạn; Fine chấp nhận bluntness và mở khả năng thoát định mệnh.
+- **Tanino Gimlet / Symboli Kris S:** bạn. **Kawakami Princess:** rival trong game.
+- Rumor “royalty” giữ đúng mức nguồn, không tự tạo tước vị/quyền ngoại giao.
 ## 8. Animation / media appearances
-Chỉ đánh dấu continuity/tập khi cast credit, caption, dialogue, race card hoặc frame nguồn xác nhận; chưa có evidence bổ sung thì giữ `UNSPECIFIED`.
-
+- `TV_S1` OVA, cameo `TV_S3` và `BOANE`; `UMAYON`, `UMAYURU`.
+- Presence animation không tự mang toàn bộ game career.
 ## 9. Trivia / lưu ý cho fanfic
-- Không chuyển quan hệ/ngày tháng/thành tích của ngựa thật thành canon nhân vật.
-- Profile ngắn phản ánh độ sâu của nguồn, không phải giấy phép bịa thêm personality.
-
+- OOC trap: caricature ramen princess hoặc ignorant foreigner. Fine có education, etiquette và curiosity chủ động.
+- Tự xưng `Watashi`, gọi `Trainer`.
+- Không xác nhận hoàng gia vượt câu chữ source.
 ## 10. Nguồn đã khai thác
+- https://umamusume.jp/character/
 - https://umamusu.wiki/Fine_Motion
-- Google Drive Umayuru/Umayon corpus
-
+- https://umamusu.wiki/Umayon_%28Anime%29
+- https://umamusu.wiki/Umayuru
+- Footage: Drive corpus S1 OVA, S3, BOANE và shorts.
 ## 11. Trạng thái nghiên cứu
-`FOUND / NORMALIZED / SOURCE-LIMITED`
+`FOUND / NORMALIZED / HIGH-DETAIL`

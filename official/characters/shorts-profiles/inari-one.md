@@ -15,27 +15,33 @@
 Nhỏ người nhưng presence rất mạnh, nói năng mang chất Edo và tính khí thẳng, nóng, giàu tự trọng. Racing identity gắn với việc bước từ local/dirt context lên đấu với những elite như Oguri/Tamamo trong broader franchise material.
 
 ## 4. Đời thường / sở thích / thói quen
-`UNSPECIFIED` trong nguồn đã audit.
-
+- Edo girl lớn lên trong khu phố cũ Tokyo, được hàng xóm vừa cho quà vừa mắng; ghét thủ đoạn bẩn.
+- Thích shooting, die-cutting, vớt cá vàng; ghét xếp hàng và nịnh.
+- Tai nhảy theo nhạc lễ hội; tắm tối trước race, uống fruit milk sau bath.
+- Mê inari sushi, pháo hoa và thợ tatami; không để carrot qua đêm.
 ## 5. Ngoại hình
-Chỉ dùng character art/animation frame làm bằng chứng trực quan; mô tả chi tiết chưa được chuẩn hóa trong source text giữ `UNSPECIFIED`.
-
+- Dáng nhỏ 139 cm; tóc nâu đậm hai búi, mắt teal, kitsune mask trắng–hồng bên phải.
+- Race outfit kimono tím nhiều lớp, rope ornaments, skirt/shorts và sandals bất đối xứng.
 ## 6. Racing / vai trò narrative
-Vai trò/entry chưa được nguồn đã audit xác nhận thêm; không suy career từ ngựa thật.
-
+- “Warlord from Oi”: ambition lớn và style táo bạo đối lập vóc dáng nhỏ; có nguy cơ hết stamina nếu lao quá mạnh.
+- `CINDERELLA_GRAY_ANIME`: từ Oi tới Central, friend/rival của Oguri/Creek/Tamamo.
+- Không infantilize vì chiều cao; aptitude dirt/turf cần source game.
 ## 7. Quan hệ
-`UNSPECIFIED` ngoài các tương tác được nguồn trực tiếp xác nhận.
-
+- **Oguri Cap / Super Creek / Tamamo Cross:** rival/friend network.
+- **Twin Turbo:** roommate.
+- **Taro/Ryuko Yusuhara:** trainer mapping trong CG anime/source; giữ tag.
+- **Kitasan Black:** bạn theo profile/game.
 ## 8. Animation / media appearances
-Named cast trong `Umayuru` và các animation/cameo liên quan.
-
+- `TV_S1`, cameo `TV_S3`, `CINDERELLA_GRAY_ANIME`; `UMAYURU`.
+- Oi/Central transition phải lấy episode CG cụ thể.
 ## 9. Trivia / lưu ý cho fanfic
-- Không chuyển quan hệ/ngày tháng/thành tích của ngựa thật thành canon nhân vật.
-- Profile ngắn phản ánh độ sâu của nguồn, không phải giấy phép bịa thêm personality.
-
+- OOC trap: chỉ viết giọng Edo/festival gag. Inari có code fairness và tự hào địa phương.
+- Tự xưng `Atashi/Inari-sama`; gọi Trainer `Danna/Anego` theo gender presentation.
+- Không biến mask thành năng lực siêu nhiên.
 ## 10. Nguồn đã khai thác
+- https://umamusume.jp/character/
 - https://umamusu.wiki/Inari_One
-- Google Drive Umayuru corpus
-
+- https://umamusu.wiki/Cinderella_Gray_%28Anime%29
+- Footage: Drive corpus TV, Umayuru và Cinderella Gray.
 ## 11. Trạng thái nghiên cứu
-`FOUND / NORMALIZED / SOURCE-LIMITED`
+`FOUND / NORMALIZED / HIGH-DETAIL`

@@ -16,27 +16,34 @@
 Cực kỳ theatrical, thích ngôn ngữ hùng hồn và hình tượng “destruction”, nhưng không phải random berserker. Cô biến việc phá giới hạn, phá vật cản và tạo hình ảnh dữ dội thành một aesthetic tự thân. Mối quan hệ với Vodka đặc biệt hữu ích: Vodka xem Gimlet như một senior cực ngầu.
 
 ## 4. Đời thường / sở thích / thói quen
-`UNSPECIFIED` trong nguồn đã audit.
-
+- Sống theo aesthetic “destruction” để tìm phiên bản lý tưởng của bản thân.
+- Thích mythology, philosophy, phát âm V và DIY; ghét đúng giờ, trứng lòng đào, táo.
+- Chỉ phá khi sẵn sàng chịu/chi trả hậu quả; family nameplate tái chế từ hàng rào vỡ.
+- Ảnh nền cầu vồng qua kính; trước race “phá hàng rào không khí”.
 ## 5. Ngoại hình
-Chỉ dùng character art/animation frame làm bằng chứng trực quan; mô tả chi tiết chưa được chuẩn hóa trong source text giữ `UNSPECIFIED`.
-
+- Tóc đỏ crimson ngắn với streak trắng, eyepatch mắt phải; mắt vàng/ringed pupils, ear ornament vàng.
+- Race outfit navy–vàng–teal kiểu military/bartender, shorts/skirt bất đối xứng, fishnet tights và boots chắc.
 ## 6. Racing / vai trò narrative
-Vai trò/entry chưa được nguồn đã audit xác nhận thêm; không suy career từ ngựa thật.
-
+- Muốn đủ nhanh thống trị mile và đủ mạnh cho middle; destructive persona đi cùng talent thật.
+- `UMAYURU`: rival/lead cùng Symboli Kris S; episode 24 neo Japanese Derby.
+- Breaking fences là gag/character habit có rule trả giá, không cho phép phá hoại vô hậu quả.
 ## 7. Quan hệ
-`UNSPECIFIED` ngoài các tương tác được nguồn trực tiếp xác nhận.
-
+- **Vodka:** junior/fan, bắt chước mannerisms; Gimlet là hình mẫu sức mạnh.
+- **Symboli Kris S / No Reason / Hishi Miracle:** classmates/rivals.
+- **Narita Brian:** roommate.
+- **Durandal:** bạn, làm mocktail; **Tap Dance City/Orfevre:** friends theo game.
 ## 8. Animation / media appearances
-Một trong các lead của `Umayuru`, đặc biệt hiện diện trong block Symboli Kris S/Tsurumaru Tsuyoshi.
-
+- `UMAYURU`, `UMAYURU_PRETTY_GRAY`.
+- Game là nguồn chính cho profile/race route; short xác nhận rivalry/voice.
 ## 9. Trivia / lưu ý cho fanfic
-- Không chuyển quan hệ/ngày tháng/thành tích của ngựa thật thành canon nhân vật.
-- Profile ngắn phản ánh độ sâu của nguồn, không phải giấy phép bịa thêm personality.
-
+- OOC trap: mọi câu là chuỗi triết lý không nghĩa. Gimlet theatrical nhưng có rule trách nhiệm và craft skill.
+- Tự xưng `Ore/Watashi`, gọi `Anta/Omae`; fanfic hierarchy vẫn áp dụng.
+- Không biến fence-breaking thành phép thuật.
 ## 10. Nguồn đã khai thác
+- https://umamusume.jp/character/
 - https://umamusu.wiki/Tanino_Gimlet
-- Google Drive Umayuru SRT corpus
-
+- https://umamusu.wiki/Umayuru
+- https://umamusu.wiki/Umayuru%3A_Pretty_Gray
+- Footage/subtitle: Drive corpus Umayuru.
 ## 11. Trạng thái nghiên cứu
-`FOUND / NORMALIZED / SOURCE-LIMITED`
+`FOUND / NORMALIZED / HIGH-DETAIL`

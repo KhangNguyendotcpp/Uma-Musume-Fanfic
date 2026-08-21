@@ -16,27 +16,33 @@
 Tự tin, khiêu khích, có khí chất leader và rất không thích bị đặt dưới cái bóng của Rudolf/Symboli authority. Cách cô gọi Trainer như “Puppy” là một dấu hiệu power-play trong speech; không nên dịch thành sự dịu dàng.
 
 ## 4. Đời thường / sở thích / thói quen
-`UNSPECIFIED` trong nguồn đã audit.
-
+- Thích savate, huấn luyện chó; ghét small talk, nịnh và pun.
+- Nói thô nhưng ghét dối trá/mơ hồ; mục tiêu tỏa sáng trên sân khấu thế giới.
+- Cần earplugs để ngủ; đuôi vò lại khi bực. Trước race đạp sàn lấy lực.
+- Có pilot license, nhiều pool hall ưa thích; ảnh nền là một câu thơ.
 ## 5. Ngoại hình
-Chỉ dùng character art/animation frame làm bằng chứng trực quan; mô tả chi tiết chưa được chuẩn hóa trong source text giữ `UNSPECIFIED`.
-
+- Tóc nâu đậm, phần sau dài tới thắt lưng, streak trắng hình sao; mắt đỏ sắc.
+- Race outfit teal–trắng–xám bất đối xứng, gold fleur-de-lis/chains, pants và heels lệch màu.
 ## 6. Racing / vai trò narrative
-Vai trò/entry chưa được nguồn đã audit xác nhận thêm; không suy career từ ngựa thật.
-
+- Confidence được backing bằng năng lực; world-stage ambition đối lập trách nhiệm thể chế của Rudolf.
+- Không dùng “alpha” thành phân cấp sinh học/xã hội.
+- International goals/race record cần game story cụ thể.
 ## 7. Quan hệ
-`UNSPECIFIED` ngoài các tương tác được nguồn trực tiếp xác nhận.
-
+- **Symboli Rudolf:** bạn thuở nhỏ/rival; Sirius phản đối Emperor persona và cách Tracen bỏ sót người yếu thế.
+- **Mejiro Ramonu:** childhood friend/rival.
+- **Nakayama Festa:** roommate/kindred loner, cùng thích games.
+- Mentoring Vodka trong `UMAYURU` là evidence animation.
 ## 8. Animation / media appearances
-Named presence trong `Umayuru`/Cinderella Gray-related animation indexing.
-
+- `UMAYURU`, đặc biệt tập 7 `Winning Over Sirius`.
+- Game là nguồn chính cho Rudolf conflict và international ambition.
 ## 9. Trivia / lưu ý cho fanfic
-- Không chuyển quan hệ/ngày tháng/thành tích của ngựa thật thành canon nhân vật.
-- Profile ngắn phản ánh độ sâu của nguồn, không phải giấy phép bịa thêm personality.
-
+- OOC trap: bully “alpha” hoặc phản loạn vô nguyên tắc. Sirius có code thẳng thắn và phê bình hệ thống cụ thể.
+- Cách gọi Trainer có thể là `Puppy/Anta/Trainer`; fanfic hierarchy vẫn yêu cầu respect chuyên môn.
+- Không nhầm Symboli family với quan hệ huyết thống ngựa thật.
 ## 10. Nguồn đã khai thác
+- https://umamusume.jp/character/
 - https://umamusu.wiki/Sirius_Symboli
-- Google Drive Umayuru corpus
-
+- https://umamusu.wiki/Winning_Over_Sirius
+- Footage/subtitle: Drive corpus Umayuru.
 ## 11. Trạng thái nghiên cứu
-`FOUND / NORMALIZED / SOURCE-LIMITED`
+`FOUND / NORMALIZED / HIGH-DETAIL`

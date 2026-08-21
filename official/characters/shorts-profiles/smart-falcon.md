@@ -16,27 +16,33 @@
 `UNSPECIFIED` trong nguồn đã audit; không suy từ ngựa thật, thiết kế hình ảnh hoặc vai trò race.
 
 ## 4. Đời thường / sở thích / thói quen
-`UNSPECIFIED` trong nguồn đã audit.
-
+- Tự xưng Umadol tương lai, chủ động fanservice/publicity và nhớ tên–mặt fan.
+- Ghét học; giỏi voice/dance. Ảnh nền là selfie mỗi ngày trong training.
+- Trước race kiểm tra grip/traction giày; đuôi được giữ cẩn thận khi ngồi.
+- Làm signboard rất giỏi, ngủ được ở mọi nơi; mẹ làm phụ kiện idol đầu tiên.
 ## 5. Ngoại hình
-Chỉ dùng character art/animation frame làm bằng chứng trực quan; mô tả chi tiết chưa được chuẩn hóa trong source text giữ `UNSPECIFIED`.
-
+- Tóc nâu almond hai đuôi với ribbons caro hồng/tím; mắt vàng–amber.
+- Race outfit idol dress trắng–hồng–đen/đỏ nhiều ruffle, corset và sneakers.
 ## 6. Racing / vai trò narrative
-“Uma-dol” chuyên nghiệp: xem idol performance, fan engagement và racing là cùng một career package. Dirt là vùng racing đặc biệt gắn với Falcon. Đừng viết cô chỉ như idol vô hại; khả năng duy trì persona, schedule và competitive career đòi hỏi kỷ luật đáng kể.
-
+- Dirt specialist muốn vừa thắng vừa làm center Winning Live; có complex với hình ảnh “cát bẩn”.
+- Idol labor gồm training, dance, fan contact và quảng bá; không viết như fame-seeker không chịu tập.
+- “Silence Suzuka of the Sand” là nickname/aspiration, không đồng nhất hai style.
 ## 7. Quan hệ
-`UNSPECIFIED` ngoài các tương tác được nguồn trực tiếp xác nhận.
-
+- **Eishin Flash:** roommate, thường làm manager/practice partner.
+- **Curren Chan:** bạn dance/idol. **Copano Rickey:** junior/friend.
+- **Silence Suzuka / Mihono Bourbon / Ines Fujin / Maruzensky:** Runaway Sisters trong game/short continuity.
+- **Fuji Kiseki:** bạn diễn/acting help.
 ## 8. Animation / media appearances
-Xuất hiện trong `Umayon` và animation/cameo liên quan RTTT/franchise.
-
+- `UMAYON`; các TV cameo phải kiểm footage.
+- Game là nguồn chính cho Umadol career và dirt profile; Winning Live rules vẫn theo official world files.
 ## 9. Trivia / lưu ý cho fanfic
-- Không chuyển quan hệ/ngày tháng/thành tích của ngựa thật thành canon nhân vật.
-- Profile ngắn phản ánh độ sâu của nguồn, không phải giấy phép bịa thêm personality.
-
+- OOC trap: idol giả tạo. Falco thật sự quan tâm fan và làm việc có phương pháp.
+- Tự xưng `Falco/Watashi`, gọi `Trainer-san`.
+- Fan access không xóa privacy/safety boundaries.
 ## 10. Nguồn đã khai thác
+- https://umamusume.jp/character/
 - https://umamusu.wiki/Smart_Falcon
-- Google Drive Umayon corpus
-
+- https://umamusu.wiki/Umayon_%28Anime%29
+- Footage/subtitle: Drive corpus Umayon và utility dialogue.
 ## 11. Trạng thái nghiên cứu
-`FOUND / NORMALIZED / SOURCE-LIMITED`
+`FOUND / NORMALIZED / HIGH-DETAIL`
