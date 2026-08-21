@@ -3,7 +3,7 @@
 ## Mục tiêu
 Mỗi nhân vật có **tên ổn định** xuất hiện, được gọi tên, được ghi trên race card/roster/caption hoặc được credit trong animation thuộc phạm vi repo phải có **một file Markdown riêng**.
 
-**Baseline đã chuẩn hóa hiện tại: 174 profile.** Đây là độ phủ đã xác minh tới pass 2026-08-21; **không phải tuyên bố đã audit 100% từng frame của toàn bộ video Google Drive**.
+**Baseline đã chuẩn hóa hiện tại: 184 profile.** Đây là độ phủ đã xác minh tới pass 2026-08-21; **không phải tuyên bố đã audit 100% từng frame của toàn bộ video Google Drive**.
 
 `Gentildonna` là benchmark profile giàu dữ liệu: [season3-profiles/gentildonna.md](season3-profiles/gentildonna.md).
 
@@ -15,38 +15,41 @@ Audit ledger: [ANIMATION_NAME_AUDIT.md](ANIMATION_NAME_AUDIT.md).
 |---|---:|---|
 | Core | 20 | [core-profiles/](core-profiles/) |
 | TV supporting / anime-exclusive | 33 | [tv-supporting-profiles/](tv-supporting-profiles/) |
-| Season 3 / later anime | 19 | [season3-profiles/](season3-profiles/) |
+| Season 3 / later anime | 24 | [season3-profiles/](season3-profiles/) |
 | RTTT / Beginning of a New Era | 19 | [rttt-boane-profiles/](rttt-boane-profiles/) |
-| Umayuru / Umayon / shorts | 17 | [shorts-profiles/](shorts-profiles/) |
+| Umayuru / Umayon / Umayuru: Pretty Gray / shorts | 22 | [shorts-profiles/](shorts-profiles/) |
 | Cinderella Gray | 36 | [cinderella-gray-profiles/](cinderella-gray-profiles/) |
 | Trainer / staff / officials / media / named humans | 30 | [staff-human-profiles/](staff-human-profiles/) |
-| **Tổng** | **174** | |
+| **Tổng** | **184** | |
 
 Mỗi file trong các thư mục trên là **một nhân vật**, không quay lại mô hình một Markdown nhồi nhiều character.
 
-## Các bổ sung gần nhất từ animation/cameo audit
+## Các bổ sung gần nhất từ animation audit
 
-### Beginning of a New Era / cross-animation cameo pass
-- [Neo Universe](rttt-boane-profiles/neo-universe.md) — cameo ở RTTT, Season 3 và BOANE.
-- [Sweep Tosho](rttt-boane-profiles/sweep-tosho.md) — background cameo BOANE.
-- [Daiichi Ruby](rttt-boane-profiles/daiichi-ruby.md) — background Season 3 và BOANE opening/campus.
-- [K.S.Miracle](rttt-boane-profiles/k-s-miracle.md) — background campus BOANE.
-- [Yamanin Zephyr](rttt-boane-profiles/yamanin-zephyr.md) — background campus BOANE.
-- [Air Messiah](rttt-boane-profiles/air-messiah.md) — cameo BOANE.
-- [Zenno Rob Roy](rttt-boane-profiles/zenno-rob-roy.md) — cameo Season 2, BOANE và Umayuru.
-- [Hishi Miracle](rttt-boane-profiles/hishi-miracle.md) — BOANE + Umayuru: Pretty Gray; bị phát hiện ở pass đối chiếu cameo mở rộng.
+### Season 3 episode/background pass
+- [Nishino Flower](season3-profiles/nishino-flower.md) — S3 cameo.
+- [Wonder Acute](season3-profiles/wonder-acute.md) — background có tên ở tập 6 `Diamond`.
+- [Hokko Tarumae](season3-profiles/hokko-tarumae.md) — opening + background có tên ở tập 6.
+- [Sakura Laurel](season3-profiles/sakura-laurel.md) — cameo montage Tenno Sho Spring ở tập 9.
+- [It's Calling](season3-profiles/its-calling.md) — runner về nhì + Winning Live ở final Arima, tập 13.
 
-### Episode-level pass trước đó
-- **Biko Pegasus** — bị cast-table baseline bỏ sót nhưng xuất hiện trong Umayon tập 8.
-- **Nakayama Festa** — xuất hiện trong Umayuru tập 20 và cameo Season 3.
-- **Ai-chan** — named civilian ở Cinderella Gray tập 10.
-- Cùng các racer/trainer CG được ghi trong `ANIMATION_NAME_AUDIT.md`.
+### Umayuru: Pretty Gray pass
+Official portal xác nhận đây là spin-off anime 4 tập năm 2025, vì vậy được đưa vào animation scope. Năm profile mới:
+- [Chrono Genesis](shorts-profiles/chrono-genesis.md)
+- [Mejiro Bright](shorts-profiles/mejiro-bright.md)
+- [No Reason](shorts-profiles/no-reason.md)
+- [Gran Alegria](shorts-profiles/gran-alegria.md)
+- [Loves Only You](shorts-profiles/loves-only-you.md)
+
+Các cast còn lại của 4 tập đã có profile từ các pass trước.
+
+### BOANE / cross-animation cameo pass trước đó
+Neo Universe, Sweep Tosho, Daiichi Ruby, K.S.Miracle, Yamanin Zephyr, Air Messiah, Zenno Rob Roy và Hishi Miracle đã được bổ sung vào `rttt-boane-profiles/`.
 
 ## Quy tắc độ phủ
-
 - Không cần có thoại mới được tính: proper name trên race card/roster hoặc production asset vẫn có thể đủ evidence.
 - Generic role như `Reporter`, `Doctor`, `Teacher`, `Audience Member`, `Head Chef`... không tạo profile nếu không có stable canonical name.
 - `UNSPECIFIED` = đã kiểm tra nguồn nhưng nguồn không nói.
 - `TBD` = fanfic chưa quyết định.
-- `NOT_YET_NORMALIZED` không phải trạng thái đích cho character database; nếu còn gặp trong một profile nhân vật thì phải tiếp tục research hoặc đổi thành `UNSPECIFIED` khi đã xác nhận source im lặng.
+- `NOT_YET_NORMALIZED` không phải trạng thái đích cho character database.
 - Manga-only character không tự động được kéo vào anime baseline. Phải có evidence animation.
