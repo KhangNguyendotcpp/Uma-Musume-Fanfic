@@ -3,7 +3,7 @@
 ## Mục tiêu
 Mỗi nhân vật có **tên ổn định** xuất hiện, được gọi tên, được ghi trên race card/roster/caption hoặc được credit trong animation thuộc phạm vi repo phải có **một file Markdown riêng**.
 
-**Baseline đã chuẩn hóa hiện tại: 173 profile.** Đây là độ phủ đã xác minh tới pass 2026-08-21; **không phải tuyên bố đã audit 100% từng frame của toàn bộ video Google Drive**.
+**Baseline đã chuẩn hóa hiện tại: 174 profile.** Đây là độ phủ đã xác minh tới pass 2026-08-21; **không phải tuyên bố đã audit 100% từng frame của toàn bộ video Google Drive**.
 
 `Gentildonna` là benchmark profile giàu dữ liệu: [season3-profiles/gentildonna.md](season3-profiles/gentildonna.md).
 
@@ -16,11 +16,11 @@ Audit ledger: [ANIMATION_NAME_AUDIT.md](ANIMATION_NAME_AUDIT.md).
 | Core | 20 | [core-profiles/](core-profiles/) |
 | TV supporting / anime-exclusive | 33 | [tv-supporting-profiles/](tv-supporting-profiles/) |
 | Season 3 / later anime | 19 | [season3-profiles/](season3-profiles/) |
-| RTTT / Beginning of a New Era | 18 | [rttt-boane-profiles/](rttt-boane-profiles/) |
+| RTTT / Beginning of a New Era | 19 | [rttt-boane-profiles/](rttt-boane-profiles/) |
 | Umayuru / Umayon / shorts | 17 | [shorts-profiles/](shorts-profiles/) |
 | Cinderella Gray | 36 | [cinderella-gray-profiles/](cinderella-gray-profiles/) |
 | Trainer / staff / officials / media / named humans | 30 | [staff-human-profiles/](staff-human-profiles/) |
-| **Tổng** | **173** | |
+| **Tổng** | **174** | |
 
 Mỗi file trong các thư mục trên là **một nhân vật**, không quay lại mô hình một Markdown nhồi nhiều character.
 
@@ -34,6 +34,7 @@ Mỗi file trong các thư mục trên là **một nhân vật**, không quay l�
 - [Yamanin Zephyr](rttt-boane-profiles/yamanin-zephyr.md) — background campus BOANE.
 - [Air Messiah](rttt-boane-profiles/air-messiah.md) — cameo BOANE.
 - [Zenno Rob Roy](rttt-boane-profiles/zenno-rob-roy.md) — cameo Season 2, BOANE và Umayuru.
+- [Hishi Miracle](rttt-boane-profiles/hishi-miracle.md) — BOANE + Umayuru: Pretty Gray; bị phát hiện ở pass đối chiếu cameo mở rộng.
 
 ### Episode-level pass trước đó
 - **Biko Pegasus** — bị cast-table baseline bỏ sót nhưng xuất hiện trong Umayon tập 8.
