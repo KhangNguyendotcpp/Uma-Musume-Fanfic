@@ -1,7 +1,7 @@
 # Audit tên nhân vật xuất hiện trong Animation
 
 ## Mục tiêu
-Repo phải có **một Markdown riêng cho mọi nhân vật có tên ổn định xuất hiện/được gọi tên/được credit trong animation thuộc phạm vi**: TV S1–S3, 1st Anniversary, ROAD TO THE TOP, Beginning of a New Era, Umayon, Umayuru và Cinderella Gray.
+Repo phải có **một Markdown riêng cho mọi nhân vật có tên ổn định xuất hiện/được gọi tên/được credit trong animation thuộc phạm vi**: TV S1–S3, 1st Anniversary, ROAD TO THE TOP, Beginning of a New Era, Umayon, Umayuru, **Umayuru: Pretty Gray** và Cinderella Gray.
 
 Nếu source đã được kiểm tra mà không nói một field, ghi `UNSPECIFIED`; không được để `NOT_YET_NORMALIZED` như một cách né research.
 
@@ -12,41 +12,53 @@ Nếu source đã được kiểm tra mà không nói một field, ghi `UNSPECIF
 4. `MANGA_ONLY_OR_NOT_CONFIRMED` — có ở manga/wiki nhưng chưa đủ evidence animation.
 5. `PENDING_FRAME_AUDIT` — cần xem frame/video Drive để chốt episode/exact on-screen naming.
 
-## Audit adaptation
+## TV Season 3 — episode/background pass
+Cast table riêng của S3 không đủ để cover toàn bộ background/cameo, nên đã đối chiếu episode lists và Media Appearances.
 
-### TV Season 1 / Season 2 / Season 3 / 1st Anniversary / RTTT
-Proper-named cast trong các cast table đã được đối chiếu với profile tree. Role generic không tên riêng bị loại. Cameo pass vẫn tiếp tục vì credited cast không bao phủ toàn bộ visual presence.
+### Bổ sung mới
+- **Nishino Flower** — `ANIME_VISUAL_CONFIRMED`; profile source ghi rõ `Season 3 (Cameo)`.
+- **Wonder Acute** — `ANIME_VISUAL_CONFIRMED`; episode 6 `Diamond` liệt kê trong Background Characters.
+- **Hokko Tarumae** — `ANIME_VISUAL_CONFIRMED`; Season 3 opening và episode 6 `Diamond` background.
+- **Sakura Laurel** — `ANIME_VISUAL_CONFIRMED`; cameo trong montage các Tenno Sho Spring winner ở episode 9.
+- **It's Calling** — `ANIME_NAMED_ON_SCREEN / race participant`; episode 13 final Arima, về nhì sau Kitasan Black và đứng center-side trong Winning Live top 3. Voice không được credit riêng; game cũng có NPC cùng tên.
 
-### Beginning of a New Era — cameo pass
-Cast chính/credit đã được cover từ trước. Pass mới đối chiếu `Media Appearances` và background/campus cameo, phát hiện 8 nhân vật có animation presence nhưng baseline 166 chưa có profile riêng:
+### Spelling/alias đã kiểm tra
+- **Genjitsu Steal** là spelling English mà master Umamusume Wiki hiện dùng; một số Fandom/secondary page viết `Genjitsu Steel`. Repo giữ `Genjitsu Steal` và ghi alias, không tạo duplicate.
+- **To-Car** là tên English của nhân vật; **Tsuukaa** là romaji của `ツウカア`. Đây là cùng một nhân vật, không phải hai profile.
 
-- **Neo Universe** — `ANIME_VISUAL_CONFIRMED`; background cameo ở RTTT, Season 3 và BOANE.
-- **Sweep Tosho** — `ANIME_VISUAL_CONFIRMED`; background cameo BOANE.
-- **Daiichi Ruby** — `ANIME_VISUAL_CONFIRMED`; Season 3 background + BOANE opening/campus.
-- **K.S.Miracle** — `ANIME_VISUAL_CONFIRMED`; background ở cảnh Jungle Pocket vào Tracen.
-- **Yamanin Zephyr** — `ANIME_VISUAL_CONFIRMED`; background ở cảnh Jungle Pocket vào Tracen.
-- **Air Messiah** — `ANIME_VISUAL_CONFIRMED`; cameo BOANE.
-- **Zenno Rob Roy** — `ANIME_VISUAL_CONFIRMED`; cameo Season 2 + BOANE, đồng thời có Umayuru appearance.
-- **Hishi Miracle** — `ANIME_VISUAL_CONFIRMED`; xuất hiện trong BOANE và `Umayuru: Pretty Gray`.
+## Beginning of a New Era — cameo pass
+Cast chính/credit đã được cover từ trước. Cross-animation cameo pass bổ sung:
+- Neo Universe
+- Sweep Tosho
+- Daiichi Ruby
+- K.S.Miracle
+- Yamanin Zephyr
+- Air Messiah
+- Zenno Rob Roy
+- Hishi Miracle
 
-Cả 8 đã được tạo profile riêng ở `rttt-boane-profiles/`. Pass này nâng baseline từ **166 lên 174 profile**.
+Các nhân vật trên có profile riêng ở `rttt-boane-profiles/`. BOANE vẫn cần frame audit trực tiếp để bắt race-card/campus extras không thoại.
 
-**Quan trọng:** đây vẫn chưa phải frame audit hoàn chỉnh của movie. BOANE có nhiều racer/background shot hơn cast table và vẫn cần quét trực tiếp race card, bảng tên, caption và crowd/campus frames trong file Drive.
+## Umayon — 24 tập
+Episode character-list pass đã chạy; missing profile đáng chú ý phát hiện được là **Biko Pegasus** ở tập 8. Do Umayon có rất nhiều visual cameo, frame-level audit vẫn còn mở.
 
-### Umayon — episode character-list audit
-Đã đối chiếu character section của toàn bộ 24 tập ở mức episode wiki/list. Phát hiện một thiếu sót của baseline cast-table:
-- **Biko Pegasus — tập 8 `Hero Theater: Uma Soldier V!!`**.
+## Umayuru — 24 tập
+Episode/character-list pass đã chạy; **Nakayama Festa** ở tập 20 là missing profile được phát hiện. Zenno Rob Roy có cameo dạng chip mahjong và đã có profile.
 
-Biko đã được bổ sung profile. Trivia của trang Umayon cũng cho biết gần như toàn bộ base-release roster xuất hiện, vì vậy **frame-level visual audit vẫn cần thiết** để bắt cameo không nằm trong character section.
+## Umayuru: Pretty Gray — 4 tập, 2025
+Official Cygames portal xác nhận đây là spin-off anime chính thức, phát hành 30/04–06/05/2025. Vì yêu cầu repo bao phủ named animation characters, series này được đưa vào scope dù không nằm trong corpus Drive gốc.
 
-### Umayuru — episode/character-list audit
-Đã đối chiếu cast table, episode character lists và character index xuyên 24 tập. Phát hiện:
-- **Nakayama Festa — tập 20 `Dealing with Danger`**; trước đó baseline repo thiếu profile dù cô nằm trong Umayuru character ecosystem.
+Cast đã đối chiếu đủ 4 tập. Các tên chưa có profile trước pass này:
+- **Chrono Genesis** — main/Gray Week cast; trọng tâm tập 4.
+- **Mejiro Bright** — tập 2.
+- **No Reason** — tập 3.
+- **Gran Alegria** — tập 4.
+- **Loves Only You** — tập 4.
 
-Các nhân vật proper-named khác trong character list đã có profile. Hishi Akebono có recurring background sighting nhưng đã được cover từ trước. Zenno Rob Roy cũng có cameo ở tập 20 dưới dạng chip trong mahjong và hiện đã có profile riêng.
+Các cast còn lại như Oguri Cap, Gold Ship, Mejiro McQueen, Seiun Sky, Tamamo Cross, Biwa Hayahide, Curren Chan, Hishi Miracle, Winning Ticket, Narita Taishin, King Halo, Tsurumaru Tsuyoshi, Tanino Gimlet... đã có profile từ các nhóm trước.
 
-### Cinderella Gray
-Credit/name-confirmed mới bổ sung ở các pass gần nhất:
+## Cinderella Gray
+Credit/name-confirmed bổ sung ở các pass gần nhất:
 - Nanto Ichiban — tập 1
 - Sekai Touha — tập 2
 - Walk Dancer — tập 2
@@ -70,6 +82,6 @@ Anime visual/race-name confirmed nhưng không có voice credit riêng: Massive 
 `Teacher`, `Reporter`, `Doctor`, `Audience Member`, `Head Chef`, `Chairman`, `Vice-Chairman`, `Maintenance Staff`, `Innkeeper Host/Hostess`, `Narrator`... không tạo profile nếu không có stable canonical personal name.
 
 ## Audit chưa hoàn thành tuyệt đối
-- Cast/episode-character-list/cameo-source audit hiện đạt **174 profile**.
-- **Race-card/on-screen text/cameo frame audit vẫn phải tiếp tục trực tiếp trên video Google Drive**, đặc biệt BOANE và các race scene có runner không thoại.
+- Cast/episode-character-list/cameo-source audit hiện đạt **184 profile**.
+- **Race-card/on-screen text/cameo frame audit vẫn phải tiếp tục trực tiếp trên video Google Drive**, đặc biệt BOANE, S1–S3 race scenes và Cinderella Gray race fields có runner không thoại.
 - Không được tuyên bố “100% mọi named frame đã cover” cho tới khi từng episode/movie được đánh dấu frame-audited.
