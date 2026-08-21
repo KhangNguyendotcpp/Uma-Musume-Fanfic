@@ -1,5 +1,5 @@
 UMA MUSUME FANFIC — NGUỒN SỰ THẬT NGHIÊN CỨU
-Lần research gần nhất: 2026-08-21
+Lần research gần nhất: 2026-08-22
 
 File này liệt kê các nguồn đã thực sự được dùng để xây dựng hoặc kiểm chứng repo. Nguồn community không tự động vượt nguồn official.
 
@@ -278,6 +278,20 @@ https://www.jra.go.jp/datafile/seiseki/replay/2026/g1.html
 https://www.jra.go.jp/datafile/seiseki/replay/2026/jyusyo.html
 https://www.jra.go.jp/keiba/g1/satsuki.html
 
+=== INTERNATIONAL RACING ORGANIZERS — SENIOR/OPEN PLANNING REFERENCE ===
+Các nguồn dưới đây dùng để kiểm tra tên race, tháng thường niên, course, surface, distance và eligibility đời thật. Chúng KHÔNG tự động biến race đời thật thành official Uma canon.
+https://japanracing.jp/en/racing/schedule/graded/list/
+https://dubairacingclub.com/
+https://jcsa.sa/en/
+https://www.breederscup.com/
+https://racing.hkjc.com/
+https://www.france-galop.com/
+https://www.ascot.com/
+https://www.racingvictoria.com.au/
+https://www.pegasusworldcup.com/
+https://www.ifhaonline.org/
+
 === FANFIC SOURCE LIÊN KẾT ===
 Original Universe canon:
 https://github.com/KhangNguyendotcpp/original-universe-canon
+

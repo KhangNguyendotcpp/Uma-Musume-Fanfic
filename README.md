@@ -24,8 +24,11 @@ Repo này liên kết chặt chẽ với `KhangNguyendotcpp/original-universe-ca
 4. `SOURCES_OF_TRUTH.txt`
 5. `SOURCE_MATRIX.md`
 6. `fanfic/current_state.md`
-7. `fanfic/timeline/CANON_TIMELINE_2025_2029.md`
-8. `fanfic/calendar/WRITING_SCHEDULE_2026_2029.md`
+7. `fanfic/timeline/CANON_TIMELINE_2025_2035.md`
+8. `fanfic/calendar/WRITING_SCHEDULE_2026_2035.md`
+9. `fanfic/calendar/MASTER_RACE_CALENDAR_2026_2035.md`
+10. `fanfic/calendar/SENIOR_INTERNATIONAL_RACE_REFERENCE.md`
+11. `fanfic/teams/equinox-team-career-framework.md`
 
 Danh sách nhân vật được quản lý tại `official/characters/INDEX.md`. Mọi trường dữ liệu không được nguồn hỗ trợ phải giữ trạng thái `UNSPECIFIED` hoặc `TBD`; tuyệt đối không được đoán để điền cho đủ.
 

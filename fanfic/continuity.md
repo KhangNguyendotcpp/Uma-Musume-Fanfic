@@ -2,16 +2,49 @@
 
 ## Mô hình chronology cốt lõi
 
-- 2025: block thế hệ trước tương thích Cinderella Gray được nén lại.
-- 2026: mở đầu dựa trên Special Week/TV-S1; ngày 09/03 Equinox xuất hiện trong thế giới Uma, nộp hồ sơ và vượt vòng vấn đáp thứ nhất cho vị trí trainer + giáo viên Lịch sử, còn phải qua đánh giá dữ liệu trainer và giảng thử trước mốc nhận nhiệm vụ dự kiến; Haise và Takiyama đến riêng biệt sau phần giới thiệu của Special Week; các sự kiện Classic tương thích RTTT có thể chạy song song.
-- 2027: Classic Year của Haise/Takiyama; nhân vật/sự kiện từ TV-S2/BOANE có thể dùng làm source anchor mà không ép theo năm lịch sử của ngựa thật.
-- 2028: Senior/Open Year của Haise/Takiyama; material thế hệ S3/Kitasan có thể nổi bật.
-- 2029: điểm tốt nghiệp/chuyển tiếp và tương lai divergence hoàn toàn.
+- **2025:** block thế hệ trước tương thích Cinderella Gray được nén lại.
+- **2026–2028 / S1 era:** 2026 là năm nhập học/debut và xây nền; 2027 là Classic Year duy nhất của Special Week, Haise và Takiyama; 2028 là Senior/Open Year và cao trào S1.
+- **2029–2031 / S2 + RTTT era:** 2029 ghép thế hệ Teio với RTTT; 2030 giữ trọn Bourbon–Rice; 2031 giữ Rice–McQueen, Twin Turbo, Biwa và Arima comeback của Teio.
+- **2032–2035 / S3 + BOANE era:** 2032 mở BOANE và Opera O lên ngôi; 2033 ghép Tachyon/Duramente/Jungle Pocket/Manhattan Cafe/Kitasan; 2034 là Diamond Classic + Kitasan Senior; 2035 là mùa cuối đỉnh cao của Kitasan.
+
+`Season` trong repo là một **thời đại kể chuyện gồm nhiều mùa đua**, không phải phép gán `một season = một năm`.
+
+## Trục protagonist
+
+- Equinox xuất hiện và nộp hồ sơ ngày 2026-03-09; prose hiện tại vẫn dừng sau vòng vấn đáp thứ nhất.
+- Special Week nhập học 2026-04-06.
+- Haise đến 2026-04-19 và Taki đến 2026-05-03; ngày nhập học tương ứng vẫn DRAFT cho đến khi prose khóa.
+- Haise/Taki không chạy Classic năm 2026. Classic Year duy nhất của họ là 2027.
+- Từ 2028 họ ở Senior/Open. Sau 2028 campaign chuyển trọng tâm sang G1 đỉnh cao và quốc tế.
+- Họ không được đặt vào Classic 2034 hoặc bất kỳ Classic Year nào lần hai.
+- Việc kết thúc full-time racing cuối 2033 là `DRAFT CAMPAIGN`, chưa phải fact đã xảy ra.
+
+## Trục RTTT → BOANE
+
+Opera O đi từ winner Satsuki 2029 của RTTT, phát triển thành Senior champion, thắng Arima 2032 và bị Jungle Pocket đánh bại tại Japan Cup 2033. Đây là xương sống chuyển giao thời đại đã `APPROVED`.
 
 ## Quy tắc butterfly
 
-Kết quả từ nguồn chính thức chỉ là dự báo cho đến khi fic thực sự chạm tới nó. Khi Haise/Takiyama/Equinox thay đổi sự kiện, độ tin cậy của kiến thức nguồn giảm dần. Sự kiện fanfic đã được viết có ưu tiên cao hơn kết quả nguồn chưa dùng.
+Kết quả từ nguồn chính thức chỉ là dự báo cho đến khi fic thực sự chạm tới nó. Khi Haise/Takiyama/Equinox thay đổi sự kiện, độ tin cậy của kiến thức nguồn giảm dần. Quyết định author mới nhất và sự kiện fanfic đã viết có ưu tiên hơn calendar baseline.
 
-## Quy tắc tuổi
+Master result và bảng override nằm tại `fanfic/calendar/MASTER_RACE_CALENDAR_2026_2035.md`.
 
-Không suy tuổi nhân vật từ ngựa thật. Tracen của fanfic có University Division chính quy, cho phép các student leader/racer lớn tuổi hơn như Rudolf tiếp tục là sinh viên hợp pháp mà không tạo nghịch lý giáo dục/pháp lý.
+## Quy tắc tuổi và bậc học
+
+Không suy tuổi nhân vật từ ngựa thật. Tracen fanfic có:
+
+- Senior Division;
+- University Division bốn năm;
+- Resident Athlete Program;
+- Professional/Postgraduate facility;
+- Tracen Athlete Council cho vận động viên đã tốt nghiệp.
+
+Central Student Council chỉ dành cho người vẫn là student. Rudolf, Air Groove và Narita Brian sau tốt nghiệp không tiếp tục giữ ghế hội học sinh; họ chuyển sang athlete representation/operations/high-performance roles.
+
+## Liên kết vận hành
+
+- Timeline canon: `fanfic/timeline/CANON_TIMELINE_2025_2035.md`
+- Lịch viết/học/race: `fanfic/calendar/WRITING_SCHEDULE_2026_2035.md`
+- Race ledger: `fanfic/calendar/MASTER_RACE_CALENDAR_2026_2035.md`
+- Senior/international reference: `fanfic/calendar/SENIOR_INTERNATIONAL_RACE_REFERENCE.md`
+- Team framework: `fanfic/teams/equinox-team-career-framework.md`

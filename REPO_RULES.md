@@ -33,7 +33,18 @@ Một giá trị `DRAFT`, `TBD` hoặc `UNSPECIFIED` tuyệt đối không đư�
 
 ## Quy tắc timeline
 
-Các mốc ngày tháng cụ thể 2025–2029 là chronology của fanfic. Nếu adaptation chính thức không cung cấp ngày dương lịch, ngày trong repo là **mốc chronology `ORIGINAL`**, không phải tuyên bố về canon chính thức.
+- Các mốc ngày tháng cụ thể 2025–2035 là chronology của fanfic.
+- Nếu adaptation chính thức không cung cấp ngày dương lịch, ngày trong repo là mốc `ORIGINAL`, không phải tuyên bố về canon chính thức.
+- `Season` là giai đoạn kể chuyện nhiều mùa đua, không đồng nghĩa một năm lịch.
+- Mỗi race hằng năm chỉ có một kỳ chính thức và một kết quả cuối. Hai source arc chỉ được ghép cùng kỳ khi bảng override fanfic nói rõ.
+- Classic Triple Crown chỉ được dự trong Classic Year duy nhất; không được dùng University Division để đăng ký Classic lần hai.
+- Official result bị ghi đè vẫn giữ trong `official/`; chỉ fanfic calendar ghi kết quả hợp nhất.
+
+## Quy tắc lịch quốc tế
+
+`fanfic/calendar/SENIOR_INTERNATIONAL_RACE_REFERENCE.md` là tài liệu planning dựa trên hệ đua thật. Nó không tự biến mọi giải ngoài đời thành official Uma canon. Tháng tổ chức là cửa sổ thường niên; ngày chính xác từng năm phải nằm trong writing schedule hoặc master calendar trước khi dùng trong prose.
+
+Không gọi bất kỳ race nào là “World Cup duy nhất của Uma” nếu canon chưa xác nhận. Fanfic dùng nhãn planning `GLOBAL_CHAMPIONSHIP_MAJOR` cho các đỉnh quốc tế và ghi rõ giải nào mang tên/branding World Cup thật.
 
 ## Quy tắc độ phủ nhân vật
 

@@ -1,33 +1,38 @@
 # INTERNAL — Hướng dẫn viết Haise
 
-**Không sao chép nội dung này vào profile Uma tiêu chuẩn của Haise.** Đối với danh tính/lịch sử/tính cách trước Uma, `KhangNguyendotcpp/original-universe-canon` là nguồn có thẩm quyền.
+**Không sao chép nội dung này vào profile Uma tiêu chuẩn.** Với danh tính/lịch sử/tính cách trước Uma, `KhangNguyendotcpp/original-universe-canon` là nguồn có thẩm quyền.
 
 ## Tính liên tục của danh tính
-Haise là cùng một cá nhân OU, không phải một Uma bản địa có quá khứ bí ẩn giống hệt ai đó. Cơ thể/danh tính pháp lý trong thế giới Uma không xóa ký ức, worldview hay trải nghiệm sống.
+Haise là cùng cá nhân OU, không phải Uma bản địa có quá khứ bí ẩn tương tự. Cơ thể/danh tính pháp lý địa phương không xóa ký ức, worldview hay trải nghiệm sống.
 
 ## Meta-knowledge
-- Đã chơi game Uma Musume cực sâu và nghiên cứu lore/thông tin game rất kỹ.
-- Chưa từng xem anime và chưa từng đọc manga trước khi xuất hiện ở đây.
-- Độ tin cậy kiến thức giảm khi divergence của fanfic tăng.
+- Đã chơi game Uma Musume rất sâu và nghiên cứu lore/game.
+- Chưa xem anime hoặc đọc manga trước khi đến đây.
+- Kiến thức giảm độ tin cậy khi fanfic divergence tích lũy; không dùng nó như script bất bại.
 
-## Tư duy từ chiến đấu → đua
-- Phong cách chiến đấu gốc là áp lực dày đặc, liên tục, nhưng được tính toán chứ không berserk.
-- Trong combat đọc/dự đoán gần mười hành động sắp tới của đối thủ.
-- Khi chuyển sang racing: đọc cadence, nhịp thở, stride, fatigue, line, vị trí và ý định; thao túng pace/pressure để đối thủ trượt vào các lựa chọn đã dự đoán.
+## Từ chiến đấu sang racing
+- Phong cách gốc là áp lực dày, liên tục nhưng có tính toán.
+- Trong combat đọc/dự đoán chuỗi hành động của đối thủ.
+- Trong racing đọc cadence, thở, stride, fatigue, line, vị trí và ý định; thao túng pace để ép đối thủ chọn sai.
 - Đây là race intelligence, **không phải precognition siêu nhiên**.
-- Classification Senko/pace chaser hợp lý nhưng CHƯA LOCKED.
+- Senko/pace chaser là hướng hợp lý nhưng chưa LOCKED.
 
 ## Dấu hiệu
-Haise bình thường vẫn mỉm cười ngay cả khi chịu áp lực chiến đấu. Nếu nụ cười biến mất và gương mặt lạnh hoàn toàn, lớp xã hội/chơi đùa đã kết thúc và cô đã chuyển sang xử lý mục tiêu/finish thuần túy.
+Haise thường vẫn mỉm cười dưới áp lực. Khi nụ cười biến mất và gương mặt lạnh hẳn, cô đã bỏ lớp xã hội/chơi đùa và chuyển sang xử lý finish.
 
-## Hiệu chuẩn phản ứng khi thua — HARD
-Một thất bại race bình thường có ý nghĩa nhưng không được viết thành sụp đổ hiện sinh. Phản ứng hợp lý: ít nói hơn, xem replay, phân tích lỗi, chỉnh training. Breakdown mạnh hơn phải có stakes vượt xa chuyện đơn giản là về sau người khác (gây hại cho ai đó, hậu quả thảm khốc, đe dọa gia đình/tính mạng...).
+## Arc cảm xúc với racing — HARD
+- Điểm xuất phát: Haise tin race có ý nghĩa nhưng vẫn âm thầm xem nó nhỏ hơn những kinh hoàng cô từng trải qua.
+- Không cho cô lập tức nói đúng “triết lý racing” trước khi được đối thủ, đồng đội và thất bại dạy điều đó.
+- Một thất bại đầu arc dẫn tới im lặng, replay và chỉnh plan; không tự động thành breakdown.
+- Về sau, khi đã chứng kiến người khác đặt cả linh hồn vào cuộc đua và nhận ra chính mình từng xem thường điều ấy, cô **có thể khóc, gào hoặc mất bình tĩnh mạnh** khi thắng/thua. Cảm xúc này không phải vì race bỗng nguy hiểm hơn chiến tranh; nó là xấu hổ, đồng cảm, tôn trọng và sự nhập tâm đã tích lũy.
+- Bạo lực chỉ hợp lý khi có target/circumstance thật và hậu quả; không dùng hành hung ngẫu nhiên làm shorthand cho “đã quan tâm”.
 
 ## Quy tắc sức mạnh/cơ thể
-Nhận thức, ký ức và chiến thuật giữ nguyên. Giới hạn của cơ thể Uma/thế giới địa phương giới hạn output vật lý để giữ stakes của racing.
+Nhận thức, ký ức và chiến thuật giữ nguyên. Cơ thể Uma và luật thế giới giới hạn output vật lý; aptitude rộng không xóa recovery, surface hoặc đối thủ.
 
-## Lỗi OOC thường gặp
-- biến prediction thành precognition phép thuật;
-- cho cô nổi điên ngẫu nhiên thay vì tính toán;
-- cho cô sụp đổ bản sắc kiểu Teio/McQueen chỉ vì một trận thua bình thường;
-- biến aptitude/motif mắt đang DRAFT thành canon LOCKED.
+## Lỗi OOC
+- prediction thành phép tiên tri;
+- nổi điên ngẫu nhiên thay vì tính toán;
+- breakdown lớn quá sớm khi arc chưa xây stakes;
+- ngược lại, giữ cô vô cảm mãi sau khi story đã khiến cô thật sự tôn trọng racing;
+- khóa aptitude/motif mắt đang DRAFT thành canon.
