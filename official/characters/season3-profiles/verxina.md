@@ -17,30 +17,36 @@
 Tự tin, có ý thức rất mạnh về hình tượng “Queen”, được nuôi dạy trong gia đình giàu có và có năng lực cao ở nhiều lĩnh vực. Là chị cả của ba chị em và cố làm hình mẫu cho Cheval Grand/Vivlos. Điểm cốt lõi là **không chịu bỏ cuộc** ngay cả khi liên tục bị đặt vào vị trí số hai.
 
 ## 4. Đời thường / sở thích / thói quen
-Thích kickboxing, baseball, backflip; không thích silver dragée và trứng luộc chín kỹ. Gia đình có thói quen nói chuyện/consult qua các buổi ném bắt bóng. Nguồn còn ghi cô rất giỏi xử lý côn trùng.
-
+- Thích kickboxing, baseball, backflip; không thích silver dragées, trứng luộc và đồ khô.
+- Tai nhận biết người nhà ném bóng chỉ từ tiếng bắt; gia đình bàn việc qua trò catch.
+- Được giáo dục cao trong gia đình giàu có, tự xem mình phải xứng danh “Queen”.
+- Giỏi diệt côn trùng; protective/pampering với em út.
+- “Số 2” là recurring adversity/rival motif, không phải lời nguyền siêu nhiên đã chứng minh.
 ## 5. Ngoại hình
-Chỉ dùng character art/animation frame làm bằng chứng trực quan; mô tả chi tiết chưa được chuẩn hóa trong source text giữ `UNSPECIFIED`.
-
+- Tóc indigo dài, diamond trắng giữa mái; mắt tím–xanh và beauty mark dưới mắt phải.
+- Sailor cap xanh–teal mang crest anchor, ear cover trái và piercings teal tai phải.
+- Race outfit blue/teal/gold nhiều lớp, cape bất đối xứng và strap ghi `VERXINA`.
 ## 6. Racing / vai trò narrative
-Vai trò/entry chưa được nguồn đã audit xác nhận thêm; không suy career từ ngựa thật.
-
+- Mục tiêu trở thành Queen và không bỏ cuộc dù liên tục về sau rival.
+- `TV_S3`: chị của Cheval/Vivlos, xuất hiện trong family/support arc; race history riêng phải tra footage.
+- Rivalry với Gentildonna là fact profile/game/media; từng placement cần continuity cụ thể.
 ## 7. Quan hệ
-- **Cheval Grand, Vivlos:** em ruột.
-- **Gentildonna:** rival quan trọng bậc nhất; rivalry một chiều về mức ám ảnh nhưng Gentildonna thật sự tôn trọng sức bền ý chí của Verxina.
-- Có mặt/được nhắc trong **TV Season 3**.
-
+- **Cheval Grand:** em giữa; Verxina muốn làm gương nhưng khó tư vấn vì đi Tiara route khác.
+- **Vivlos:** em út, được cưng chiều và bảo vệ; Verxina đặt an toàn của em lên đầu.
+- **Gentildonna:** rival được thừa nhận; cạnh tranh không xóa sự tôn trọng.
+- **Hokko Tarumae:** roommate.
 ## 8. Animation / media appearances
-Chỉ đánh dấu continuity/tập khi cast credit, caption, dialogue, race card hoặc frame nguồn xác nhận; chưa có evidence bổ sung thì giữ `UNSPECIFIED`.
-
+- `TV_S3`: supporting/family appearance.
+- Game profile cung cấp habits và sister dynamics; episode footage quyết định scene anime.
+- Solo: `I Can't Choose to Give Up!`.
 ## 9. Trivia / lưu ý cho fanfic
-- Không chuyển quan hệ/ngày tháng/thành tích của ngựa thật thành canon nhân vật.
-- Profile ngắn phản ánh độ sâu của nguồn, không phải giấy phép bịa thêm personality.
-
+- OOC trap: biến protective sister thành kiểm soát tuyệt đối hoặc biến “Queen” thành kiêu ngạo phẳng.
+- Tự tin đi cùng lịch sử thất bại; cô có thể dao động nhưng không chọn bỏ cuộc.
+- Không chuyển sibling relation của ngựa thật thành facts mới ngoài ba chị em canon.
 ## 10. Nguồn đã khai thác
-- https://umamusu.wiki/Verxina
-- https://umamusu.wiki/Gentildonna
-- https://umamusu.wiki/Season_3
-
+- Portal chính thức: https://umamusume.jp/character/
+- Profile/index: https://umamusu.wiki/Verxina
+- TV S3: https://umamusu.wiki/Season_3
+- Footage/subtitle: Drive corpus S3.
 ## 11. Trạng thái nghiên cứu
-`FOUND / NORMALIZED / SOURCE-LIMITED`
+`FOUND / NORMALIZED / HIGH-DETAIL`
