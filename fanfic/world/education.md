@@ -1,73 +1,87 @@
 # Mô hình Giáo dục Fanfic
 
 **Trạng thái:** `ORIGINAL / APPROVED` trừ dòng ghi khác.  
-**Official baseline:** Tracen là cơ sở giáo dục + racing; game dùng khung ba năm; TV S1 có Junior A/B/C và Senior, nhưng không công bố mapping pháp lý kiểu trường Nhật.
+**Official floor:** Tracen là cơ sở giáo dục + racing; game dùng khung training ba năm; TV S1 có Junior A/B/C và Senior nhưng không công bố mapping pháp lý đầy đủ với hệ thống trường Nhật.
 
-## 1. Cấu trúc division của fic
+## 1. Cấu trúc division
+
 1. **Junior Division** — giáo dục nền tảng + racing development.
-2. **Senior Division** — tương đương upper-secondary trong vận hành fic; Haise/Takiyama vào Year 1.
-3. **University Division** — đại học chính quy bốn năm; extension cần cho chronology 2026–2029.
-4. **Professional/postgraduate track** — chỉ là scaffold; credential cụ thể `NEEDS_FANFIC_DECISION`.
+2. **Senior Division** — tương đương upper-secondary trong vận hành fic; Haise/Takiyama vào Year 1 tháng 4/2026.
+3. **University Division** — đại học chính quy bốn năm; `ORIGINAL_EXTENSION` dùng để giữ chronology dài.
+4. **Resident Athlete Program** — tư cách vận động viên thường trực sau tốt nghiệp; không phải bậc học.
+5. **Professional/postgraduate facility** — sports science, coaching và professional racing; credential cụ thể `TBD`.
 
-Official sources không xác nhận University Division. Vì vậy mọi reference university phải giữ `ORIGINAL_EXTENSION`.
+University, Resident Athlete và postgraduate facility không phải official Cygames canon.
 
-## 2. Năm học và tuần học
-- Năm học mở đầu đầu tháng 4.
-- Học văn hóa chạy song song training thể thao.
-- Khung giờ ngày thường/thi/camp nằm ở `fanfic/calendar/WRITING_SCHEDULE_2026_2029.md`.
-- Exact hours là `ORIGINAL`; official game chỉ xác nhận trải nghiệm ba năm và summer camp tháng 7–8.
+## 2. Năm học và chronology
 
-## 3. Nghĩa vụ học thuật
-- Senior students phải hoàn thành môn văn hóa và assessment bình thường.
-- Race travel có thể kích hoạt make-up exam/approved absence, không xóa nghĩa vụ.
-- Trainer không tự sửa điểm học thuật; faculty academic giữ thẩm quyền đánh giá.
-- Training load phải điều chỉnh quanh kỳ thi nhưng không mặc định đóng toàn bộ team operation.
-- Danh sách môn, tín chỉ và graduation threshold: `NEEDS_FANFIC_DECISION`.
-- Giáo viên chỉ tự xây tiêu chí trong khung môn học và chuẩn đầu ra đã phê duyệt; rubric của bài đánh giá lớn phải công bố trước.
-- Trainer và student council có quyền kiến nghị khi cho rằng học sinh bị thiệt thòi, nhưng không được sửa đề hoặc điểm.
-- Hiệu trưởng có thể yêu cầu kiểm tra quy trình, không bí mật thay đáp án/điểm.
-- Lớp tự chọn được phê duyệt có thể cho University học chung chuyên đề với Senior; khối học thuật quyết định dựa trên đề cương, năng lực và sức chứa.
+- Năm học bắt đầu đầu tháng 4 và kết thúc tháng 3 năm sau.
+- Haise/Taki: Senior Year 1 trong 2026–2027, Year 2 trong 2027–2028, Year 3 trong 2028–2029; dự kiến tốt nghiệp Senior tháng 3/2029.
+- Nếu học liên tục, Haise/Taki học University 04/2029–03/2033.
+- Rudolf khoảng 18 tuổi/University Year 1 vào 04/2026; dự kiến tốt nghiệp 03/2030 nếu không gián đoạn.
+- `Season` là giai đoạn kể chuyện, không đồng nghĩa một năm học hay một Classic Year.
+- Lịch học, thi, festival, camp và clock nằm ở `fanfic/calendar/WRITING_SCHEDULE_2026_2035.md`.
 
-## 4. Thẩm quyền và cách phản biện
+## 3. Classic eligibility không đi theo bậc học
+
+- Mỗi Uma chỉ có một Classic Year trong continuity này.
+- Haise/Taki debut 2026 và có Classic Year duy nhất năm 2027.
+- Lên University hoặc kéo season qua nhiều năm không cấp lại quyền chạy Satsuki/Derby/Kikuka.
+- Sau 2028, đường đua của họ là Senior/Open G1 và international.
+
+## 4. Nghĩa vụ học thuật
+
+- Học sinh phải hoàn thành môn văn hóa và assessment song song training.
+- Race travel có thể tạo approved absence/make-up exam, không xóa nghĩa vụ học.
+- Trainer không tự sửa điểm; faculty giữ thẩm quyền đánh giá.
+- Medical clearance và recovery có thể buộc đổi lịch training/race.
+- Danh sách môn, tín chỉ và graduation threshold vẫn `TBD`.
+- Rubric bài đánh giá lớn phải công bố trước; khiếu nại thiên vị cần rubric, feedback và đánh giá độc lập nếu cần.
+- Nếu một người đồng thời là faculty và trainer, dữ liệu học thuật và training phải tách; quyết định lớn cần review chéo để giảm xung đột lợi ích.
+
+## 5. Authority và phản biện
+
 - Faculty/trainer/staff có quyền chuyên môn trong phạm vi nhiệm vụ.
-- Student có thể challenge plan, dữ liệu, load hoặc safety.
-- Challenge phải dùng ngôn ngữ tôn trọng; insult, dismissive command hoặc public undermining có thể bị yêu cầu dừng, xin lỗi và trình bày lại.
-- Student-council office không đặt Rudolf cao hơn faculty trong classroom/training jurisdiction.
-- Quy tắc này là quyết định trực tiếp của author, `ORIGINAL / APPROVED`.
-- Nếu giáo viên đồng thời là trainer của cùng học sinh, tiêu chí học thuật và dữ liệu training vẫn phải được tách; biện pháp hành chính do đơn vị có thẩm quyền xử lý, không đổi race lấy điểm.
-- Khi chính người đó tạo cả lịch học lẫn lịch training, việc điều chỉnh lớn cần một người khác kiểm tra để giảm xung đột lợi ích.
-- Khi học sinh cáo buộc thiên vị, staff phải đưa rubric, phản hồi bài và dữ liệu training; khiếu nại tiếp tục thì chuyển sang đánh giá độc lập.
-- Staff hạ nhục học sinh công khai phải xin lỗi công khai ở mức tương xứng, sửa hành vi và chịu xem xét. Quyền giáo dục không bao gồm quyền làm nhục.
+- Student có quyền challenge plan, load, dữ liệu và safety bằng quy trình tôn trọng.
+- Student Council không cao hơn faculty trong lớp, trainer trên sân hoặc medical trong clearance.
+- Staff không có quyền làm nhục công khai; nếu xảy ra phải xin lỗi/sửa hành vi và chịu review tương xứng.
+- Quy tắc này là `ORIGINAL / APPROVED`.
 
-## 5. Equinox
-- Equinox dự tuyển vị trí kết hợp trainer + giáo viên Lịch sử và đã qua vòng vấn đáp thứ nhất.
-- Chức danh hợp đồng chính xác và quyết định tuyển dụng cuối cùng: `NEEDS_FANFIC_DECISION`.
-- Nếu được bổ nhiệm, cô có authority tương đương faculty khi quản học sinh trong classroom scope và trainer authority trong training scope.
-- Quyền trainer về menu/entry dựa official; authority kỷ luật mở rộng là fanfic rule.
+## 6. Equinox
 
-## 6. Student council
-Central Student Council đại diện Senior + University, được school administration ủy quyền. Hội có thể phối hợp lịch/sự kiện/student affairs, nhưng không thay:
-- faculty trong học thuật;
-- trainer trong training/entry;
-- medical staff trong quyết định y tế;
-- administration trong legal/employment.
+- Tại prose 2026-03-09, Equinox mới qua vòng vấn đáp thứ nhất cho vị trí kết hợp trainer + giáo viên Lịch sử.
+- Kết quả tuyển dụng, contract title và team ownership vẫn `TBD`; calendar tương lai không được coi là ký ức đã xảy ra.
+- Nếu được bổ nhiệm, Equinox có faculty authority trong classroom và trainer authority trong training; không vì vậy được bypass medical/race operations.
 
-Rudolf và Air Groove đã xác nhận trong scene phỏng vấn:
+## 7. Student Council và Athlete Council
 
-- không dùng chức vụ hội học sinh để buộc faculty/trainer đổi quyết định chuyên môn;
-- có thể mời staff trao đổi hoặc gửi yêu cầu chính thức trong phạm vi hội, không triệu tập họ như cấp dưới;
-- trong classroom/training, họ phải tuân thủ quyết định hợp lệ hoặc khiếu nại đúng quy trình;
-- student council có thể đề xuất lớp mới, nhưng không tự mở lớp hoặc chỉ định giáo viên.
+### Central Student Council
 
-## 7. Conflict register
-- **Official Senior profile Rudolf** vs **University Year 1 fic 04/2026**: `OVERRIDDEN` trong fanfic, không sửa file official.
-- **Game three-year training** vs **fic multi-division 2025–2029**: `ADOPTED AS REFERENCE / OVERRIDDEN IN STRUCTURE`.
-- Exact legal age và ngành học: `UNSPECIFIED / NEEDS_FANFIC_DECISION`.
+- Đại diện học sinh Senior + University đang theo học.
+- Có thể phối hợp lịch, sự kiện, student affairs và representation.
+- Không thay faculty, trainer, medical, race operations hoặc administration.
+- Người đã tốt nghiệp phải rời chức vụ Student Council.
 
-## 8. Nguồn / liên kết
+### Tracen Athlete Council
+
+- `ORIGINAL_EXTENSION` dành cho Resident Athletes/vận động viên sau tốt nghiệp.
+- Rudolf: chair; Air Groove: deputy/operations liaison; Narita Brian: competitive standards/high-performance — framework đã duyệt, chi tiết điều lệ `TBD`.
+- Council đại diện vận động viên, mentoring và điều phối; không tự cấp entry, điểm học, hợp đồng hay medical clearance.
+
+## 8. Conflict register
+
+- Official Rudolf Senior profile vs University Year 1 fanfic 04/2026: intentional `OVERRIDE` trong fic, không sửa official file.
+- Game three-year training vs chronology 2025–2035: `REFERENCE / STRUCTURAL OVERRIDE`.
+- University, Resident Athlete, Athlete Council: `ORIGINAL_EXTENSION`.
+- Exact legal age, ngành học và credential: `TBD`.
+
+## 9. Nguồn / liên kết
+
 - https://umamusume.jp/about/
 - https://umamusume.jp/contents/game/scenario/
 - https://anime-umamusume.jp/archive/1st/keywords/
 - `official/world/tracen.md`
 - `fanfic/world/tracen-structure.md`
-- `fanfic/calendar/WRITING_SCHEDULE_2026_2029.md`
+- `fanfic/world/racing-rules.md`
+- `fanfic/calendar/WRITING_SCHEDULE_2026_2035.md`
+- `fanfic/teams/equinox-team-career-framework.md`

@@ -2,75 +2,100 @@
 
 **Trạng thái:** `ORIGINAL / APPROVED SCAFFOLD` với các adoption ghi rõ.
 
-## 1. Fact official được adopt
+## 1. Official facts được adopt
+
 Từ glossary TV S1:
+
 - Twinkle Series là national sports entertainment.
 - G1/G2/G3, turf/dirt, Junior/Senior, race tactics và race-day public flow tồn tại.
 - Trainer có license, chỉ đạo training và chọn race.
-- Participant thuộc team; team TV S1 cần ít nhất 5 Umamusume và ≥1 trainer.
-- Inquiry, demotion, disqualification, tie và confirmed result tồn tại.
+- Participant thuộc team; certified team TV S1 cần tối thiểu năm Uma và ít nhất một trainer.
+- Inquiry, demotion, disqualification, tie/dead heat và confirmed result tồn tại.
 - Winning Live theo sau race day.
 
-## 2. Team-size conflict
-Current fic chưa chốt Equinox sở hữu team hay chỉ là trainer/faculty được phân công. Nếu roster chỉ có Haise/Takiyama thì mâu thuẫn rule TV S1 “tối thiểu 5 để công nhận team”.
+## 2. Team-size rule
 
-**Trạng thái roster thực tế:** `NEEDS_FANFIC_DECISION`.
-Scene phỏng vấn đã giải quyết cơ chế tạm thời: người vượt đánh giá nhưng chưa đủ roster có thể là trainer đủ điều kiện/staff huấn luyện, song chưa đứng đầu một certified team độc lập. Họ có thể phụ trách cá nhân dưới cấu trúc được phân công, giám sát hoặc trong nhóm training chưa được công nhận là team độc lập. Cho tới khi author chốt roster, prose dùng “nhóm training / trainee được Equinox phụ trách”, không tuyên bố certified team hai người.
+Khi chỉ có Haise/Taki, Equinox chưa đứng đầu một certified team độc lập. Người vượt assessment có thể làm trainer/staff, phụ trách cá nhân dưới cấu trúc được phân công hoặc nhóm training chưa được công nhận. Certified roster, thành viên thứ ba–năm và thời điểm chứng nhận: `TBD`.
 
-## 3. Entry pipeline dùng khi viết
-1. Runner và trainer bàn mục tiêu/rotation.
-2. Trainer kiểm training data, recovery, học tập và travel.
-3. Medical clearance nếu có injury/load concern.
-4. Race operations kiểm division/eligibility/entry.
-5. Entry được xác nhận; calendar chuyển từ planned sang entered.
-6. Race-day check, paddock, course entry, gate, race, result review.
-7. Post-race medical check/debrief.
-8. Winning Live nếu đủ điều kiện/sức khỏe theo protocol fic.
+## 3. Eligibility theo fanfic
 
-Bước giấy tờ/medical cụ thể là `ORIGINAL`, vì official không công bố full workflow.
+- **Debut/foundation:** 2026 cho Haise/Taki.
+- **Classic Year:** 2027 và chỉ một lần; Satsuki Sho, Japanese Derby và Kikuka Sho là crown route.
+- **Senior/Open:** từ 2028 trở đi; gồm domestic G1, graded prep và international invitation.
+- Lên University/Resident Athlete không reset Classic eligibility.
+- Một `season` anime được kéo qua nhiều năm không tạo thêm kỳ Classic cho cùng nhân vật.
 
-## 4. Quyền và trách nhiệm
-- Runner có quyền hỏi, phản đối và trình dữ liệu.
-- Trainer quyết recommendation/entry selection trong phạm vi license.
-- Medical staff có safety veto cuối trong scaffold fic.
-- Faculty có thể giới hạn participation vì học thuật/kỷ luật theo due process.
-- Student council không thay trainer/medical/race operations.
-- Quan hệ trainer–trainee không phải việc trường đơn phương “gán”: phải xét tuyển chọn, thỏa thuận, nhu cầu học sinh, đánh giá của trường và tình trạng team.
-- Học sinh có quyền từ chối trainer; trainer có quyền từ chối nhận trên căn cứ chuyên môn phù hợp và không phân biệt đối xử trái quy định.
-- Team membership không tự tạo suất race. Mỗi runner phải đủ điều kiện, có suất và kế hoạch hợp lý; race operations có thể bác entry không hợp lệ, student council không thể yêu cầu thêm suất.
-- Trainer có quyền từ chối đề xuất race không phù hợp; trainee có quyền yêu cầu đổi kế hoạch, xin ý kiến khác hoặc chấm dứt quan hệ theo quy trình. Trainer không sở hữu mục tiêu nghề nghiệp của trainee.
+## 4. Một kỳ đua, một kết quả
 
-## 5. Load và welfare
-- Official game xác nhận low stamina training có thể fail/injury và cần nhìn lịch race.
-- Over-racing là risk thật trong fic; không có ngưỡng số race universal.
-- Ba/bốn race liên tiếp chỉ được đánh giá theo khoảng nghỉ, travel, condition, distance và injury history.
-- “Ý chí” không xóa fracture/rehab.
-- Low stamina trước buổi tốc độ là căn cứ đổi hoặc hủy buổi; kế hoạch không được ưu tiên hơn tình trạng cơ thể.
-- Woodchip course dùng để giảm tải chân so với turf/dirt khi phù hợp mục tiêu buổi tập; “nhẹ hơn” không đồng nghĩa vô hại.
-- Parallel training dùng từ hai runner trở lên để tạo kích thích cạnh tranh và luyện phản ứng tương tác, không biến mọi buổi thành race ngầm.
-- Khi runner sụp pace cuối race, phải phân tích khởi đầu, nhịp thở, nền sức bền, phản ứng với pressure, mặt sân và chiến thuật đối thủ trước khi quy thành vấn đề ý chí.
-- Khi runner bị kẹt pack, đánh giá cả chọn vị trí trước cua, phản ứng với pace, khả năng giữ khoảng trống, thời điểm chuyển line và năng lượng tốn để thoát pack; lỗi có thể bắt đầu trước thời điểm bị khóa rõ ràng.
+- Mỗi annual race edition chỉ có một winner.
+- Dead heat chỉ hợp lệ nếu ledger ghi rõ đồng hạng chính thức; Derby 2027 Spe + El là intentional approved exception.
+- Khi S1/S2/S3/RTTT/BOANE dùng cùng tên race, timeline phải phân kỳ theo năm hoặc ghi intentional overwrite.
+- `fanfic/calendar/MASTER_RACE_CALENDAR_2026_2035.md` là ledger kiểm tra winner.
+- Calendar ghi `DRAFT/TBD/planned` không canonize entry hay finish.
+- Chỉ author approval hoặc prose đã viết mới khóa kết quả.
 
-## 6. Race result canon
-- Calendar ghi `planned` không canonize finish.
-- Chỉ result đã được author duyệt hoặc chapter viết mới là fanfic canon.
-- Official race names/course/distance có thể làm baseline; Gregorian date 2025–2029 là `ORIGINAL`.
-- Historical horse result không tự nhập.
+## 5. Entry pipeline
 
-## 7. Aptitude và tactics
-- Game letter grades là game system/reference.
-- Prose dùng định tính: surface, distance comfort, nige/senko/sashi/oikomi, pace, kick, recovery.
-- Exact rank cho Haise/Takiyama: `NEEDS_FANFIC_DECISION`.
-- Không power-scale bằng stat screen giữa continuity.
+1. Runner và trainer chọn mục tiêu/rotation.
+2. Trainer kiểm data, recovery, học tập và travel.
+3. Medical clearance nếu có load/injury concern.
+4. Race Operations kiểm division, eligibility, nomination/entry.
+5. International Logistics kiểm invitation, visa, quarantine, acclimatization và local rules nếu đi nước ngoài.
+6. Entry chuyển từ planned sang entered.
+7. Race-day check, paddock, course, gate, race, inquiry và confirmed result.
+8. Post-race medical/debrief; Winning Live theo protocol phù hợp.
 
-## 8. Conduct
-- Disagreement chuyên môn phải tôn trọng.
-- Trainer có thể dừng drill và yêu cầu xin lỗi/trình bày lại khi student disrespect.
-- Public humiliation, arbitrary violence hoặc punishment ngoài jurisdiction không được coi là “professional authority”.
+Chi tiết giấy tờ là `ORIGINAL_EXTENSION`.
 
-## 9. Nguồn
+## 6. International “World Cup” rule
+
+- Official Uma canon không xác lập một giải duy nhất tương đương FIFA World Cup.
+- `WORLD_CHAMPIONSHIP_BRAND`: Dubai World Cup Night, Breeders' Cup World Championships, HKIR theo branding “Turf World Championships”, Pegasus World Cup Day.
+- `GLOBAL_CHAMPIONSHIP_MAJOR`: Arc, Japan Cup, Saudi Cup, King George, Melbourne Cup và các đỉnh toàn cầu tương tự.
+- Nhãn planning không tự biến real-horse race thành official Uma canon.
+- Distance, host, eligibility và annual date phải kiểm theo edition trước khi đưa vào prose.
+- Kho race: `fanfic/calendar/SENIOR_INTERNATIONAL_RACE_REFERENCE.md`.
+
+## 7. Load và welfare
+
+- Over-racing là risk thật; không có ngưỡng số race universal.
+- Đánh giá load theo khoảng nghỉ, travel, condition, distance, surface, biomechanics và injury history.
+- Không dùng lịch Pegasus → Saudi → Dubai hoặc Arc → Breeders' Cup → Japan Cup → HKIR như mặc định.
+- Medical staff có safety veto; “ý chí” không xóa fracture/rehab.
+- Taki giữ trí sáng tạo nhưng cơ thể phải trả stress gân/cơ/khớp và recovery debt.
+- Haise đọc race bằng observation/prediction, không phải precognition siêu nhiên.
+- Woodchip có thể giảm impact so với turf/dirt nhưng không vô hại.
+
+## 8. Quyền và trách nhiệm
+
+- Runner có quyền hỏi, phản đối và trình data.
+- Trainer quyết recommendation/entry trong phạm vi license.
+- Medical có safety veto; Race Operations có final eligibility check.
+- Faculty có thể giới hạn participation vì học thuật theo due process.
+- Student/Athlete Council không cấp suất race.
+- Quan hệ trainer–trainee cần selection và consent; trainer không sở hữu mục tiêu nghề nghiệp của trainee.
+
+## 9. Aptitude và tactics
+
+- Letter grade game chỉ là reference.
+- Prose dùng surface, distance comfort, nige/senko/sashi/oikomi, pace, kick và recovery.
+- Haise/Taki có khả năng thích nghi rộng nhưng exact rank vẫn `TBD`; không tự động outclass mọi field.
+- Japanese Derby có thể là thế mạnh của cả hai mà không bảo đảm họ cùng thắng.
+
+## 10. Race result canon
+
+- Tên/course/distance official hoặc organizer có thể làm baseline.
+- Gregorian date 2025–2035 và merged result là `FANFIC ORIGINAL` trừ ghi chú.
+- Historical horse result không tự nhập vào Uma canon.
+- Calendar tương lai không phải ký ức đã xảy ra ở điểm prose 2026-03-09.
+
+## 11. Nguồn
+
 - https://anime-umamusume.jp/archive/1st/keywords/
 - https://umamusume.jp/contents/game/scenario/ura/
+- https://japanracing.jp/en/racing/schedule/graded/list/
 - `official/world/racing-system.md`
 - `official/world/trainers.md`
-- `fanfic/calendar/WRITING_SCHEDULE_2026_2029.md`
+- `fanfic/calendar/MASTER_RACE_CALENDAR_2026_2035.md`
+- `fanfic/calendar/WRITING_SCHEDULE_2026_2035.md`
+- `fanfic/calendar/SENIOR_INTERNATIONAL_RACE_REFERENCE.md`

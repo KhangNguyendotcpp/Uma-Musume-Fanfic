@@ -3,70 +3,101 @@
 **Nguồn gốc:** `ORIGINAL_EXTENSION`; **trạng thái:** `APPROVED` trừ ghi chú.
 
 ## 1. Official floor
-Official chỉ đảm bảo Tracen là educational/racing institution, có Junior/Senior, dorm, teams, trainer và student council. Game có training scenario ba năm. Không có official proof cho university bốn năm hoặc legal hierarchy dưới đây.
 
-## 2. Fanfic divisions
+Official chỉ bảo đảm Tracen là educational/racing institution, có Junior/Senior, dorm, teams, trainer và student council. Game có training scenario ba năm. Không có official proof cho university bốn năm, Resident Athlete Program, Athlete Council hoặc legal hierarchy dưới đây.
+
+## 2. Fanfic divisions và units
+
 1. **Junior Division** — education nền tảng + racing development.
-2. **Senior Division** — upper-secondary-equivalent; Haise/Takiyama nhập Year 1.
+2. **Senior Division** — upper-secondary-equivalent.
 3. **University Division** — đại học bốn năm.
-4. **Professional/postgraduate facility** — sports science, coaching, professional racing; credential `TBD`.
-5. **Central Student Council** — đại diện Senior + University.
-6. **Race Operations / Medical / Dorm / Academic administration** — working units để vận hành scene.
+4. **Resident Athlete Program** — vận động viên sau tốt nghiệp tiếp tục dùng hệ thống training/race của Tracen.
+5. **Professional/postgraduate facility** — sports science, coaching, professional racing; credential `TBD`.
+6. **Central Student Council** — Senior + University students.
+7. **Tracen Athlete Council** — đại diện Resident Athletes, không phải hội học sinh.
+8. **Race Operations / Medical / Dorm / Academic / International Logistics** — units vận hành scene.
 
-## 3. Lý do override
-Franchise cho nhiều thế hệ cùng tồn tại nhưng không công bố model đủ dùng cho chronology Gregorian 2025–2029. University Division cho phép Rudolf tiếp tục là student leader năm 2026 mà không xóa tư cách học thuật.
+## 3. Vì sao chronology cần extension
 
-## 4. Rudolf baseline
-- 04/2026: khoảng 18 tuổi.
-- University Year 1.
-- Chủ tịch Central Student Council.
-- `ORIGINAL / APPROVED`, chưa `LOCKED`.
-Official profile Senior Division vẫn tồn tại trong `official/`; đây là intentional override.
+Franchise cho nhiều thế hệ cùng tồn tại nhưng không công bố model đủ dùng cho lịch Gregorian 2025–2035. University giữ nhân vật trong môi trường học thuật; Resident Athlete giữ họ thi đấu sau tốt nghiệp mà không giả vờ họ còn là học sinh.
+
+## 4. Institutional timeline
+
+- 04/2026: Rudolf khoảng 18 tuổi, University Year 1 và giữ chức Chủ tịch Central Student Council — `ORIGINAL / APPROVED`.
+- 03/2029: Haise/Taki dự kiến tốt nghiệp Senior; 04/2029 có thể vào University.
+- 03/2030: Rudolf dự kiến tốt nghiệp University nếu không gián đoạn; phải rời Central Student Council.
+- Sau tốt nghiệp: Rudolf/Air/Brian có thể là Resident Athletes và giữ chức trong Athlete Council.
+- 03/2033: Haise/Taki dự kiến hoàn tất University nếu học liên tục; hướng nghề sau đó `TBD`.
 
 ## 5. Authority map
-- **School administration:** employment, institution policy, final major discipline.
-- **Academic faculty:** class, grades, attendance.
-- **Trainer:** training menu, race selection/recommendation, team conduct.
+
+- **School administration:** employment, policy, contract, major discipline.
+- **Academic faculty:** class, grade, attendance.
+- **Trainer:** training menu, race recommendation, team conduct.
 - **Medical:** health clearance và safety veto.
-- **Race operations:** eligibility/entry/logistics/result records.
+- **Race Operations:** eligibility, entry, results, accreditation.
+- **International Logistics:** invitation, travel, quarantine, local coordination.
 - **Dorm administration:** residence/curfew.
-- **Student council:** delegated student affairs, event coordination, representation.
+- **Central Student Council:** delegated student affairs cho người đang học.
+- **Athlete Council:** representation/mentoring cho Resident Athletes.
 
-Jurisdiction có thể overlap; conflict phải escalated, không giải bằng chức danh “quyền lực hơn tất cả”.
+Jurisdiction có thể overlap; conflict phải escalated chứ không giải bằng một chức danh “quyền lực hơn tất cả”.
 
-Tại ngày 2026-03-09, bản quy chế xác định ranh giới giữa Central Student Council với học thuật, trainer, race operations và y tế vẫn có một số vùng chồng lấn. Đợt sửa đổi gần nhất bắt đầu từ học kỳ trước và chưa chốt hạn hoàn thành. Đây là tình trạng được thừa nhận trong scene, không phải giấy phép để student council tự mở rộng quyền.
+## 6. Equinox và team recognition
 
-## 6. Equinox
-- Đang đi qua quy trình tuyển dụng tăng tốc cho vị trí kết hợp trainer + giáo viên Lịch sử; tại điểm prose hiện tại đã qua vòng vấn đáp thứ nhất nhưng chưa được bổ nhiệm.
-- Sau khi được bổ nhiệm, có authority hợp lệ với Senior lẫn University student trong training/faculty scope.
-- Course dự tuyển/giảng thử là Lịch sử; exact contract title, kết quả tuyển dụng cuối cùng và team ownership: `NEEDS_FANFIC_DECISION`.
-- Authority không tiết lộ OU origin/power.
+- Tại 2026-03-09, Equinox đã qua vòng vấn đáp thứ nhất nhưng chưa được bổ nhiệm.
+- Exact contract title, hiring result và team ownership vẫn `TBD`.
+- TV S1 yêu cầu certified team tối thiểu năm Uma và ít nhất một trainer.
+- Trước khi roster đạt chuẩn, prose dùng “nhóm training/trainee được Equinox phụ trách”, có supervision và không tuyên bố certified team hai người.
+- Thời điểm đủ roster và danh sách thành viên thứ ba–năm vẫn `TBD`.
 
-## 7. Team recognition conflict
-TV S1 official yêu cầu certified team tối thiểu 5 Uma. Fic chưa chốt roster của Equinox. Trạng thái `CONFLICTING`; xem `racing-rules.md`.
+## 7. Hậu tốt nghiệp
 
-## 8. Campus logistics
-Daily clock, exams, camp, festivals và live windows nằm trong writing schedule. Các giờ này `ORIGINAL`; official chỉ làm source cho loại hoạt động, không cho exact timestamp.
+Resident Athlete:
 
-## 9. Writing rules
-- Luôn phân biệt “official Tracen” và “fanfic extension”.
-- Không gọi University Division official canon.
-- Không dùng student-council office để bypass faculty/trainer/medical.
-- Khi source mới xuất hiện, thêm vào conflict register trước khi retcon.
+- vẫn được access training course, medical, race operations và international logistics theo contract;
+- có thể mentor student nhưng không tự động có faculty/trainer authority;
+- không giữ chức Central Student Council;
+- có thể được chọn vào Athlete Council.
 
-## 10. Cấu trúc vòng vấn đáp Equinox
+Framework chức vụ:
 
-Scene ngày 2026-03-09 xác lập một panel sáu người:
+- Symboli Rudolf — Athlete Council chair;
+- Air Groove — deputy/operations liaison;
+- Narita Brian — competitive standards/high-performance.
 
-- ba thành viên có quyền đánh giá: đại diện học thuật, đại diện trainer và người điều phối/tiếp nhận hồ sơ;
-- Yayoi Akikawa tham dự với tư cách người đứng đầu cơ sở và có quyền chấp thuận việc tiếp tục quy trình tăng tốc;
-- Symboli Rudolf và Air Groove là cố vấn học sinh, ký cam kết bảo mật riêng, nộp nhận xét nhưng không có phiếu tuyển dụng.
+Các chức này không phải official canon và không tự làm họ thành nhân viên trường.
 
-Nếu sau này Equinox trực tiếp dạy/huấn luyện Rudolf hoặc Air Groove, quan hệ phải được công khai khi hai người tham gia đánh giá nhân sự liên quan; đơn vị quản lý quyết định recusal. Hai cố vấn có quyền trình bày lý do, không tự quyết mình được ở lại.
+## 8. Campus và race logistics
+
+- Daily clock, exam, camp, festival và exact timestamps: `fanfic/calendar/WRITING_SCHEDULE_2026_2035.md`.
+- Mọi race edition/result: `fanfic/calendar/MASTER_RACE_CALENDAR_2026_2035.md`.
+- International menu: `fanfic/calendar/SENIOR_INTERNATIONAL_RACE_REFERENCE.md`.
+- Calendar tương lai là planning framework, không chứng minh scene hiện tại đã biết/chốt toàn bộ tương lai.
+
+## 9. Vòng vấn đáp Equinox
+
+Scene 2026-03-09 xác lập panel sáu người:
+
+- ba thành viên có quyền đánh giá: học thuật, trainer và điều phối hồ sơ;
+- Yayoi Akikawa tham dự với quyền chấp thuận việc tiếp tục quy trình tăng tốc;
+- Rudolf và Air Groove là cố vấn học sinh, ký bảo mật, nộp nhận xét nhưng không có phiếu tuyển dụng.
+
+Nếu Equinox trực tiếp dạy/huấn luyện Rudolf hoặc Air, quan hệ phải được disclosure khi họ tham gia đánh giá nhân sự liên quan; đơn vị quản lý quyết định recusal.
+
+## 10. Writing rules
+
+- Không gọi University/Resident Athlete/Athlete Council là official canon.
+- Không để Student Council tiếp tục vô hạn sau khi thành viên tốt nghiệp.
+- Không dùng Athlete Council để bypass trainer/medical/administration.
+- Khi source mới xung đột, ghi conflict register trước khi retcon.
 
 ## 11. Liên kết
+
 - `official/world/tracen.md`
 - `official/world/trainers.md`
 - `fanfic/world/education.md`
 - `fanfic/world/legal-framework.md`
-- `fanfic/calendar/WRITING_SCHEDULE_2026_2029.md`
+- `fanfic/world/racing-rules.md`
+- `fanfic/teams/equinox-team-career-framework.md`
+- `fanfic/calendar/WRITING_SCHEDULE_2026_2035.md`
