@@ -1,3 +1,0 @@
-BOANE cross-animation cameo audit pass completed to source-index level on 2026-08-21.
-Baseline after this pass: 174 profiles.
-Frame-by-frame/race-card/on-screen-text audit remains pending.
