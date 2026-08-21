@@ -24,7 +24,7 @@ Mọi giờ dùng Japan Standard Time (JST). Giờ xuất phát major race mặc
 | Ngày & giờ | Địa điểm | Mốc | Trạng thái |
 |---|---|---|---|
 | 2026-03-09 Thứ Hai 07:40 | Fuchu, Tokyo | Equinox xuất hiện trong thế giới Uma/danh tính địa phương bắt đầu có hiệu lực | APPROVED baseline |
-| 2026-03-16 Thứ Hai 10:00 | Tòa hành chính Tracen | Equinox phỏng vấn intake staff/trainer | APPROVED baseline |
+| 2026-03-16 Thứ Hai 10:00 | Tòa hành chính Tracen | Equinox vượt vòng vấn đáp thứ nhất cho vị trí trainer + giáo viên Lịch sử; được chuyển sang phân tích dữ liệu trainer và giảng thử | STORY-ESTABLISHED / LOCKED |
 | 2026-03-23 Thứ Hai 08:30 | Tracen Academy | Equinox bắt đầu nhiệm vụ staff thường trực | APPROVED baseline |
 | 2026-04-06 Thứ Hai 08:30 | Tracen Academy, Fuchu | Khai giảng; mở đầu dựa trên TV-S1 của Special Week bắt đầu | APPROVED baseline |
 | 2026-04-19 Chủ Nhật 15:40 | Nakayama Racecourse | Satsuki Sho; Classic anchor tương thích RTTT | race ADOPTED / chronology fanfic |

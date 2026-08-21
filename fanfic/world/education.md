@@ -23,6 +23,10 @@ Official sources không xác nhận University Division. Vì vậy mọi referen
 - Trainer không tự sửa điểm học thuật; faculty academic giữ thẩm quyền đánh giá.
 - Training load phải điều chỉnh quanh kỳ thi nhưng không mặc định đóng toàn bộ team operation.
 - Danh sách môn, tín chỉ và graduation threshold: `NEEDS_FANFIC_DECISION`.
+- Giáo viên chỉ tự xây tiêu chí trong khung môn học và chuẩn đầu ra đã phê duyệt; rubric của bài đánh giá lớn phải công bố trước.
+- Trainer và student council có quyền kiến nghị khi cho rằng học sinh bị thiệt thòi, nhưng không được sửa đề hoặc điểm.
+- Hiệu trưởng có thể yêu cầu kiểm tra quy trình, không bí mật thay đáp án/điểm.
+- Lớp tự chọn được phê duyệt có thể cho University học chung chuyên đề với Senior; khối học thuật quyết định dựa trên đề cương, năng lực và sức chứa.
 
 ## 4. Thẩm quyền và cách phản biện
 - Faculty/trainer/staff có quyền chuyên môn trong phạm vi nhiệm vụ.
@@ -30,11 +34,15 @@ Official sources không xác nhận University Division. Vì vậy mọi referen
 - Challenge phải dùng ngôn ngữ tôn trọng; insult, dismissive command hoặc public undermining có thể bị yêu cầu dừng, xin lỗi và trình bày lại.
 - Student-council office không đặt Rudolf cao hơn faculty trong classroom/training jurisdiction.
 - Quy tắc này là quyết định trực tiếp của author, `ORIGINAL / APPROVED`.
+- Nếu giáo viên đồng thời là trainer của cùng học sinh, tiêu chí học thuật và dữ liệu training vẫn phải được tách; biện pháp hành chính do đơn vị có thẩm quyền xử lý, không đổi race lấy điểm.
+- Khi chính người đó tạo cả lịch học lẫn lịch training, việc điều chỉnh lớn cần một người khác kiểm tra để giảm xung đột lợi ích.
+- Khi học sinh cáo buộc thiên vị, staff phải đưa rubric, phản hồi bài và dữ liệu training; khiếu nại tiếp tục thì chuyển sang đánh giá độc lập.
+- Staff hạ nhục học sinh công khai phải xin lỗi công khai ở mức tương xứng, sửa hành vi và chịu xem xét. Quyền giáo dục không bao gồm quyền làm nhục.
 
 ## 5. Equinox
-- Equinox là professional staff/trainer thường trực, có authority tương đương faculty khi quản học sinh.
-- Chức danh chính xác và có dạy môn văn hóa hay không: `NEEDS_FANFIC_DECISION`.
-- “Giáo viên Lịch sử” vẫn là `DRAFT`, không được tự nâng thành canon.
+- Equinox dự tuyển vị trí kết hợp trainer + giáo viên Lịch sử và đã qua vòng vấn đáp thứ nhất.
+- Chức danh hợp đồng chính xác và quyết định tuyển dụng cuối cùng: `NEEDS_FANFIC_DECISION`.
+- Nếu được bổ nhiệm, cô có authority tương đương faculty khi quản học sinh trong classroom scope và trainer authority trong training scope.
 - Quyền trainer về menu/entry dựa official; authority kỷ luật mở rộng là fanfic rule.
 
 ## 6. Student council
@@ -43,6 +51,13 @@ Central Student Council đại diện Senior + University, được school admin
 - trainer trong training/entry;
 - medical staff trong quyết định y tế;
 - administration trong legal/employment.
+
+Rudolf và Air Groove đã xác nhận trong scene phỏng vấn:
+
+- không dùng chức vụ hội học sinh để buộc faculty/trainer đổi quyết định chuyên môn;
+- có thể mời staff trao đổi hoặc gửi yêu cầu chính thức trong phạm vi hội, không triệu tập họ như cấp dưới;
+- trong classroom/training, họ phải tuân thủ quyết định hợp lệ hoặc khiếu nại đúng quy trình;
+- student council có thể đề xuất lớp mới, nhưng không tự mở lớp hoặc chỉ định giáo viên.
 
 ## 7. Conflict register
 - **Official Senior profile Rudolf** vs **University Year 1 fic 04/2026**: `OVERRIDDEN` trong fanfic, không sửa file official.
