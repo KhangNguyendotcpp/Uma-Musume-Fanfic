@@ -4,7 +4,6 @@
 - Quê giả của Takiyama: Osaka/Kansai, chọn vì accent có nhịp mạnh và khác biệt rõ.
 - Motif mống mắt Haise: các vòng target đồng tâm bị khuyết.
 - Motif mống mắt Takiyama: các đường nứt/tia sét mảnh bất đối xứng.
-- Môn Equinox giảng dạy: Lịch sử.
 - Phong cách đua cơ sở của Haise: Senko / pace chaser.
 - Phong cách đua cơ sở của Takiyama: gần Sashi nhưng cố tình khó phân loại.
 

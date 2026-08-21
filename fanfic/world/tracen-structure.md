@@ -34,10 +34,12 @@ Official profile Senior Division vẫn tồn tại trong `official/`; đây là 
 
 Jurisdiction có thể overlap; conflict phải escalated, không giải bằng chức danh “quyền lực hơn tất cả”.
 
+Tại ngày 2026-03-16, bản quy chế xác định ranh giới giữa Central Student Council với học thuật, trainer, race operations và y tế vẫn có một số vùng chồng lấn. Đợt sửa đổi gần nhất bắt đầu từ học kỳ trước và chưa chốt hạn hoàn thành. Đây là tình trạng được thừa nhận trong scene, không phải giấy phép để student council tự mở rộng quyền.
+
 ## 6. Equinox
-- Permanent professional trainer/staff.
-- Có authority hợp lệ với Senior lẫn University student trong training/faculty scope.
-- Academic title, team ownership và course taught: `NEEDS_FANFIC_DECISION`.
+- Đang đi qua quy trình tuyển dụng tăng tốc cho vị trí kết hợp trainer + giáo viên Lịch sử; tại điểm prose hiện tại đã qua vòng vấn đáp thứ nhất nhưng chưa được bổ nhiệm.
+- Sau khi được bổ nhiệm, có authority hợp lệ với Senior lẫn University student trong training/faculty scope.
+- Course dự tuyển/giảng thử là Lịch sử; exact contract title, kết quả tuyển dụng cuối cùng và team ownership: `NEEDS_FANFIC_DECISION`.
 - Authority không tiết lộ OU origin/power.
 
 ## 7. Team recognition conflict
@@ -52,7 +54,17 @@ Daily clock, exams, camp, festivals và live windows nằm trong writing schedul
 - Không dùng student-council office để bypass faculty/trainer/medical.
 - Khi source mới xuất hiện, thêm vào conflict register trước khi retcon.
 
-## 10. Liên kết
+## 10. Cấu trúc vòng vấn đáp Equinox
+
+Scene ngày 2026-03-16 xác lập một panel sáu người:
+
+- ba thành viên có quyền đánh giá: đại diện học thuật, đại diện trainer và người điều phối/tiếp nhận hồ sơ;
+- Yayoi Akikawa tham dự với tư cách người đứng đầu cơ sở và có quyền chấp thuận việc tiếp tục quy trình tăng tốc;
+- Symboli Rudolf và Air Groove là cố vấn học sinh, ký cam kết bảo mật riêng, nộp nhận xét nhưng không có phiếu tuyển dụng.
+
+Nếu sau này Equinox trực tiếp dạy/huấn luyện Rudolf hoặc Air Groove, quan hệ phải được công khai khi hai người tham gia đánh giá nhân sự liên quan; đơn vị quản lý quyết định recusal. Hai cố vấn có quyền trình bày lý do, không tự quyết mình được ở lại.
+
+## 11. Liên kết
 - `official/world/tracen.md`
 - `official/world/trainers.md`
 - `fanfic/world/education.md`
