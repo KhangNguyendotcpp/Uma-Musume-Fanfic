@@ -34,7 +34,7 @@ Official profile Senior Division vẫn tồn tại trong `official/`; đây là 
 
 Jurisdiction có thể overlap; conflict phải escalated, không giải bằng chức danh “quyền lực hơn tất cả”.
 
-Tại ngày 2026-03-16, bản quy chế xác định ranh giới giữa Central Student Council với học thuật, trainer, race operations và y tế vẫn có một số vùng chồng lấn. Đợt sửa đổi gần nhất bắt đầu từ học kỳ trước và chưa chốt hạn hoàn thành. Đây là tình trạng được thừa nhận trong scene, không phải giấy phép để student council tự mở rộng quyền.
+Tại ngày 2026-03-09, bản quy chế xác định ranh giới giữa Central Student Council với học thuật, trainer, race operations và y tế vẫn có một số vùng chồng lấn. Đợt sửa đổi gần nhất bắt đầu từ học kỳ trước và chưa chốt hạn hoàn thành. Đây là tình trạng được thừa nhận trong scene, không phải giấy phép để student council tự mở rộng quyền.
 
 ## 6. Equinox
 - Đang đi qua quy trình tuyển dụng tăng tốc cho vị trí kết hợp trainer + giáo viên Lịch sử; tại điểm prose hiện tại đã qua vòng vấn đáp thứ nhất nhưng chưa được bổ nhiệm.
@@ -56,7 +56,7 @@ Daily clock, exams, camp, festivals và live windows nằm trong writing schedul
 
 ## 10. Cấu trúc vòng vấn đáp Equinox
 
-Scene ngày 2026-03-16 xác lập một panel sáu người:
+Scene ngày 2026-03-09 xác lập một panel sáu người:
 
 - ba thành viên có quyền đánh giá: đại diện học thuật, đại diện trainer và người điều phối/tiếp nhận hồ sơ;
 - Yayoi Akikawa tham dự với tư cách người đứng đầu cơ sở và có quyền chấp thuận việc tiếp tục quy trình tăng tốc;

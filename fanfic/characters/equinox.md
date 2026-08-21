@@ -25,7 +25,7 @@
 ## Đua
 Equinox là Uma nhưng **không được định hướng làm racer thi đấu** trong fanfic này. Chức năng nghề nghiệp tại chỗ là trainer/staff. Quyền sở hữu team và roster vận động viên chính xác còn TBD.
 
-## Tuyển dụng tại Tracen — 2026-03-16
+## Tuyển dụng tại Tracen — 2026-03-09
 - Hồ sơ tương đương đủ điều kiện dự tuyển được chấp nhận, dù không có lịch sử dài làm việc tại một cơ sở giáo dục hoặc team được công nhận.
 - Vòng một đánh giá đạt về hồ sơ, nền học thuật, tư duy sư phạm, kiến thức trainer, an toàn, quản lý tải và đạo đức nghề nghiệp; phần ranh giới thẩm quyền/xung đột lợi ích vượt yêu cầu.
 - Ba thành viên có quyền đánh giá thống nhất cho đi tiếp; Yayoi phê chuẩn quy trình tăng tốc; Rudolf và Air Groove cùng đưa ý kiến tư vấn ủng hộ.
