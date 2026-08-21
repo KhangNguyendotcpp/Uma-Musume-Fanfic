@@ -1,41 +1,70 @@
 # Fuji Kiseki
 
+> Performer image không được dùng để bịa romance; source mô tả cô chăm junior/dorm resident.
+
 ## 1. Định danh
-- **Loại hồ sơ:** nhân vật đã được xác nhận trong nguồn.
-- **Continuity:** `OFFICIAL_PROFILE` / animation continuity
+- **English/Japanese:** Fuji Kiseki / フジキセキ
+- **Romaji:** Fuji Kiseki
+- **Tagline:** jet-black entertainer / modern miracle
+- **Loại:** Umamusume; trưởng Ritto Dormitory; performer
+- **Continuity:** `OFFICIAL_PROFILE`, `GAME`, `TV_S1`, `UMAYON`, `BOANE`
 
 ## 2. Hồ sơ cơ bản
-- **Tên Nhật:** フジキセキ; **Romaji:** Fuji Kiseki
-- **Sinh nhật:** 15 tháng 4; **Senior Division**; **KTX:** Ritto
-- **Chiều cao:** 168 cm; **số đo:** B84/W58/H82
-- **Vai trò:** dorm-leader trong profile baseline
+- **Sinh nhật:** 15 tháng 4; **tuổi:** `UNSPECIFIED`
+- **Division:** Senior; **KTX:** Ritto; **roommate:** `UNSPECIFIED`
+- **Chiều cao:** 168 cm; **số đo:** B84/W58/H82; **cỡ giày:** 26 cm
+- **Cân nặng-note:** không đổi
+- **Ngôi một:** 私; **gọi Trainer:** トレーナーさん
 - **Seiyuu:** Eriko Matsui
+- **Solo:** *DREAM JACK*
 
 ## 3. Tính cách
-Charismatic, lịch thiệp, có hình tượng stage-magician/prince và rất giỏi khiến người khác cảm thấy được chú ý. Beneath presentation là một senior đáng tin, phù hợp vai trò dorm leader. Cô có thể flirt/perform nhưng không nên giản lược thành seducer; core là charisma và care.
+Fuji là performer lịch thiệp, tự tin và có khả năng khiến người khác thấy được nâng đỡ. Cô đưa tay giúp junior và gọi dorm residents bằng giọng thân mật, nhưng profile bác cách đọc đơn giản là flirting: vai trò chính là dorm leader chăm người. Trên sân khấu/race, cô muốn làm khán giả mê như người mẹ diễn viên.
 
 ## 4. Đời thường / sở thích / thói quen
-`UNSPECIFIED` trong nguồn đã audit.
+- Thích tạo bất ngờ; không thích đồ ngọt.
+- Tai có absolute pitch; đuôi chuyển động như feather prop.
+- Gia đình làm sân khấu, cha mẹ đi khắp nước; hình nền là poster debut của mẹ.
+- Bắt tay luôn cười và nhìn mắt.
+- Trước race cúi chào formal từng khu khán giả.
+- Giỏi dance, đặc biệt jazz; sưu tầm pamphlet theater.
+- Làm được dove/top-hat magic; dự tea party fanclub.
 
 ## 5. Ngoại hình
-Chỉ dùng character art/animation frame làm bằng chứng trực quan; mô tả chi tiết chưa được chuẩn hóa trong source text giữ `UNSPECIFIED`.
+Tóc pixie đen, streak trắng ở mái, mắt xanh sắc nhưng dịu; tai phải có piercing vàng/xích đá xanh. Race outfit giống magician lịch lãm: blazer đen sọc vàng-xanh, sơ mi trắng frill, tie đen-xanh, glove, quần ống loe và heel đen.
 
 ## 6. Racing / vai trò narrative
-`Beginning of a New Era` cho Fuji một vai trò lịch sử đặc biệt với Trainer Tanabe và Jungle Pocket: chính màn chạy của Fuji truyền cảm hứng để Pocket bước vào official racing. Injury/career context của Fuji là phần quan trọng trong background Tanabe.
+- Mục tiêu stage/racing: Triple Crown và khả năng captivate audience.
+- BOANE đặt Fuji trong quan hệ then chốt với Jungle Pocket và trainer Tanabe.
+- TV S1 dùng Fuji như Team Rigil/elite presence và dorm leader.
+- Không tự viết career ending/chấn thương từ ngựa thật.
 
 ## 7. Quan hệ
-`UNSPECIFIED` ngoài các tương tác được nguồn trực tiếp xác nhận.
+- **Jungle Pocket:** hậu bối được lối chạy của Fuji truyền cảm hứng; Fuji hỗ trợ.
+- **Hishi Amazon:** bạn và fellow dorm leader; phối hợp sự kiện cho Ritto/Miho; đồng đội Rigil.
+- **Special Week:** giúp khi Spe mới nhập học.
+- **Agnes Tachyon:** hỗ trợ magic/concoction lẫn nhau.
+- **Sweep Tosho:** “wizard” đối với “witch”, xử lý mischief và khuyến khích ăn rau.
+- **Hishi Akebono:** junior được Fuji cổ vũ.
 
 ## 8. Animation / media appearances
-Chỉ đánh dấu continuity/tập khi cast credit, caption, dialogue, race card hoặc frame nguồn xác nhận; chưa có evidence bổ sung thì giữ `UNSPECIFIED`.
+- **TV S1:** xuất hiện.
+- **Umayon:** xuất hiện.
+- **BOANE:** vai trò quan trọng.
+- Star Blossom/game/manga giữ continuity riêng.
 
 ## 9. Trivia / lưu ý cho fanfic
-- Không chuyển quan hệ/ngày tháng/thành tích của ngựa thật thành canon nhân vật.
-- Profile ngắn phản ánh độ sâu của nguồn, không phải giấy phép bịa thêm personality.
+- Charm là kỹ năng stage/social, không cho phép gán romance mặc định.
+- Dorm leader có trách nhiệm thật; không chỉ cameo đẹp trai.
+- BOANE history phải giữ tag nếu nhập vào TV-synthetic fanfic.
+- Triple Crown là aspiration character source, không pre-commit fanfic result.
 
 ## 10. Nguồn đã khai thác
 - https://umamusu.wiki/Fuji_Kiseki
-- https://umamusu.wiki/Beginning_of_a_New_Era
+- https://umamusu.wiki/Game%3AFuji_Kiseki
+- https://umamusume.jp/character/
+- https://anime-umamusume.jp/archive/1st/caststaff/
+- Google Drive: TV S1, Umayon và BOANE
 
 ## 11. Trạng thái nghiên cứu
-`FOUND / NORMALIZED / SOURCE-LIMITED`
+`FOUND / NORMALIZED / HIGH-DETAIL`

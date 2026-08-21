@@ -1,41 +1,67 @@
 # Grass Wonder
 
+> Không biến “Japanese at heart” thành stereotype phẳng; firmness và competitive drive là lõi ngang văn hóa.
+
 ## 1. Định danh
-- **Loại hồ sơ:** nhân vật đã được xác nhận trong nguồn.
-- **Continuity:** `OFFICIAL_PROFILE` / animation continuity
+- **English/Japanese:** Grass Wonder / グラスワンダー
+- **Romaji:** Gurasu Wandā
+- **Tagline:** noble/gallant returnee from the U.S.
+- **Loại:** Umamusume; Golden Generation; Team Rigil TV
+- **Continuity:** `OFFICIAL_PROFILE`, `GAME`, `TV_S1`, `TV_S2`, `TV_S3`, `UMAYON`, `UMAYURU`
 
 ## 2. Hồ sơ cơ bản
-- **Tên Nhật:** グラスワンダー; **Romaji:** Gurasu Wandā
-- **Sinh nhật:** 18 tháng 2; **Junior Division**; **KTX:** Miho; **roommate:** El Condor Pasa
+- **Sinh nhật:** 18 tháng 2; **tuổi:** `UNSPECIFIED`
+- **Division:** Junior; **KTX:** Miho; **roommate:** El Condor Pasa
 - **Chiều cao:** 152 cm; **số đo:** B77/W53/H84
-- **Tự xưng:** Watashi; lời nói nhìn chung lịch sự
+- **Cỡ giày:** trái 23 / phải 23.5 cm; **cân nặng:** không đổi
+- **Ngôi một:** 私; **gọi Trainer:** トレーナーさん
 - **Seiyuu:** Rena Maeda
+- **Solo:** *Secret GRADUATION*
 
 ## 3. Tính cách
-Nhẹ nhàng, lịch sự và có vẻ dịu hơn rất nhiều so với mức competitive steel thật sự. Grass không cần hét hoặc khiêu khích để tạo áp lực; khi quyết tâm, cô cực kỳ nghiêm túc và thẳng vào mục tiêu.
+Grass sinh tại Mỹ nhưng được cha mẹ truyền tình yêu mạnh với văn hóa Nhật. Cô nói thân thiện, dễ hòa hợp và có vẻ dịu, song ý chí rất cứng và quyết tâm thắng không thua ai. Sự lịch thiệp không phải passivity; trong rivalry cô có thể gây áp lực bằng sự bình tĩnh hơn là lớn tiếng.
 
 ## 4. Đời thường / sở thích / thói quen
-`UNSPECIFIED` trong nguồn đã audit.
+- Thích wagashi, văn hóa Nhật và competitive karuta.
+- Ghét côn trùng và sự bất kính với lịch sử/truyền thống.
+- Tai giữ yên trong tea ceremony; đuôi gạt côn trùng khỏi lưng không cần nhìn.
+- Gia đình có phòng kiểu Nhật; cultural interest đến từ cha mẹ.
+- Daily fields khác chưa audit giữ `UNSPECIFIED`.
 
 ## 5. Ngoại hình
-Chỉ dùng character art/animation frame làm bằng chứng trực quan; mô tả chi tiết chưa được chuẩn hóa trong source text giữ `UNSPECIFIED`.
+Tóc nâu sáng dài, dấu sao trắng nhỏ giữa mái; mắt xanh nhạt/cyan. Tai phải có buckle hình khiên, ribbon xanh sẫm sọc đỏ và xích bạc. Race outfit sailor light-blue trên dress trắng pleat, nơ trắng-vàng, trim vàng và armband đỏ-vàng; vẻ dịu nhưng formal.
 
 ## 6. Racing / vai trò narrative
-Friend/rival lớn của Special Week; roommate El Condor Pasa. TV S1 dùng Grass như một đối thủ chứng minh rằng vẻ hiền không đồng nghĩa thiếu tham vọng. Các scene với Spe thường có tension giữa tình bạn thật và việc không nhường nhau trên track.
+- Rival chính quanh Special Week trong TV S1; Team Rigil.
+- Cách chạy/đối đầu nên thể hiện determination dưới bề mặt tĩnh.
+- Aptitude/race result phải gắn source, không suy real-horse.
+- Short/game dùng tốt cho speech/culture nhưng chronology riêng.
 
 ## 7. Quan hệ
-`UNSPECIFIED` ngoài các tương tác được nguồn trực tiếp xác nhận.
+- **El Condor Pasa:** close friend, roommate, rival; Grass thường kiềm recklessness của El.
+- **Special Week:** friend/classmate/rival; TV S1 đặt cảm xúc cạnh tranh mạnh.
+- **King Halo / Seiun Sky / Tsurumaru Tsuyoshi:** friend/classmate/rival cùng Golden Generation.
+- **Haru Urara:** bạn.
+- Team Rigil network theo TV continuity.
 
 ## 8. Animation / media appearances
-Chỉ đánh dấu continuity/tập khi cast credit, caption, dialogue, race card hoặc frame nguồn xác nhận; chưa có evidence bổ sung thì giữ `UNSPECIFIED`.
+- **TV S1:** supporting/rival.
+- **TV S2/S3:** cameo.
+- **Umayon / Umayuru:** xuất hiện.
+- Manga/game giữ tag riêng.
 
 ## 9. Trivia / lưu ý cho fanfic
-- Không chuyển quan hệ/ngày tháng/thành tích của ngựa thật thành canon nhân vật.
-- Profile ngắn phản ánh độ sâu của nguồn, không phải giấy phép bịa thêm personality.
+- Không viết dịu dàng thành thiếu agency.
+- Tình yêu văn hóa Nhật là family/interest fact, không đòi Grass lúc nào cũng dùng cổ ngữ.
+- “Obsession” anime với Spe cần dùng thận trọng, giữ competitive/emotional context.
+- Không nhập nationality law hoặc bloodline ngoài source.
 
 ## 10. Nguồn đã khai thác
 - https://umamusu.wiki/Grass_Wonder
+- https://umamusu.wiki/Game%3AGrass_Wonder
+- https://umamusume.jp/character/
 - https://anime-umamusume.jp/archive/1st/caststaff/
+- Google Drive: TV/short corpus
 
 ## 11. Trạng thái nghiên cứu
-`FOUND / NORMALIZED / SOURCE-LIMITED`
+`FOUND / NORMALIZED / HIGH-DETAIL`
