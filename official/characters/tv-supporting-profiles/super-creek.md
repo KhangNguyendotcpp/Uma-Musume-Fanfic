@@ -15,27 +15,38 @@
 Nhẹ nhàng, kiên nhẫn và rất thích chăm sóc/nuông chiều người khác. “Motherly” là motif lớn nhưng không có nghĩa Creek thiếu competitive drive: khi chạy cô là elite serious racer. Điểm cần tránh là biến toàn bộ dialogue thành baby-talk.
 
 ## 4. Đời thường / sở thích / thói quen
-`UNSPECIFIED` trong nguồn đã audit.
-
+- Thích chăm sóc người khác; không thích vẽ. Gia đình điều hành daycare nổi tiếng ấm áp.
+- Tai thích được cô làm sạch cho người khác nhưng bản thân không thích bị ngoáy tai; đuôi có tác dụng làm trẻ nhỏ bình tĩnh.
+- Mang kẹo nhỏ, snack và băng cá nhân; ảnh nền là ảnh nhóm trẻ ở daycare.
+- Trước race bảo đảm Trainer đứng ở nơi an toàn. Personal rule: không nuông chiều nếu việc đó không giúp người kia phát triển.
+- Giỏi làm mochi tròn và biết một ít về côn trùng/golf.
 ## 5. Ngoại hình
-Chỉ dùng character art/animation frame làm bằng chứng trực quan; mô tả chi tiết chưa được chuẩn hóa trong source text giữ `UNSPECIFIED`.
-
+- Tóc nâu đỏ dài, braid lớn tới dưới lưng; braid nhỏ qua trán với một lọn trắng. Mắt xanh dịu.
+- Tai phải mang nơ xanh cerulean với bốn vòng bạc.
+- Race outfit là dress xanh nhạt–trắng, scarf xanh đậm, purse/pearl motifs và boots cao bất đối xứng màu.
 ## 6. Racing / vai trò narrative
-Vai trò/entry chưa được nguồn đã audit xác nhận thêm; không suy career từ ngựa thật.
-
+- “Speedy Stayer”; nguồn character nhấn mạnh sức bền và sự kiên nhẫn hơn là aggression.
+- `CINDERELLA_GRAY_ANIME`: Fumino Nase huấn luyện; Kikuka Sho là anchor lớn, sau đó Arima Kinen cùng Oguri/Tamamo.
+- Không suy aptitude/race record chi tiết từ ngựa thật; game numbers cần page riêng.
 ## 7. Quan hệ
-Narita Taishin roommate; Fumino Nase là trainer quan trọng trong Cinderella Gray. Là một rival/elite của Oguri generation.
-
+- **Narita Taishin:** roommate; học cách tôn trọng ranh giới của Taishin thay vì chỉ chăm bẵm.
+- **Oguri Cap / Tamamo Cross / Inari One:** bạn/rival; nhóm “Heisei Big Three” thuộc lớp tham chiếu game/community và phải tag source.
+- **Fumino Nase:** trainer trong Cinderella Gray.
+- **Mejiro Ardan:** Creek hỗ trợ những trải nghiệm Ardan từng bỏ lỡ vì sức khỏe.
+- Tendency “mama” là nurturing style, không biến mọi nhân vật thành trẻ con.
 ## 8. Animation / media appearances
-Chỉ đánh dấu continuity/tập khi cast credit, caption, dialogue, race card hoặc frame nguồn xác nhận; chưa có evidence bổ sung thì giữ `UNSPECIFIED`.
-
+- `TV_S1`; `UMAYON`.
+- `CINDERELLA_GRAY_ANIME`: supporting racer, arc Kikuka/Arima.
+- Manga/game appearances là continuity riêng; không nhập đội/trainer vô danh vào anime.
 ## 9. Trivia / lưu ý cho fanfic
-- Không chuyển quan hệ/ngày tháng/thành tích của ngựa thật thành canon nhân vật.
-- Profile ngắn phản ánh độ sâu của nguồn, không phải giấy phép bịa thêm personality.
-
+- OOC trap: chỉ viết “ara ara/mama”. Creek có tiêu chuẩn về growth và có thể từ chối nuông chiều khi gây hại.
+- Tự xưng `Watashi`, đôi lúc `Mama`; gọi Trainer `Trainer-san`.
+- Không fetishize hóa sự chăm sóc hoặc thông số cơ thể.
 ## 10. Nguồn đã khai thác
-- https://umamusu.wiki/Super_Creek
-- https://anime-cinderellagray.com/character/
-
+- Portal chính thức: https://umamusume.jp/character/
+- Profile/index: https://umamusu.wiki/Super_Creek
+- CG anime: https://umamusu.wiki/Cinderella_Gray_%28Anime%29
+- Official CG: https://anime-cinderellagray.com/
+- Footage/subtitle: Drive corpus S1, Umayon và Cinderella Gray.
 ## 11. Trạng thái nghiên cứu
-`FOUND / NORMALIZED / SOURCE-LIMITED`
+`FOUND / NORMALIZED / HIGH-DETAIL`
