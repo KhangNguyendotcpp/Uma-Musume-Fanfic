@@ -26,6 +26,7 @@ Dùng các trạng thái: `FOUND`, `UNSPECIFIED`, `CONFLICTING`, `NOT_APPLICABLE
 - [x] Audit Season 3 episode/background source pass; bổ sung Nishino Flower, Wonder Acute, Hokko Tarumae, Sakura Laurel, It's Calling
 - [x] Kiểm tra alias S3: `To-Car` = English name, `Tsuukaa` = romaji; `Genjitsu Steal` là master-index spelling, `Genjitsu Steel` là secondary variant
 - [x] Tạo `official/characters/ANIMATION_NAME_AUDIT.md`
+- [x] High-detail core pass: Hishi Amazon, Taiki Shuttle và Maruzensky được nâng từ profile ngắn lên schema 11 mục; field chưa có bằng chứng giữ `UNSPECIFIED`
 - [ ] Audit **frame-by-frame / race-card / roster / on-screen text** của toàn bộ video Google Drive theo từng episode/movie để chốt 100% named visual characters
 
 **Baseline character profile đã chuẩn hóa tại pass 2026-08-21: 186.** Đây chưa phải con số cuối cho tới khi audit frame-by-frame phía trên hoàn tất.
