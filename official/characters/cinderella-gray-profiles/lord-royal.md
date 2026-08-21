@@ -5,6 +5,7 @@
 - **Continuity:** `CINDERELLA_GRAY`
 
 ## 2. Hồ sơ cơ bản
+- **Tuổi fanfic tại năm 2026:** **18** — `ORIGINAL/APPROVED`; Oguri Cap = 17 là neo continuity, không phải tuổi official.
 Wiki không công bố birth date, height, seiyuu, school/dorm hoặc trainer: `UNSPECIFIED`.
 
 ## 3. Tính cách

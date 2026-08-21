@@ -5,6 +5,7 @@
 - **Continuity:** `CINDERELLA_GRAY`
 
 ## 2. Hồ sơ cơ bản
+- **Tuổi fanfic tại năm 2026:** **18** — `ORIGINAL/APPROVED`; Oguri Cap = 17 là neo continuity, không phải tuổi official.
 - **Tên Nhật:** ミスターシービー; **Romaji:** Misutā Shībī; **biệt danh:** CB
 - **Sinh nhật:** 7 tháng 4; **Senior Division**; **sống một mình** trong profile baseline
 - **Chiều cao:** 166 cm; **số đo:** B84/W55/H80; **cỡ giày:** 25 cm; **cân nặng:** không đổi

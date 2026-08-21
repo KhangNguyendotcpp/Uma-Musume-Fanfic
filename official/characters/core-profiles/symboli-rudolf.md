@@ -11,6 +11,7 @@
 - **Continuity:** `OFFICIAL_PROFILE`, `GAME`, TV, `CINDERELLA_GRAY`
 
 ## 2. Hồ sơ cơ bản
+- **Tuổi fanfic tại năm 2026:** **18** — `ORIGINAL/APPROVED`; Oguri Cap = 17 là neo continuity, không phải tuổi official.
 - **Sinh nhật:** 13 tháng 3; **tuổi:** `UNSPECIFIED`
 - **Official division:** Senior; **KTX:** Miho; **roommate:** `UNSPECIFIED`
 - **Chiều cao:** 165 cm; **số đo:** B86/W59/H85; **cỡ giày:** 25 cm

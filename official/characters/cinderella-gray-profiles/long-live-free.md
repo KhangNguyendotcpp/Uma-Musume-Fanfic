@@ -9,6 +9,7 @@
 - **Loại nhân vật:** Umamusume
 
 ## 2. Hồ sơ cơ bản
+- **Tuổi fanfic tại năm 2026:** **18** — `ORIGINAL/APPROVED`; Oguri Cap = 17 là neo continuity, không phải tuổi official.
 Sinh nhật, tuổi, division, dorm, roommate, chiều cao, số đo, cỡ giày: `UNSPECIFIED`.
 - **Seiyuu:** `UNSPECIFIED` trong cast audit hiện tại.
 

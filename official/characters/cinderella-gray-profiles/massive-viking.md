@@ -10,6 +10,7 @@
 - **Continuity:** Cinderella Gray manga + anime
 
 ## 2. Hồ sơ cơ bản
+- **Tuổi fanfic tại năm 2026:** **18** — `ORIGINAL/APPROVED`; Oguri Cap = 17 là neo continuity, không phải tuổi official.
 - **Sinh nhật / tuổi / trường / ký túc xá / chiều cao / số đo / cỡ giày:** `UNSPECIFIED` trong các nguồn đã audit.
 - **Seiyuu:** `UNSPECIFIED`; không có credit thoại riêng trong nguồn cast đã kiểm tra.
 

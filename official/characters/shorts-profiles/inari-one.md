@@ -5,6 +5,7 @@
 - **Continuity:** `UMAYON` / `UMAYURU` / `OTHER_OFFICIAL`
 
 ## 2. Hồ sơ cơ bản
+- **Tuổi fanfic tại năm 2026:** **18** — `ORIGINAL/APPROVED`; Oguri Cap = 17 là neo continuity, không phải tuổi official.
 - **Tên Nhật:** イナリワン; **Romaji:** Inari Wan
 - **Sinh nhật:** 7 tháng 5; **Senior Division**; **KTX:** Miho; **roommate:** Twin Turbo
 - **Chiều cao:** 139 cm; **số đo:** B85/W51/H74; **cỡ giày:** 19 cm; **cân nặng:** No change

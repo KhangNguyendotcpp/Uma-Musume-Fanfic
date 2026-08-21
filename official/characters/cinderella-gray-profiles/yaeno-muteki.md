@@ -5,6 +5,7 @@
 - **Continuity:** `CINDERELLA_GRAY`
 
 ## 2. Hồ sơ cơ bản
+- **Tuổi fanfic tại năm 2026:** **17** — `ORIGINAL/APPROVED`; Oguri Cap = 17 là neo continuity, không phải tuổi official.
 - **Tên Nhật:** ヤエノムテキ; **Romaji:** Yaeno Muteki
 - **Sinh nhật:** 11 tháng 4; **Senior Division**; **KTX:** Ritto; **roommate:** No Reason
 - **Chiều cao:** 159 cm; **số đo:** B78/W54/H81; **cỡ giày:** 24 cm

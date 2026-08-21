@@ -5,6 +5,7 @@
 - **Continuity:** `UMAYON` / `UMAYURU` / `OTHER_OFFICIAL`
 
 ## 2. Hồ sơ cơ bản
+- **Tuổi fanfic tại năm 2026:** **18** — `ORIGINAL/APPROVED`; Oguri Cap = 17 là neo continuity, không phải tuổi official.
 - **Tên Nhật:** ゴールドシチー; **Romaji:** Gōrudo Shichī
 - **Sinh nhật:** 16 tháng 4; **Senior Division**; **KTX:** Ritto; **roommate:** Bamboo Memory
 - **Chiều cao:** 158 cm; **số đo:** B85/W58/H82; **cỡ giày:** 23 cm

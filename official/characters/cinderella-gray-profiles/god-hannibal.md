@@ -5,6 +5,7 @@
 - **Continuity:** `CINDERELLA_GRAY`
 
 ## 2. Hồ sơ cơ bản
+- **Tuổi fanfic tại năm 2026:** **18** — `ORIGINAL/APPROVED`; Oguri Cap = 17 là neo continuity, không phải tuổi official.
 - **Tên Nhật:** ゴッドハンニバル; **Romaji:** Goddo Hannibaru
 - **Chiều cao:** 175 cm
 - **Trainer:** Ginjirou Musaka

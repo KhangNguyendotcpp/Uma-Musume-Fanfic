@@ -10,6 +10,7 @@
 - **Seiyuu anime:** Nagisa Kujime (久次米渚)
 
 ## 2. Hồ sơ cơ bản
+- **Tuổi fanfic tại năm 2026:** **17** — `ORIGINAL/APPROVED`; Oguri Cap = 17 là neo continuity, không phải tuổi official.
 - **Sinh nhật / tuổi / division / dorm / roommate / chiều cao / số đo:** `UNSPECIFIED`.
 
 ## 3. Tính cách

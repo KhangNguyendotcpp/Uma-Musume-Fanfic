@@ -5,6 +5,7 @@
 - **Continuity:** `CINDERELLA_GRAY`
 
 ## 2. Hồ sơ cơ bản
+- **Tuổi fanfic tại năm 2026:** **17** — `ORIGINAL/APPROVED`; Oguri Cap = 17 là neo continuity, không phải tuổi official.
 - **Tên Nhật:** サクラチヨノオー; **Romaji:** Sakura Chiyono Ō
 - **Sinh nhật:** 19 tháng 2; **Senior Division**; **KTX:** Miho; **roommate:** Mejiro Ardan
 - **Chiều cao:** 156 cm; **số đo:** B80/W55/H83; **cỡ giày:** 22 cm

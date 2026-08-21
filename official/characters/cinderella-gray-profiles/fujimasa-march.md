@@ -5,6 +5,7 @@
 - **Continuity:** `CINDERELLA_GRAY`
 
 ## 2. Hồ sơ cơ bản
+- **Tuổi fanfic tại năm 2026:** **17** — `ORIGINAL/APPROVED`; Oguri Cap = 17 là neo continuity, không phải tuổi official.
 - **Tên Nhật:** フジマサマーチ; **Romaji:** Fujimasa Māchi
 - **Sinh nhật:** 5 tháng 4
 - **Chiều cao:** 170 cm
