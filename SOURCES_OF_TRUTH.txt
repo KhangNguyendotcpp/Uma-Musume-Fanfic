@@ -31,6 +31,9 @@ https://drive.google.com/drive/folders/1wHY2cl9eK7UaxWccns9ZqMdeYsUC8-xl
 
 === NGUỒN UMA MUSUME / ANIME CHÍNH THỨC ===
 https://umamusume.jp/character/
+https://umamusume.jp/contents/anime/
+https://umamusume.jp/contents/anime/umayuru-prettygray/
+https://umamusume.jp/news/detail?id=2543
 https://anime-umamusume.jp/archive/1st/caststaff/
 https://anime-umamusume.jp/archive/2nd/caststaff/
 https://anime-umamusume.jp/character/
@@ -49,10 +52,31 @@ https://umamusu.wiki/Beginning_of_a_New_Era
 https://umamusu.wiki/Cinderella_Gray_%28anime%29
 https://umamusu.wiki/Umayuru
 https://umamusu.wiki/Umayon_%28Anime%29
+https://umamusu.wiki/Umayuru%3A_Pretty_Gray
 https://umamusu.wiki/1st_Anniversary_Special_Animation
 
+=== SEASON 3 EPISODE / BACKGROUND AUDIT ===
+https://umamusu.wiki/The_Stage_Long_Dreamed_Of
+https://umamusu.wiki/Diamond_%28Anime_Season_3%29
+https://umamusu.wiki/Nishino_Flower
+https://umamusu.wiki/Wonder_Acute
+https://umamusu.wiki/Hokko_Tarumae
+https://umamusu.wiki/Sakura_Laurel
+https://umamusume.fandom.com/wiki/Episode_39
+https://mobumamusume.net/イッツコーリング/
+https://umamusu.wiki/To-Car
+https://umamusu.wiki/List_of_Characters
+
+=== UMAYURU: PRETTY GRAY PROFILE PASS ===
+https://umamusu.wiki/Umayuru%3A_Pretty_Gray
+https://umamusu.wiki/Chrono_Genesis
+https://umamusu.wiki/Mejiro_Bright
+https://umamusu.wiki/No_Reason
+https://umamusu.wiki/Gran_Alegria
+https://umamusu.wiki/Loves_Only_You
+https://umamusu.wiki/Hai_no_memoire
+
 === BOANE / CROSS-ANIMATION CAMEO PROFILE PASS ===
-Các trang dưới đây đã được khai thác trực tiếp để xác nhận profile + animation presence:
 https://umamusu.wiki/Neo_Universe
 https://umamusu.wiki/Game%3ANeo_Universe
 https://umamusu.wiki/Sweep_Tosho
@@ -70,7 +94,6 @@ https://umamusu.wiki/Hishi_Miracle
 https://umamusu.wiki/Game%3AHishi_Miracle
 
 === EPISODE-LEVEL AUDIT UMAYON ===
-Các trang episode/character list đã được dùng để đối chiếu roster 24 tập; các trang tiêu biểu và trang phát hiện missing character:
 https://umamusu.wiki/Hero_Theater:_Uma_Soldier_V!!
 https://umamusu.wiki/Make_the_Dream_Come_True!_Getaway_Sisters
 https://umamusu.wiki/You_Get_Spooked,_You_Lose!_Test_of_Courage_Showdown!
@@ -83,8 +106,6 @@ https://umamusu.wiki/Qualification_To_Challenge_The_Emperor
 https://umamusu.wiki/Uniforms_With_Torn_Sleeves_And_Bandages
 https://umamusu.wiki/Miho_Dormitory_Ghost_Story_Competition!
 https://umamusu.wiki/D_On_The_Beach%3F
-
-Biko Pegasus profile sources:
 https://umamusu.wiki/Biko_Pegasus
 https://umamusu.wiki/Biko_Pegasus/Gallery
 
@@ -103,11 +124,8 @@ https://umamusu.wiki/Put_Your_Hands_Up!_Umayuru_Rap
 https://umamusu.wiki/As_the_Golshis_Will
 https://umamusu.wiki/Into_the_Light
 https://umamusume.fandom.com/wiki/Episode_20_Uma_Yuru
-
-Nakayama Festa profile sources:
 https://umamusu.wiki/Nakayama_Festa
 https://umamusu.wiki/Nakayama_Festa/Gallery
-https://umamusume.fandom.com/wiki/Nakayama_Festa
 
 === CINDERELLA GRAY CAST / PROFILE AUDIT ===
 https://times.abema.tv/articles/-/10169707
