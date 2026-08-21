@@ -1,6 +1,6 @@
 # Current State — điểm tiếp tục viết
 
-**Mốc hiện tại của prose:** ngày **2026-03-16**, tại Tracen Academy, ngay sau khi Equinox hoàn tất vòng vấn đáp tuyển dụng thứ nhất. Những gì ghi là “đã xảy ra” trong file này là `STORY-ESTABLISHED / LOCKED`; kế hoạch cho vòng sau chưa phải kết quả tuyển dụng cuối cùng.
+**Mốc hiện tại của prose:** ngày **2026-03-09**, tại Tracen Academy, ngay sau khi Equinox nộp hồ sơ và hoàn tất vòng vấn đáp tuyển dụng thứ nhất. Những gì ghi là “đã xảy ra” trong file này là `STORY-ESTABLISHED / LOCKED`; kế hoạch cho vòng sau chưa phải kết quả tuyển dụng cuối cùng.
 
 ## 1. Equinox
 

@@ -2,6 +2,8 @@
 
 **Trạng thái:** `FANFIC ORIGINAL / APPROVED BASELINE`. Ngày tháng chính xác được gán để giữ tính nhất quán khi viết; đây không phải tuyên bố rằng các adaptation chính thức cung cấp ngày dương lịch. Một dòng chỉ trở thành `LOCKED` sau khi tác giả xác nhận trực tiếp hoặc sự kiện đã xuất hiện trong prose.
 
+**Quy tắc ghi đè ngày:** quyết định trực tiếp mới nhất của tác giả luôn cao hơn ngày đang có trong file này, kể cả dòng đã `LOCKED`. Khi tác giả đổi ngày, repo phải thay mốc cũ trên mọi file liên quan thay vì giữ hai ngày cạnh tranh nhau.
+
 Mọi giờ dùng Japan Standard Time (JST). Giờ xuất phát major race mặc định là 15:40 nếu story chưa khóa giờ khác.
 
 ## 2025 — Thế hệ trước tương thích Cinderella Gray
@@ -24,7 +26,7 @@ Mọi giờ dùng Japan Standard Time (JST). Giờ xuất phát major race mặc
 | Ngày & giờ | Địa điểm | Mốc | Trạng thái |
 |---|---|---|---|
 | 2026-03-09 Thứ Hai 07:40 | Fuchu, Tokyo | Equinox xuất hiện trong thế giới Uma/danh tính địa phương bắt đầu có hiệu lực | APPROVED baseline |
-| 2026-03-16 Thứ Hai 10:00 | Tòa hành chính Tracen | Equinox vượt vòng vấn đáp thứ nhất cho vị trí trainer + giáo viên Lịch sử; được chuyển sang phân tích dữ liệu trainer và giảng thử | STORY-ESTABLISHED / LOCKED |
+| 2026-03-09 Thứ Hai 10:00 | Tòa hành chính Tracen | Equinox nộp hồ sơ, vượt vòng vấn đáp thứ nhất cho vị trí trainer + giáo viên Lịch sử và được chuyển sang phân tích dữ liệu trainer cùng giảng thử | AUTHOR OVERRIDE / STORY-ESTABLISHED / LOCKED |
 | 2026-03-23 Thứ Hai 08:30 | Tracen Academy | Equinox bắt đầu nhiệm vụ staff thường trực | APPROVED baseline |
 | 2026-04-06 Thứ Hai 08:30 | Tracen Academy, Fuchu | Khai giảng; mở đầu dựa trên TV-S1 của Special Week bắt đầu | APPROVED baseline |
 | 2026-04-19 Chủ Nhật 15:40 | Nakayama Racecourse | Satsuki Sho; Classic anchor tương thích RTTT | race ADOPTED / chronology fanfic |
