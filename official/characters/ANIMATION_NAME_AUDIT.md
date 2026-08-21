@@ -18,7 +18,7 @@ Nếu source đã được kiểm tra mà không nói một field, ghi `UNSPECIF
 Proper-named cast trong các cast table đã được đối chiếu với profile tree. Role generic không tên riêng bị loại. Cameo pass vẫn tiếp tục vì credited cast không bao phủ toàn bộ visual presence.
 
 ### Beginning of a New Era — cameo pass
-Cast chính/credit đã được cover từ trước. Pass mới đối chiếu `Media Appearances` và background/campus cameo, phát hiện 7 nhân vật có animation presence nhưng baseline 166 chưa có profile riêng:
+Cast chính/credit đã được cover từ trước. Pass mới đối chiếu `Media Appearances` và background/campus cameo, phát hiện 8 nhân vật có animation presence nhưng baseline 166 chưa có profile riêng:
 
 - **Neo Universe** — `ANIME_VISUAL_CONFIRMED`; background cameo ở RTTT, Season 3 và BOANE.
 - **Sweep Tosho** — `ANIME_VISUAL_CONFIRMED`; background cameo BOANE.
@@ -27,8 +27,9 @@ Cast chính/credit đã được cover từ trước. Pass mới đối chiếu 
 - **Yamanin Zephyr** — `ANIME_VISUAL_CONFIRMED`; background ở cảnh Jungle Pocket vào Tracen.
 - **Air Messiah** — `ANIME_VISUAL_CONFIRMED`; cameo BOANE.
 - **Zenno Rob Roy** — `ANIME_VISUAL_CONFIRMED`; cameo Season 2 + BOANE, đồng thời có Umayuru appearance.
+- **Hishi Miracle** — `ANIME_VISUAL_CONFIRMED`; xuất hiện trong BOANE và `Umayuru: Pretty Gray`.
 
-Cả 7 đã được tạo profile riêng ở `rttt-boane-profiles/`. Pass này nâng baseline từ **166 lên 173 profile**.
+Cả 8 đã được tạo profile riêng ở `rttt-boane-profiles/`. Pass này nâng baseline từ **166 lên 174 profile**.
 
 **Quan trọng:** đây vẫn chưa phải frame audit hoàn chỉnh của movie. BOANE có nhiều racer/background shot hơn cast table và vẫn cần quét trực tiếp race card, bảng tên, caption và crowd/campus frames trong file Drive.
 
@@ -69,6 +70,6 @@ Anime visual/race-name confirmed nhưng không có voice credit riêng: Massive 
 `Teacher`, `Reporter`, `Doctor`, `Audience Member`, `Head Chef`, `Chairman`, `Vice-Chairman`, `Maintenance Staff`, `Innkeeper Host/Hostess`, `Narrator`... không tạo profile nếu không có stable canonical personal name.
 
 ## Audit chưa hoàn thành tuyệt đối
-- Cast/episode-character-list/cameo-source audit hiện đạt **173 profile**.
+- Cast/episode-character-list/cameo-source audit hiện đạt **174 profile**.
 - **Race-card/on-screen text/cameo frame audit vẫn phải tiếp tục trực tiếp trên video Google Drive**, đặc biệt BOANE và các race scene có runner không thoại.
 - Không được tuyên bố “100% mọi named frame đã cover” cho tới khi từng episode/movie được đánh dấu frame-audited.
