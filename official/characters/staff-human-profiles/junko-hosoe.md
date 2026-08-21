@@ -9,29 +9,21 @@
 Các trường ngày sinh, division, ký túc xá, chiều cao, số đo hoặc seiyuu chưa được nguồn đã audit công bố đều giữ `UNSPECIFIED`.
 
 ## 3. Tính cách
-`UNSPECIFIED` trong nguồn đã audit; không suy từ ngựa thật, thiết kế hình ảnh hoặc vai trò race.
-
+Nhân vật commentator/expert dựa trực tiếp trên Junko Hosoe ngoài đời và do chính bà lồng tiếng. Persona chuyên môn phục vụ broadcast/race explanation; repo không tự sao chép toàn bộ tính cách hay tiểu sử người thật vào canon.
 ## 4. Đời thường / sở thích / thói quen
-`UNSPECIFIED` trong nguồn đã audit.
-
+Đời tư trong universe `UNSPECIFIED`. Kinh nghiệm cựu jockey/commentator ngoài đời chỉ dùng để giải thích casting/meta, không mặc định là CV của nhân vật nếu anime không nói.
 ## 5. Ngoại hình
-Chỉ dùng character art/animation frame làm bằng chứng trực quan; mô tả chi tiết chưa được chuẩn hóa trong source text giữ `UNSPECIFIED`.
-
+Animation depiction dùng tóc đen ngắn chải lệch, mắt xanh nhạt, blouse xanh hoàng gia, pearl necklace, skirt trắng/legging đen và heels xanh. Mô tả shot cụ thể phải dựa frame.
 ## 6. Racing / vai trò narrative
-Commentator/expert xuất hiện trong anime, lấy trực tiếp hình tượng của cựu jockey/horse-racing commentator Junko Hosoe. Dùng để tăng cảm giác broadcast thật và giải thích racing context.
-
-Các field kiểu sinh nhật/height trong universe, Tracen employment hay authority: `UNSPECIFIED` nếu source animation không xác nhận. Không tự đồng nhất toàn bộ biography người thật với nhân vật anime.
-
+Cung cấp bình luận chuyên môn và bối cảnh race cho khán giả, đặc biệt TV S1–S2. Trackblazer dùng bà như commentator cho Twinkle Star Climax; đây là game scenario riêng.
 ## 7. Quan hệ
-`UNSPECIFIED` ngoài các tương tác được nguồn trực tiếp xác nhận.
-
+Không có quan hệ cá nhân canon đáng tin ngoài vai tương tác broadcast/professional. Không tự cho bà quyền quản lý athlete hoặc vị trí URA.
 ## 8. Animation / media appearances
-Chỉ đánh dấu continuity/tập khi cast credit, caption, dialogue, race card hoặc frame nguồn xác nhận; chưa có evidence bổ sung thì giữ `UNSPECIFIED`.
-
+- `TV_S1` / `TV_S2` / `UMAYURU`: appearances.
+- `GAME_TRACKBLAZER`: commentator Twinkle Star Climax.
+- Voice credit: Junko Hosoe.
 ## 9. Trivia / lưu ý cho fanfic
-- Không chuyển quan hệ/ngày tháng/thành tích của ngựa thật thành canon nhân vật.
-- Profile ngắn phản ánh độ sâu của nguồn, không phải giấy phép bịa thêm personality.
-
+Nếu fic cần một tiếng nói broadcast “thật”, dùng Junko; nếu cần người gọi từng nhịp race, kiểm Misato Akasaka theo tập. Không trộn biography người thật vào canon nhân vật.
 ## 10. Nguồn đã khai thác
 - https://umamusu.wiki/Junko_Hosoe
 - https://umamusu.wiki/Season_2

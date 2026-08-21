@@ -10,29 +10,21 @@
 Các trường ngày sinh, division, ký túc xá, chiều cao, số đo hoặc seiyuu chưa được nguồn đã audit công bố đều giữ `UNSPECIFIED`.
 
 ## 3. Tính cách
-`UNSPECIFIED` trong nguồn đã audit; không suy từ ngựa thật, thiết kế hình ảnh hoặc vai trò race.
-
+Trainer nghiêm, command-based và gắn với presentation “cyborg” của Mihono Bourbon. Lối nói/huấn luyện có tính regimented; không đủ nguồn để kết luận ông tàn nhẫn hay đại diện chuẩn chung của mọi trainer.
 ## 4. Đời thường / sở thích / thói quen
-`UNSPECIFIED` trong nguồn đã audit.
-
+Tên riêng, ngày sinh, gia đình, hobby và đời tư `UNSPECIFIED`. Không dùng seiyuu/trivia Yakuza để suy personality.
 ## 5. Ngoại hình
-Chỉ dùng character art/animation frame làm bằng chứng trực quan; mô tả chi tiết chưa được chuẩn hóa trong source text giữ `UNSPECIFIED`.
-
+Human male trong `TV_S2`; ngoại hình cụ thể phải dựa frame. Wiki chỉ khóa tên họ Kuronuma và voice credit Takaya Kuroda.
 ## 6. Racing / vai trò narrative
-Trainer gắn với Mihono Bourbon trong TV S2. Training presentation rất regimented, command-based và phù hợp với “cyborg” image của Bourbon. Tuy vậy không nên suy rằng mọi trainer authority/rule trong franchise đều giống Kuronuma.
-
-Sinh nhật, full name, height và biography ngoài animation: `UNSPECIFIED`.
-
+Trainer của Mihono Bourbon trong S2, xây program có mệnh lệnh/mục tiêu rõ. Ranh giới welfare, injury response và thay đổi program cần lấy từ episode, không từ fan interpretation.
 ## 7. Quan hệ
-`UNSPECIFIED` ngoài các tương tác được nguồn trực tiếp xác nhận.
-
+- **Mihono Bourbon:** trainee duy nhất được profile xác nhận.
+- Quan hệ với Rice Shower/Spica/Rigil trainers chỉ ghi khi episode trực tiếp cho thấy.
 ## 8. Animation / media appearances
-Chỉ đánh dấu continuity/tập khi cast credit, caption, dialogue, race card hoặc frame nguồn xác nhận; chưa có evidence bổ sung thì giữ `UNSPECIFIED`.
-
+- `TV_S2`: supporting character.
+- Không có game biography tương ứng được nguồn hiện tại khóa.
 ## 9. Trivia / lưu ý cho fanfic
-- Không chuyển quan hệ/ngày tháng/thành tích của ngựa thật thành canon nhân vật.
-- Profile ngắn phản ánh độ sâu của nguồn, không phải giấy phép bịa thêm personality.
-
+Role đã khai thác tới giới hạn nguồn công bố. Không thêm full name, quân đội quá khứ hay “ông trùm” chỉ vì giọng/tạo hình.
 ## 10. Nguồn đã khai thác
 - https://umamusu.wiki/Kuronuma
 - https://umamusu.wiki/Season_2

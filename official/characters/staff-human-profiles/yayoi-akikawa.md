@@ -13,30 +13,28 @@
 Game/animation có mức hiện diện khác nhau; exact legal title/powers phải source-tag. Fanfic Tracen University extension không được ghi ngược vào official profile này.
 
 ## 3. Tính cách
-`UNSPECIFIED` trong nguồn đã audit; không suy từ ngựa thật, thiết kế hình ảnh hoặc vai trò race.
-
+Giám đốc/chairwoman Tracen giàu năng lượng, nói theo kiểu tuyên bố lớn và có ý chí mạnh muốn hỗ trợ mọi Uma. Bà sẵn sàng tự bỏ tiền cho học sinh, đôi lúc khiến Tazuna phải can ngăn về vận hành/ngân sách.
 ## 4. Đời thường / sở thích / thói quen
-`UNSPECIFIED` trong nguồn đã audit.
-
+- Từng muốn thêm băng chuyền sushi vào cafeteria nhưng bị ngăn lại.
+- Chiếc quạt đổi chữ theo cảm xúc/thông điệp.
+- Thường đi công tác; khi vắng mặt Riko Kashimoto có thể làm acting director trong game continuity.
 ## 5. Ngoại hình
-Chỉ dùng character art/animation frame làm bằng chứng trực quan; mô tả chi tiết chưa được chuẩn hóa trong source text giữ `UNSPECIFIED`.
-
+Phụ nữ human nhỏ người (140 cm), tóc sáng có streak trắng, thường mang quạt viết chữ và trang phục formal nổi bật. Không kết luận bà là Uma chỉ từ streak/tạo hình; official profile phân loại human, còn liên hệ Northern Taste chỉ là speculation/trivia.
 ## 6. Racing / vai trò narrative
-Head-of-institution figure với speech lớn, theatrical và cực kỳ nhiệt huyết. Gag presentation mạnh nhưng authority hành chính là thật. Tazuna Hayakawa thường vận hành chi tiết bên cạnh bà.
-
+Head-of-institution figure: cấp authority hành chính có thật, nhưng exact legal power phải theo scenario/tập. Trong game bà định hướng Trainer thực hiện ước mơ của Uma; Tazuna vận hành chi tiết hằng ngày.
 ## 7. Quan hệ
-`UNSPECIFIED` ngoài các tương tác được nguồn trực tiếp xác nhận.
-
+- **Tazuna Hayakawa:** thư ký và bạn, cùng giữ Tracen vận hành.
+- **Riko Kashimoto:** acting director khi Akikawa đi công tác.
+- **Matikanetannhauser:** học sinh được bà đặc biệt kỳ vọng sẽ truyền cảm hứng.
 ## 8. Animation / media appearances
-Chỉ đánh dấu continuity/tập khi cast credit, caption, dialogue, race card hoặc frame nguồn xác nhận; chưa có evidence bổ sung thì giữ `UNSPECIFIED`.
-
+- `TV_S2_ANNIVERSARY` / `UMAYURU`: animation appearances.
+- `CINDERELLA_GRAY_MANGA` / `PARTY_DASH`: appearances khác.
+- Game là nguồn chính cho director role và scenario involvement.
 ## 9. Trivia / lưu ý cho fanfic
-- Không chuyển quan hệ/ngày tháng/thành tích của ngựa thật thành canon nhân vật.
-- Profile ngắn phản ánh độ sâu của nguồn, không phải giấy phép bịa thêm personality.
-
+Không biến fan theory “Akikawa là Umamusume/Northern Taste” thành canon. Với fanfic university extension, giữ trong `fanfic/` và không ghi ngược vào official.
 ## 10. Nguồn đã khai thác
 - https://umamusu.wiki/Yayoi_Akikawa
 - https://umamusume.jp/character/
 
 ## 11. Trạng thái nghiên cứu
-`FOUND / NORMALIZED / SOURCE-LIMITED`
+`FOUND / NORMALIZED / HIGH-DETAIL`

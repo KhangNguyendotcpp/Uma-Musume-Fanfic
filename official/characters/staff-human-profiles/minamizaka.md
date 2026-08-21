@@ -10,27 +10,22 @@
 Các trường ngày sinh, division, ký túc xá, chiều cao, số đo hoặc seiyuu chưa được nguồn đã audit công bố đều giữ `UNSPECIFIED`.
 
 ## 3. Tính cách
-`UNSPECIFIED` trong nguồn đã audit; không suy từ ngựa thật, thiết kế hình ảnh hoặc vai trò race.
-
+Bề ngoài bình tĩnh, nhẹ nhàng và ít áp đặt, thường để Canopus bộc lộ cá tính. Animation dùng comedy để gợi anh xử lý hậu trường rất hiệu quả; nguồn không xác nhận nghề tình báo hay năng lực siêu nhiên.
 ## 4. Đời thường / sở thích / thói quen
-`UNSPECIFIED` trong nguồn đã audit.
-
+Ngày sinh, gia đình, hobby và đời tư `UNSPECIFIED`. Mọi “mission”/hành động hậu trường cụ thể cần dẫn episode.
 ## 5. Ngoại hình
-Chỉ dùng character art/animation frame làm bằng chứng trực quan; mô tả chi tiết chưa được chuẩn hóa trong source text giữ `UNSPECIFIED`.
-
+Human male, tạo hình trainer điềm tĩnh trong anime. Mô tả tóc, trang phục hoặc biểu cảm chỉ dùng theo frame của S2/S3; wiki profile không cung cấp text appearance.
 ## 6. Racing / vai trò narrative
-Trainer của Team Canopus trong S2/S3. Bề ngoài bình tĩnh, nhẹ và gần như vô hại, thường để Canopus tự tạo chaos, nhưng có những gợi ý/comedy rằng anh xử lý việc hậu trường hiệu quả bất thường. Không biến gag đó thành espionage canon nếu source không xác nhận.
-
+Trainer của Team Canopus. Phong cách narrative là tạo không gian cho đội tự đề xuất kế hoạch rồi bảo đảm kế hoạch hoạt động; điều này không đồng nghĩa thiếu authority hay bỏ mặc safety.
 ## 7. Quan hệ
-`UNSPECIFIED` ngoài các tương tác được nguồn trực tiếp xác nhận.
-
+- **Nice Nature / Twin Turbo / Ikuno Dictus / Matikanetannhauser:** core Canopus.
+- **Sounds of Earth / Royce and Royce:** thành viên từ `TV_S3`.
+- Quan hệ với trainer khác chưa đủ nguồn profile để khóa.
 ## 8. Animation / media appearances
-Chỉ đánh dấu continuity/tập khi cast credit, caption, dialogue, race card hoặc frame nguồn xác nhận; chưa có evidence bổ sung thì giữ `UNSPECIFIED`.
-
+- `TV_S2` / `TV_S3`: supporting character, trainer Canopus.
+- Không nhập các fan meme “secret agent” vào official.
 ## 9. Trivia / lưu ý cho fanfic
-- Không chuyển quan hệ/ngày tháng/thành tích của ngựa thật thành canon nhân vật.
-- Profile ngắn phản ánh độ sâu của nguồn, không phải giấy phép bịa thêm personality.
-
+Đây vẫn là profile source-limited: role/roster chắc, đời tư không có. Khi viết nên dùng sự bình tĩnh và năng lực hậu trường ở mức animation cho thấy, không bịa biography để lấp chỗ trống.
 ## 10. Nguồn đã khai thác
 - https://umamusu.wiki/Minamizaka
 - https://umamusu.wiki/Season_2

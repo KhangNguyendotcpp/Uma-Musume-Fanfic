@@ -11,29 +11,21 @@
 Các trường ngày sinh, division, ký túc xá, chiều cao, số đo hoặc seiyuu chưa được nguồn đã audit công bố đều giữ `UNSPECIFIED`.
 
 ## 3. Tính cách
-`UNSPECIFIED` trong nguồn đã audit; không suy từ ngựa thật, thiết kế hình ảnh hoặc vai trò race.
-
+Trainer trẻ muốn xây tên tuổi bằng năng lực của mình thay vì chỉ là “con gái Hidehito Nase”. Cô thận trọng, quan sát trước khi can thiệp và coi lợi ích của Super Creek là ưu tiên.
 ## 4. Đời thường / sở thích / thói quen
-`UNSPECIFIED` trong nguồn đã audit.
-
+Đời tư ngoài quan hệ gia đình/training `UNSPECIFIED`. Không nhập speculation dựa trên jockey ngoài đời vào canon.
 ## 5. Ngoại hình
-Chỉ dùng character art/animation frame làm bằng chứng trực quan; mô tả chi tiết chưa được chuẩn hóa trong source text giữ `UNSPECIFIED`.
-
+Human woman trong Cinderella Gray; chi tiết ngoại hình phải lấy từ official character art/frame anime. Wiki profile không cung cấp text mô tả.
 ## 6. Racing / vai trò narrative
-Trainer của Super Creek. Con gái của Hidehito Nase trong CG source. Được dùng như một phần của mạng trainer Central khác biệt với Musaka/Kitahara.
-
-Các field birth date/height và full private biography = `UNSPECIFIED` nếu source không công bố.
-
+Gặp Super Creek khi chưa là full-time trainer, ban đầu chỉ shadow/quan sát thói quen chạy và tránh làm xáo trộn training. Creek thuyết phục cô ở lại làm trainer chính; đây là quan hệ hai chiều, không chỉ “trainer cứu athlete”.
 ## 7. Quan hệ
-`UNSPECIFIED` ngoài các tương tác được nguồn trực tiếp xác nhận.
-
+- **Super Creek:** trainee; Fumino theo dõi lợi ích của Creek, còn Creek chăm lại cô theo bản tính.
+- **Hidehito Nase:** cha và cái bóng nghề nghiệp cô muốn bước ra.
 ## 8. Animation / media appearances
-Chỉ đánh dấu continuity/tập khi cast credit, caption, dialogue, race card hoặc frame nguồn xác nhận; chưa có evidence bổ sung thì giữ `UNSPECIFIED`.
-
+- `CINDERELLA_GRAY_ANIME` / `CINDERELLA_GRAY_MANGA`: character.
+- Tập/chapter cụ thể phải theo timeline CG, không trộn game Super Creek route.
 ## 9. Trivia / lưu ý cho fanfic
-- Không chuyển quan hệ/ngày tháng/thành tích của ngựa thật thành canon nhân vật.
-- Profile ngắn phản ánh độ sâu của nguồn, không phải giấy phép bịa thêm personality.
-
+Chi tiết “có thể dựa trên jockey X” là meta speculation, không dùng làm biography. Nguồn công bố tập trung vào nghề nghiệp và quan hệ Creek/cha; các phần khác giữ im lặng.
 ## 10. Nguồn đã khai thác
 - https://umamusu.wiki/Fumino_Nase
 - Google Drive Cinderella Gray corpus

@@ -11,30 +11,26 @@
 - **Seiyuu:** Emiri Suyama
 
 ## 3. Tính cách
-`UNSPECIFIED` trong nguồn đã audit; không suy từ ngựa thật, thiết kế hình ảnh hoặc vai trò race.
-
+Phóng viên say mê racing, có lượng kiến thức gần với trainer và muốn báo chí giúp cả giới đua phát triển. Khi quá hứng, cô có thể cường điệu; đây là thiên lệch nghề nghiệp cần nhớ khi dùng bài báo/lời dẫn của cô như nguồn trong-world.
 ## 4. Đời thường / sở thích / thói quen
-`UNSPECIFIED` trong nguồn đã audit.
-
+- Làm cho tạp chí tháng *Twinkle*.
+- Nói được bảy ngôn ngữ.
+- Chuẩn bị phỏng vấn kỹ và chủ động tiếp cận subject; không đồng nhất cô với race announcer/commentator.
 ## 5. Ngoại hình
-Chỉ dùng character art/animation frame làm bằng chứng trực quan; mô tả chi tiết chưa được chuẩn hóa trong source text giữ `UNSPECIFIED`.
-
+Phụ nữ human cao 168 cm, tóc nâu buộc low ponytail bằng ribbon xanh, mắt xanh; blazer trắng, blouse xanh, slacks xám, heels đen và satchel. Horseshoe necklace là phụ kiện nhận diện.
 ## 6. Racing / vai trò narrative
-Media/reporter character, đặc biệt hữu ích cho việc nhìn racing từ góc báo chí, public narrative và hype. Khi viết fic, file này là reference để phân biệt press character với race announcer Misato.
-
+Đại diện lớp media tạo narrative công chúng quanh athlete/race. Trong fic, Etsuko có thể biết nhiều nhờ nghề báo nhưng không có quyền trainer hoặc quyền truy cập mọi hồ sơ y tế nếu nguồn không cho.
 ## 7. Quan hệ
-`UNSPECIFIED` ngoài các tương tác được nguồn trực tiếp xác nhận.
-
+Không có mạng quan hệ cá nhân ổn định được profile công bố; các interviewee/Trainer chỉ trở thành quan hệ khi event/scenario cụ thể xác nhận.
 ## 8. Animation / media appearances
-Chỉ đánh dấu continuity/tập khi cast credit, caption, dialogue, race card hoặc frame nguồn xác nhận; chưa có evidence bổ sung thì giữ `UNSPECIFIED`.
-
+- `GAME_TRACKBLAZER`: scenario nổi bật; đồng thời xuất hiện xuyên nhiều scenario.
+- `UMAYURU`: animation appearance.
+- `GAME_3RD_ANNIVERSARY`: event appearance.
 ## 9. Trivia / lưu ý cho fanfic
-- Không chuyển quan hệ/ngày tháng/thành tích của ngựa thật thành canon nhân vật.
-- Profile ngắn phản ánh độ sâu của nguồn, không phải giấy phép bịa thêm personality.
-
+Tách ba vai: Etsuko = reporter, Junko Hosoe = commentator/expert, Misato Akasaka = race announcer. Cường điệu là đặc điểm source, vì vậy lời báo chí trong-world có thể cần đối chiếu.
 ## 10. Nguồn đã khai thác
 - https://umamusu.wiki/Etsuko_Otonashi
 - Google Drive Umayuru/animation corpus
 
 ## 11. Trạng thái nghiên cứu
-`FOUND / NORMALIZED / SOURCE-LIMITED`
+`FOUND / NORMALIZED / HIGH-DETAIL`

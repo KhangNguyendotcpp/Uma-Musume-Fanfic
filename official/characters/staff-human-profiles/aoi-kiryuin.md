@@ -12,30 +12,28 @@
 - **Trainee/association:** Happy Meek
 
 ## 3. Tính cách
-`UNSPECIFIED` trong nguồn đã audit; không suy từ ngựa thật, thiết kế hình ảnh hoặc vai trò race.
-
+Rookie trainer nghiêm túc, thẳng thắn và rất có động lực. Aoi được nuôi trong gia đình trainer danh giá nên chịu kỳ vọng cao, nhưng tự giới thiệu mình vẫn đang học. Cô có thể lực tốt và lao thẳng vào thử thách; điểm yếu nằm ở kinh nghiệm, chiến lược và tự tin nghề nghiệp chứ không phải thiện chí.
 ## 4. Đời thường / sở thích / thói quen
-`UNSPECIFIED` trong nguồn đã audit.
-
+- Dùng *Trainer's Handbook*, tập hợp kỹ thuật của gia đình Kiryuin, để xây kế hoạch cho Happy Meek.
+- Nguồn ghi cô từng được thư khen vì bắt kẻ giật túi.
+- Athlete-level physical ability tạo đối trọng với Riko Kashimoto, nhưng không biến Aoi thành Uma/human siêu năng lực.
 ## 5. Ngoại hình
-Chỉ dùng character art/animation frame làm bằng chứng trực quan; mô tả chi tiết chưa được chuẩn hóa trong source text giữ `UNSPECIFIED`.
-
+Phụ nữ human, tóc đen ngang cổ có mái bằng và ponytail nhỏ, mắt tím; kẹp tóc vàng hình thoi. Thường mặc blouse trắng cổ bèo, vest đen nút vàng, jeans xắn gấu và ankle boots. Đây là game character art; BOANE cameo phải dựa frame.
 ## 6. Racing / vai trò narrative
-Rookie trainer nghiêm túc, có tinh thần cạnh tranh và muốn chứng minh năng lực trong URA Finale/game continuity. Animation presence là cameo/related source; không nhập toàn bộ game route vào anime continuity mà không tag.
-
+Nhân vật đối thủ đồng nghiệp của player Trainer trong `GAME_URA_FINALE`, phụ trách Happy Meek. Arc thể hiện một người có truyền thống gia đình nhưng phải tự học nghề thật, và dùng cạnh tranh lành mạnh để trưởng thành.
 ## 7. Quan hệ
-`UNSPECIFIED` ngoài các tương tác được nguồn trực tiếp xác nhận.
-
+- **Happy Meek:** trainee trọng tâm.
+- **Riko Kashimoto:** đồng nghiệp/đối trọng; Aoi giàu thể lực nhưng non nghề, Riko dày kinh nghiệm nhưng rất yếu thể chất.
+- **Player Trainer:** đồng nghiệp và rival trong URA Finale; giới tính/cách xưng hô phụ thuộc lựa chọn người chơi.
 ## 8. Animation / media appearances
-Chỉ đánh dấu continuity/tập khi cast credit, caption, dialogue, race card hoặc frame nguồn xác nhận; chưa có evidence bổ sung thì giữ `UNSPECIFIED`.
-
+- `GAME_URA_FINALE`: vai chính supporting.
+- `BOANE`: cameo.
+- `UMAMUSUMESHI` / `PARTY_DASH`: appearances khác; không nhập event game thành movie canon.
 ## 9. Trivia / lưu ý cho fanfic
-- Không chuyển quan hệ/ngày tháng/thành tích của ngựa thật thành canon nhân vật.
-- Profile ngắn phản ánh độ sâu của nguồn, không phải giấy phép bịa thêm personality.
-
+Gia thế trainer không bảo đảm năng lực; đây là điểm hữu ích khi viết licensing/mentorship. Không gọi Aoi là staff thường trực của anime chỉ vì có BOANE cameo.
 ## 10. Nguồn đã khai thác
 - https://umamusu.wiki/Aoi_Kiryuin
 - https://umamusu.wiki/Game%3AURA_Finale
 
 ## 11. Trạng thái nghiên cứu
-`FOUND / NORMALIZED / SOURCE-LIMITED`
+`FOUND / NORMALIZED / HIGH-DETAIL`

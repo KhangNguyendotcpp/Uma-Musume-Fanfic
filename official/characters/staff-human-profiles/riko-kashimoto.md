@@ -12,30 +12,30 @@
 - **Trainees/association:** Bitter Glasse, Little Cocon
 
 ## 3. Tính cách
-`UNSPECIFIED` trong nguồn đã audit; không suy từ ngựa thật, thiết kế hình ảnh hoặc vai trò race.
-
+Veteran từ URA, thẳng, cứng và rất chuyên nghiệp; bề ngoài lạnh nhưng đặt condition/welfare của Uma lên hàng đầu. Riko xem record keeping và quản lý sức khỏe là nghĩa vụ trainer. Cô cực yếu thể chất, đối lập hoàn toàn với năng lực học thuật/nghề nghiệp.
 ## 4. Đời thường / sở thích / thói quen
-`UNSPECIFIED` trong nguồn đã audit.
-
+- Uống hơn hai cốc cà phê sẽ mất ngủ cả đêm.
+- Rất giỏi hát nhưng kém nhịp/dance; những hoạt động thể lực đơn giản cũng khó.
+- Không dùng điểm yếu thể chất như bằng chứng cô không hiểu athletic load: chuyên môn của cô là quản trị, dữ liệu và condition.
 ## 5. Ngoại hình
-Chỉ dùng character art/animation frame làm bằng chứng trực quan; mô tả chi tiết chưa được chuẩn hóa trong source text giữ `UNSPECIFIED`.
-
+Phụ nữ human cao 166 cm, tóc đen pha xanh dài hơi rối, mắt xám; suit xám pinstripe vàng, sơ mi trắng, earrings/charm chữ V. Silhouette formal phù hợp vai URA/acting director.
 ## 6. Racing / vai trò narrative
-Rất nghiêm, formal và quản trị theo hướng controlled. Unity Cup/Aoharu game route đặt Riko trong institutional conflict với kiểu training thông thường, nhưng animation cameo không tự mang toàn bộ route đó theo.
-
+Trong `GAME_UNITY_CUP`, Riko đưa một triết lý training quản trị chặt vào Tracen và dùng giải để chứng minh mô hình. Trong `CINDERELLA_GRAY_MANGA`, vai trò là quan sát sự trỗi dậy của Oguri. Hai continuity không được nhập làm một biography liền mạch.
 ## 7. Quan hệ
-`UNSPECIFIED` ngoài các tương tác được nguồn trực tiếp xác nhận.
-
+- **Bitter Glasse / Little Cocon:** trainees của Team Zenith trong game.
+- **Tazuna Hayakawa:** thư ký khi Riko làm acting director.
+- **Aoi Kiryuin:** đồng nghiệp/đối trọng.
+- **Yayoi Akikawa:** Riko thay quyền khi bà đi công tác.
 ## 8. Animation / media appearances
-Chỉ đánh dấu continuity/tập khi cast credit, caption, dialogue, race card hoặc frame nguồn xác nhận; chưa có evidence bổ sung thì giữ `UNSPECIFIED`.
-
+- `GAME_UNITY_CUP`: nhân vật trọng tâm.
+- `CINDERELLA_GRAY_MANGA`: appearance với vai khác.
+- `BOANE`: cameo.
+- `UMAMUSUMESHI`: appearance.
 ## 9. Trivia / lưu ý cho fanfic
-- Không chuyển quan hệ/ngày tháng/thành tích của ngựa thật thành canon nhân vật.
-- Profile ngắn phản ánh độ sâu của nguồn, không phải giấy phép bịa thêm personality.
-
+Triết lý Riko hữu ích cho worldbuilding trainer authority, nhưng không được nâng thành luật URA chung nếu scenario chỉ trình bày quan điểm của bà. “Yếu thể chất” là gag có nguồn, không phải căn cứ chế giễu disability.
 ## 10. Nguồn đã khai thác
 - https://umamusu.wiki/Riko_Kashimoto
 - BOANE/game cross-continuity references
 
 ## 11. Trạng thái nghiên cứu
-`FOUND / NORMALIZED / SOURCE-LIMITED`
+`FOUND / NORMALIZED / HIGH-DETAIL`
