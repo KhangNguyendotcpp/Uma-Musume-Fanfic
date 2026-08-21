@@ -12,27 +12,33 @@
 ## 2. Hồ sơ cơ bản
 Ngày sinh, tuổi, chiều cao: `UNSPECIFIED`.
 
-## 3. Tính cách / presentation
+## 3. Tính cách
 Secondary manga references mô tả Ryuko là một phụ nữ lớn tuổi hơn, **mạnh mẽ, thẳng, có phong thái anego** và thường mặc kiểu trang phục Nhật truyền thống. Những chi tiết này được giữ tag secondary/manga-side, không nâng thành universal anime fact nếu chưa có official profile text.
 
-## 4. Vai trò chuyên môn
+## 4. Đời thường / sở thích / thói quen
+`UNSPECIFIED` trong nguồn đã audit.
+
+## 5. Ngoại hình
+Chỉ dùng character art/animation frame làm bằng chứng trực quan; mô tả chi tiết chưa được chuẩn hóa trong source text giữ `UNSPECIFIED`.
+
+## 6. Racing / vai trò narrative
 - **Trainer của Inari One trong giai đoạn Oi.**
 - Vẫn là một mentor quan trọng kể cả khi Inari chuyển lên Central.
 
-## 5. Quan hệ
+## 7. Quan hệ
 - **Inari One:** athlete cũ/mentee; Inari gọi bà theo kiểu **“Ane-san”** trong manga-side characterization.
 - **Taro Yusuhara:** con trai; về sau là trainer Central của Inari.
 
-## 6. Animation / media appearances
+## 8. Animation / media appearances
 - **Cinderella Gray anime, tập 23:** cast credit xác nhận `檮原龍子`; `ANIME_CONFIRMED`.
 
-## 7. Trivia / lưu ý cho fanfic
+## 9. Trivia / lưu ý cho fanfic
 - Không dùng romanization `Hashihara` từ một số database tiếng Anh; source Nhật thống nhất họ là **Yusuhara / 檮原**.
 
-## 8. Nguồn đã khai thác
+## 10. Nguồn đã khai thác
 - https://www.fukikaekingdom.com/post-30974/
 - https://enpedia.org/wiki/ウマ娘_シンデレラグレイ
 - https://w.atwiki.jp/aniwotawiki/pages/51362.html
 
-## 9. Trạng thái nghiên cứu
-`FOUND / NORMALIZED / MIXED-SOURCE`
+## 11. Trạng thái nghiên cứu
+`FOUND / NORMALIZED`

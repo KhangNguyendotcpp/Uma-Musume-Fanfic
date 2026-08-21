@@ -3,7 +3,7 @@
 ## Mục tiêu
 Repo phải có **một Markdown riêng cho mọi nhân vật có tên ổn định xuất hiện/được gọi tên/được credit trong animation thuộc phạm vi**: TV S1–S3, 1st Anniversary, ROAD TO THE TOP, Beginning of a New Era, Umayon, Umayuru, **Umayuru: Pretty Gray** và Cinderella Gray.
 
-Nếu source đã được kiểm tra mà không nói một field, ghi `UNSPECIFIED`; không được để `NOT_YET_NORMALIZED` như một cách né research.
+Nếu source đã được kiểm tra mà không nói một field, ghi `UNSPECIFIED`; phải ghi `UNSPECIFIED` hoặc `SOURCE-LIMITED`; không dùng một nhãn “chưa xử lý” để né research.
 
 ## Các loại evidence
 1. `ANIME_CREDIT_CONFIRMED` — tên nằm trong cast/credit hoặc source phát sóng đáng tin.

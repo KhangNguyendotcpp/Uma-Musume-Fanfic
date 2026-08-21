@@ -29,7 +29,7 @@ Nguồn gốc OU, lịch sử chiến đấu cũ, cách tư duy chiến đấu c
 
 ## Thông tin chưa biết
 
-Một giá trị `DRAFT`, `TBD`, `UNSPECIFIED` hoặc `NOT_YET_NORMALIZED` tuyệt đối không được nâng lên `APPROVED`/`LOCKED` chỉ vì thuận tiện cho prose.
+Một giá trị `DRAFT`, `TBD` hoặc `UNSPECIFIED` tuyệt đối không được nâng lên `APPROVED`/`LOCKED` chỉ vì thuận tiện cho prose. Dữ liệu đã audit nhưng nguồn im lặng phải dừng ở `UNSPECIFIED`; không tạo fact để lấp chỗ trống.
 
 ## Quy tắc timeline
 

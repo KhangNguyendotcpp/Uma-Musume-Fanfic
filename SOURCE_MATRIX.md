@@ -3,7 +3,7 @@
 | Chủ đề | Trạng thái nguồn | Cách xử lý trong fanfic | Trạng thái |
 |---|---|---|---|
 | Cast animation có tên | Trang cast anime chính thức + corpus Drive + index adaptation | Mọi nhân vật được gọi tên/credit trên màn ảnh đều có profile | ADOPTED |
-| Trường profile nhân vật | Ưu tiên portal chính thức; wiki dùng để định vị/cross-check | Trường chưa biết giữ `UNSPECIFIED`/`NOT_YET_NORMALIZED` | ADOPTED |
+| Trường profile nhân vật | Ưu tiên portal chính thức; wiki dùng để định vị/cross-check | Trường đã kiểm tra nhưng nguồn không nói giữ `UNSPECIFIED`; hồ sơ cạn nguồn gắn `SOURCE-LIMITED` | ADOPTED |
 | Chronology TV S1/S2/S3 | Các continuity adaptation TV riêng | Dùng làm narrative anchor; ngày dương lịch do fanfic gán | ADOPTED + ngày ORIGINAL |
 | RTTT | Nguồn animation riêng | Nhập khi tương thích; không tự động ghi đè trục TV | ADOPTED có chọn lọc |
 | Beginning of a New Era | Nguồn animation riêng | Nhập khi tương thích; xung đột nguồn vẫn phải gắn tag | ADOPTED có chọn lọc |

@@ -24,7 +24,9 @@
 - `UNSPECIFIED` — nguồn không nói về trường dữ liệu này.
 - `CONFLICTING` — các nguồn bất đồng hoặc thuộc continuity không tương thích.
 - `NOT_APPLICABLE` — trường dữ liệu không áp dụng.
-- `NOT_YET_NORMALIZED` — nguồn/profile tồn tại nhưng dữ liệu chưa được bóc vào format chuẩn.
+- `NORMALIZED` — dữ liệu đã được bóc vào schema chuẩn và qua kiểm tra cấu trúc.
+- `HIGH-DETAIL` — profile đã khai thác sâu personality, đời thường, ngoại hình, vai trò, quan hệ và media trong phạm vi nguồn cho phép.
+- `SOURCE-LIMITED` — profile đã chuẩn hóa nhưng nguồn công bố chỉ có ít dữ kiện; đây là ranh giới bằng chứng, không phải việc nghiên cứu còn bỏ dở.
 - `NEEDS_FANFIC_DECISION` — thông tin chính thức không đủ cho truyện và cần một quyết định fanfic có chủ đích.
 - `FANFIC_LOCKED` — đã giải quyết và khóa trong canon fanfic.
 
