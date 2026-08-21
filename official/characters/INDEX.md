@@ -3,7 +3,7 @@
 ## Mục tiêu
 Mỗi nhân vật có **tên ổn định** xuất hiện, được gọi tên, được ghi trên race card/roster/caption hoặc được credit trong animation thuộc phạm vi repo phải có **một file Markdown riêng**.
 
-**Baseline đã chuẩn hóa hiện tại: 186 profile.** Đây là độ phủ đã xác minh tới pass 2026-08-21; **không phải tuyên bố đã audit 100% từng frame của toàn bộ video Google Drive**.
+**Baseline đã chuẩn hóa hiện tại: 186 profile, gồm 120 profile `HIGH-DETAIL`.** Đây là độ phủ đã xác minh tới pass 2026-08-21; **không phải tuyên bố đã audit 100% từng frame của toàn bộ video Google Drive**.
 
 `Gentildonna` là benchmark profile giàu dữ liệu: [season3-profiles/gentildonna.md](season3-profiles/gentildonna.md).
 
@@ -57,5 +57,5 @@ Neo Universe, Sweep Tosho, Daiichi Ruby, K.S.Miracle, Yamanin Zephyr, Air Messia
 - Generic role như `Reporter`, `Doctor`, `Teacher`, `Audience Member`, `Head Chef`... không tạo profile nếu không có stable canonical name.
 - `UNSPECIFIED` = đã kiểm tra nguồn nhưng nguồn không nói.
 - `TBD` = fanfic chưa quyết định.
-- `NOT_YET_NORMALIZED` không phải trạng thái đích cho character database.
+- `SOURCE-LIMITED` = đã bóc hết dữ kiện tìm được nhưng nguồn công bố quá mỏng để đạt high-detail.
 - Manga-only character không tự động được kéo vào anime baseline. Phải có evidence animation.

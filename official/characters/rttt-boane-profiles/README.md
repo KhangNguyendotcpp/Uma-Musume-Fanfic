@@ -7,7 +7,7 @@ Mỗi nhân vật trong thư mục này có **một Markdown riêng**. Thư mụ
 - Profile có thể khai thác game/official character source để bổ sung personality, speech, hobbies, relationship và trivia, nhưng phải giữ tag/cảnh báo cross-continuity.
 - Không suy tuổi/năm sinh từ ngựa thật.
 - `UNSPECIFIED` nghĩa là nguồn đã kiểm tra nhưng không cho dữ liệu.
-- Không dùng `NOT_YET_NORMALIZED` làm trạng thái đích.
+- Hồ sơ đã khai thác hết nguồn nhưng vẫn mỏng dùng `SOURCE-LIMITED`; không bịa để tăng độ dài.
 
 ## BOANE cameo pass 2026-08-21
 Các profile được bổ sung qua cameo audit: Neo Universe, Sweep Tosho, Daiichi Ruby, K.S.Miracle, Yamanin Zephyr, Air Messiah, Zenno Rob Roy và Hishi Miracle.

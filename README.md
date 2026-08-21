@@ -26,6 +26,6 @@ Repo này liên kết chặt chẽ với `KhangNguyendotcpp/original-universe-ca
 6. `fanfic/timeline/CANON_TIMELINE_2025_2029.md`
 7. `fanfic/calendar/WRITING_SCHEDULE_2026_2029.md`
 
-Danh sách nhân vật được quản lý tại `official/characters/INDEX.md`. Mọi trường dữ liệu không được nguồn hỗ trợ phải giữ trạng thái `UNSPECIFIED`, `NOT_YET_NORMALIZED` hoặc `TBD`; tuyệt đối không được đoán để điền cho đủ.
+Danh sách nhân vật được quản lý tại `official/characters/INDEX.md`. Mọi trường dữ liệu không được nguồn hỗ trợ phải giữ trạng thái `UNSPECIFIED` hoặc `TBD`; tuyệt đối không được đoán để điền cho đủ.
 
 **Ngôn ngữ làm việc của repo là tiếng Việt.** Tên riêng, tên giải đấu, đường dẫn file và các token trạng thái như `LOCKED`, `DRAFT`, `TBD` được giữ nguyên khi cần để tránh làm hỏng liên kết và quy tắc máy.

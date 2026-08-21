@@ -1,6 +1,6 @@
 # Checklist nghiên cứu tổng
 
-Dùng các trạng thái: `FOUND`, `UNSPECIFIED`, `CONFLICTING`, `NOT_APPLICABLE`, `NOT_YET_NORMALIZED`, `NEEDS_FANFIC_DECISION`, `FANFIC_LOCKED`.
+Dùng các trạng thái: `FOUND`, `NORMALIZED`, `HIGH-DETAIL`, `SOURCE-LIMITED`, `UNSPECIFIED`, `CONFLICTING`, `NOT_APPLICABLE`, `NEEDS_FANFIC_DECISION`, `FANFIC_LOCKED`.
 
 ## A — Nguồn / continuity
 - [x] Portal nhân vật chính thức của franchise
@@ -15,7 +15,7 @@ Dùng các trạng thái: `FOUND`, `UNSPECIFIED`, `CONFLICTING`, `NOT_APPLICABLE
 - [x] **Umayuru: Pretty Gray** — official 4-episode spin-off được bổ sung vào scope từ online official source
 - [x] Animation kỷ niệm 1 năm
 - [x] Refactor profile tổng thành **mỗi nhân vật một Markdown riêng**
-- [x] Loại bỏ `NOT_YET_NORMALIZED` khỏi baseline character profiles bằng research; field đã kiểm tra nhưng source không nói chuyển thành `UNSPECIFIED`
+- [x] Chuẩn hóa toàn bộ baseline character profiles bằng research; field đã kiểm tra nhưng source không nói chuyển thành `UNSPECIFIED`
 - [x] Audit cast-list TV S1/S2/S3, RTTT, BOANE, Umayon, Umayuru, 1st Anniversary và Cinderella Gray so với profile tree
 - [x] Audit episode-level character list 24 tập Umayon; bổ sung Biko Pegasus
 - [x] Audit episode/character-list 24 tập Umayuru; bổ sung Nakayama Festa
@@ -29,7 +29,7 @@ Dùng các trạng thái: `FOUND`, `UNSPECIFIED`, `CONFLICTING`, `NOT_APPLICABLE
 - [x] High-detail core pass: Hishi Amazon, Taiki Shuttle và Maruzensky được nâng từ profile ngắn lên schema 11 mục; field chưa có bằng chứng giữ `UNSPECIFIED`
 - [ ] Audit **frame-by-frame / race-card / roster / on-screen text** của toàn bộ video Google Drive theo từng episode/movie để chốt 100% named visual characters
 
-**Baseline character profile đã chuẩn hóa tại pass 2026-08-21: 186.** Đây chưa phải con số cuối cho tới khi audit frame-by-frame phía trên hoàn tất.
+**Baseline character profile đã chuẩn hóa tại pass 2026-08-21: 186.** Trong đó 120 profile đạt `HIGH-DETAIL`; các hồ sơ còn gắn `SOURCE-LIMITED` đã được khai thác tới giới hạn của nguồn hiện có, không phải placeholder. Con số profile có thể tăng nếu frame audit sau này phát hiện proper name mới.
 
 ## B — Trường định danh nhân vật
 Tên canon; cách viết tiếng Nhật; romanization; biệt danh/alias; ngày sinh; tuổi cụ thể nếu có; division/năm/lớp; ký túc xá; bạn cùng phòng; CLB; chức vụ hội học sinh; team; trainer; quê quán/xuất thân vùng miền.

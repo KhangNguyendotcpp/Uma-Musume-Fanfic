@@ -14,4 +14,4 @@ Tất cả identity có tên trong baseline cũ đã được chuyển sang prof
 
 Không dùng file này để lưu nhiều profile mới. Nhân vật mới phát hiện phải được tạo một Markdown riêng và thêm link vào `../INDEX.md`.
 
-Nếu source đã được kiểm tra nhưng không công bố một trường, ghi `UNSPECIFIED`. `NOT_YET_NORMALIZED` chỉ được dùng cho dữ liệu thật sự chưa research; sau pass chuẩn hóa hoàn tất, character profile không được giữ trạng thái đó.
+Nếu source đã được kiểm tra nhưng không công bố một trường, ghi `UNSPECIFIED`. Sau pass chuẩn hóa, hồ sơ cạn dữ kiện gắn `SOURCE-LIMITED`; field riêng lẻ mà nguồn không công bố giữ `UNSPECIFIED`.

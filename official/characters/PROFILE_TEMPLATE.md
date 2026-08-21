@@ -76,6 +76,6 @@ Mỗi nhân vật phải có **một file Markdown riêng**. Mức chi tiết m�
 ### Quy tắc thiếu dữ liệu
 - Source đã kiểm tra nhưng không nói: `UNSPECIFIED`.
 - Source mâu thuẫn: `CONFLICTING`, ghi từng continuity.
-- Chỉ dùng `NOT_YET_NORMALIZED` khi **chưa thực sự research** trường đó.
+- Không dùng nhãn “chưa chuẩn hóa” trong baseline đã bàn giao; trường đã kiểm tra mà nguồn im lặng phải là `UNSPECIFIED`.
 - Không suy birth year/tuổi từ ngựa thật.
 - Không biến nhận diện ngựa thật của community thành official identity.
