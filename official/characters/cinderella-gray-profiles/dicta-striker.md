@@ -5,6 +5,7 @@
 - **Continuity:** `CINDERELLA_GRAY`
 
 ## 2. Hồ sơ cơ bản
+- **Tuổi fanfic tại năm 2026:** **17** — `ORIGINAL/APPROVED`; Oguri Cap = 17 là neo continuity, không phải tuổi official.
 - **Tên Nhật:** ディクタストライカ; **Romaji:** Dikuta Sutoraika; **biệt danh:** Dicta
 - **Sinh nhật:** 28 tháng 4
 - **Tự xưng:** Ore

@@ -10,6 +10,7 @@
 - **Seiyuu anime:** Mutsumi Tamura (田村睦心)
 
 ## 2. Hồ sơ cơ bản
+- **Tuổi fanfic tại năm 2026:** **17** — `ORIGINAL/APPROVED`; Oguri Cap = 17 là neo continuity, không phải tuổi official.
 - **Sinh nhật / tuổi / school division / dorm / roommate / chiều cao / số đo / cỡ giày:** `UNSPECIFIED` trong nguồn đã kiểm tra.
 
 ## 3. Tính cách

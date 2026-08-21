@@ -12,6 +12,7 @@
 - **Continuity:** `OFFICIAL_PROFILE`, `GAME`, `CINDERELLA_GRAY`, `TV_S1`, `TV_S2`, `TV_S3`, `RTTT`, `BOANE`, `UMAYON`, `UMAYURU`
 
 ## 2. Hồ sơ cơ bản
+- **Tuổi fanfic tại năm 2026:** **17** — `ORIGINAL/APPROVED`; Oguri Cap = 17 là neo continuity, không phải tuổi official.
 - **Sinh nhật:** 27 tháng 3; **tuổi:** `UNSPECIFIED`
 - **Division:** Senior; **KTX profile game:** Ritto; **roommate:** Tamamo Cross
 - **Cinderella Gray origin:** Kasamatsu Tracen Academy

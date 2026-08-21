@@ -5,6 +5,7 @@
 - **Continuity:** `CINDERELLA_GRAY`
 
 ## 2. Hồ sơ cơ bản
+- **Tuổi fanfic tại năm 2026:** **18** — `ORIGINAL/APPROVED`; Oguri Cap = 17 là neo continuity, không phải tuổi official.
 - **Tên Nhật:** ダイナムヒロイン; **Romaji:** Dainamu Hiroin
 - **Sinh nhật:** 4 tháng 5
 - **Continuity:** `CINDERELLA_GRAY`

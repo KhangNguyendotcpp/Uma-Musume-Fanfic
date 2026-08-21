@@ -5,6 +5,7 @@
 - **Continuity:** `CINDERELLA_GRAY`
 
 ## 2. Hồ sơ cơ bản
+- **Tuổi fanfic tại năm 2026:** **17** — `ORIGINAL/APPROVED`; Oguri Cap = 17 là neo continuity, không phải tuổi official.
 - **Tên Nhật:** ベルノライト; **Romaji:** Beruno Raito; **biệt danh:** Belno
 - **Sinh nhật:** 22 tháng 5
 - **Chiều cao:** 146 cm; **số đo:** B89/W53/H77

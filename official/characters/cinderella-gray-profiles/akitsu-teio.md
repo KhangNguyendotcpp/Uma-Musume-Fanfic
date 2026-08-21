@@ -5,6 +5,7 @@
 - **Continuity:** `CINDERELLA_GRAY`
 
 ## 2. Hồ sơ cơ bản
+- **Tuổi fanfic tại năm 2026:** **18** — `ORIGINAL/APPROVED`; Oguri Cap = 17 là neo continuity, không phải tuổi official.
 - **Tên Nhật:** アキツテイオー; **Romaji:** Akitsu Teiō; **cách gọi:** Akitsu Teio-senpai
 - **Sinh nhật:** 21 tháng 4; **chiều cao:** 175 cm
 - **Seiyuu:** Nagisa Kujime

@@ -12,6 +12,7 @@
 - **Continuity nguồn:** `OFFICIAL_PROFILE`, `GAME`, `TV_S1`, `TV_S2`, `UMAYON`, `UMAYURU`, `CINDERELLA_GRAY`
 
 ## 2. Hồ sơ cơ bản
+- **Tuổi fanfic tại năm 2026:** **18** — `ORIGINAL/APPROVED`; Oguri Cap = 17 là neo continuity, không phải tuổi official.
 - **Sinh nhật:** 19 tháng 5
 - **Tuổi cụ thể:** `UNSPECIFIED`
 - **School division:** Senior Division

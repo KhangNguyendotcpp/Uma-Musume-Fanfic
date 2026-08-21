@@ -11,6 +11,7 @@
 - **Seiyuu anime:** Mikako Komatsu (小松未可子)
 
 ## 2. Hồ sơ cơ bản
+- **Tuổi fanfic tại năm 2026:** **17** — `ORIGINAL/APPROVED`; Oguri Cap = 17 là neo continuity, không phải tuổi official.
 - **Nơi hoạt động:** Kasamatsu sau khi chuyển từ Central
 - **Trainer:** Kouichi Shibasaki
 - Sinh nhật, tuổi, school year, dorm, chiều cao, số đo: `UNSPECIFIED`.

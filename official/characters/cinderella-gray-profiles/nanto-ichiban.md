@@ -10,6 +10,7 @@
 - **Seiyuu anime:** Keina Yamada (山田京奈)
 
 ## 2. Hồ sơ cơ bản
+- **Tuổi fanfic tại năm 2026:** **17** — `ORIGINAL/APPROVED`; Oguri Cap = 17 là neo continuity, không phải tuổi official.
 Sinh nhật, tuổi, trường, dorm, roommate, chiều cao, cân nặng-note, số đo và cỡ giày: `UNSPECIFIED`.
 
 ## 3. Tính cách

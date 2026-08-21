@@ -5,6 +5,7 @@
 - **Continuity:** `CINDERELLA_GRAY`
 
 ## 2. Hồ sơ cơ bản
+- **Tuổi fanfic tại năm 2026:** **18** — `ORIGINAL/APPROVED`; Oguri Cap = 17 là neo continuity, không phải tuổi official.
 - **Tên Nhật:** ミシェルマイベイビー; **Romaji:** Misheru Mai Beibī
 - **Chiều cao:** 195 cm
 - **Tự xưng:** Atashi

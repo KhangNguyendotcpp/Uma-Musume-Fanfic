@@ -6,6 +6,7 @@
 - **Seiyuu:** Yo Taichi
 
 ## 2. Hồ sơ cơ bản
+- **Tuổi fanfic tại năm 2026:** **17** — `ORIGINAL/APPROVED`; Oguri Cap = 17 là neo continuity, không phải tuổi official.
 Các trường ngày sinh, division, ký túc xá, chiều cao, số đo hoặc seiyuu chưa được nguồn đã audit công bố đều giữ `UNSPECIFIED`.
 
 ## 3. Tính cách

@@ -5,6 +5,7 @@
 - **Continuity:** `TV_S1` / `TV_S2` / `TV_S3`
 
 ## 2. Hồ sơ cơ bản
+- **Tuổi fanfic tại năm 2026:** **17** — `ORIGINAL/APPROVED`; Oguri Cap = 17 là neo continuity, không phải tuổi official.
 - **Tên Nhật:** スーパークリーク; **Romaji:** Sūpā Kurīku
 - **Sinh nhật:** 27 tháng 5; **Senior Division**; **KTX:** Ritto; **roommate:** Narita Taishin
 - **Chiều cao:** 168 cm; **số đo:** B97/W61/H91; **cỡ giày:** 25.5 cm

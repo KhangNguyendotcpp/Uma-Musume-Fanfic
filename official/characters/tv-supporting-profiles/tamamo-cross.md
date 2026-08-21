@@ -12,6 +12,7 @@
 - **Continuity:** `OFFICIAL_PROFILE`, `GAME`, `TV_S1`, `TV_S2`, `TV_S3`, `CINDERELLA_GRAY_ANIME`, `CINDERELLA_GRAY_MANGA`, `UMAYON`, `UMAYURU_PRETTY_GRAY`
 
 ## 2. Hồ sơ cơ bản
+- **Tuổi fanfic tại năm 2026:** **18** — `ORIGINAL/APPROVED`; Oguri Cap = 17 là neo continuity, không phải tuổi official.
 - **Sinh nhật:** 23 tháng 5; **tuổi:** `UNSPECIFIED`
 - **Division:** Senior
 - **KTX game/profile:** Ritto; **roommate:** Oguri Cap

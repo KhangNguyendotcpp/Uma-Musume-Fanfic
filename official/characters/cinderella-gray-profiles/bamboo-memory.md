@@ -12,6 +12,7 @@
 - **Continuity animation được xác nhận:** `CINDERELLA_GRAY`
 
 ## 2. Hồ sơ cơ bản
+- **Tuổi fanfic tại năm 2026:** **17** — `ORIGINAL/APPROVED`; Oguri Cap = 17 là neo continuity, không phải tuổi official.
 - **Sinh nhật:** 14 tháng 5
 - **Phân khu:** Senior Division
 - **Ký túc xá:** Ritto

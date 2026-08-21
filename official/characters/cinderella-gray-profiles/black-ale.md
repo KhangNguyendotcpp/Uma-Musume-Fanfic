@@ -5,6 +5,7 @@
 - **Continuity:** `CINDERELLA_GRAY`
 
 ## 2. Hồ sơ cơ bản
+- **Tuổi fanfic tại năm 2026:** **17** — `ORIGINAL/APPROVED`; Oguri Cap = 17 là neo continuity, không phải tuổi official.
 - **Tên Nhật:** ブラッキーエール; **Romaji:** Burakkī Ēru
 - **Sinh nhật:** 25 tháng 4; **chiều cao:** 172 cm
 - **Seiyuu:** Nanako Mori

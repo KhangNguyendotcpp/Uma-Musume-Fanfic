@@ -10,6 +10,7 @@
 - **Seiyuu anime:** Hisako Tojo (東城日沙子)
 
 ## 2. Hồ sơ cơ bản
+- **Tuổi fanfic tại năm 2026:** **17** — `ORIGINAL/APPROVED`; Oguri Cap = 17 là neo continuity, không phải tuổi official.
 Sinh nhật, tuổi, division, dorm, roommate, chiều cao, số đo, cỡ giày: `UNSPECIFIED`.
 
 ## 3. Tính cách
