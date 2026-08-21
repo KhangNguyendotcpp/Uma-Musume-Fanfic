@@ -73,8 +73,9 @@ Game kit của Bamboo nhấn mạnh **Sprint/Mile**, các tình huống bám ph�
 - **Hidehito Nase:** trainer của Bamboo trong **Cinderella Gray manga source**; cần kiểm continuity animation riêng trước khi áp vào anime/fanfic.
 
 ## 9. Animation presence
-- **Cinderella Gray:** profile/media source xác nhận Bamboo Memory xuất hiện trong anime adaptation.
-- Do nguồn profile hiện tại không phải episode-by-episode frame ledger, **exact episode/timecode vẫn cần frame audit** trước khi ghi thành dữ kiện thời gian cứng.
+- **Cinderella Gray tập 7 — `Tracen Academy` (18/05/2025):** episode character list xác nhận Bamboo Memory xuất hiện tại Central Tracen cùng Gold City và các racer/student khác.
+- Profile `Media Appearances` cũng xác nhận `Anime -> Cinderella Gray`.
+- **Exact timecode trong tập:** chưa khóa; chỉ cần khi chronology/frame ledger yêu cầu mức phút:giây.
 
 ## 10. Ghi chú hữu ích cho fanfic
 - Bamboo rất phù hợp cho cảnh Tracen discipline, training cực hạn, rivalry và xung đột giữa “đúng quy trình” với những racer thích phá lệ.
@@ -85,6 +86,7 @@ Game kit của Bamboo nhấn mạnh **Sprint/Mile**, các tình huống bám ph�
 - https://umamusu.wiki/Bamboo_Memory
 - https://umamusu.wiki/Game%3ABamboo_Memory
 - https://umamusu.wiki/Game%3ABamboo_Memory_%28Iron_Ambition%29
+- https://umamusu.wiki/Tracen_Academy_%28Cinderella_Gray_Anime%29
 - https://umamusu.wiki/Cinderella_Gray_%28Anime%29
 
 ## 12. Trạng thái nghiên cứu
