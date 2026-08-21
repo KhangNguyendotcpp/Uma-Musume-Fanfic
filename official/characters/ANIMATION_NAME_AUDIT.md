@@ -12,10 +12,25 @@ Nếu source đã được kiểm tra mà không nói một field, ghi `UNSPECIF
 4. `MANGA_ONLY_OR_NOT_CONFIRMED` — có ở manga/wiki nhưng chưa đủ evidence animation.
 5. `PENDING_FRAME_AUDIT` — cần xem frame/video Drive để chốt episode/exact on-screen naming.
 
+## Cinderella Gray — media/profile + episode-level pass mở rộng
+Ngoài cast/credit/race-name pass trước, profile `Media Appearances` và các episode character list có dữ liệu được đối chiếu để bắt cameo không nhất thiết có voice credit.
+
+### Bổ sung mới
+- **Bamboo Memory** — `ANIME_VISUAL_CONFIRMED`; episode 7 **`Tracen Academy`**, phát sóng **18/05/2025**, character list ghi Bamboo Memory trực tiếp; profile nguồn cũng tách rõ `Media Appearances -> Anime -> Cinderella Gray`.
+- **Katsuragi Ace** — `ANIME_VISUAL_CONFIRMED`; profile nguồn tách rõ `Media Appearances -> Anime -> Cinderella Gray (Cameo)`. Exact episode/timecode vẫn chưa khóa.
+
+Cả hai đã có profile `HIGH-DETAIL` riêng trong `cinderella-gray-profiles/`.
+
+### Episode-list cross-check
+Các character list có dữ liệu của **tập 1–4 và tập 7** đã được đối chiếu với profile tree. Ngoài Bamboo Memory ở tập 7, các proper name xuất hiện trong những list này đã có profile từ các pass trước. Nhiều trang episode khác hiện không có character section đủ dữ liệu, vì vậy **không được coi việc list trống là bằng chứng không có cameo**; phần đó vẫn cần frame/race-card audit.
+
+### False-positive guard
+Một số character page/community index có thể ghi `Cinderella Gray (Cameo)` mà **không tách rõ anime/manga**, đặc biệt các nhân vật chỉ xuất hiện ở phần manga muộn/epilogue. Repo không được tự suy rằng đó là animation presence. Ví dụ các tag mơ hồ kiểu Buena Vista/Believe phải giữ pending cho tới khi có ít nhất một trong các bằng chứng: anime cast/credit, on-screen name, production asset, episode source, hoặc frame xác nhận từ video.
+
 ## TV Season 3 — episode/background pass
 Cast table riêng của S3 không đủ để cover toàn bộ background/cameo, nên đã đối chiếu episode lists và Media Appearances.
 
-### Bổ sung mới
+### Bổ sung đã xác nhận
 - **Nishino Flower** — `ANIME_VISUAL_CONFIRMED`; profile source ghi rõ `Season 3 (Cameo)`.
 - **Wonder Acute** — `ANIME_VISUAL_CONFIRMED`; episode 6 `Diamond` liệt kê trong Background Characters.
 - **Hokko Tarumae** — `ANIME_VISUAL_CONFIRMED`; Season 3 opening và episode 6 `Diamond` background.
@@ -57,7 +72,7 @@ Cast đã đối chiếu đủ 4 tập. Các tên chưa có profile trước pas
 
 Các cast còn lại như Oguri Cap, Gold Ship, Mejiro McQueen, Seiun Sky, Tamamo Cross, Biwa Hayahide, Curren Chan, Hishi Miracle, Winning Ticket, Narita Taishin, King Halo, Tsurumaru Tsuyoshi, Tanino Gimlet... đã có profile từ các nhóm trước.
 
-## Cinderella Gray
+## Cinderella Gray — cast/credit pass trước đó
 Credit/name-confirmed bổ sung ở các pass gần nhất:
 - Nanto Ichiban — tập 1
 - Sekai Touha — tập 2
@@ -82,6 +97,6 @@ Anime visual/race-name confirmed nhưng không có voice credit riêng: Massive 
 `Teacher`, `Reporter`, `Doctor`, `Audience Member`, `Head Chef`, `Chairman`, `Vice-Chairman`, `Maintenance Staff`, `Innkeeper Host/Hostess`, `Narrator`... không tạo profile nếu không có stable canonical personal name.
 
 ## Audit chưa hoàn thành tuyệt đối
-- Cast/episode-character-list/cameo-source audit hiện đạt **184 profile**.
+- Cast/episode-character-list/cameo-source audit hiện đạt **186 profile**.
 - **Race-card/on-screen text/cameo frame audit vẫn phải tiếp tục trực tiếp trên video Google Drive**, đặc biệt BOANE, S1–S3 race scenes và Cinderella Gray race fields có runner không thoại.
 - Không được tuyên bố “100% mọi named frame đã cover” cho tới khi từng episode/movie được đánh dấu frame-audited.
