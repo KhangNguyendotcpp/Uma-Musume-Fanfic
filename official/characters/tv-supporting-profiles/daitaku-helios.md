@@ -16,27 +16,32 @@
 Gyaru energy cực cao, hướng ngoại, thích tiệc/social media-like vibes và slang. Helios có thể trông vô tư nhưng không phải shallow; quan hệ với Palmer cho thấy cô rất nghiêm túc với việc muốn người mình thích/quan tâm được vui.
 
 ## 4. Đời thường / sở thích / thói quen
-`UNSPECIFIED` trong nguồn đã audit.
-
+- Chuyên chỉnh selfie, chơi Old Maid rất giỏi; điện thoại gần như luôn kín notification.
+- Ghét bầu không khí im lặng/quá nghi thức; trước race thường chủ động trao đổi liên lạc với đối thủ để biến cuộc đua thành một dịp kết nối.
+- Khi xuống tinh thần lại trở nên bám bạn thân hơn vẻ ngoài lúc nào cũng “high”.
+- Tai phản ứng mạnh khi trời nắng; ảnh tạo hình thường dùng motif mặt trời, ngôi sao và màu neon.
 ## 5. Ngoại hình
-Chỉ dùng character art/animation frame làm bằng chứng trực quan; mô tả chi tiết chưa được chuẩn hóa trong source text giữ `UNSPECIFIED`.
-
+Tóc nâu có highlight xanh, buộc lệch bên trái; kẹp tóc ngôi sao vàng, ear cover và trang sức nhiều màu. Makeup hình sao/tam giác ở má, móng tay sặc sỡ và một răng khểnh tạo silhouette gyaru rất rõ. Race outfit dùng xanh đậm–vàng–trắng, shorts và phụ kiện nhiều lớp; mô tả này áp dụng cho game/character art, còn animation phải đối chiếu frame nếu cần chi tiết shot.
 ## 6. Racing / vai trò narrative
-Vai trò/entry chưa được nguồn đã audit xác nhận thêm; không suy career từ ngựa thật.
-
+Trong game/profile, Helios được định vị là runner thích bầu không khí náo nhiệt và có lối nói khiến racing giống một “party” chung. Stage play *Sprinters' Story* đặt cô vào nhóm trung tâm với Daiichi Ruby, K.S.Miracle và Yamanin Zephyr. Khi viết race, giữ khác biệt continuity: thành tích/lịch đua của ngựa thật không tự động là canon của nhân vật.
 ## 7. Quan hệ
-`UNSPECIFIED` ngoài các tương tác được nguồn trực tiếp xác nhận.
-
+- **Mejiro Palmer:** bạn thân/“runaway bestie”, đồng phạm trong nhiều trò náo nhiệt.
+- **Daiichi Ruby:** đối thủ và đối tượng Helios công khai mê mẩn; Ruby không đáp lại theo cùng cách nhưng thừa nhận cô như một racer.
+- **K.S.Miracle / Yamanin Zephyr:** bạn và đối thủ trong nhóm sprinter.
+- **Tap Dance City:** roommate, cùng mức năng lượng tiệc tùng.
+- **Tosen Jordan:** bạn gyaru, chia sẻ hứng thú thời trang.
+- **Mejiro Ardan:** bạn; Ardan không hiểu hết slang nhưng tôn trọng Helios.
 ## 8. Animation / media appearances
-Chỉ đánh dấu continuity/tập khi cast credit, caption, dialogue, race card hoặc frame nguồn xác nhận; chưa có evidence bổ sung thì giữ `UNSPECIFIED`.
-
+- `TV_S2`: supporting cast; được công bố qua website anime đúng thời điểm S2 bắt đầu phát sóng.
+- `TV_S3`: background appearance.
+- `BOANE`: background tại khuôn viên Tracen theo character media index.
+- `UMAYURU`: xuất hiện trong short continuity.
+- Stage play *Sprinters' Story*: protagonist; không trộn sự kiện sân khấu vào TV/game nếu không gắn nhãn.
 ## 9. Trivia / lưu ý cho fanfic
-- Không chuyển quan hệ/ngày tháng/thành tích của ngựa thật thành canon nhân vật.
-- Profile ngắn phản ánh độ sâu của nguồn, không phải giấy phép bịa thêm personality.
-
+Giọng thoại nhiều gyaru slang; bản Global chuyển sang lớp từ vựng kiểu zoomer nên khi viết cần chọn một register nhất quán. “Luôn vui” không có nghĩa là không biết buồn: nguồn profile xác nhận cô tìm bạn thân khi tụt mood. Không dùng trivia ngựa thật để suy ra tình cảm/career của nhân vật.
 ## 10. Nguồn đã khai thác
 - https://umamusu.wiki/Daitaku_Helios
 - https://umamusu.wiki/Season_2
 
 ## 11. Trạng thái nghiên cứu
-`FOUND / NORMALIZED / SOURCE-LIMITED`
+`FOUND / NORMALIZED / HIGH-DETAIL`

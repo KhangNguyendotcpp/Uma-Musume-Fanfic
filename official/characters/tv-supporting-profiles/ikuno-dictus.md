@@ -15,27 +15,28 @@
 Methodical, intellectual và chú trọng condition-management. Ikuno nổi bật vì cách tiếp cận bền vững/longevity thay vì chỉ “train harder”. Đây là nhân vật rất hợp làm nguồn tham chiếu khi fic bàn schedule, recovery và over-racing.
 
 ## 4. Đời thường / sở thích / thói quen
-`UNSPECIFIED` trong nguồn đã audit.
-
+- Thích perfect-attendance award và bẻ đũa dùng một lần thật gọn; không thích cờ bạc và selfie.
+- Màn hình điện thoại hiển thị thời tiết, nhiệt độ, độ ẩm và áp suất để phục vụ condition management.
+- Cẩn thận cả với việc thay linh kiện xe đạp; trước race tết lại tóc bằng dầu dưỡng được tặng.
+- Có nếp ăn hamburger khá bừa bộn, một đối trọng đời thường với vẻ ngoài chuẩn xác.
 ## 5. Ngoại hình
-Chỉ dùng character art/animation frame làm bằng chứng trực quan; mô tả chi tiết chưa được chuẩn hóa trong source text giữ `UNSPECIFIED`.
-
+Tóc bob cam cắt gọn, một bím dài và vệt trắng ở mái; kính tròn viền bạc, mắt vàng nhạt, phụ kiện tai kim loại. Race outfit gợi dressage: vest/sơ mi trắng, cà vạt đỏ, blazer teal có coattail, quần trắng và boots cao. Silhouette nghiêm, gọn và chức năng; dùng frame animation nếu mô tả shot cụ thể.
 ## 6. Racing / vai trò narrative
-Vai trò/entry chưa được nguồn đã audit xác nhận thêm; không suy career từ ngựa thật.
-
+Condition management, kiểm tra rủi ro và khát vọng chạy bền lâu là lõi nhân vật. Ikuno không đại diện cho “cứ cố thêm”; cô đại diện cho schedule, recovery và quyết định có dữ liệu. Trong TV, vai trò Team Canopus cho phép cô làm điểm cân bằng logic trước năng lượng bốc đồng của đội.
 ## 7. Quan hệ
-`UNSPECIFIED` ngoài các tương tác được nguồn trực tiếp xác nhận.
-
+- **Nice Nature / Twin Turbo / Matikanetannhauser:** bạn và đồng đội Canopus.
+- **Sounds of Earth / Royce and Royce:** bổ sung Canopus trong `TV_S3`.
+- **Mejiro McQueen:** roommate và bạn.
+- **Yamanin Zephyr:** Ikuno từng dạy cô đi xe đạp.
+- **Daiichi Ruby:** cùng trao đổi về vấn đề chân và lựa chọn cleat trong game continuity.
 ## 8. Animation / media appearances
-Team Canopus; roommate McQueen.
-
+- `TV_S2` / `TV_S3`: thành viên Team Canopus; appearances được timeline và cast index xác nhận.
+- Các chi tiết injury-management cá nhân chủ yếu từ game/profile; không gán chúng thành cảnh TV nếu tập không xác nhận.
 ## 9. Trivia / lưu ý cho fanfic
-- Không chuyển quan hệ/ngày tháng/thành tích của ngựa thật thành canon nhân vật.
-- Profile ngắn phản ánh độ sâu của nguồn, không phải giấy phép bịa thêm personality.
-
+Rất phù hợp làm chuẩn worldbuilding về tải tập, phục hồi và injury risk, nhưng lời khuyên y khoa trong fic không nên vượt quá dữ kiện nguồn. Tránh biến sự cẩn thận thành vô cảm; biography mô tả cô khá dễ gần dù nghiêm.
 ## 10. Nguồn đã khai thác
 - https://umamusu.wiki/Ikuno_Dictus
 - https://umamusu.wiki/Season_2
 
 ## 11. Trạng thái nghiên cứu
-`FOUND / NORMALIZED / SOURCE-LIMITED`
+`FOUND / NORMALIZED / HIGH-DETAIL`
