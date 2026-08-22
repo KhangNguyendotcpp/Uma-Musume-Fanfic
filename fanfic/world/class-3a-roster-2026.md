@@ -18,6 +18,7 @@
 - Không lấy năm sinh của ngựa thật làm năm sinh của Uma.
 - Không đưa thế hệ Special Week, thế hệ Oguri Cap hoặc các nhân vật được xác nhận là hậu bối/nhập học muộn vào roster.
 - Một số tên có bằng chứng fanfic tuổi 18 hoặc quan hệ ngang hàng mạnh; một số tên vẫn là authorial assignment cần duyệt lại.
+- **Sửa roster 2026-08-22:** loại Obey Your Master (đại diện Mỹ) và Toni Bianca (đại diện Ý/international guest) vì không thuộc cohort học sinh nội địa Tracen; thay bằng Gold Ship và Biwa Hayahide. Cả hai suất thay vẫn là fanfic class assignment, không phải lớp/tuổi official.
 - Nếu tác giả đưa ra quyết định mới về lớp, tuổi, năm học hoặc giáo viên chủ nhiệm, quyết định mới nhất của tác giả có quyền ghi đè file này.
 
 ## Danh sách 32 học sinh
@@ -47,8 +48,8 @@
 23. Gentildonna
 24. Nakayama Festa
 25. God Hannibal
-26. Obey Your Master
-27. Toni Bianca
+26. Gold Ship
+27. Biwa Hayahide
 28. Lord Royal
 29. Long Live Free
 30. Narita Taishin
