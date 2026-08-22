@@ -18,7 +18,7 @@
 - Không lấy năm sinh của ngựa thật làm năm sinh của Uma.
 - Không đưa thế hệ Special Week, thế hệ Oguri Cap hoặc các nhân vật được xác nhận là hậu bối/nhập học muộn vào roster.
 - Một số tên có bằng chứng fanfic tuổi 18 hoặc quan hệ ngang hàng mạnh; một số tên vẫn là authorial assignment cần duyệt lại.
-- **Sửa roster 2026-08-22:** loại Obey Your Master (đại diện Mỹ) và Toni Bianca (đại diện Ý/international guest) vì không thuộc cohort học sinh nội địa Tracen; thay bằng Gold Ship và Biwa Hayahide. Cả hai suất thay vẫn là fanfic class assignment, không phải lớp/tuổi official.
+- **Sửa roster 2026-08-22:** loại Obey Your Master (đại diện Mỹ) và Toni Bianca (đại diện Ý/international guest) vì không thuộc cohort học sinh nội địa Tracen; thay bằng Gold Ship và Akitsu Teio. Gold Ship là authorial class assignment; Akitsu Teio đã có neo fanfic 18 tuổi/senior trong repo. Đây không phải lớp/tuổi official.
 - Nếu tác giả đưa ra quyết định mới về lớp, tuổi, năm học hoặc giáo viên chủ nhiệm, quyết định mới nhất của tác giả có quyền ghi đè file này.
 
 ## Danh sách 32 học sinh
@@ -49,7 +49,7 @@
 24. Nakayama Festa
 25. God Hannibal
 26. Gold Ship
-27. Biwa Hayahide
+27. Akitsu Teio
 28. Lord Royal
 29. Long Live Free
 30. Narita Taishin
@@ -61,7 +61,8 @@
 1. **Đã giải quyết:** Symboli Rudolf là học sinh Senior Year 3/năm cuối THPT trong 04/2026–03/2027, 17 tuổi tại mốc 04/2026. Quyết định này ghi đè mọi baseline cũ đặt cô ở University Year 1 trong 04/2026.
 2. Theo khóa học Nhật, học sinh THPT năm ba của năm học 2026–2027 thông thường thuộc cohort sinh từ 02/04/2008 đến 01/04/2009; năm sinh fanfic cụ thể của từng Uma chưa được khóa trong file này.
 3. Quan hệ chị–em, đàn chị–hậu bối, thời điểm nhập học và chronology animation/game phải được kiểm tra lại trước khi chuyển roster sang `APPROVED` hoặc `LOCKED`.
-4. Danh sách này không tự thay đổi Student Council, team trainer, division thi đấu, ký túc xá hay quyền tham gia race của bất kỳ nhân vật nào.
+4. **Biwa Hayahide bị loại rõ ràng khỏi 3-A:** cô là chị ruột của Narita Brian; nếu giữ đúng trật tự chị–em và luật khóa học Nhật, Biwa phải thuộc khóa trên Brian. AI không được tự thêm Biwa trở lại lớp này.
+5. Danh sách này không tự thay đổi Student Council, team trainer, division thi đấu, ký túc xá hay quyền tham gia race của bất kỳ nhân vật nào.
 
 ## Liên kết continuity
 
