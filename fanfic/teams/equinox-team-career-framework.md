@@ -16,7 +16,7 @@
 | 2026 | tuyển dụng, kiểm tra aptitude, debut, dựng nền thể lực và học cách coi racing là một nghề thật |
 | 2027 | Classic Year duy nhất của Haise/Taki; S1 Classic conflict được giải trong master calendar |
 | 2028 | chuyển sang Senior/Open G1; bắt đầu cân nhắc international qualification |
-| 2029–2031 | Haise/Taki ở University Division và thi đấu Senior/Open; Rudolf/Air/Brian chuyển dần sang Resident Athlete/Athlete Council sau tốt nghiệp |
+| 2029–2031 | Haise/Taki ở University Division và thi đấu Senior/Open; Rudolf còn ở University đến 03/2031 rồi mới chuyển sang Resident Athlete/Athlete Council; Air/Brian theo author record riêng |
 | 2032–2033 | đỉnh campaign quốc nội/quốc tế của thế hệ Equinox; Japan Cup 2033 là cửa sổ cuối chung đã được mở nhưng finish vẫn `TBD` |
 | 2034–2035 | trọng tâm main timeline thuộc S3/BOANE; không gán Haise/Taki vào main race calendar nếu author chưa mở một international event riêng |
 
@@ -62,8 +62,8 @@ Exact entry, winner, injury và retirement của cả ba đều `TBD` trừ nh�
 
 - Central Student Council chỉ dành cho học sinh đang theo học.
 - Haise/Taki dự kiến tốt nghiệp Senior tháng 3/2029; nếu học University liên tục, dự kiến hoàn tất tháng 3/2033.
-- Rudolf khoảng University Year 1 vào 04/2026; dự kiến tốt nghiệp tháng 3/2030 nếu không gián đoạn.
-- Khi tốt nghiệp, Rudolf/Air/Brian rời chức danh Student Council và chuyển sang **Resident Athlete Program + Tracen Athlete Council**.
+- Rudolf học Senior Year 3 trong 04/2026–03/2027; nếu học liên tục, University Year 1 bắt đầu 04/2027 và cô tốt nghiệp University tháng 03/2031.
+- Khi Rudolf tốt nghiệp University, cô rời chức danh Central Student Council và chuyển sang **Resident Athlete Program + Tracen Athlete Council**. Air/Brian chỉ chuyển theo mốc học riêng đã được author xác lập, không mặc định cùng ngày với Rudolf.
 - Resident Athlete là vận động viên thường trực dùng campus medical, training, race operations và mentoring; không tự động là nhân viên biên chế hay học sinh.
 - Athlete Council là cơ chế đại diện vận động viên sau tốt nghiệp, không thay administration, trainer, medical hoặc Central Student Council.
 

@@ -22,7 +22,7 @@ File này chỉ chốt rule cần để prose nhất quán; không giả là b�
 ## 3. Student status
 - Junior/Senior chịu school rules và guardian/consent framework; exact statutory ages chưa chốt.
 - University students được đối xử là adult cho các vấn đề phù hợp nhưng vẫn chịu institutional discipline.
-- Rudolf University Year 1 khoảng 18 vào 04/2026 là `ORIGINAL / APPROVED`, không official.
+- Rudolf thuộc Senior Year 3/năm cuối THPT, 17 tuổi tại mốc 04/2026 — `ORIGINAL / APPROVED / AUTHOR_OVERRIDE`; cô chưa phải University Year 1. Nếu học liên tục, University Year 1 bắt đầu 04/2027.
 - Không dùng height/division để tự suy tuổi.
 
 ## 4. Trainer, staff và license

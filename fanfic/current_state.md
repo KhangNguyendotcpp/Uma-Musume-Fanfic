@@ -9,6 +9,7 @@
 - Ba thành viên có quyền đánh giá gồm đại diện học thuật, đại diện trainer và người điều phối/tiếp nhận hồ sơ.
 - Yayoi tham dự vì trường hợp một Uma trưởng thành đồng thời dự tuyển trainer và giáo viên gần như chưa có tiền lệ; bà phê chuẩn cho quy trình tăng tốc tiếp tục.
 - Rudolf và Air Groove là cố vấn học sinh có cam kết bảo mật; họ không thuộc ba phiếu quyết định tuyển dụng.
+- Rudolf thuộc cohort Senior Year 3/năm cuối THPT của năm học 2026–2027; cô **không phải University Year 1** ở mốc này. Ngày 2026-03-09 nằm ngay trước sinh nhật 13/3 và trước khai giảng tháng 4.
 
 ## 2. Kết quả vòng một
 
@@ -43,7 +44,7 @@ Các điều sau là kế hoạch tương lai, **không được viết như ký
 - 2026 là foundation/debut year; 2027 mới là Classic Year của Spe, Haise và Taki.
 - S1 kéo tới 2028; S2 + RTTT chạy 2029–2031; S3 + BOANE chạy 2032–2035.
 - Haise/Taki chuyển sang Senior/Open năm 2028 và quốc tế hóa sau 2028.
-- Rudolf/Air/Brian sau tốt nghiệp chuyển khỏi Central Student Council sang Resident Athlete/Athlete Council structure.
+- Rudolf học Senior Year 3 trong 04/2026–03/2027; nếu học liên tục, University Year 1 bắt đầu 04/2027 và kết thúc University 03/2031. Sau khi hoàn tất tư cách student, cô chuyển khỏi Central Student Council sang Resident Athlete/Athlete Council structure; Air/Brian theo mốc riêng.
 - Exact career result của team Equinox vẫn DRAFT trừ các kết quả đã được author duyệt trong master race calendar.
 
 ## 6. Điểm nối cảnh

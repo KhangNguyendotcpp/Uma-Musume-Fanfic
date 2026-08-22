@@ -57,8 +57,8 @@ Mốc Live là quy ước `ORIGINAL`. Với international campaign, Equinox ph�
 
 - **2027-01-02 Thứ Bảy 09:30 — Đền địa phương Fuchu:** sự kiện năm mới.
 - **2027-02-15 Thứ Hai–02-19 Thứ Sáu — Khối học thuật:** thi cuối năm học.
-- **2027-03-10 Thứ Tư 10:00 — Đại sảnh:** tốt nghiệp khóa ra trường.
-- **2027-04-05 Thứ Hai 08:30 — Đại sảnh:** khai giảng.
+- **2027-03-10 Thứ Tư 10:00 — Đại sảnh:** Rudolf tốt nghiệp Senior Division/năm cuối THPT; các thành viên khác theo roster đã được khóa tại thời điểm viết.
+- **2027-04-05 Thứ Hai 08:30 — Đại sảnh:** khai giảng; Rudolf bắt đầu University Division Year 1 nếu lộ trình liên tục không bị thay đổi.
 - **2027-05-24 Thứ Hai–05-28 Thứ Sáu — Khối học thuật:** giữa kỳ mùa xuân.
 - **2027-07-05 Thứ Hai–07-09 Thứ Sáu — Khối học thuật:** cuối kỳ mùa xuân.
 - **2027-07-19 Thứ Hai 07:00–08-08 Chủ Nhật 21:00 — Hokkaido:** Summer Training Camp II.
@@ -113,8 +113,8 @@ Mốc Live là quy ước `ORIGINAL`. Với international campaign, Equinox ph�
 ## 2030
 
 - **2030-02-18 Thứ Hai–02-22 Thứ Sáu — Khối học thuật:** thi cuối năm.
-- **2030-03-08 Thứ Sáu 10:00 — Đại sảnh:** lễ tốt nghiệp University cohort của Rudolf; Air/Brian placement theo author record.
-- **2030-04-01 Thứ Hai 08:30 — Đại sảnh:** khai giảng; Resident Athlete/Athlete Council transition có thể bắt đầu sau clearance.
+- **2030-03-08 Thứ Sáu 10:00 — Đại sảnh:** lễ tốt nghiệp các cohort đủ điều kiện; Rudolf vẫn đang ở University Year 3 theo lộ trình liên tục.
+- **2030-04-01 Thứ Hai 08:30 — Đại sảnh:** khai giảng; Rudolf bắt đầu University Year 4.
 - **2030-05-20 Thứ Hai–05-24 Thứ Sáu — Khối học thuật:** giữa kỳ.
 - **2030-07-01 Thứ Hai–07-05 Thứ Sáu — Khối học thuật:** cuối kỳ.
 - **2030-07-15 Thứ Hai 07:00–08-04 Chủ Nhật 21:00 — Hokkaido:** Summer Camp V.
@@ -128,8 +128,8 @@ Mốc Live là quy ước `ORIGINAL`. Với international campaign, Equinox ph�
 ## 2031
 
 - **2031-02-17 Thứ Hai–02-21 Thứ Sáu — Khối học thuật:** thi cuối năm.
-- **2031-03-10 Thứ Hai 10:00 — Đại sảnh:** lễ tốt nghiệp.
-- **2031-04-07 Thứ Hai 08:30 — Đại sảnh:** khai giảng.
+- **2031-03-10 Thứ Hai 10:00 — Đại sảnh:** Rudolf dự kiến hoàn tất University Division nếu không gián đoạn tín chỉ; bàn giao Central Student Council theo quy trình trường.
+- **2031-04-07 Thứ Hai 08:30 — Đại sảnh:** khai giảng; Resident Athlete/Athlete Council transition của Rudolf có thể bắt đầu sau clearance.
 - **2031-05-19 Thứ Hai–05-23 Thứ Sáu — Khối học thuật:** giữa kỳ.
 - **2031-07-07 Thứ Hai–07-11 Thứ Sáu — Khối học thuật:** cuối kỳ.
 - **2031-07-21 Thứ Hai 07:00–08-10 Chủ Nhật 21:00 — Hokkaido:** Summer Camp VI.

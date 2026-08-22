@@ -1,6 +1,6 @@
 # Symboli Rudolf
 
-> Official profile giữ Senior Division; fanfic override University Year 1 năm 2026 nằm ở fanfic/world, không ghi đè ngược vào file này.
+> Official profile giữ Senior Division. Fanfic đã adopt division này và map Rudolf vào Senior Year 3/năm cuối THPT trong 04/2026–03/2027; đây vẫn là fanfic continuity, không phải tuổi/lớp official.
 
 ## 1. Định danh
 - **English/Japanese:** Symboli Rudolf / シンボリルドルフ
@@ -11,7 +11,7 @@
 - **Continuity:** `OFFICIAL_PROFILE`, `GAME`, TV, `CINDERELLA_GRAY`
 
 ## 2. Hồ sơ cơ bản
-- **Tuổi fanfic tại năm 2026:** **18** — `ORIGINAL/APPROVED`; Oguri Cap = 17 là neo continuity, không phải tuổi official.
+- **Tuổi fanfic tại mốc 04/2026:** **17** — `ORIGINAL / APPROVED / AUTHOR_OVERRIDE`; tại prose 2026-03-09 cô còn 16 và tròn 17 ngày 13/3. Đây không phải tuổi official.
 - **Sinh nhật:** 13 tháng 3; **tuổi:** `UNSPECIFIED`
 - **Official division:** Senior; **KTX:** Miho; **roommate:** `UNSPECIFIED`
 - **Chiều cao:** 165 cm; **số đo:** B86/W59/H85; **cỡ giày:** 25 cm
@@ -41,7 +41,7 @@ Tóc nâu sáng rất dài, phần trước nâu đậm và streak kem; mắt ma
 - Champion/benchmark và student leader; profile game đặt mục tiêu nâng toàn thể Umamusume, không chỉ thắng cá nhân.
 - Cinderella Gray: bảy crown, retirement và scout Oguri.
 - TV: Team Rigil/leadership context.
-- Fanfic University Division là `ORIGINAL/APPROVED`; không được gọi official canon.
+- Fanfic xếp Rudolf vào Senior Year 3 trong 04/2026–03/2027; University Year 1 chỉ bắt đầu 04/2027 nếu học liên tục. Không được gọi mapping này là official canon.
 - Race results/retirement phải gắn source.
 
 ## 7. Quan hệ
@@ -61,7 +61,7 @@ Tóc nâu sáng rất dài, phần trước nâu đậm và streak kem; mắt ma
 - Không biến leadership thành omniscience; Rudolf có workload, blind spot và playfulness.
 - Pun là recurring humanizing trait, không phá formal register mọi lúc.
 - Quy tắc user đã chốt: học sinh có thể phản biện staff nhưng phải dùng ngôn ngữ tôn trọng; Rudolf vẫn dưới faculty authority trong fanfic.
-- Tuổi ~18/University Year 1 năm 2026 là fanfic baseline, không official profile fact.
+- Tuổi 17/Senior Year 3 tại mốc 04/2026 là fanfic baseline đã được author sửa trực tiếp; baseline cũ “18/University Year 1” đã bị hủy.
 
 ## 10. Nguồn đã khai thác
 - https://umamusu.wiki/Symboli_Rudolf

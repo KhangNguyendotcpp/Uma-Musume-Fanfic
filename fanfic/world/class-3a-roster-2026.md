@@ -3,17 +3,18 @@
 **Trạng thái:** `DRAFT / PROVISIONAL / NOT_LOCKED`  
 **Năm học dự kiến:** 2026–2027  
 **Sĩ số dự kiến:** 32  
-**Giáo viên chủ nhiệm dự kiến:** **Equinox — `TENTATIVE / NOT_CONFIRMED`**
+**Giáo viên chủ nhiệm dự kiến:** **Equinox — `TENTATIVE / NOT_CONFIRMED`**  
+**Neo bậc học của Rudolf:** **Senior Year 3/năm cuối THPT — `APPROVED / AUTHOR_OVERRIDE`**
 
 > [!CAUTION]
 > Đây là roster làm việc phục vụ phát triển fanfic, **chưa phải continuity đã khóa**.
 > Equinox mới chỉ là giáo viên chủ nhiệm **dự kiến**; tại mốc prose hiện hành 2026-03-09, cô chưa hoàn thành các vòng đánh giá còn lại và chưa được Tracen tuyển dụng chính thức.
-> AI không được viết Equinox đã nhận chủ nhiệm lớp 3-A, không được gọi roster này là quyết định cuối, và không được dùng file này để ghi đè `fanfic/current_state.md`.
+> AI không được viết Equinox đã nhận chủ nhiệm lớp 3-A, không được gọi roster 32 người này là quyết định cuối, và không được dùng file này để ghi đè `fanfic/current_state.md`. Riêng việc Rudolf học năm cuối THPT là quyết định đã duyệt, không còn là giả định tạm.
 
 ## Mục đích và quy ước
 
 - Lớp được thiết kế như một lớp THPT năm ba tập trung các Uma kỳ cựu, G1 champion, huyền thoại hoặc cá nhân có cái tôi/competitive presence đặc biệt mạnh.
-- Việc xếp cùng niên khóa với Symboli Rudolf là **suy luận và quyết định fanfic tạm thời**, không phải tuổi/lớp official do Cygames xác nhận.
+- Symboli Rudolf đã được author chốt là học sinh Senior Year 3/năm cuối THPT trong năm học 2026–2027. Việc xếp **31 Uma còn lại** cùng niên khóa với cô vẫn là suy luận và quyết định fanfic tạm thời, không phải tuổi/lớp official do Cygames xác nhận.
 - Không lấy năm sinh của ngựa thật làm năm sinh của Uma.
 - Không đưa thế hệ Special Week, thế hệ Oguri Cap hoặc các nhân vật được xác nhận là hậu bối/nhập học muộn vào roster.
 - Một số tên có bằng chứng fanfic tuổi 18 hoặc quan hệ ngang hàng mạnh; một số tên vẫn là authorial assignment cần duyệt lại.
@@ -56,7 +57,7 @@
 
 ## Cảnh báo continuity cần giải quyết trước khi khóa
 
-1. `fanfic/world/education.md` và profile fanfic hiện đặt Symboli Rudolf ở **University Year 1, 18 tuổi trong năm 2026**. Nếu Rudolf trở thành học sinh THPT năm ba trong lớp này, đó là một retcon và các file liên quan phải được sửa đồng bộ sau khi tác giả chốt.
+1. **Đã giải quyết:** Symboli Rudolf là học sinh Senior Year 3/năm cuối THPT trong 04/2026–03/2027, 17 tuổi tại mốc 04/2026. Quyết định này ghi đè mọi baseline cũ đặt cô ở University Year 1 trong 04/2026.
 2. Theo khóa học Nhật, học sinh THPT năm ba của năm học 2026–2027 thông thường thuộc cohort sinh từ 02/04/2008 đến 01/04/2009; năm sinh fanfic cụ thể của từng Uma chưa được khóa trong file này.
 3. Quan hệ chị–em, đàn chị–hậu bối, thời điểm nhập học và chronology animation/game phải được kiểm tra lại trước khi chuyển roster sang `APPROVED` hoặc `LOCKED`.
 4. Danh sách này không tự thay đổi Student Council, team trainer, division thi đấu, ký túc xá hay quyền tham gia race của bất kỳ nhân vật nào.

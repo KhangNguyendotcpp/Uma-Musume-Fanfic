@@ -23,10 +23,11 @@ Franchise cho nhiều thế hệ cùng tồn tại nhưng không công bố mode
 
 ## 4. Institutional timeline
 
-- 04/2026: Rudolf khoảng 18 tuổi, University Year 1 và giữ chức Chủ tịch Central Student Council — `ORIGINAL / APPROVED`.
+- 04/2026–03/2027: Rudolf học Senior Year 3/năm cuối THPT và giữ chức Chủ tịch Central Student Council — `ORIGINAL / APPROVED / AUTHOR_OVERRIDE`.
+- 04/2027–03/2031: Rudolf học University Division bốn năm nếu không gián đoạn; University Year 1 **không** bắt đầu từ 04/2026.
 - 03/2029: Haise/Taki dự kiến tốt nghiệp Senior; 04/2029 có thể vào University.
-- 03/2030: Rudolf dự kiến tốt nghiệp University nếu không gián đoạn; phải rời Central Student Council.
-- Sau tốt nghiệp: Rudolf/Air/Brian có thể là Resident Athletes và giữ chức trong Athlete Council.
+- 03/2031: Rudolf dự kiến tốt nghiệp University; sau đó phải rời Central Student Council và có thể chuyển sang Resident Athlete/Athlete Council.
+- Mốc học/tốt nghiệp của Air Groove và Narita Brian theo author record riêng; không tự động đồng bộ với Rudolf chỉ vì cùng framework nghề nghiệp.
 - 03/2033: Haise/Taki dự kiến hoàn tất University nếu học liên tục; hướng nghề sau đó `TBD`.
 
 ## 5. Authority map

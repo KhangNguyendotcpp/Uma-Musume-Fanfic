@@ -10,7 +10,7 @@
 - Sinh nhật official vẫn được giữ làm dữ kiện hồ sơ, nhưng không tự động làm thay đổi con số này nếu timeline fanfic chưa khóa ngày tăng tuổi.
 - Không lấy năm sinh hoặc niên đại thi đấu của ngựa thật để tính tuổi nhân vật.
 - Cùng thế hệ học sinh/racer với Oguri được đặt **17**; senior, racer thế hệ trước, champion đã thành danh hoặc đại diện thế hệ lớn hơn được đặt **18**.
-- Symboli Rudolf giữ mốc đã khóa trước đó: **18 tuổi, University Year 1** trong năm 2026.
+- Symboli Rudolf là ngoại lệ đã được author sửa trực tiếp: **17 tuổi tại mốc 04/2026, Senior Year 3/năm cuối THPT**; cô tròn 18 vào 13/03/2027. Mốc này ghi đè baseline cũ “18 tuổi, University Year 1”.
 - Phạm vi hiện tại gồm **45 Uma** có bằng chứng xuất hiện trong anime *Cinderella Gray* theo profile/audit của repo. Nhân vật người không nằm trong bảng.
 
 ## 17 tuổi
@@ -37,6 +37,7 @@
 - Fuyuno Nakasumi
 - Romance Bubbly
 - Oguri Cap
+- Symboli Rudolf
 
 ## 18 tuổi
 
@@ -59,7 +60,6 @@
 - Toni Bianca
 - Top Shunbetsu
 - Tamamo Cross
-- Symboli Rudolf
 - Maruzensky
 - Inari One
 - Gold City

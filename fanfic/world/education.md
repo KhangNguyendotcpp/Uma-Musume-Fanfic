@@ -18,7 +18,7 @@ University, Resident Athlete và postgraduate facility không phải official Cy
 - Năm học bắt đầu đầu tháng 4 và kết thúc tháng 3 năm sau.
 - Haise/Taki: Senior Year 1 trong 2026–2027, Year 2 trong 2027–2028, Year 3 trong 2028–2029; dự kiến tốt nghiệp Senior tháng 3/2029.
 - Nếu học liên tục, Haise/Taki học University 04/2029–03/2033.
-- Rudolf khoảng 18 tuổi/University Year 1 vào 04/2026; dự kiến tốt nghiệp 03/2030 nếu không gián đoạn.
+- Rudolf học **Senior Year 3/năm cuối THPT** trong 04/2026–03/2027; cô 17 tuổi tại mốc 04/2026. Nếu học liên tục, cô vào University Year 1 tháng 04/2027 và hoàn tất University tháng 03/2031.
 - `Season` là giai đoạn kể chuyện, không đồng nghĩa một năm học hay một Classic Year.
 - Lịch học, thi, festival, camp và clock nằm ở `fanfic/calendar/WRITING_SCHEDULE_2026_2035.md`.
 
@@ -70,7 +70,7 @@ University, Resident Athlete và postgraduate facility không phải official Cy
 
 ## 8. Conflict register
 
-- Official Rudolf Senior profile vs University Year 1 fanfic 04/2026: intentional `OVERRIDE` trong fic, không sửa official file.
+- Official Rudolf thuộc Senior Division được fanfic **adopt**; mapping cụ thể thành Senior Year 3 trong 04/2026–03/2027 là `ORIGINAL / APPROVED / AUTHOR_OVERRIDE`. Baseline University Year 1 vào 04/2026 đã bị hủy.
 - Game three-year training vs chronology 2025–2035: `REFERENCE / STRUCTURAL OVERRIDE`.
 - University, Resident Athlete, Athlete Council: `ORIGINAL_EXTENSION`.
 - Exact legal age, ngành học và credential: `TBD`.

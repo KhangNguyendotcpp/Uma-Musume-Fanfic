@@ -39,7 +39,7 @@ Không suy tuổi nhân vật từ ngựa thật. Tracen fanfic có:
 - Professional/Postgraduate facility;
 - Tracen Athlete Council cho vận động viên đã tốt nghiệp.
 
-Central Student Council chỉ dành cho người vẫn là student. Rudolf, Air Groove và Narita Brian sau tốt nghiệp không tiếp tục giữ ghế hội học sinh; họ chuyển sang athlete representation/operations/high-performance roles.
+Symboli Rudolf học Senior Year 3/năm cuối THPT trong 04/2026–03/2027, không phải University Year 1. Nếu học liên tục, cô học University Division từ 04/2027 đến 03/2031. Central Student Council chỉ dành cho người vẫn là student; sau khi hoàn tất tư cách student, Rudolf chuyển sang athlete representation/Athlete Council. Air Groove và Narita Brian theo mốc học riêng đã được author xác lập, không tự động tốt nghiệp cùng Rudolf.
 
 ## Liên kết vận hành
 
