@@ -8,7 +8,7 @@
 
 > [!CAUTION]
 > Đây là roster làm việc phục vụ phát triển fanfic, **chưa phải continuity đã khóa**.
-> Equinox mới chỉ là giáo viên chủ nhiệm **dự kiến**; tại mốc prose hiện hành 2026-03-09, cô chưa hoàn thành các vòng đánh giá còn lại và chưa được Tracen tuyển dụng chính thức.
+> Equinox đã là giáo viên Lịch sử + trainer chính thức; tuy nhiên cô mới chỉ là giáo viên chủ nhiệm **dự kiến**. Sáng 2026-03-10, Tracen đã đưa cho cô bìa hồ sơ 3-A dành cho giáo viên “có khả năng được phân công chủ nhiệm”, nhưng quyết định phân công chưa được xác nhận.
 > AI không được viết Equinox đã nhận chủ nhiệm lớp 3-A, không được gọi roster 32 người này là quyết định cuối, và không được dùng file này để ghi đè `fanfic/current_state.md`. Riêng việc Rudolf học năm cuối THPT là quyết định đã duyệt, không còn là giả định tạm.
 
 ## Mục đích và quy ước

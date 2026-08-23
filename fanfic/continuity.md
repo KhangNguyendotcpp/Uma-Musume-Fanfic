@@ -11,7 +11,7 @@
 
 ## Trục protagonist
 
-- Equinox xuất hiện và nộp hồ sơ ngày 2026-03-09; prose hiện tại vẫn dừng sau vòng vấn đáp thứ nhất.
+- Equinox xuất hiện, hoàn tất toàn bộ quy trình tuyển dụng và trở thành giáo viên Lịch sử + trainer chính thức ngày 2026-03-09. Prose hiện tại ở buổi sáng 2026-03-10, khi cô gần tới cổng Tracen để dự orientation hậu tuyển dụng.
 - Special Week nhập học 2026-04-06.
 - Haise đến 2026-04-19 và Taki đến 2026-05-03; ngày nhập học tương ứng vẫn DRAFT cho đến khi prose khóa.
 - Haise/Taki không chạy Classic năm 2026. Classic Year duy nhất của họ là 2027.

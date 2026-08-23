@@ -4,8 +4,8 @@
 
 ## 1. Trạng thái tại điểm prose hiện tại
 
-- Điểm prose hiện tại: **2026-03-09**, ngay sau vòng vấn đáp thứ nhất của Equinox.
-- Kết quả tuyển dụng, quyền sở hữu team và roster được chứng nhận vẫn `TBD` trong scene hiện tại.
+- Điểm prose hiện tại: **buổi sáng 2026-03-10**, khi Equinox gần tới cổng Tracen để dự orientation hậu tuyển dụng.
+- Equinox đã là trainer + giáo viên Lịch sử chính thức; quyền sở hữu team và roster được chứng nhận vẫn `TBD`.
 - Trước khi đủ tối thiểu năm Uma để được công nhận theo rule TV S1, prose dùng **nhóm training do Equinox phụ trách**, không gọi đó là certified team hai người.
 - Haise và Takiyama nhập Senior Year 1 tháng 4/2026, debut năm 2026 và chỉ có **một Classic Year: 2027**.
 

@@ -28,8 +28,10 @@ Mọi giờ nội địa dùng Japan Standard Time (JST). Giờ xuất phát maj
 | 2026-03-09 Thứ Hai 07:40 JST | Fuchu, Tokyo | Equinox xuất hiện trong thế giới Uma | APPROVED baseline |
 | 2026-03-09 Thứ Hai 10:00 JST | Tòa hành chính Tracen | Equinox nộp hồ sơ và vượt vòng vấn đáp thứ nhất cho vị trí kết hợp trainer + giáo viên Lịch sử | STORY-ESTABLISHED / LOCKED |
 | 2026-03-09 Thứ Hai, buổi chiều (giờ chưa khóa) | Tracen Academy | Equinox hoàn tất tiết giảng thử Lịch sử và đánh giá trainer thực hành với Narita Brian; cô đậu cả hai phần, được tuyển chính thức làm **giáo viên Lịch sử + trainer**, nhận thẻ nhân viên và được staff chào mừng | STORY-ESTABLISHED / LOCKED — FINAL HIRING RESULT |
-| 2026-03-09 Thứ Hai 19:30 JST | Căn hộ Shibuya | Sau khi xác nhận với Zenith rằng mình đã đậu cả giáo viên lẫn trainer, Equinox ngủ; đây là điểm hiện tại của prose | STORY-ESTABLISHED / LOCKED / CURRENT PROSE |
-| 2026-03-10 Thứ Ba (giờ TBD) | Tracen Academy | Orientation và các thủ tục hậu tuyển dụng dự kiến: hợp đồng, tài khoản, lương, lịch công tác và hỏi nhà ở nhân viên | PLANNED; không phải điều kiện để Equinox trở thành staff |
+| 2026-03-09 Thứ Hai 19:30 JST | Căn hộ Shibuya | Sau khi xác nhận với Zenith rằng mình đã đậu cả giáo viên lẫn trainer, Equinox ngủ | STORY-ESTABLISHED / LOCKED |
+| 2026-03-10 Thứ Ba 06:53 JST | Căn hộ Shibuya | Equinox đã đọc hết hướng dẫn nhân viên, tách hồ sơ dự kiến lớp 3-A để đọc riêng và bỏ bữa sáng để chuẩn bị đi làm | STORY-ESTABLISHED / LOCKED |
+| 2026-03-10 Thứ Ba, sau 07:00–trước 09:00 JST | Shibuya → Meidaimae → Fuchu → Tracen | Equinox đi hai tuyến Keiō, bỏ qua shuttle tại Fuchu và đi bộ tuyến chưa tới 2 km; prose dừng khi cổng Tracen đã ở phía trước nhưng cô chưa bước vào | STORY-ESTABLISHED / LOCKED / CURRENT PROSE; exact arrival TBD |
+| 2026-03-10 Thứ Ba 09:00 JST | Tracen Academy | Mốc mở đầu lịch orientation hậu tuyển dụng: tiếp nhận tài khoản/xác nhận bảo mật, sau đó định hướng hồ sơ và tham quan cơ sở; các phần này chưa xảy ra tại điểm prose hiện tại | PLANNED; không phải điều kiện để Equinox trở thành staff |
 | 2026-03-23 Thứ Hai 08:30 JST | Tracen Academy | Mốc cũ dự kiến cho nhịp nhiệm vụ staff thường trực; **không phải ngày Equinox được tuyển**, vì cô đã chính thức là staff từ 2026-03-09 | APPROVED baseline / subject to author revision |
 | 2026-04-06 Thứ Hai 08:30 JST | Tracen Academy | Khai giảng; Special Week nhập học; S1 era bắt đầu | APPROVED baseline |
 | 2026-04-12 Chủ Nhật 14:50 JST | Tokyo Racecourse | Debut race của Special Week | Spe thắng; ADOPTED result / date ORIGINAL |

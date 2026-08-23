@@ -2,7 +2,7 @@
 
 Danh tính/lịch sử/siêu hình học OU vẫn do `KhangNguyendotcpp/original-universe-canon` quyết định.
 
-Chức năng trong truyện địa phương: Uma trưởng thành dự tuyển rồi sẽ làm trainer/faculty, không phải racer; đối trọng thể chế với Haise/Takiyama và ban lãnh đạo học sinh. Ở điểm prose hiện tại cô mới qua vòng vấn đáp thứ nhất, không được viết như đã có quyết định tuyển dụng cuối cùng.
+Chức năng trong truyện địa phương: Uma trưởng thành đã trở thành trainer + giáo viên Lịch sử chính thức, không phải racer; đối trọng thể chế với Haise/Takiyama và ban lãnh đạo học sinh. Ở điểm prose hiện tại cô đang gần cổng Tracen sáng 2026-03-10 để dự orientation hậu tuyển dụng. Không được hạ cô về trạng thái ứng viên hoặc bắt thi lại.
 
 Tính cách baseline: vẻ ngoài buồn ngủ/ngơ ngác nhưng năng lực cực cao; không để năng lực vũ trụ tự động giải mọi stakes racing/trường học thông thường.
 

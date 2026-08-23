@@ -87,7 +87,7 @@ Chi tiết giấy tờ là `ORIGINAL_EXTENSION`.
 - Tên/course/distance official hoặc organizer có thể làm baseline.
 - Gregorian date 2025–2035 và merged result là `FANFIC ORIGINAL` trừ ghi chú.
 - Historical horse result không tự nhập vào Uma canon.
-- Calendar tương lai không phải ký ức đã xảy ra ở điểm prose 2026-03-09.
+- Calendar tương lai không phải ký ức đã xảy ra ở điểm prose sáng 2026-03-10.
 
 ## 11. Nguồn
 

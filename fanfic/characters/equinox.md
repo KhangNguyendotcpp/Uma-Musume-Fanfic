@@ -5,10 +5,10 @@
 - **Tuổi tại chỗ:** 27 — ORIGINAL / APPROVED, chưa LOCKED
 - **Chiều cao:** **191 cm** — LOCKED
 - **Cơ quan:** Tracen Academy
-- **Vai trò dự kiến sau tuyển dụng:** trainer + faculty thường trực với quyền quản lý học sinh trong từng phạm vi chuyên môn — APPROVED
-- **Trạng thái tại điểm prose hiện tại:** đã vượt vòng vấn đáp thứ nhất; chưa được bổ nhiệm — STORY-ESTABLISHED / LOCKED
-- **Môn dự tuyển và giảng thử:** Lịch sử — STORY-ESTABLISHED / LOCKED
-- **Chức danh hợp đồng chính xác:** TBD cho tới khi quy trình tuyển dụng kết thúc
+- **Vai trò hiện tại:** giáo viên Lịch sử + trainer chính thức, với quyền trong từng phạm vi chuyên môn — STORY-ESTABLISHED / LOCKED
+- **Trạng thái tại điểm prose hiện tại:** đã nhận thẻ nhân viên; đang tới Tracen dự orientation hậu tuyển dụng sáng 2026-03-10 — STORY-ESTABLISHED / LOCKED
+- **Môn giảng dạy/đã giảng thử:** Lịch sử — STORY-ESTABLISHED / LOCKED
+- **Chức danh hợp đồng chính xác:** TBD; không ảnh hưởng kết quả tuyển dụng đã chốt
 
 ## Ngoại hình
 - tóc đen-trắng cực dày, rối hỗn loạn, dài xấp xỉ tới chân;
@@ -29,7 +29,9 @@ Equinox là Uma nhưng **không được định hướng làm racer thi đấu*
 - Hồ sơ tương đương đủ điều kiện dự tuyển được chấp nhận, dù không có lịch sử dài làm việc tại một cơ sở giáo dục hoặc team được công nhận.
 - Vòng một đánh giá đạt về hồ sơ, nền học thuật, tư duy sư phạm, kiến thức trainer, an toàn, quản lý tải và đạo đức nghề nghiệp; phần ranh giới thẩm quyền/xung đột lợi ích vượt yêu cầu.
 - Ba thành viên có quyền đánh giá thống nhất cho đi tiếp; Yayoi phê chuẩn quy trình tăng tốc; Rudolf và Air Groove cùng đưa ý kiến tư vấn ủng hộ.
-- Bước kế tiếp: phân tích dữ liệu/tình huống trainer và tiết giảng thử Lịch sử. Kết quả hai phần này và quyết định tuyển dụng cuối cùng chưa được viết.
+- Equinox đã hoàn tất tiết giảng thử Lịch sử: kiến thức và kiểm soát lớp đạt yêu cầu, nhưng giọng đều/cách truyền đạt khiến gần cả lớp ngủ; kết quả cuối cùng **ĐẠT**.
+- Cô đã hoàn tất đánh giá trainer với Narita Brian: nhận ra dấu hiệu căng bắp chân, giảm tải, kiểm tra lại dữ liệu thiết bị mâu thuẫn và ưu tiên an toàn; kết quả cuối cùng **ĐẠT**.
+- Cô được tuyển chính thức vào cả hai vai trò và nhận thẻ nhân viên trong ngày 2026-03-09.
 
 ## Nguyên tắc nghề nghiệp đã thể hiện
 - Sức khỏe và medical clearance đứng trên race, Winning Live và sức ép khán giả.

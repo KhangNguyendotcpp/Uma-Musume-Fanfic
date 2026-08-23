@@ -32,8 +32,9 @@ Không có thứ gì trong file này trở thành canon chỉ vì nó được l
 
 - Tuổi giả 27: baseline APPROVED, chưa LOCKED
 - Chức danh hợp đồng trainer/faculty chính xác sau khi tuyển: TBD
-- Vị trí dự tuyển gồm trainer + giáo viên Lịch sử và vòng sau có tiết giảng thử Lịch sử: STORY-ESTABLISHED / LOCKED
-- Kết quả hai bài đánh giá vòng sau và quyết định tuyển dụng cuối cùng: TBD
+- Equinox đã đậu vị trí trainer + giáo viên Lịch sử, hoàn tất cả hai bài thực hành và nhận thẻ nhân viên ngày 2026-03-09: STORY-ESTABLISHED / LOCKED
+- Việc được giao chủ nhiệm lớp Senior 3-A: TENTATIVE / NOT_CONFIRMED
+- Kết quả xin phòng lưu trú/căn hộ công vụ của Tracen: TBD
 - Ngày Equinox chính thức trở thành head trainer của certified team: TBD
 - Danh tính assistant trainer, international campaign manager, medical/biomechanics unit và analyst: TBD
 

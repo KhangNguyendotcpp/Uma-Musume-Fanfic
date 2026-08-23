@@ -2,7 +2,7 @@
 
 > **CANON GUARD — KHÔNG ĐƯỢC HẠ CẤP TRẠNG THÁI:** Equinox **đã vượt qua toàn bộ quy trình tuyển dụng tăng tốc và đã chính thức trở thành cả giáo viên Lịch sử lẫn trainer của Tracen Academy trong ngày 2026-03-09**. Không được viết hoặc suy luận rằng cô vẫn chỉ là ứng viên, mới qua vòng một, chưa đậu, hoặc phải chờ đến 2026-03-23 mới trở thành staff.
 
-**Mốc hiện tại của prose:** **19:30 ngày 2026-03-09**, tại căn hộ ở Shibuya, ngay sau ngày làm việc đầu tiên của Equinox. Cô đã nhận thẻ nhân viên, về nhà, nhắn tin với Zenith rồi ngủ. Những gì ghi là “đã xảy ra” trong file này là `STORY-ESTABLISHED / LOCKED`.
+**Mốc hiện tại của prose:** **buổi sáng ngày 2026-03-10**, trên đoạn cuối tuyến đi bộ từ ga Fuchu tới Tracen. Cổng Tracen đã hiện rõ; Equinox đang quan sát cổng nhân viên và luồng học sinh nhưng **chưa bước vào**. Giờ đến cổng chính xác chưa khóa, chỉ biết cô vẫn còn sớm so với lịch 09:00. Những gì ghi là “đã xảy ra” trong file này là `STORY-ESTABLISHED / LOCKED`.
 
 ## 1. Trạng thái nghề nghiệp của Equinox
 
@@ -67,8 +67,35 @@ Các điều sau là kế hoạch tương lai, **không được viết như ký
 - Rudolf học Senior Year 3 trong 04/2026–03/2027; nếu học liên tục, University Year 1 bắt đầu 04/2027 và kết thúc University 03/2031. Sau khi hoàn tất tư cách student, cô chuyển khỏi Central Student Council sang Resident Athlete/Athlete Council structure; Air/Brian theo mốc riêng.
 - Exact career result của team Equinox vẫn DRAFT trừ các kết quả đã được author duyệt trong master race calendar.
 
-## 6. Điểm nối cảnh
+## 6. Sáng 2026-03-10 đã xảy ra
 
-Equinox đang ngủ tại căn hộ Shibuya từ khoảng 19:30 ngày 2026-03-09. Cảnh tiếp theo có thể bắt đầu vào sáng hôm sau với orientation/thủ tục hậu tuyển dụng hoặc tại một mốc được tác giả chỉ định.
+### Chuẩn bị orientation
+
+- Equinox đã đọc hết tập hướng dẫn nhân viên mới tại căn hộ, nhớ sơ đồ, số phòng, tuyến báo cáo, biểu mẫu và cả lỗi đánh máy; cô vẫn phải tham gia orientation chính thức.
+- Hướng dẫn xác lập các kênh xử lý sự cố, module an toàn/bảo mật/bảo vệ học sinh, quy tắc hoạt động ngoài khuôn viên và cơ chế xin phòng lưu trú/căn hộ công vụ.
+- Cô tìm thấy bìa hồ sơ dự kiến lớp Senior 3-A gồm 32 tab, hiểu rằng Tracen có thể đang chuẩn bị giao cô làm chủ nhiệm nhưng chưa xem đó là quyết định chính thức.
+- Cô chưa đọc từng hồ sơ 3-A, tách chúng khỏi tài liệu hành chính và ghi chú phải đánh giá riêng, không trộn ấn tượng tiết dạy thử với nhận xét cũ.
+- Lúc 06:53, cô bỏ bữa sáng để kịp chuẩn bị và dự định ăn bù vào bữa trưa.
+
+### Di chuyển tới Tracen
+
+- Tuyến tàu: Shibuya → Keiō Inokashira Line → Meidaimae → Keiō Line → Fuchu.
+- Cô phát hiện cả hai tuyến có toa dành cho phụ nữ nhưng chế độ áp dụng không bao phủ hướng/chuyến đi ngược dòng cao điểm của cô sáng đó.
+- Không có sự cố quấy rối trên chuyến đi này.
+- Tại ga Fuchu, cô bỏ qua quầy sandwich và shuttle Tracen, chọn đi bộ tuyến chưa tới 2 km dù đang mang giày cao gót.
+- Cô đã chào hỏi vài học sinh Tracen; hai em xác nhận Gold Ship đã đăng chuyện về giáo viên mới trong nhóm trao đổi học sinh.
+- Các loại hàng quán/địa điểm đã nhìn thấy được khóa tại `fanfic/world/tracen-structure.md`: cửa hàng nhỏ trong ga, quầy bánh mì/cà phê, cửa hàng tiện lợi, tiệm giày, hiệu thuốc, hai quán ăn, một tiệm cà phê, dãy cửa hàng nhỏ/khu dân cư và vùng chuyển tiếp sang công trình Tokyo Racecourse.
+
+### Lịch đã biết nhưng chưa xảy ra
+
+- 09:00: tiếp nhận tài khoản và xác nhận bảo mật.
+- 09:30: định hướng hệ thống hồ sơ.
+- 10:30: tham quan khu hành chính và cơ sở chuyên môn.
+- Phần sau có thể thay đổi tùy thời gian xử lý quyền truy cập.
+- Equinox vẫn cần hỏi về hợp đồng/lương/lịch công tác, nhà ở nhân viên, việc phân công chủ nhiệm 3-A, giày đi bộ và cách giữ mái tóc khi đi tàu.
+
+## 7. Điểm nối cảnh
+
+Equinox đang ở gần cổng Tracen sáng 2026-03-10, trước lịch 09:00. Cảnh tiếp theo bắt đầu từ việc cô đi qua cổng nhân viên hoặc tiếp tục quan sát luồng học sinh/campus; không tua ngược về căn hộ hay lặp lại chuyến tàu nếu author không yêu cầu.
 
 Không được quay lại trạng thái “ứng viên” hay buộc Equinox thi lại. Các điểm còn mở chỉ gồm lịch dạy, khả năng được giao lớp 3-A, hợp đồng/lương/tài khoản, nhà ở nhân viên, thời điểm nhận team độc lập và roster tương lai.

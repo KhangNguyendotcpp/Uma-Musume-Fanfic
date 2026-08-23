@@ -49,9 +49,9 @@ University, Resident Athlete và postgraduate facility không phải official Cy
 
 ## 6. Equinox
 
-- Tại prose 2026-03-09, Equinox mới qua vòng vấn đáp thứ nhất cho vị trí kết hợp trainer + giáo viên Lịch sử.
-- Kết quả tuyển dụng, contract title và team ownership vẫn `TBD`; calendar tương lai không được coi là ký ức đã xảy ra.
-- Nếu được bổ nhiệm, Equinox có faculty authority trong classroom và trainer authority trong training; không vì vậy được bypass medical/race operations.
+- Từ 2026-03-09, Equinox đã được tuyển chính thức làm trainer + giáo viên Lịch sử; tại prose sáng 2026-03-10 cô đang tới orientation hậu tuyển dụng.
+- Contract title chi tiết và team ownership vẫn `TBD`; **kết quả tuyển dụng không còn TBD**.
+- Equinox có faculty authority trong classroom và trainer authority trong training; không vì vậy được bypass medical/race operations.
 
 ## 7. Student Council và Athlete Council
 
