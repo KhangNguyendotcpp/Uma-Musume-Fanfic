@@ -2,14 +2,14 @@
 
 > **CANON GUARD — KHÔNG ĐƯỢC HẠ CẤP TRẠNG THÁI:** Equinox **đã vượt qua toàn bộ quy trình tuyển dụng tăng tốc và đã chính thức trở thành cả giáo viên Lịch sử lẫn trainer của Tracen Academy trong ngày 2026-03-09**. Không được viết hoặc suy luận rằng cô vẫn chỉ là ứng viên, mới qua vòng một, chưa đậu, hoặc phải chờ đến 2026-03-23 mới trở thành staff.
 
-**Mốc hiện tại của prose:** **buổi sáng ngày 2026-03-10**, trên đoạn cuối tuyến đi bộ từ ga Fuchu tới Tracen. Cổng Tracen đã hiện rõ; Equinox đang quan sát cổng nhân viên và luồng học sinh nhưng **chưa bước vào**. Giờ đến cổng chính xác chưa khóa, chỉ biết cô vẫn còn sớm so với lịch 09:00. Những gì ghi là “đã xảy ra” trong file này là `STORY-ESTABLISHED / LOCKED`.
+**Mốc hiện tại của prose:** **cuối ngày 2026-03-10**, tại một khu mua sắm sau khi Equinox và Air Groove rời cửa hàng giày–trang phục dành cho Uma. Mẹ Air Groove đã gần tới; điểm hẹn tiếp theo là một nhà hàng thịt nướng ở tầng trên. Giờ đồng hồ và tên khu mua sắm/nhà hàng chưa khóa. Những gì ghi là “đã xảy ra” trong file này là `STORY-ESTABLISHED / LOCKED`.
 
 ## 1. Trạng thái nghề nghiệp của Equinox
 
 - Chức danh hiện tại: **giáo viên môn Lịch sử + trainer chính thức của Tracen Academy**.
 - Đây là kết quả tuyển dụng cuối cùng, không còn là kế hoạch hay trạng thái dự tuyển.
 - Equinox đã nhận **thẻ nhân viên** và được staff/trainer chào mừng sau khi đậu cả hai phần đánh giá thực hành.
-- Việc orientation, hoàn thiện hợp đồng/tài khoản/lương, hỏi nhà ở nhân viên và chốt lịch công tác vẫn còn phải xử lý. Đây chỉ là thủ tục triển khai sau tuyển dụng, **không phủ định tư cách giáo viên/trainer chính thức**.
+- Equinox đã hoàn tất ngày orientation hậu tuyển dụng 2026-03-10, gồm các phần về tài khoản/bảo mật, hệ thống hồ sơ, phân quyền và thủ tục hợp đồng đã xuất hiện trong prose. Những điểm chưa được prose xác nhận cuối cùng vẫn giữ `TBD`; chúng không phủ định tư cách giáo viên/trainer chính thức.
 - Equinox chưa được chốt team/roster độc lập. `Chưa có team được giao` không đồng nghĩa với `chưa phải trainer`.
 
 ## 2. Quy trình đã hoàn tất trong ngày 2026-03-09
@@ -46,7 +46,7 @@
 - Equinox đã làm rõ rằng chức vụ hội học sinh không đặt Rudolf hoặc Air Groove cao hơn faculty/trainer trong lớp và training; cả hai xác nhận ranh giới này.
 - Rudolf đánh giá cao việc Equinox buộc cả người có quyền lẫn chính mình phải chịu phản biện và quy trình.
 - Rudolf thuộc cohort Senior Year 3/năm cuối THPT của năm học 2026–2027; cô **không phải University Year 1** ở mốc này. Ngày 2026-03-09 nằm ngay trước sinh nhật 13/3 và trước khai giảng tháng 4.
-- Air Groove còn dè chừng độ nghiêm và cách Equinox bảo vệ thẩm quyền, nhưng công nhận năng lực của cô.
+- Air Groove vẫn ý thức rõ Equinox là faculty/trainer, nhưng quan hệ đã bớt căng sau một ngày cùng xử lý công việc, nói chuyện về hoa và đi mua những vật dụng Equinox còn thiếu. Air Groove có thể khuyên hoặc ngăn Equinox mua quá mức; không biến cô bé thành phụ huynh hay người quản lý toàn bộ đời sống của một đồng nghiệp trưởng thành.
 - Yayoi xem Equinox là trường hợp bất thường nhưng đầy triển vọng.
 - Hana đã trực tiếp chất vấn/phản biện Equinox trong ngày đánh giá. Hai người hiện là đồng nghiệp; không được viết Hana như người có quyền phủ nhận kết quả tuyển dụng đã chốt.
 
@@ -67,11 +67,11 @@ Các điều sau là kế hoạch tương lai, **không được viết như ký
 - Rudolf học Senior Year 3 trong 04/2026–03/2027; nếu học liên tục, University Year 1 bắt đầu 04/2027 và kết thúc University 03/2031. Sau khi hoàn tất tư cách student, cô chuyển khỏi Central Student Council sang Resident Athlete/Athlete Council structure; Air/Brian theo mốc riêng.
 - Exact career result của team Equinox vẫn DRAFT trừ các kết quả đã được author duyệt trong master race calendar.
 
-## 6. Sáng 2026-03-10 đã xảy ra
+## 6. Ngày 2026-03-10 đã xảy ra
 
 ### Chuẩn bị orientation
 
-- Equinox đã đọc hết tập hướng dẫn nhân viên mới tại căn hộ, nhớ sơ đồ, số phòng, tuyến báo cáo, biểu mẫu và cả lỗi đánh máy; cô vẫn phải tham gia orientation chính thức.
+- Equinox đã đọc hết tập hướng dẫn nhân viên mới tại căn hộ, nhớ sơ đồ, số phòng, tuyến báo cáo, biểu mẫu và cả lỗi đánh máy; sau đó vẫn tham gia orientation chính thức.
 - Hướng dẫn xác lập các kênh xử lý sự cố, module an toàn/bảo mật/bảo vệ học sinh, quy tắc hoạt động ngoài khuôn viên và cơ chế xin phòng lưu trú/căn hộ công vụ.
 - Cô tìm thấy bìa hồ sơ dự kiến lớp Senior 3-A gồm 32 tab, hiểu rằng Tracen có thể đang chuẩn bị giao cô làm chủ nhiệm nhưng chưa xem đó là quyết định chính thức.
 - Cô chưa đọc từng hồ sơ 3-A, tách chúng khỏi tài liệu hành chính và ghi chú phải đánh giá riêng, không trộn ấn tượng tiết dạy thử với nhận xét cũ.
@@ -86,16 +86,26 @@ Các điều sau là kế hoạch tương lai, **không được viết như ký
 - Cô đã chào hỏi vài học sinh Tracen; hai em xác nhận Gold Ship đã đăng chuyện về giáo viên mới trong nhóm trao đổi học sinh.
 - Các loại hàng quán/địa điểm đã nhìn thấy được khóa tại `fanfic/world/tracen-structure.md`: cửa hàng nhỏ trong ga, quầy bánh mì/cà phê, cửa hàng tiện lợi, tiệm giày, hiệu thuốc, hai quán ăn, một tiệm cà phê, dãy cửa hàng nhỏ/khu dân cư và vùng chuyển tiếp sang công trình Tokyo Racecourse.
 
-### Lịch đã biết nhưng chưa xảy ra
+### Orientation và thủ tục hậu tuyển dụng
 
-- 09:00: tiếp nhận tài khoản và xác nhận bảo mật.
-- 09:30: định hướng hệ thống hồ sơ.
-- 10:30: tham quan khu hành chính và cơ sở chuyên môn.
-- Phần sau có thể thay đổi tùy thời gian xử lý quyền truy cập.
-- Equinox vẫn cần hỏi về hợp đồng/lương/lịch công tác, nhà ở nhân viên, việc phân công chủ nhiệm 3-A, giày đi bộ và cách giữ mái tóc khi đi tàu.
+- Equinox đã đi vào Tracen và hoàn tất lịch orientation trong ngày; các mốc 09:00/09:30/10:30 không còn là cảnh tương lai.
+- Cô đã xử lý tài khoản, bảo mật, hệ thống hồ sơ, phân quyền và khối thủ tục hợp đồng đã xuất hiện trong prose.
+- Con số lương được nêu trong quá trình hợp đồng là **460.000 yên**. Repo chưa tự gắn thêm nhãn gross/net hoặc cấu phần nếu prose chưa xác nhận.
+- Chi tiết Equinox chọn tài khoản nào và dữ liệu tài khoản cụ thể là thông tin riêng của cảnh xử lý hợp đồng. **Air Groove không có mặt và không biết các chi tiết này.**
+- Phân công chủ nhiệm lớp 3-A, exact contract title, lịch dạy dài hạn, nhà ở nhân viên, team độc lập và roster vẫn chưa được khóa nếu không có quyết định mới hơn của author.
+
+### Sau giờ làm: Air Groove và mua sắm
+
+- Equinox và Air Groove đã có cuộc nói chuyện về hoa. Equinox thích hoa gạo và `Scabiosa atropurpurea 'Black Knight'`; Air Groove phải nhờ đọc lại tên loài thứ hai và xem hình trên điện thoại.
+- Air Groove đưa Equinox tới cửa hàng chuyên phục vụ Uma để mua giày, trang phục, phụ kiện tóc và đồ hỗ trợ vận động phù hợp cơ thể.
+- Equinox đã đổi khỏi đôi cao gót sang giày đi bộ đế thấp ngay tại cửa hàng; cô thấy đôi mới dễ chịu hơn. Phần lớn hàng sẽ được giao tới căn hộ Shibuya sau 19:00 theo khung đã chọn.
+- Số đo được xác nhận trong cảnh may đo: **ngực 210 cm, eo 118 cm, hông 200 cm**. Cửa hàng phải dựng rập riêng; đồ thể thao may sẵn không đủ nâng đỡ cho vận động.
+- Đơn đặt riêng dự kiến gồm sáu bộ thường ngày, bốn bộ công sở và sáu bộ thể thao, nhưng xưởng phải dựng và thử mẫu đầu tiên trước khi chuyển sang toàn bộ số lượng.
+- Air Groove có mặt trong phần mua sắm, đo đạc và thanh toán. Cô bé biết những gì trực tiếp nghe/thấy ở đó: số đo, lựa chọn hàng, tổng chi hiển thị tại quầy, địa chỉ giao hàng được Equinox cung cấp và biểu hiện Equinox chưa có cảm giác giá tiền ổn định.
+- Air Groove **không được** suy ngược hoặc nhớ lại mức lương 460.000 yên, tài khoản Equinox đã chọn hay bất kỳ chi tiết nào của buổi hợp đồng mà cô bé không tham dự.
 
 ## 7. Điểm nối cảnh
 
-Equinox đang ở gần cổng Tracen sáng 2026-03-10, trước lịch 09:00. Cảnh tiếp theo bắt đầu từ việc cô đi qua cổng nhân viên hoặc tiếp tục quan sát luồng học sinh/campus; không tua ngược về căn hộ hay lặp lại chuyến tàu nếu author không yêu cầu.
+Equinox và Air Groove vừa rời cửa hàng trong khu mua sắm. Air Groove nhận tin nhắn rằng mẹ mình gần tới; hai người chuẩn bị đi lên nhà hàng thịt nướng ở tầng trên để gặp bà. Cảnh tiếp theo bắt đầu trên đường tới điểm hẹn hoặc tại nhà hàng, không tua lại orientation hay toàn bộ quá trình mua sắm nếu author không yêu cầu.
 
-Không được quay lại trạng thái “ứng viên” hay buộc Equinox thi lại. Các điểm còn mở chỉ gồm lịch dạy, khả năng được giao lớp 3-A, hợp đồng/lương/tài khoản, nhà ở nhân viên, thời điểm nhận team độc lập và roster tương lai.
+Không được quay lại trạng thái “ứng viên” hay buộc Equinox thi lại. Không mặc định nhân vật biết một sự kiện đã qua nếu họ không được xác lập là người tham dự/người được kể lại; xem `fanfic/style/prohibited_tendencies.md` và `fanfic/knowledge/air-groove.md`.

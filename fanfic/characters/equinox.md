@@ -4,17 +4,26 @@
 - **Tên:** Equinox
 - **Tuổi tại chỗ:** 27 — ORIGINAL / APPROVED, chưa LOCKED
 - **Chiều cao:** **191 cm** — LOCKED
+- **Số đo ba vòng (ngực–eo–hông):** **210–118–200 cm** — STORY-ESTABLISHED / LOCKED
 - **Cơ quan:** Tracen Academy
 - **Vai trò hiện tại:** giáo viên Lịch sử + trainer chính thức, với quyền trong từng phạm vi chuyên môn — STORY-ESTABLISHED / LOCKED
-- **Trạng thái tại điểm prose hiện tại:** đã nhận thẻ nhân viên; đang tới Tracen dự orientation hậu tuyển dụng sáng 2026-03-10 — STORY-ESTABLISHED / LOCKED
+- **Trạng thái tại điểm prose hiện tại:** đã hoàn tất ngày orientation hậu tuyển dụng 2026-03-10; đang ở khu mua sắm cùng Air Groove và chuẩn bị gặp mẹ Air Groove tại nhà hàng thịt nướng ở tầng trên — STORY-ESTABLISHED / LOCKED
 - **Môn giảng dạy/đã giảng thử:** Lịch sử — STORY-ESTABLISHED / LOCKED
 - **Chức danh hợp đồng chính xác:** TBD; không ảnh hưởng kết quả tuyển dụng đã chốt
 
 ## Ngoại hình
 - tóc đen-trắng cực dày, rối hỗn loạn, dài xấp xỉ tới chân;
 - thể hình Uma rất lớn, tương tự draft horse/Shire;
+- vai rộng; vóc dáng nặng, chắc và đầy đặn; bụng không phẳng lì kiểu ép khô mỡ nhưng cũng không gân guốc như vận động viên thể hình cường độ cao;
 - trang phục chuyên nghiệp mặc định: pencil skirt, blouse mỏng/nhẹ, jacket mỏng/nhẹ;
 - mắt bình thường nhắm nhưng vẫn nhìn thấy hoàn toàn bình thường.
+
+## Xưng hô — HARD VOICE RULE
+
+- Khi nói với **học sinh**, Equinox tự xưng **“cô”** và gọi đối phương là **“em/các em”**. Air Groove, Symboli Rudolf và mọi thành viên hội học sinh vẫn thuộc nhóm này khi còn là học sinh.
+- Khi nói với **đồng nghiệp/staff trưởng thành**, Equinox tự xưng **“tôi”**. Không dùng “cô” để tự xưng chỉ vì người nghe gọi cô là giáo viên.
+- Với người lớn ngoài trường, nhân viên dịch vụ hoặc người lạ, mặc định dùng **“tôi”** trừ khi quan hệ cụ thể đã thiết lập một cách xưng hô khác.
+- Lời kể ngôi ba gọi Equinox là **“cô/cô ấy”** không làm thay đổi đại từ tự xưng trong hội thoại.
 
 ### Mắt
 - **Mở trái, nhắm phải:** mắt sáng/hài hòa với đồng tử sao sáu cánh; thiên hướng nhẹ nhàng hơn, nói nhiều hơn, trọng công lý.

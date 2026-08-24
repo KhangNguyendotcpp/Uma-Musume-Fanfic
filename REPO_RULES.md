@@ -31,6 +31,14 @@ Nguồn gốc OU, lịch sử chiến đấu cũ, cách tư duy chiến đấu c
 
 Một giá trị `DRAFT`, `TBD` hoặc `UNSPECIFIED` tuyệt đối không được nâng lên `APPROVED`/`LOCKED` chỉ vì thuận tiện cho prose. Dữ liệu đã audit nhưng nguồn im lặng phải dừng ở `UNSPECIFIED`; không tạo fact để lấp chỗ trống.
 
+## Quy tắc prose và kiến thức nhân vật — HARD
+
+- Mọi prose mới hoặc sửa lại phải tuân theo `fanfic/style/prohibited_tendencies.md`.
+- Sau khi một sự việc kết thúc, nhân vật không được mặc định biết nội dung nếu không được xác lập là người tham dự/nhân chứng, được kể lại, đọc nguồn hợp lệ hoặc suy luận từ dữ kiện mình thực sự có.
+- Chỉ bị nhắc tên không phải là một kênh truyền kiến thức.
+- Khi có knowledge registry riêng trong `fanfic/knowledge/`, registry đó phải được cập nhật cùng commit làm thay đổi điều nhân vật biết.
+- Audit lỗi đã thấy tới điểm prose hiện tại nằm tại `fanfic/style/prose_audit.md`; audit không tự retcon sự kiện nhưng các lỗi `CRITICAL/HIGH` không được lặp lại.
+
 ## Quy tắc timeline
 
 - Các mốc ngày tháng cụ thể 2025–2035 là chronology của fanfic.

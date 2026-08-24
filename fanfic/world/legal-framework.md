@@ -28,8 +28,8 @@ File này chỉ chốt rule cần để prose nhất quán; không giả là b�
 ## 4. Trainer, staff và license
 - Fic adopt TV S1 fact: trainer là licensed professional, hướng dẫn training và chọn race.
 - Employment contract, malpractice, appeal và medical chain chưa có official law đầy đủ.
-- Equinox có legal local identity và hồ sơ dự tuyển hợp lệ trong world; cơ chế tạo identity thuộc internal OU notes. Việc bổ nhiệm nghề nghiệp chỉ có hiệu lực sau khi quy trình tuyển dụng trong prose hoàn tất.
-- Vòng tuyển dụng Equinox chấp nhận hồ sơ có điều kiện tương đương và chuyển cô qua vòng một; exact license record, contract title, kết quả cuối và team ownership vẫn `NEEDS_FANFIC_DECISION`.
+- Equinox có legal local identity và hồ sơ dự tuyển hợp lệ trong world; cơ chế tạo identity thuộc internal OU notes.
+- Equinox đã hoàn tất quy trình tuyển dụng tăng tốc ngày 2026-03-09 và được tuyển chính thức làm giáo viên Lịch sử + trainer. Kết quả tuyển dụng không còn `TBD`; exact license record, contract title và team ownership vẫn `NEEDS_FANFIC_DECISION`.
 
 ## 5. Medical/race authority
 - Trainer quyết training recommendation và race-entry proposal.

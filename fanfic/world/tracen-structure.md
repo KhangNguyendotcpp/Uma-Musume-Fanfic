@@ -47,7 +47,7 @@ Jurisdiction có thể overlap; conflict phải escalated chứ không giải b�
 ## 6. Equinox và team recognition
 
 - Từ chiều 2026-03-09, Equinox đã **đậu toàn bộ quy trình tuyển dụng tăng tốc**, trở thành **giáo viên Lịch sử + trainer chính thức** và nhận thẻ nhân viên — `STORY-ESTABLISHED / LOCKED`.
-- Orientation, tài khoản, hợp đồng chi tiết, lương, lịch công tác và quyền truy cập là thủ tục hậu tuyển dụng; chúng không hạ cô về trạng thái ứng viên.
+- Orientation ngày 2026-03-10 đã hoàn tất. Tài khoản, hợp đồng chi tiết, lương, lịch công tác và quyền truy cập là thủ tục hậu tuyển dụng; bất kỳ điểm nào còn chưa khóa cũng không hạ cô về trạng thái ứng viên.
 - Exact contract title và team ownership vẫn `TBD`; hiring result không còn là vấn đề chưa giải quyết.
 - TV S1 yêu cầu certified team tối thiểu năm Uma và ít nhất một trainer.
 - Trước khi roster đạt chuẩn, prose dùng “nhóm training/trainee được Equinox phụ trách”, có supervision và không tuyên bố certified team hai người.
