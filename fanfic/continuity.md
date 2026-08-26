@@ -11,7 +11,7 @@
 
 ## Trục protagonist
 
-- Equinox xuất hiện, hoàn tất toàn bộ quy trình tuyển dụng và trở thành giáo viên Lịch sử + trainer chính thức ngày 2026-03-09. Prose hiện tại ở cuối ngày 2026-03-10: orientation hậu tuyển dụng đã hoàn tất; cô vừa mua sắm cùng Air Groove và chuẩn bị gặp mẹ Air Groove để ăn tối.
+- Equinox xuất hiện, hoàn tất toàn bộ quy trình tuyển dụng và trở thành giáo viên Lịch sử + trainer chính thức ngày 2026-03-09. Orientation hậu tuyển dụng diễn ra 2026-03-10; sau đó cô ăn tối cùng Air Groove và Dyna Carle. Prose hiện tại ở cuối ngày 2026-03-11: ngày làm việc thường lệ đầu tiên đã hoàn tất, Orfevre đã thừa nhận hành vi không đúng mực, Equinox mới quan sát Haru Urara chứ chưa can thiệp, và cô đã đọc 13/32 hồ sơ 3-A trước khi ngủ tại căn hộ Shibuya.
 - Special Week nhập học 2026-04-06.
 - Haise đến 2026-04-19 và Taki đến 2026-05-03; ngày nhập học tương ứng vẫn DRAFT cho đến khi prose khóa.
 - Haise/Taki không chạy Classic năm 2026. Classic Year duy nhất của họ là 2027.

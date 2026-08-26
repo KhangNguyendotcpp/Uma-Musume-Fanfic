@@ -7,7 +7,7 @@
 - **Số đo ba vòng (ngực–eo–hông):** **210–118–200 cm** — STORY-ESTABLISHED / LOCKED
 - **Cơ quan:** Tracen Academy
 - **Vai trò hiện tại:** giáo viên Lịch sử + trainer chính thức, với quyền trong từng phạm vi chuyên môn — STORY-ESTABLISHED / LOCKED
-- **Trạng thái tại điểm prose hiện tại:** đã hoàn tất ngày orientation hậu tuyển dụng 2026-03-10; đang ở khu mua sắm cùng Air Groove và chuẩn bị gặp mẹ Air Groove tại nhà hàng thịt nướng ở tầng trên — STORY-ESTABLISHED / LOCKED
+- **Trạng thái tại điểm prose hiện tại:** đã hoàn tất orientation 2026-03-10 và ngày làm việc thường lệ đầu tiên 2026-03-11; đã ngủ tại căn hộ Shibuya sau khi đọc 13/32 hồ sơ 3-A — STORY-ESTABLISHED / LOCKED
 - **Môn giảng dạy/đã giảng thử:** Lịch sử — STORY-ESTABLISHED / LOCKED
 - **Chức danh hợp đồng chính xác:** TBD; không ảnh hưởng kết quả tuyển dụng đã chốt
 
@@ -41,6 +41,23 @@ Equinox là Uma nhưng **không được định hướng làm racer thi đấu*
 - Equinox đã hoàn tất tiết giảng thử Lịch sử: kiến thức và kiểm soát lớp đạt yêu cầu, nhưng giọng đều/cách truyền đạt khiến gần cả lớp ngủ; kết quả cuối cùng **ĐẠT**.
 - Cô đã hoàn tất đánh giá trainer với Narita Brian: nhận ra dấu hiệu căng bắp chân, giảm tải, kiểm tra lại dữ liệu thiết bị mâu thuẫn và ưu tiên an toàn; kết quả cuối cùng **ĐẠT**.
 - Cô được tuyển chính thức vào cả hai vai trò và nhận thẻ nhân viên trong ngày 2026-03-09.
+
+## Quan niệm về cơ thể, giới tính và hôn nhân
+
+- Equinox không xem giới tính là trục cốt lõi của danh tính; nam hay nữ vẫn là Equinox, với cùng giá trị quan, tính cách và tình yêu dành cho Zenith.
+- Cô không đồng nhất hormone, quần áo, chăm tóc, dưỡng da hoặc sự tự nhận thức về vẻ đẹp cơ thể với xu hướng tính dục hay một vai giới bắt buộc.
+- Hình dạng hiện tại có thể vừa đẹp vừa phiền. Cô tận hưởng phần dùng được và sửa phần gây bất tiện thay vì biến nó thành khủng hoảng hiện sinh.
+- Trong không gian riêng, Equinox thoải mái với khỏa thân và ngủ khỏa thân.
+- Zenith và Equinox dùng **anh–em**; Zenith tiếp tục gọi Equinox là chồng/người đàn ông trong cơ thể Uma nữ, và cách gọi đó làm Equinox dễ chịu chứ không phủ định cơ thể hiện tại.
+- Hôn nhân làm giới tính được gọi tên trong quan hệ, nhưng Equinox yêu Zenith như một cá thể, không yêu một danh mục giới tính hay vai diễn “chồng/vợ” có sẵn.
+
+## Ngày làm việc 2026-03-11
+
+- Xác nhận quyền truy cập, họp tổ Lịch sử, sửa rubric và chuẩn bị học liệu.
+- Nói chuyện gần hết giờ trưa với Orfevre; cô bé thừa nhận hành vi trước đó không đúng mực dù không nói đúng chữ “xin lỗi”.
+- Quan sát Haru Urara chạy, thấy nhiều lãng phí lực và nguy cơ ngã khi mệt nhưng chưa can thiệp vì dữ liệu quan sát còn thiếu và chưa biết người phụ trách.
+- Đọc thêm ba hồ sơ 3-A vào buổi tối; tiến độ cuối ngày **13/32**. Không chia sẻ dữ liệu riêng tư trong hồ sơ với Zenith.
+- Nhận phần hàng may sẵn/phụ kiện; đồ đặt may riêng vẫn chờ dựng và thử mẫu.
 
 ## Nguyên tắc nghề nghiệp đã thể hiện
 - Sức khỏe và medical clearance đứng trên race, Winning Live và sức ép khán giả.

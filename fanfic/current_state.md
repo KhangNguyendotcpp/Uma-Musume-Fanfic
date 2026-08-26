@@ -2,14 +2,14 @@
 
 > **CANON GUARD — KHÔNG ĐƯỢC HẠ CẤP TRẠNG THÁI:** Equinox **đã vượt qua toàn bộ quy trình tuyển dụng tăng tốc và đã chính thức trở thành cả giáo viên Lịch sử lẫn trainer của Tracen Academy trong ngày 2026-03-09**. Không được viết hoặc suy luận rằng cô vẫn chỉ là ứng viên, mới qua vòng một, chưa đậu, hoặc phải chờ đến 2026-03-23 mới trở thành staff.
 
-**Mốc hiện tại của prose:** **cuối ngày 2026-03-10**, tại một khu mua sắm sau khi Equinox và Air Groove rời cửa hàng giày–trang phục dành cho Uma. Mẹ Air Groove đã gần tới; điểm hẹn tiếp theo là một nhà hàng thịt nướng ở tầng trên. Giờ đồng hồ và tên khu mua sắm/nhà hàng chưa khóa. Những gì ghi là “đã xảy ra” trong file này là `STORY-ESTABLISHED / LOCKED`.
+**Mốc hiện tại của prose:** **cuối ngày 2026-03-11**, tại căn hộ Shibuya. Equinox đã hoàn tất ngày làm việc thường lệ đầu tiên sau orientation, nhận phần hàng may sẵn giao sau 19:00, ăn tối, đọc thêm ba hồ sơ 3-A trong lúc gọi video với Zenith và đã ngủ. Cảnh kế tiếp sớm nhất là sáng 2026-03-12; giờ khởi đầu chưa khóa ngoài báo thức 06:00 do Zenith đặt. Những gì ghi là “đã xảy ra” trong file này là `STORY-ESTABLISHED / LOCKED`.
 
 ## 1. Trạng thái nghề nghiệp của Equinox
 
 - Chức danh hiện tại: **giáo viên môn Lịch sử + trainer chính thức của Tracen Academy**.
 - Đây là kết quả tuyển dụng cuối cùng, không còn là kế hoạch hay trạng thái dự tuyển.
 - Equinox đã nhận **thẻ nhân viên** và được staff/trainer chào mừng sau khi đậu cả hai phần đánh giá thực hành.
-- Equinox đã hoàn tất ngày orientation hậu tuyển dụng 2026-03-10, gồm các phần về tài khoản/bảo mật, hệ thống hồ sơ, phân quyền và thủ tục hợp đồng đã xuất hiện trong prose. Những điểm chưa được prose xác nhận cuối cùng vẫn giữ `TBD`; chúng không phủ định tư cách giáo viên/trainer chính thức.
+- Equinox đã hoàn tất orientation hậu tuyển dụng 2026-03-10 và ngày làm việc thường lệ đầu tiên 2026-03-11, gồm xác nhận quyền truy cập, họp tổ Lịch sử, sửa rubric và chuẩn bị học liệu. Những điểm chưa được prose xác nhận cuối cùng vẫn giữ `TBD`; chúng không phủ định tư cách giáo viên/trainer chính thức.
 - Equinox chưa được chốt team/roster độc lập. `Chưa có team được giao` không đồng nghĩa với `chưa phải trainer`.
 
 ## 2. Quy trình đã hoàn tất trong ngày 2026-03-09
@@ -49,6 +49,8 @@
 - Air Groove vẫn ý thức rõ Equinox là faculty/trainer, nhưng quan hệ đã bớt căng sau một ngày cùng xử lý công việc, nói chuyện về hoa và đi mua những vật dụng Equinox còn thiếu. Air Groove có thể khuyên hoặc ngăn Equinox mua quá mức; không biến cô bé thành phụ huynh hay người quản lý toàn bộ đời sống của một đồng nghiệp trưởng thành.
 - Yayoi xem Equinox là trường hợp bất thường nhưng đầy triển vọng.
 - Hana đã trực tiếp chất vấn/phản biện Equinox trong ngày đánh giá. Hai người hiện là đồng nghiệp; không được viết Hana như người có quyền phủ nhận kết quả tuyển dụng đã chốt.
+- Orfevre đã chủ động nói chuyện với Equinox gần hết giờ trưa ngày 2026-03-11 về lớp trưởng, phẩm giá, quyền chất vấn và khả năng cai trị. Cô bé không nói đúng chữ “xin lỗi”, nhưng đã thừa nhận hành vi trước đó không đúng mực. Đây là bước hạ nhiệt xung đột, không tự động trao cho Orfevre chức vụ lớp trưởng hoặc xóa mọi hệ quả của hành vi cũ.
+- Equinox mới chỉ **quan sát** Haru Urara chạy trong một đoạn ngắn; hai người chưa có cuộc nói chuyện và Equinox chưa phụ trách cô bé. Sự tò mò của Equinox không phải quyền sở hữu hoặc quyết định kéo Haru vào team.
 
 ## 4. Haise và Takiyama
 
@@ -104,8 +106,47 @@ Các điều sau là kế hoạch tương lai, **không được viết như ký
 - Air Groove có mặt trong phần mua sắm, đo đạc và thanh toán. Cô bé biết những gì trực tiếp nghe/thấy ở đó: số đo, lựa chọn hàng, tổng chi hiển thị tại quầy, địa chỉ giao hàng được Equinox cung cấp và biểu hiện Equinox chưa có cảm giác giá tiền ổn định.
 - Air Groove **không được** suy ngược hoặc nhớ lại mức lương 460.000 yên, tài khoản Equinox đã chọn hay bất kỳ chi tiết nào của buổi hợp đồng mà cô bé không tham dự.
 
-## 7. Điểm nối cảnh
+### Bữa tối với Dyna Carle
 
-Equinox và Air Groove vừa rời cửa hàng trong khu mua sắm. Air Groove nhận tin nhắn rằng mẹ mình gần tới; hai người chuẩn bị đi lên nhà hàng thịt nướng ở tầng trên để gặp bà. Cảnh tiếp theo bắt đầu trên đường tới điểm hẹn hoặc tại nhà hàng, không tua lại orientation hay toàn bộ quá trình mua sắm nếu author không yêu cầu.
+- Sau khi rời cửa hàng, Equinox đã ăn tối cùng Air Groove và mẹ cô bé, **Dyna Carle**, theo lời mời của Dyna.
+- Air Groove xác nhận với mẹ rằng Equinox đã đối đãi tử tế với cô bé trong ngày.
+- Equinox và Dyna đã đổi thông tin liên lạc. Không mặc định Dyna biết nội dung orientation, hợp đồng hoặc hồ sơ riêng tư nếu chưa có cảnh truyền đạt.
 
-Không được quay lại trạng thái “ứng viên” hay buộc Equinox thi lại. Không mặc định nhân vật biết một sự kiện đã qua nếu họ không được xác lập là người tham dự/người được kể lại; xem `fanfic/style/prohibited_tendencies.md` và `fanfic/knowledge/air-groove.md`.
+## 7. Ngày 2026-03-11 đã xảy ra
+
+### Công việc tại Tracen
+
+- Equinox đã xác nhận quyền truy cập, họp tổ Lịch sử, sửa rubric và chuẩn bị học liệu.
+- Đây là ngày làm việc thường lệ đầu tiên sau orientation; cô đã làm việc với tư cách faculty/trainer chính thức, không phải ứng viên hoặc người đang chờ phê duyệt.
+- Trong giờ trưa, Orfevre đã chủ động nói chuyện gần hết thời gian với Equinox. Chủ đề gồm lớp trưởng, phẩm giá, quyền chất vấn và khả năng cai trị; kết thúc bằng việc Orfevre thừa nhận hành vi trước đó không đúng mực dù không nói đúng chữ “xin lỗi”.
+
+### Quan sát Haru Urara
+
+- Equinox thấy Haru Urara chạy và nhận ra kỹ thuật đang lãng phí lực ở tay, chân, trọng tâm và nhịp thở; khi mệt còn có nguy cơ ngã.
+- Haru vẫn cười trong lúc chạy, khiến Equinox chú ý và tò mò về lý do cô bé tiếp tục.
+- Equinox **chưa can thiệp** vì mới quan sát một đoạn ngắn, chưa biết toàn bộ buổi tập hoặc người phụ trách. Không được viết như thể cô đã chẩn đoán đầy đủ, nhận Haru vào team hoặc có quyền thay kế hoạch của người khác.
+
+### Buổi tối tại căn hộ Shibuya
+
+- Equinox gọi video với Zenith trong lúc tắm, nhận hàng, nấu ăn, đọc hồ sơ, dưỡng da và chuẩn bị ngủ. Hai người giữ cách xưng hô thân mật **anh–em**; Zenith tiếp tục gọi Equinox là chồng/người đàn ông ngay trong cơ thể Uma nữ và Equinox thấy điều đó dễ chịu.
+- Phần hàng giao sau 19:00 gồm **bốn hộp lớn và hai túi dài** chứa hàng may sẵn/phụ kiện có thể giao ngay: giày thường ngày, sandal, dép trong nhà, phụ kiện tóc, một số món mặc ngoài và đồ dùng cơ bản. Đồ đặt may riêng **chưa hoàn tất**; cửa hàng sẽ liên hệ lịch thử mẫu sau.
+- Equinox chỉ mở dép trong nhà và dây buộc tóc bản lớn, giữ nguyên nhãn phần còn lại để kiểm kê ngày sau.
+- Bữa tối là cá hồi, rau củ và phần cơm còn lại. Zenith nhắc Equinox mua thêm nguyên liệu ngày hôm sau; việc cô đã mua hay chưa vẫn chưa xảy ra.
+- Equinox đọc thêm **ba** hồ sơ 3-A. Tổng tiến độ cuối ngày là **13/32 hồ sơ đã đọc, 19 hồ sơ còn lại**. Cô tách dữ kiện khỏi nhận xét chủ quan và ghi điểm cần tự quan sát trước khi tin.
+- Equinox không đọc nội dung riêng tư trong hồ sơ cho Zenith. Zenith chỉ biết cô đang đọc hồ sơ và chưa kết luận; hôn nhân không tạo quyền truy cập dữ liệu Tracen.
+- Equinox hoàn tất routine rửa mặt/mặt nạ dưới hướng dẫn của Zenith, kiểm tra chỉ còn một báo thức lúc 06:00 rồi đi ngủ chưa đầy một phút sau khi tắt đèn.
+
+## 8. Quan niệm cơ thể và giới tính đã khóa
+
+- Equinox không xem giới tính là trục cốt lõi giữ danh tính. Cơ thể, hormone, quần áo hoặc thói quen chăm sóc có thể thay đổi trải nghiệm nhưng không tự thay giá trị quan, tính cách hay người cô yêu.
+- Việc chăm tóc, dưỡng da, mặc đồ nữ hoặc nhận ra cơ thể hiện tại đẹp không quyết định xu hướng tính dục hay buộc cô vào một vai giới cố định.
+- Cô có thể đồng thời thấy cơ thể nữ hiện tại **đẹp** và **phiền**; hai nhận định không loại trừ nhau.
+- Với Equinox, hình dạng hiện tại dùng được thì có thể tận hưởng; nếu gây phiền thì sửa. “Nam hay nữ vẫn là Equinox” là kết luận `STORY-ESTABLISHED / LOCKED`.
+- Hôn nhân khiến giới tính được gọi tên rõ hơn trong quan hệ, nhưng đối tượng Equinox yêu là Zenith chứ không phải một danh mục giới tính hay vai “chồng/vợ” được viết sẵn.
+- Equinox thoải mái với khỏa thân trong không gian riêng và ngủ khỏa thân. Không được biến sự thoải mái này thành quyền để nhân vật khác xâm phạm riêng tư hoặc thành trò phản ứng tập thể.
+
+## 9. Điểm nối cảnh
+
+Equinox đã ngủ tại căn hộ Shibuya vào cuối ngày 2026-03-11. Điểm tiếp tục tự nhiên là sáng 2026-03-12 với báo thức 06:00, hoặc một cảnh khác do tác giả chỉ định; không tua lại ngày làm việc, cuộc nói chuyện với Orfevre, quan sát Haru, giao hàng hay routine buổi tối nếu author không yêu cầu.
+
+Không được quay lại trạng thái “ứng viên” hay buộc Equinox thi lại. Không mặc định nhân vật biết một sự kiện đã qua nếu họ không được xác lập là người tham dự/người được kể lại; xem `fanfic/style/prohibited_tendencies.md`, `fanfic/knowledge/air-groove.md` và `fanfic/knowledge/zenith.md`.
