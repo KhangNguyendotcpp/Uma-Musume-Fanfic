@@ -1,6 +1,6 @@
 # Air Groove — Knowledge Registry tại điểm prose hiện tại
 
-**Mốc:** cuối ngày 2026-03-10, ngay sau khi rời cửa hàng cùng Equinox.
+**Mốc:** sáng 2026-03-12, ngay sau vòng bầu lớp trưởng 3-A.
 
 ## KNOWN — có nguồn trực tiếp
 
@@ -11,6 +11,9 @@
 - Số đo Equinox **210–118–200 cm**, nhu cầu dựng rập riêng và vấn đề nâng đỡ khi vận động: có mặt trong khu tư vấn/đo.
 - Các món đã chọn, tổng thanh toán hiển thị tại quầy và địa chỉ Shibuya Equinox cung cấp cho giao hàng: có mặt tại quầy.
 - Equinox chưa hình thành trực giác ổn định về mức giá “quá cao”: suy luận hợp lệ từ lời nói và hành vi ngay tại cửa hàng.
+- Nội dung năm bản tự khai ứng viên lớp trưởng: Air Groove là một trong 27 học sinh không ứng cử và đã trực tiếp đọc đủ các bản của Rudolf, Orfevre, Sirius Symboli, Gentildonna và T.M. Opera O.
+- Cơ chế bỏ phiếu, quá trình kiểm phiếu công khai và kết quả đầy đủ: trực tiếp tham gia và chứng kiến. Air Groove biết Sirius đắc cử với 22/31 phiếu thuận, hơn Gentildonna một phiếu.
+- Trạng thái mắt trong cảnh bầu cử: trực tiếp thấy Equinox mở mắt phải ở phần nghiêm khắc, sau đó đóng phải/mở trái đúng năm phút; mắt trái pha đỏ–hồng–trắng, đồng tử sao sáu cánh và giọng nói dịu/ngọt rõ rệt.
 
 ## UNKNOWN — không được mặc định biết
 

@@ -6,8 +6,8 @@
 - **Chiều cao:** **191 cm** — LOCKED
 - **Số đo ba vòng (ngực–eo–hông):** **210–118–200 cm** — STORY-ESTABLISHED / LOCKED
 - **Cơ quan:** Tracen Academy
-- **Vai trò hiện tại:** giáo viên Lịch sử + trainer chính thức, với quyền trong từng phạm vi chuyên môn — STORY-ESTABLISHED / LOCKED
-- **Trạng thái tại điểm prose hiện tại:** đã hoàn tất orientation 2026-03-10 và ngày làm việc thường lệ đầu tiên 2026-03-11; đã ngủ tại căn hộ Shibuya sau khi đọc 13/32 hồ sơ 3-A — STORY-ESTABLISHED / LOCKED
+- **Vai trò hiện tại:** giáo viên Lịch sử + trainer chính thức + giáo viên chủ nhiệm Senior 3-A, với quyền trong từng phạm vi chuyên môn — STORY-ESTABLISHED / LOCKED
+- **Trạng thái tại điểm prose hiện tại:** sáng 2026-03-12, đã điều hành xong vòng bầu lớp trưởng 3-A; Sirius Symboli đắc cử và lớp đang chuẩn bị bầu lớp phó học tập — STORY-ESTABLISHED / LOCKED
 - **Môn giảng dạy/đã giảng thử:** Lịch sử — STORY-ESTABLISHED / LOCKED
 - **Chức danh hợp đồng chính xác:** TBD; không ảnh hưởng kết quả tuyển dụng đã chốt
 
@@ -26,7 +26,7 @@
 - Lời kể ngôi ba gọi Equinox là **“cô/cô ấy”** không làm thay đổi đại từ tự xưng trong hội thoại.
 
 ### Mắt
-- **Mở trái, nhắm phải:** mắt sáng/hài hòa với đồng tử sao sáu cánh; thiên hướng nhẹ nhàng hơn, nói nhiều hơn, trọng công lý.
+- **Mở trái, nhắm phải:** mống mắt pha đỏ, hồng và trắng với đồng tử sao sáu cánh; thiên hướng nhẹ nhàng hơn, nói nhiều hơn, trọng công lý và giọng dịu/ngọt rõ rệt. Trong cảnh bầu lớp trưởng 3-A, trạng thái này kéo dài đúng năm phút.
 - **Mở phải, nhắm trái:** mắt tối/hỗn loạn với đồng tử sao năm cánh đảo; lạnh hơn, tàn nhẫn/thực dụng và lời nói sắc hơn.
 - **Nhắm cả hai:** trạng thái ngơ/ngủ gật thường ngày.
 - **Mở cả hai:** cố ý chưa định nghĩa sâu; đại diện Equinox hoàn chỉnh/toàn phần hơn là một power-up đơn giản.
@@ -58,6 +58,13 @@ Equinox là Uma nhưng **không được định hướng làm racer thi đấu*
 - Quan sát Haru Urara chạy, thấy nhiều lãng phí lực và nguy cơ ngã khi mệt nhưng chưa can thiệp vì dữ liệu quan sát còn thiếu và chưa biết người phụ trách.
 - Đọc thêm ba hồ sơ 3-A vào buổi tối; tiến độ cuối ngày **13/32**. Không chia sẻ dữ liệu riêng tư trong hồ sơ với Zenith.
 - Nhận phần hàng may sẵn/phụ kiện; đồ đặt may riêng vẫn chờ dựng và thử mẫu.
+
+## Bầu lớp trưởng 3-A — 2026-03-12
+
+- Điều hành quy trình tự khai, đánh giá chéo, bỏ phiếu kín và kiểm phiếu công khai cho 32 học sinh.
+- Kiểm tra tính hợp lệ của 155 phiếu trong chưa đầy một phút nhưng vẫn để năm học sinh trực tiếp phân loại, đếm hai lần và ký biên bản nhằm bảo đảm tính minh bạch, kể cả minh bạch đối với chính mình.
+- Công bố Sirius Symboli đắc cử với 22/31 phiếu thuận, hơn Gentildonna một phiếu.
+- Đóng mắt phải và mở mắt trái đúng năm phút chuyển tiếp; khi mắt trái khép lại, lớp bắt đầu chuẩn bị bầu lớp phó học tập.
 
 ## Nguyên tắc nghề nghiệp đã thể hiện
 - Sức khỏe và medical clearance đứng trên race, Winning Live và sức ép khán giả.

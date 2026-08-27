@@ -2,7 +2,7 @@
 
 > **CANON GUARD — KHÔNG ĐƯỢC HẠ CẤP TRẠNG THÁI:** Equinox **đã vượt qua toàn bộ quy trình tuyển dụng tăng tốc và đã chính thức trở thành cả giáo viên Lịch sử lẫn trainer của Tracen Academy trong ngày 2026-03-09**. Không được viết hoặc suy luận rằng cô vẫn chỉ là ứng viên, mới qua vòng một, chưa đậu, hoặc phải chờ đến 2026-03-23 mới trở thành staff.
 
-**Mốc hiện tại của prose:** **cuối ngày 2026-03-11**, tại căn hộ Shibuya. Equinox đã hoàn tất ngày làm việc thường lệ đầu tiên sau orientation, nhận phần hàng may sẵn giao sau 19:00, ăn tối, đọc thêm ba hồ sơ 3-A trong lúc gọi video với Zenith và đã ngủ. Cảnh kế tiếp sớm nhất là sáng 2026-03-12; giờ khởi đầu chưa khóa ngoài báo thức 06:00 do Zenith đặt. Những gì ghi là “đã xảy ra” trong file này là `STORY-ESTABLISHED / LOCKED`.
+**Mốc hiện tại của prose:** **sáng 2026-03-12**, tại lớp Senior 3-A. Equinox đã được xác nhận là giáo viên chủ nhiệm, điều hành xong vòng bầu lớp trưởng và công bố **Sirius Symboli** đắc cử với 22/31 phiếu thuận, hơn Gentildonna đúng một phiếu. Khoảng chuyển tiếp năm phút đã kết thúc, mắt trái Equinox vừa khép lại và lớp đang chuẩn bị bắt đầu bầu **lớp phó học tập**. Giờ đồng hồ chính xác của cảnh vẫn `TBD`. Những gì ghi là “đã xảy ra” trong file này là `STORY-ESTABLISHED / LOCKED`.
 
 ## 1. Trạng thái nghề nghiệp của Equinox
 
@@ -10,6 +10,7 @@
 - Đây là kết quả tuyển dụng cuối cùng, không còn là kế hoạch hay trạng thái dự tuyển.
 - Equinox đã nhận **thẻ nhân viên** và được staff/trainer chào mừng sau khi đậu cả hai phần đánh giá thực hành.
 - Equinox đã hoàn tất orientation hậu tuyển dụng 2026-03-10 và ngày làm việc thường lệ đầu tiên 2026-03-11, gồm xác nhận quyền truy cập, họp tổ Lịch sử, sửa rubric và chuẩn bị học liệu. Những điểm chưa được prose xác nhận cuối cùng vẫn giữ `TBD`; chúng không phủ định tư cách giáo viên/trainer chính thức.
+- Phân công **giáo viên chủ nhiệm Senior 3-A** đã được prose xác nhận vào sáng 2026-03-12. Roster 32 học sinh và vai trò chủ nhiệm không còn là đề xuất tạm.
 - Equinox chưa được chốt team/roster độc lập. `Chưa có team được giao` không đồng nghĩa với `chưa phải trainer`.
 
 ## 2. Quy trình đã hoàn tất trong ngày 2026-03-09
@@ -49,7 +50,7 @@
 - Air Groove vẫn ý thức rõ Equinox là faculty/trainer, nhưng quan hệ đã bớt căng sau một ngày cùng xử lý công việc, nói chuyện về hoa và đi mua những vật dụng Equinox còn thiếu. Air Groove có thể khuyên hoặc ngăn Equinox mua quá mức; không biến cô bé thành phụ huynh hay người quản lý toàn bộ đời sống của một đồng nghiệp trưởng thành.
 - Yayoi xem Equinox là trường hợp bất thường nhưng đầy triển vọng.
 - Hana đã trực tiếp chất vấn/phản biện Equinox trong ngày đánh giá. Hai người hiện là đồng nghiệp; không được viết Hana như người có quyền phủ nhận kết quả tuyển dụng đã chốt.
-- Orfevre đã chủ động nói chuyện với Equinox gần hết giờ trưa ngày 2026-03-11 về lớp trưởng, phẩm giá, quyền chất vấn và khả năng cai trị. Cô bé không nói đúng chữ “xin lỗi”, nhưng đã thừa nhận hành vi trước đó không đúng mực. Đây là bước hạ nhiệt xung đột, không tự động trao cho Orfevre chức vụ lớp trưởng hoặc xóa mọi hệ quả của hành vi cũ.
+- Orfevre đã chủ động nói chuyện với Equinox gần hết giờ trưa ngày 2026-03-11 về lớp trưởng, phẩm giá, quyền chất vấn và khả năng cai trị. Cô bé không nói đúng chữ “xin lỗi”, nhưng đã thừa nhận hành vi trước đó không đúng mực. Ngày 2026-03-12, Orfevre ứng cử lớp trưởng và đứng thứ năm với 12 phiếu thuận, 15 phiếu chống, 4 phiếu trắng; bước hạ nhiệt trước đó không tự động trao chức vụ hay xóa hệ quả hành vi cũ.
 - Equinox mới chỉ **quan sát** Haru Urara chạy trong một đoạn ngắn; hai người chưa có cuộc nói chuyện và Equinox chưa phụ trách cô bé. Sự tò mò của Equinox không phải quyền sở hữu hoặc quyết định kéo Haru vào team.
 
 ## 4. Haise và Takiyama
@@ -94,7 +95,7 @@ Các điều sau là kế hoạch tương lai, **không được viết như ký
 - Cô đã xử lý tài khoản, bảo mật, hệ thống hồ sơ, phân quyền và khối thủ tục hợp đồng đã xuất hiện trong prose.
 - Con số lương được nêu trong quá trình hợp đồng là **460.000 yên**. Repo chưa tự gắn thêm nhãn gross/net hoặc cấu phần nếu prose chưa xác nhận.
 - Chi tiết Equinox chọn tài khoản nào và dữ liệu tài khoản cụ thể là thông tin riêng của cảnh xử lý hợp đồng. **Air Groove không có mặt và không biết các chi tiết này.**
-- Phân công chủ nhiệm lớp 3-A, exact contract title, lịch dạy dài hạn, nhà ở nhân viên, team độc lập và roster vẫn chưa được khóa nếu không có quyết định mới hơn của author.
+- Ở thời điểm 2026-03-10, phân công chủ nhiệm và roster vẫn chưa khóa. Cảnh bầu ban cán sự ngày 2026-03-12 đã ghi đè trạng thái này: Equinox là chủ nhiệm 3-A và roster 32 người đã được xác nhận. Exact contract title, lịch dạy dài hạn, nhà ở nhân viên, team độc lập và roster trainee vẫn `TBD`.
 
 ### Sau giờ làm: Air Groove và mua sắm
 
@@ -136,7 +137,23 @@ Các điều sau là kế hoạch tương lai, **không được viết như ký
 - Equinox không đọc nội dung riêng tư trong hồ sơ cho Zenith. Zenith chỉ biết cô đang đọc hồ sơ và chưa kết luận; hôn nhân không tạo quyền truy cập dữ liệu Tracen.
 - Equinox hoàn tất routine rửa mặt/mặt nạ dưới hướng dẫn của Zenith, kiểm tra chỉ còn một báo thức lúc 06:00 rồi đi ngủ chưa đầy một phút sau khi tắt đèn.
 
-## 8. Quan niệm cơ thể và giới tính đã khóa
+## 8. Sáng 2026-03-12 đã xảy ra
+
+### Bầu lớp trưởng Senior 3-A
+
+- Equinox điều hành cuộc bầu lớp trưởng của roster 32 học sinh. Năm ứng viên là Symboli Rudolf, Orfevre, Sirius Symboli, Gentildonna và T.M. Opera O.
+- Mỗi ứng viên nhận đúng **31 phiếu**: 27 từ học sinh không ứng cử và 4 từ bốn đối thủ; không ai được tự bỏ phiếu cho mình. Mỗi phiếu chọn một trong ba ô **Thuận / Chống / Trắng**.
+- Tamamo Cross, Inari One, Akitsu Teio, Lord Royal và Silence Suzuka lần lượt kiểm phiếu cho Rudolf, Orfevre, Sirius, Gentildonna và Opera O. Equinox kiểm tra tính hợp lệ của cả **155 phiếu** trong chưa đầy một phút; năm học sinh tự phân loại, đếm hai lần và ký biên bản.
+- Không có phiếu hủy. Kết quả theo phiếu thuận: **Sirius 22**, **Gentildonna 21**, **Opera O 18**, **Rudolf 16**, **Orfevre 12**. Sirius đắc cử lớp trưởng; cả lớp vỗ tay sau khi tên cô được viết lên bảng.
+- Kết quả đầy đủ và cơ chế kiểm phiếu được khóa tại `fanfic/events/2026-03-12-class-3a-election.md`.
+
+### Chuyển trạng thái mắt và điểm dừng
+
+- Trong phần nghiêm khắc của quy trình, Equinox mở mắt phải và nhắm mắt trái.
+- Khi công bố kết quả, cô đóng mắt phải, mở mắt trái pha đỏ–hồng–trắng với đồng tử hình ngôi sao sáu cánh; giọng trở nên dịu và ngọt hơn rõ rệt.
+- Mắt trái tồn tại đúng năm phút chuyển tiếp rồi khép lại. Điểm tiếp tục là lúc lớp đã ổn định và chuẩn bị bắt đầu vòng bầu **lớp phó học tập**; Sirius không được ứng cử thêm chức vụ.
+
+## 9. Quan niệm cơ thể và giới tính đã khóa
 
 - Equinox không xem giới tính là trục cốt lõi giữ danh tính. Cơ thể, hormone, quần áo hoặc thói quen chăm sóc có thể thay đổi trải nghiệm nhưng không tự thay giá trị quan, tính cách hay người cô yêu.
 - Việc chăm tóc, dưỡng da, mặc đồ nữ hoặc nhận ra cơ thể hiện tại đẹp không quyết định xu hướng tính dục hay buộc cô vào một vai giới cố định.
@@ -145,8 +162,8 @@ Các điều sau là kế hoạch tương lai, **không được viết như ký
 - Hôn nhân khiến giới tính được gọi tên rõ hơn trong quan hệ, nhưng đối tượng Equinox yêu là Zenith chứ không phải một danh mục giới tính hay vai “chồng/vợ” được viết sẵn.
 - Equinox thoải mái với khỏa thân trong không gian riêng và ngủ khỏa thân. Không được biến sự thoải mái này thành quyền để nhân vật khác xâm phạm riêng tư hoặc thành trò phản ứng tập thể.
 
-## 9. Điểm nối cảnh
+## 10. Điểm nối cảnh
 
-Equinox đã ngủ tại căn hộ Shibuya vào cuối ngày 2026-03-11. Điểm tiếp tục tự nhiên là sáng 2026-03-12 với báo thức 06:00, hoặc một cảnh khác do tác giả chỉ định; không tua lại ngày làm việc, cuộc nói chuyện với Orfevre, quan sát Haru, giao hàng hay routine buổi tối nếu author không yêu cầu.
+Điểm tiếp tục trực tiếp là vòng bầu **lớp phó học tập** của Senior 3-A vào sáng 2026-03-12. Năm phút chuyển tiếp đã hết, mắt trái Equinox đã khép lại, Sirius là lớp trưởng vừa đắc cử và không còn quyền ứng cử chức vụ khác trong cùng cuộc bầu ban cán sự.
 
 Không được quay lại trạng thái “ứng viên” hay buộc Equinox thi lại. Không mặc định nhân vật biết một sự kiện đã qua nếu họ không được xác lập là người tham dự/người được kể lại; xem `fanfic/style/prohibited_tendencies.md`, `fanfic/knowledge/air-groove.md` và `fanfic/knowledge/zenith.md`.

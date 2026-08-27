@@ -2,7 +2,7 @@
 
 Danh tính/lịch sử/siêu hình học OU vẫn do `KhangNguyendotcpp/original-universe-canon` quyết định.
 
-Chức năng trong truyện địa phương: Uma trưởng thành đã trở thành trainer + giáo viên Lịch sử chính thức, không phải racer; đối trọng thể chế với Haise/Takiyama và ban lãnh đạo học sinh. Ở điểm prose hiện tại cô đã hoàn tất orientation 2026-03-10 và ngày làm việc thường lệ đầu tiên 2026-03-11, đã đọc 13/32 hồ sơ 3-A rồi ngủ tại căn hộ Shibuya. Không được hạ cô về trạng thái ứng viên hoặc bắt thi lại.
+Chức năng trong truyện địa phương: Uma trưởng thành đã trở thành trainer + giáo viên Lịch sử + giáo viên chủ nhiệm Senior 3-A chính thức, không phải racer; đối trọng thể chế với Haise/Takiyama và ban lãnh đạo học sinh. Ở điểm prose hiện tại, sáng 2026-03-12, cô đã điều hành xong vòng bầu lớp trưởng; Sirius Symboli đắc cử và lớp đang chuẩn bị bầu lớp phó học tập. Không được hạ cô về trạng thái ứng viên, giáo viên chủ nhiệm dự kiến hoặc bắt thi lại.
 
 Tính cách baseline: vẻ ngoài buồn ngủ/ngơ ngác nhưng năng lực cực cao; không để năng lực vũ trụ tự động giải mọi stakes racing/trường học thông thường.
 
@@ -10,7 +10,7 @@ Quan niệm giới tính đã khóa: Equinox không xem nam/nữ là lõi danh t
 
 Domestic comedy với Zenith nên xuất phát từ độ literal, sự lười/ngái ngủ của Equinox và độ nói nhiều/tinh nghịch của Zenith. Sự thân mật không hủy ranh giới nghề nghiệp: Equinox không đọc hồ sơ học sinh cho Zenith, và Zenith không được tự biết nội dung hồ sơ Tracen chỉ vì là vợ.
 
-Characterization theo trạng thái mắt là quy tắc hành vi thật, không phải chỉ báo power level rẻ tiền. Trạng thái mở cả hai mắt cố ý chưa được định nghĩa sâu.
+Characterization theo trạng thái mắt là quy tắc hành vi thật, không phải chỉ báo power level rẻ tiền. Mắt phải tạo register nghiêm khắc, lạnh và gần với kỷ luật quân ngũ; mắt trái pha đỏ–hồng–trắng, có đồng tử sao sáu cánh và làm giọng Equinox dịu/ngọt rõ rệt. Trong cảnh bầu lớp trưởng, mắt trái chỉ mở đúng năm phút chuyển tiếp. Trạng thái mở cả hai mắt cố ý chưa được định nghĩa sâu.
 
 Equinox có thể chính thức chỉnh/kỷ luật Rudolf vì Rudolf là học sinh Senior Year 3/năm cuối THPT trong năm học 2026–2027. Không được gọi cô là University Year 1 ở giai đoạn này; quyền staff là quyền thể chế và giáo dục, không phải quyền sở hữu hay quyền phụ huynh tuyệt đối. Rudolf vẫn phải được viết như một lãnh đạo trẻ có năng lực, không bị infantilize.
 
@@ -20,4 +20,4 @@ Xưng hô bắt buộc: với học sinh, Equinox tự xưng **“cô”** và g
 
 Mọi cảnh mới phải qua `fanfic/style/prohibited_tendencies.md`, đặc biệt là kiểm tra nguồn kiến thức của từng nhân vật và tránh lặp lại lỗi Air Groove biết chi tiết hợp đồng/tài khoản dù không có mặt.
 
-Tại mốc hiện tại, Orfevre đã hạ nhiệt xung đột nhưng chưa được tự động trao chức lớp trưởng. Haru Urara mới chỉ được Equinox quan sát trong một đoạn chạy ngắn; không viết như đã chẩn đoán hoàn chỉnh, đã nói chuyện, đã nhận vào team hoặc đã có quyền sửa kế hoạch training.
+Tại mốc hiện tại, Orfevre đã hạ nhiệt xung đột nhưng thua vòng bầu lớp trưởng; Sirius Symboli là lớp trưởng đã đắc cử và Gentildonna đứng thứ hai cách đúng một phiếu thuận. Không hồi sinh trạng thái “chưa bầu” hoặc cho Sirius ứng cử thêm chức vụ trong cùng cuộc bầu ban cán sự. Haru Urara mới chỉ được Equinox quan sát trong một đoạn chạy ngắn; không viết như đã chẩn đoán hoàn chỉnh, đã nói chuyện, đã nhận vào team hoặc đã có quyền sửa kế hoạch training.

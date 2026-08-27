@@ -49,7 +49,7 @@ University, Resident Athlete và postgraduate facility không phải official Cy
 
 ## 6. Equinox
 
-- Từ 2026-03-09, Equinox đã được tuyển chính thức làm trainer + giáo viên Lịch sử; tại điểm prose hiện tại cô đã hoàn tất ngày orientation hậu tuyển dụng 2026-03-10 và đang ở khu mua sắm cùng Air Groove trước bữa tối với mẹ Air Groove.
+- Từ 2026-03-09, Equinox đã được tuyển chính thức làm trainer + giáo viên Lịch sử. Tới điểm prose hiện tại sáng 2026-03-12, cô đã được xác nhận là giáo viên chủ nhiệm Senior 3-A, điều hành xong vòng bầu lớp trưởng và đang chuẩn bị cho vòng bầu lớp phó học tập.
 - Contract title chi tiết và team ownership vẫn `TBD`; **kết quả tuyển dụng không còn TBD**.
 - Equinox có faculty authority trong classroom và trainer authority trong training; không vì vậy được bypass medical/race operations.
 

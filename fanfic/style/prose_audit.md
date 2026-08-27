@@ -1,6 +1,6 @@
 # Prose Audit — từ mở đầu đến điểm hiện tại
 
-**Phạm vi:** các sự kiện prose đã được khóa trong repo từ Equinox xuất hiện ngày 2026-03-09 tới cảnh mua sắm cuối ngày 2026-03-10, cộng văn bản cảnh gần nhất do tác giả cung cấp. Repo hiện giữ phần lớn các cảnh trước dưới dạng continuity summary thay vì chapter nguyên văn; vì vậy audit này chỉ kết luận chắc chắn ở nơi còn đủ văn bản/dữ kiện, không dựng lỗi cho đoạn không còn nguyên văn.
+**Phạm vi:** các sự kiện prose đã được khóa trong repo từ Equinox xuất hiện ngày 2026-03-09 tới vòng bầu lớp trưởng Senior 3-A sáng 2026-03-12. Repo hiện giữ phần lớn các cảnh dưới dạng continuity summary thay vì chapter nguyên văn; vì vậy audit này chỉ kết luận chắc chắn ở nơi còn đủ văn bản/dữ kiện, không dựng lỗi cho đoạn không còn nguyên văn.
 
 **Trạng thái:** tài liệu chẩn đoán, không tự retcon sự kiện. Guardrail bắt buộc nằm tại `fanfic/style/prohibited_tendencies.md`.
 
@@ -20,6 +20,13 @@
 | OPEN LOGIC | Đồ lót ban đầu | Zenith biết incarnation nhưng để lại sản phẩm sai rõ rệt | Chờ tác giả chốt lý do; không tự hợp thức hóa |
 | LOW | Nhịp câu | Chuỗi câu cực ngắn, lặp “Có/Không”, “hai đôi”, “lần thứ…” tạo dấu vết sinh văn bản máy móc | Pha câu ngắn với câu có chuyển động; mỗi nhịp lặp phải tăng stakes hoặc tạo payoff |
 | LOW | Câu “Do giống loài thôi” | Câu nói có thể bị hiểu rằng số đo này bình thường với mọi Uma, trái với chính phản ứng của nhân viên Uma | Nếu giữ như deadpan, cần để ngữ cảnh cho thấy Equinox nói về dạng draft-horse của mình hoặc đang cố giản lược quá mức |
+
+## Kiểm tra cảnh bầu lớp trưởng 2026-03-12
+
+- Phép tính đã khớp: mỗi ứng viên có 27 phiếu từ học sinh không ứng cử + 4 phiếu từ đối thủ = 31; năm ứng viên tạo tổng 155 phiếu.
+- Cả năm hàng kết quả đều cộng đúng 31 và giữ đúng thứ tự author chốt: Sirius, Gentildonna, Opera O, Rudolf, Orfevre.
+- `Phiếu trắng` là ô lựa chọn hợp lệ, không mâu thuẫn với việc không có tờ nào bỏ trống cả ba ô.
+- Chưa phát hiện lỗi `CRITICAL/HIGH` mới trong phần quy trình và kết quả đã khóa. Các timestamp dạng số giảm dần trong bản prose phải được hiểu/ghi rõ là **thời gian còn lại trên đồng hồ**, không phải giờ đồng hồ đảo ngược.
 
 ## Những phần hiện không thấy lỗi canon chắc chắn
 

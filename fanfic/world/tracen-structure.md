@@ -137,7 +137,7 @@ Mỗi hoạt động cần tối thiểu: mục tiêu giáo dục, danh sách h�
 - Equinox đã nhận trong tập tài liệu một bìa riêng mang nhãn **“Lớp THPT 3-A — hồ sơ dự kiến năm học 2026–2027”**, gồm 32 tab học sinh và ghi dành cho giáo viên **có khả năng** được phân công chủ nhiệm.
 - Hồ sơ có kết quả học tập, nhận xét cuối năm của giáo viên chủ nhiệm lớp 11, chuyên cần, thế mạnh/khó khăn, tương tác xã hội, nghĩa vụ hội học sinh, lịch race ảnh hưởng việc học và cảnh báo cần chú ý.
 - Equinox tách chồng hồ sơ ra và **chưa đọc từng hồ sơ**, để tránh trộn ấn tượng từ tiết dạy thử với nhận xét cũ.
-- Việc Tracen chuẩn bị tài liệu cho cô là `STORY-ESTABLISHED`; quyết định chính thức giao Equinox làm chủ nhiệm và roster 32 người vẫn `TENTATIVE / NOT_CONFIRMED`. Xem `fanfic/world/class-3a-roster-2026.md`.
+- Việc Tracen chuẩn bị tài liệu cho cô là `STORY-ESTABLISHED`. Tới sáng 2026-03-12, cảnh bầu ban cán sự đã xác nhận Equinox là giáo viên chủ nhiệm và khóa roster 32 người thành `STORY-ESTABLISHED / LOCKED`. Xem `fanfic/world/class-3a-roster-2026.md` và `fanfic/events/2026-03-12-class-3a-election.md`.
 
 ## 9. Tuyến ga Fuchu → Tracen và lớp dịch vụ quanh đường
 

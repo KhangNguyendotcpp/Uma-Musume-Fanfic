@@ -1,23 +1,21 @@
-# Lớp THPT 3-A — roster làm việc năm học 2026
+# Lớp THPT 3-A — roster năm học 2026
 
-**Trạng thái:** `DRAFT / PROVISIONAL / NOT_LOCKED`  
-**Năm học dự kiến:** 2026–2027  
-**Sĩ số dự kiến:** 32  
-**Giáo viên chủ nhiệm dự kiến:** **Equinox — `TENTATIVE / NOT_CONFIRMED`**  
+**Trạng thái:** `STORY-ESTABLISHED / LOCKED`
+**Năm học:** 2026–2027
+**Sĩ số:** 32
+**Giáo viên chủ nhiệm:** **Equinox — `STORY-ESTABLISHED / LOCKED`**
 **Neo bậc học của Rudolf:** **Senior Year 3/năm cuối THPT — `APPROVED / AUTHOR_OVERRIDE`**
 
-> [!CAUTION]
-> Đây là roster làm việc phục vụ phát triển fanfic, **chưa phải continuity đã khóa**.
-> Equinox đã là giáo viên Lịch sử + trainer chính thức; tuy nhiên cô mới chỉ là giáo viên chủ nhiệm **dự kiến**. Sáng 2026-03-10, Tracen đã đưa cho cô bìa hồ sơ 3-A dành cho giáo viên “có khả năng được phân công chủ nhiệm”, nhưng quyết định phân công chưa được xác nhận.
-> AI không được viết Equinox đã nhận chủ nhiệm lớp 3-A, không được gọi roster 32 người này là quyết định cuối, và không được dùng file này để ghi đè `fanfic/current_state.md`. Riêng việc Rudolf học năm cuối THPT là quyết định đã duyệt, không còn là giả định tạm.
+> [!NOTE]
+> Sáng 2026-03-10, roster và phân công chủ nhiệm vẫn chỉ là dự kiến. Cảnh bầu ban cán sự ngày 2026-03-12 đã xác nhận Equinox là chủ nhiệm và khóa đầy đủ 32 học sinh dưới đây. Đây là quyết định fanfic, không phải tuổi/lớp official do Cygames công bố.
 
 ## Mục đích và quy ước
 
 - Lớp được thiết kế như một lớp THPT năm ba tập trung các Uma kỳ cựu, G1 champion, huyền thoại hoặc cá nhân có cái tôi/competitive presence đặc biệt mạnh.
-- Symboli Rudolf đã được author chốt là học sinh Senior Year 3/năm cuối THPT trong năm học 2026–2027. Việc xếp **31 Uma còn lại** cùng niên khóa với cô vẫn là suy luận và quyết định fanfic tạm thời, không phải tuổi/lớp official do Cygames xác nhận.
+- Symboli Rudolf đã được author chốt là học sinh Senior Year 3/năm cuối THPT trong năm học 2026–2027. Việc xếp **31 Uma còn lại** cùng niên khóa với cô là quyết định fanfic đã được khóa bằng prose, không phải tuổi/lớp official do Cygames xác nhận.
 - Không lấy năm sinh của ngựa thật làm năm sinh của Uma.
 - Không đưa thế hệ Special Week, thế hệ Oguri Cap hoặc các nhân vật được xác nhận là hậu bối/nhập học muộn vào roster.
-- Một số tên có bằng chứng fanfic tuổi 18 hoặc quan hệ ngang hàng mạnh; một số tên vẫn là authorial assignment cần duyệt lại.
+- Một số tên có bằng chứng fanfic tuổi 18 hoặc quan hệ ngang hàng mạnh; các tên còn lại là authorial assignment đã được khóa cho roster này. Năm sinh cụ thể vẫn chưa tự động được xác lập.
 - **Sửa roster 2026-08-22:** loại Obey Your Master (đại diện Mỹ) và Toni Bianca (đại diện Ý/international guest) vì không thuộc cohort học sinh nội địa Tracen; thay bằng Gold Ship và Akitsu Teio. Gold Ship là authorial class assignment; Akitsu Teio đã có neo fanfic 18 tuổi/senior trong repo. Đây không phải lớp/tuổi official.
 - Nếu tác giả đưa ra quyết định mới về lớp, tuổi, năm học hoặc giáo viên chủ nhiệm, quyết định mới nhất của tác giả có quyền ghi đè file này.
 
@@ -56,11 +54,17 @@
 31. Winning Ticket
 32. Mayano Top Gun
 
-## Cảnh báo continuity cần giải quyết trước khi khóa
+## Ban cán sự đã bầu
+
+- **Lớp trưởng:** **Sirius Symboli** — đắc cử sáng 2026-03-12 với **22 thuận / 6 chống / 3 trắng**, tổng 31 phiếu.
+- **Lớp phó học tập:** `TBD`; vòng bầu cử sắp bắt đầu tại điểm prose hiện tại.
+- Kết quả và quy trình đầy đủ: `fanfic/events/2026-03-12-class-3a-election.md`.
+
+## Cảnh báo continuity còn áp dụng
 
 1. **Đã giải quyết:** Symboli Rudolf là học sinh Senior Year 3/năm cuối THPT trong 04/2026–03/2027, 17 tuổi tại mốc 04/2026. Quyết định này ghi đè mọi baseline cũ đặt cô ở University Year 1 trong 04/2026.
 2. Theo khóa học Nhật, học sinh THPT năm ba của năm học 2026–2027 thông thường thuộc cohort sinh từ 02/04/2008 đến 01/04/2009; năm sinh fanfic cụ thể của từng Uma chưa được khóa trong file này.
-3. Quan hệ chị–em, đàn chị–hậu bối, thời điểm nhập học và chronology animation/game phải được kiểm tra lại trước khi chuyển roster sang `APPROVED` hoặc `LOCKED`.
+3. Roster đã được khóa bởi prose nhưng quan hệ chị–em, đàn chị–hậu bối, năm sinh cụ thể và chronology animation/game vẫn phải được kiểm tra riêng; không suy ngược các dữ liệu đó chỉ từ việc cùng lớp.
 4. **Biwa Hayahide bị loại rõ ràng khỏi 3-A:** cô là chị ruột của Narita Brian; nếu giữ đúng trật tự chị–em và luật khóa học Nhật, Biwa phải thuộc khóa trên Brian. AI không được tự thêm Biwa trở lại lớp này.
 5. Danh sách này không tự thay đổi Student Council, team trainer, division thi đấu, ký túc xá hay quyền tham gia race của bất kỳ nhân vật nào.
 
