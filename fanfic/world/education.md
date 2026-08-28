@@ -15,7 +15,7 @@ University, Resident Athlete và postgraduate facility không phải official Cy
 
 ## 2. Năm học và chronology
 
-- Năm học bắt đầu đầu tháng 4 và kết thúc tháng 3 năm sau.
+- Năm học bắt đầu ngày **01/04** và kết thúc tháng 3 năm sau. Lễ khai giảng/nhập học toàn trường có thể diễn ra sau ngày bắt đầu hành chính; năm 2026 đang đặt ở 06/04.
 - Haise/Taki: Senior Year 1 trong 2026–2027, Year 2 trong 2027–2028, Year 3 trong 2028–2029; dự kiến tốt nghiệp Senior tháng 3/2029.
 - Nếu học liên tục, Haise/Taki học University 04/2029–03/2033.
 - Rudolf học **Senior Year 3/năm cuối THPT** trong 04/2026–03/2027; cô 17 tuổi tại mốc 04/2026. Nếu học liên tục, cô vào University Year 1 tháng 04/2027 và hoàn tất University tháng 03/2031.
@@ -49,7 +49,7 @@ University, Resident Athlete và postgraduate facility không phải official Cy
 
 ## 6. Equinox
 
-- Từ 2026-03-09, Equinox đã được tuyển chính thức làm trainer + giáo viên Lịch sử. Tới điểm prose hiện tại sáng 2026-03-12, cô đã được xác nhận là giáo viên chủ nhiệm Senior 3-A, điều hành xong vòng bầu lớp trưởng và vòng bầu lớp phó tổ chức sự kiện; Sirius Symboli và T.M. Opera O lần lượt đắc cử.
+- Từ 2026-03-09, Equinox đã được tuyển chính thức làm trainer + giáo viên Lịch sử. Tới điểm prose hiện tại sáng 2026-04-01, cô đã được xác nhận là giáo viên chủ nhiệm Senior 3-A và điều hành xong cả bốn vòng bầu ban cán sự; Sirius Symboli, Hishi Amazon, T.M. Opera O và Eishin Flash lần lượt giữ bốn chức vụ đã khóa.
 - Contract title chi tiết và team ownership vẫn `TBD`; **kết quả tuyển dụng không còn TBD**.
 - Equinox có faculty authority trong classroom và trainer authority trong training; không vì vậy được bypass medical/race operations.
 

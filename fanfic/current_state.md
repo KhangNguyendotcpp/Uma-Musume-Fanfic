@@ -2,7 +2,7 @@
 
 > **CANON GUARD — KHÔNG ĐƯỢC HẠ CẤP TRẠNG THÁI:** Equinox **đã vượt qua toàn bộ quy trình tuyển dụng tăng tốc và đã chính thức trở thành cả giáo viên Lịch sử lẫn trainer của Tracen Academy trong ngày 2026-03-09**. Không được viết hoặc suy luận rằng cô vẫn chỉ là ứng viên, mới qua vòng một, chưa đậu, hoặc phải chờ đến 2026-03-23 mới trở thành staff.
 
-**Mốc hiện tại của prose:** **sáng 2026-03-12**, tại lớp Senior 3-A. Sau khi **Sirius Symboli** đắc cử lớp trưởng, Equinox đã điều hành xong vòng bầu **lớp phó tổ chức sự kiện**. **T.M. Opera O** đắc cử với **30 thuận / 0 chống / 1 trắng**, hơn Fuji Kiseki đúng một phiếu thuận. Equinox vừa mở mắt trái, công bố kết quả và viết chức danh cạnh tên Opera O; cả lớp đang vỗ tay. Giờ đồng hồ chính xác của cảnh vẫn `TBD`. Những gì ghi là “đã xảy ra” trong file này là `STORY-ESTABLISHED / LOCKED`.
+**Mốc hiện tại của prose:** **sáng 2026-04-01**, ngày đầu năm học 2026–2027, tại lớp Senior 3-A. Equinox đã điều hành xong cả bốn vòng bầu ban cán sự: **Sirius Symboli** là lớp trưởng, **Hishi Amazon** là lớp phó kỷ luật, **T.M. Opera O** là lớp phó tổ chức sự kiện và **Eishin Flash** là lớp phó học tập. Điểm dừng nằm ngay sau khi giờ nghỉ năm phút kế tiếp vòng học tập kết thúc; Equinox đã đóng mắt trái. Giờ đồng hồ chính xác của cảnh vẫn `TBD`. Những gì ghi là “đã xảy ra” trong file này là `STORY-ESTABLISHED / LOCKED`.
 
 ## 1. Trạng thái nghề nghiệp của Equinox
 
@@ -10,7 +10,7 @@
 - Đây là kết quả tuyển dụng cuối cùng, không còn là kế hoạch hay trạng thái dự tuyển.
 - Equinox đã nhận **thẻ nhân viên** và được staff/trainer chào mừng sau khi đậu cả hai phần đánh giá thực hành.
 - Equinox đã hoàn tất orientation hậu tuyển dụng 2026-03-10 và ngày làm việc thường lệ đầu tiên 2026-03-11, gồm xác nhận quyền truy cập, họp tổ Lịch sử, sửa rubric và chuẩn bị học liệu. Những điểm chưa được prose xác nhận cuối cùng vẫn giữ `TBD`; chúng không phủ định tư cách giáo viên/trainer chính thức.
-- Phân công **giáo viên chủ nhiệm Senior 3-A** đã được prose xác nhận vào sáng 2026-03-12. Roster 32 học sinh và vai trò chủ nhiệm không còn là đề xuất tạm.
+- Phân công **giáo viên chủ nhiệm Senior 3-A** đã được prose xác nhận vào sáng 2026-04-01. Roster 32 học sinh và vai trò chủ nhiệm không còn là đề xuất tạm.
 - Equinox chưa được chốt team/roster độc lập. `Chưa có team được giao` không đồng nghĩa với `chưa phải trainer`.
 
 ## 2. Quy trình đã hoàn tất trong ngày 2026-03-09
@@ -50,7 +50,7 @@
 - Air Groove vẫn ý thức rõ Equinox là faculty/trainer, nhưng quan hệ đã bớt căng sau một ngày cùng xử lý công việc, nói chuyện về hoa và đi mua những vật dụng Equinox còn thiếu. Air Groove có thể khuyên hoặc ngăn Equinox mua quá mức; không biến cô bé thành phụ huynh hay người quản lý toàn bộ đời sống của một đồng nghiệp trưởng thành.
 - Yayoi xem Equinox là trường hợp bất thường nhưng đầy triển vọng.
 - Hana đã trực tiếp chất vấn/phản biện Equinox trong ngày đánh giá. Hai người hiện là đồng nghiệp; không được viết Hana như người có quyền phủ nhận kết quả tuyển dụng đã chốt.
-- Orfevre đã chủ động nói chuyện với Equinox gần hết giờ trưa ngày 2026-03-11 về lớp trưởng, phẩm giá, quyền chất vấn và khả năng cai trị. Cô bé không nói đúng chữ “xin lỗi”, nhưng đã thừa nhận hành vi trước đó không đúng mực. Ngày 2026-03-12, Orfevre ứng cử lớp trưởng và đứng thứ năm với 12 phiếu thuận, 15 phiếu chống, 4 phiếu trắng; bước hạ nhiệt trước đó không tự động trao chức vụ hay xóa hệ quả hành vi cũ.
+- Orfevre đã chủ động nói chuyện với Equinox gần hết giờ trưa ngày 2026-03-11 về lớp trưởng, phẩm giá, quyền chất vấn và khả năng cai trị. Cô bé không nói đúng chữ “xin lỗi”, nhưng đã thừa nhận hành vi trước đó không đúng mực. Ngày 2026-04-01, Orfevre ứng cử lớp trưởng và đứng thứ năm với 12 phiếu thuận, 15 phiếu chống, 4 phiếu trắng; bước hạ nhiệt trước đó không tự động trao chức vụ hay xóa hệ quả hành vi cũ.
 - Equinox mới chỉ **quan sát** Haru Urara chạy trong một đoạn ngắn; hai người chưa có cuộc nói chuyện và Equinox chưa phụ trách cô bé. Sự tò mò của Equinox không phải quyền sở hữu hoặc quyết định kéo Haru vào team.
 
 ## 4. Haise và Takiyama
@@ -95,7 +95,7 @@ Các điều sau là kế hoạch tương lai, **không được viết như ký
 - Cô đã xử lý tài khoản, bảo mật, hệ thống hồ sơ, phân quyền và khối thủ tục hợp đồng đã xuất hiện trong prose.
 - Con số lương được nêu trong quá trình hợp đồng là **460.000 yên**. Repo chưa tự gắn thêm nhãn gross/net hoặc cấu phần nếu prose chưa xác nhận.
 - Chi tiết Equinox chọn tài khoản nào và dữ liệu tài khoản cụ thể là thông tin riêng của cảnh xử lý hợp đồng. **Air Groove không có mặt và không biết các chi tiết này.**
-- Ở thời điểm 2026-03-10, phân công chủ nhiệm và roster vẫn chưa khóa. Cảnh bầu ban cán sự ngày 2026-03-12 đã ghi đè trạng thái này: Equinox là chủ nhiệm 3-A và roster 32 người đã được xác nhận. Exact contract title, lịch dạy dài hạn, nhà ở nhân viên, team độc lập và roster trainee vẫn `TBD`.
+- Ở thời điểm 2026-03-10, phân công chủ nhiệm và roster vẫn chưa khóa. Cảnh bầu ban cán sự ngày 2026-04-01 đã ghi đè trạng thái này: Equinox là chủ nhiệm 3-A và roster 32 người đã được xác nhận. Exact contract title, lịch dạy dài hạn, nhà ở nhân viên, team độc lập và roster trainee vẫn `TBD`.
 
 ### Sau giờ làm: Air Groove và mua sắm
 
@@ -137,7 +137,7 @@ Các điều sau là kế hoạch tương lai, **không được viết như ký
 - Equinox không đọc nội dung riêng tư trong hồ sơ cho Zenith. Zenith chỉ biết cô đang đọc hồ sơ và chưa kết luận; hôn nhân không tạo quyền truy cập dữ liệu Tracen.
 - Equinox hoàn tất routine rửa mặt/mặt nạ dưới hướng dẫn của Zenith, kiểm tra chỉ còn một báo thức lúc 06:00 rồi đi ngủ chưa đầy một phút sau khi tắt đèn.
 
-## 8. Sáng 2026-03-12 đã xảy ra
+## 8. Sáng 2026-04-01 đã xảy ra
 
 ### Bầu lớp trưởng Senior 3-A
 
@@ -145,13 +145,20 @@ Các điều sau là kế hoạch tương lai, **không được viết như ký
 - Mỗi ứng viên nhận đúng **31 phiếu**: 27 từ học sinh không ứng cử và 4 từ bốn đối thủ; không ai được tự bỏ phiếu cho mình. Mỗi phiếu chọn một trong ba ô **Thuận / Chống / Trắng**.
 - Tamamo Cross, Inari One, Akitsu Teio, Lord Royal và Silence Suzuka lần lượt kiểm phiếu cho Rudolf, Orfevre, Sirius, Gentildonna và Opera O. Equinox kiểm tra tính hợp lệ của cả **155 phiếu** trong chưa đầy một phút; năm học sinh tự phân loại, đếm hai lần và ký biên bản.
 - Không có phiếu hủy. Kết quả theo phiếu thuận: **Sirius 22**, **Gentildonna 21**, **Opera O 18**, **Rudolf 16**, **Orfevre 12**. Sirius đắc cử lớp trưởng; cả lớp vỗ tay sau khi tên cô được viết lên bảng.
-- Kết quả đầy đủ và cơ chế kiểm phiếu được khóa tại `fanfic/events/2026-03-12-class-3a-election.md`.
+- Kết quả đầy đủ và cơ chế kiểm phiếu được khóa tại `fanfic/events/2026-04-01-class-3a-election.md`.
 
 ### Chuyển trạng thái mắt và điểm dừng
 
 - Trong phần nghiêm khắc của quy trình, Equinox mở mắt phải và nhắm mắt trái.
 - Khi công bố kết quả, cô đóng mắt phải, mở mắt trái pha đỏ–hồng–trắng với đồng tử hình ngôi sao sáu cánh; giọng trở nên dịu và ngọt hơn rõ rệt.
 - Mắt trái tồn tại đúng năm phút chuyển tiếp rồi khép lại. Sirius không được ứng cử thêm chức vụ trong cùng cuộc bầu ban cán sự.
+
+### Bầu lớp phó kỷ luật Senior 3-A
+
+- Bốn ứng viên là **Gentildonna, Air Groove, Hishi Amazon** và **Akitsu Teio**; mỗi người nhận 31 phiếu, không được tự đánh giá.
+- Kết quả Thuận–Chống–Trắng: **Hishi Amazon 23–7–1; Akitsu Teio 22–8–1; Gentildonna 21–8–2; Air Groove 19–5–7**.
+- Winning Ticket, Narita Taishin, Gold City và Mr. C.B. lần lượt kiểm phiếu cho Hishi, Akitsu, Gentildonna và Air Groove dưới bước kiểm tra hợp lệ của Equinox.
+- Hishi Amazon đắc cử lớp phó kỷ luật, hơn Akitsu đúng một phiếu thuận; Equinox mở mắt trái khi công bố và lớp vỗ tay.
 
 ### Bầu lớp phó tổ chức sự kiện Senior 3-A
 
@@ -162,7 +169,14 @@ Các điều sau là kế hoạch tương lai, **không được viết như ký
 - Kết quả: **Opera O 30–0–1; Fuji 29–0–2; Maruzensky 26–2–3; Taiki 24–3–4; Winning Ticket 22–4–5; Hishi Akebono 20–3–8; Gold Ship 2–24–5** theo thứ tự Thuận–Chống–Trắng.
 - Opera O đắc cử, hơn Fuji đúng một phiếu Thuận. Cả hai không có phiếu Chống.
 - Gold Ship chỉ nhận Thuận từ Mr. C.B. và Mayano Top Gun; năm phiếu Trắng đến từ Mejiro Ramonu, Nakayama Festa, God Hannibal, Long Live Free và Narita Taishin. 24 người còn lại chọn Chống; phiếu Tamamo tô rất đậm nhưng vẫn hợp lệ.
-- Ledger từng cử tri được khóa tại `fanfic/events/2026-03-12-class-3a-election.md`.
+- Ledger từng cử tri được khóa tại `fanfic/events/2026-04-01-class-3a-election.md`.
+
+### Bầu lớp phó học tập Senior 3-A
+
+- Ba ứng viên là **Eishin Flash, Air Shakur** và **Sakura Laurel**. Mỗi ứng viên nhận đúng 31 phiếu: 29 từ học sinh không ứng cử và 2 từ hai đối thủ.
+- Fine Motion, Sirius Symboli và Mayano Top Gun được chọn ngẫu nhiên sau khi thu phiếu, lần lượt kiểm phiếu cho Flash, Shakur và Laurel.
+- Kết quả Thuận–Chống–Trắng: **Flash 24–6–1; Laurel 23–7–1; Shakur 22–8–1**. Không có phiếu hủy.
+- Eishin Flash đắc cử lớp phó học tập, hơn Laurel đúng một phiếu thuận. Equinox đóng mắt phải, mở mắt trái để công bố, cho lớp nghỉ năm phút rồi đóng mắt trái khi đồng hồ về không.
 
 ## 9. Quan niệm cơ thể và giới tính đã khóa
 
@@ -175,6 +189,6 @@ Các điều sau là kế hoạch tương lai, **không được viết như ký
 
 ## 10. Điểm nối cảnh
 
-Điểm tiếp tục trực tiếp là ngay sau khi Equinox công bố **T.M. Opera O đắc cử lớp phó tổ chức sự kiện**. Mắt trái của Equinox đang mở, tên Opera O đã được ghi kèm chức danh trên bảng và tiếng vỗ tay vừa bùng lên. Không tự kéo trạng thái về trước vòng bỏ phiếu, không đổi bất kỳ phiếu cá nhân nào trong ledger và không tự gán thời lượng cho lần mở mắt trái này.
+Điểm tiếp tục trực tiếp là ngay sau khi giờ nghỉ năm phút kế tiếp việc Equinox công bố **Eishin Flash đắc cử lớp phó học tập** kết thúc. Equinox đã đóng mắt trái. Ban cán sự đã đủ bốn chức vụ: **Sirius Symboli / Hishi Amazon / T.M. Opera O / Eishin Flash**. Không kéo trạng thái về trước bất kỳ vòng bỏ phiếu nào, không thay đổi ledger đã khóa và không cho một người kiêm nhiệm nhiều chức vụ.
 
 Không được quay lại trạng thái “ứng viên” hay buộc Equinox thi lại. Không mặc định nhân vật biết một sự kiện đã qua nếu họ không được xác lập là người tham dự/người được kể lại; xem `fanfic/style/prohibited_tendencies.md`, `fanfic/knowledge/air-groove.md` và `fanfic/knowledge/zenith.md`.

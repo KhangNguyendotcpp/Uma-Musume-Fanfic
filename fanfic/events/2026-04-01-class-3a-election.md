@@ -1,12 +1,12 @@
-# Bầu ban cán sự 3-A — 2026-03-12
+# Bầu ban cán sự 3-A — 2026-04-01
 
 **Trạng thái:** `STORY-ESTABLISHED / LOCKED`  
-**Thời điểm:** sáng 2026-03-12, giờ đồng hồ chính xác `TBD`  
+**Thời điểm:** sáng 2026-04-01, ngày đầu năm học 2026–2027; giờ đồng hồ chính xác `TBD`
 **Địa điểm:** lớp Senior 3-A, Tracen Academy
 
 ## Phạm vi đã khóa
 
-- Equinox đã được xác nhận là giáo viên chủ nhiệm của lớp 3-A và trực tiếp điều hành cuộc bầu ban cán sự trước kỳ học 2026–2027.
+- Equinox đã được xác nhận là giáo viên chủ nhiệm của lớp 3-A và trực tiếp điều hành cuộc bầu ban cán sự trong ngày đầu năm học 2026–2027.
 - Roster 32 học sinh trong `fanfic/world/class-3a-roster-2026.md` đã hiện diện đầy đủ; cảnh này khóa roster đó thành continuity đã xảy ra.
 - Năm ứng viên lớp trưởng: **Symboli Rudolf, Orfevre, Sirius Symboli, Gentildonna, T.M. Opera O**.
 - Mỗi ứng viên hoàn thành bản tự khai 21 câu. Hai mươi bảy học sinh không ứng cử được đọc đủ năm bản; sau đó mỗi ứng viên đọc bốn bản của bốn đối thủ.
@@ -59,7 +59,31 @@ Equinox gọi năm học sinh lên công khai phân loại và đếm:
 
 - Phiếu lớp trưởng đã được kẹp, niêm phong cùng biên bản và đặt sang một bên.
 - Sirius không được ứng cử thêm chức vụ trong cùng vòng bầu ban cán sự.
-- Cả lớp tiếp tục cuộc bầu ban cán sự. Vòng mới nhất đã được prose khóa là **lớp phó tổ chức sự kiện**.
+- Cả lớp tiếp tục lần lượt hoàn tất ba chức vụ lớp phó; người đã đắc cử không được ứng cử thêm chức vụ.
+
+## Kết quả lớp phó kỷ luật
+
+Bốn ứng viên là **Gentildonna, Air Groove, Hishi Amazon** và **Akitsu Teio**. Hai mươi tám học sinh không ứng cử đánh giá đủ bốn người; sau đó mỗi ứng viên đánh giá ba đối thủ và không tự bỏ phiếu cho mình. Vì vậy mỗi ứng viên nhận đúng **31 phiếu**.
+
+| Thứ hạng | Ứng viên | Thuận | Chống | Trắng | Tổng |
+|---:|---|---:|---:|---:|---:|
+| 1 | **Hishi Amazon** | **23** | 7 | 1 | 31 |
+| 2 | **Akitsu Teio** | **22** | 8 | 1 | 31 |
+| 3 | **Gentildonna** | **21** | 8 | 2 | 31 |
+| 4 | **Air Groove** | **19** | 5 | 7 | 31 |
+
+Phân công kiểm phiếu:
+
+| Người kiểm phiếu | Ứng viên phụ trách |
+|---|---|
+| Winning Ticket | Hishi Amazon |
+| Narita Taishin | Akitsu Teio |
+| Gold City | Gentildonna |
+| Mr. C.B. | Air Groove |
+
+- Equinox kiểm tra tính hợp lệ trước khi phiếu được phân loại; người kiểm phiếu đếm lại và xác nhận mỗi chồng đủ 31.
+- **Hishi Amazon đắc cử lớp phó kỷ luật** với 23 thuận, hơn Akitsu Teio đúng một phiếu thuận.
+- Khi công bố, Equinox đóng mắt phải và mở mắt trái có đồng tử sao sáu cánh; cả lớp vỗ tay.
 
 ## Ứng viên lớp phó tổ chức sự kiện
 
@@ -132,9 +156,40 @@ Quy ước: `—` là hàng tên chính ứng viên, không có quyền tự đ�
 
 Gold Ship nhận hai phiếu Thuận từ **Mr. C.B.** và **Mayano Top Gun**; năm phiếu Trắng từ **Mejiro Ramonu, Nakayama Festa, God Hannibal, Long Live Free** và **Narita Taishin**; 24 người còn lại chọn Chống. Phiếu Chống của Tamamo Cross bị tô đen rất mạnh nhưng vẫn hợp lệ vì mực không vượt sang ô khác.
 
-## Trạng thái mắt và điểm tiếp tục mới
+## Trạng thái mắt ở vòng lớp phó tổ chức sự kiện
 
 - Trong phần thu, đọc và cập nhật phiếu, Equinox nhắm cả hai mắt nhưng vẫn quan sát bình thường.
 - Khi công bố kết quả, cô mở mắt trái pha đỏ–hồng–trắng với đồng tử sao sáu cánh; giọng chuyển sang dịu và ngọt rõ rệt.
 - Equinox viết **ĐẮC CỬ — LỚP PHÓ TỔ CHỨC SỰ KIỆN** cạnh tên Opera O và chính thức công bố kết quả.
-- Mốc prose hiện tại nằm ngay sau khi tiếng vỗ tay bùng lên và Opera O đứng giữa lớp dưới tên vừa được ghi trên bảng. Không tự gán thời lượng cho lần mở mắt trái này nếu prose chưa xác lập.
+- Lần mở mắt trái này không được tự gán thời lượng; prose chỉ xác lập thời lượng cho khoảng nghỉ sau vòng học tập.
+
+## Kết quả lớp phó học tập
+
+Ba ứng viên là **Eishin Flash, Air Shakur** và **Sakura Laurel**. Mỗi ứng viên hoàn thành bản tự khai 21 câu. Hai mươi chín học sinh không ứng cử đọc đủ ba bản và đánh giá từng ứng viên; sau đó mỗi ứng viên đọc hai bản của hai đối thủ và bỏ hai phiếu. Mỗi ứng viên nhận đúng **29 + 2 = 31 phiếu**.
+
+Equinox chọn ngẫu nhiên ba học sinh không ứng cử để kiểm phiếu sau khi toàn bộ phiếu đã được thu và trộn:
+
+| Người kiểm phiếu | Ứng viên phụ trách |
+|---|---|
+| Fine Motion | Eishin Flash |
+| Sirius Symboli | Air Shakur |
+| Mayano Top Gun | Sakura Laurel |
+
+| Thứ hạng | Ứng viên | Thuận | Chống | Trắng | Tổng |
+|---:|---|---:|---:|---:|---:|
+| 1 | **Eishin Flash** | **24** | 6 | 1 | 31 |
+| 2 | **Sakura Laurel** | **23** | 7 | 1 | 31 |
+| 3 | **Air Shakur** | **22** | 8 | 1 | 31 |
+
+- Không có phiếu hủy, phiếu đánh dấu hai ô, phiếu để trống cả ba lựa chọn, ký hiệu nhận dạng hoặc phiếu nằm sai khay.
+- **Eishin Flash đắc cử lớp phó học tập**, hơn Sakura Laurel đúng một phiếu thuận; Shakur đứng sau Laurel một phiếu và có số phiếu Chống cao hơn hai đối thủ.
+- Khi công bố, Equinox đóng mắt phải và mở mắt trái; cả lớp vỗ tay. Cô cho lớp nghỉ đúng năm phút và đóng mắt trái khi đồng hồ về không.
+
+## Ban cán sự hoàn chỉnh và điểm tiếp tục
+
+1. **Lớp trưởng:** Sirius Symboli.
+2. **Lớp phó kỷ luật:** Hishi Amazon.
+3. **Lớp phó tổ chức sự kiện:** T.M. Opera O.
+4. **Lớp phó học tập:** Eishin Flash.
+
+Mốc prose hiện tại nằm ngay sau khi giờ nghỉ năm phút sau vòng lớp phó học tập kết thúc. Equinox đã đóng mắt trái; cả bốn chức vụ đã có người đắc cử. Không được quay lại trạng thái “mới bầu xong hai chức vụ”, mở lại bất kỳ vòng nào hoặc cho người đã đắc cử kiêm nhiệm thêm chức vụ.

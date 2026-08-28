@@ -39,7 +39,8 @@ Mốc Live là quy ước `ORIGINAL`. Với international campaign, Equinox ph�
 
 ## 2026
 
-- **2026-04-06 Thứ Hai 08:30 — Đại sảnh Tracen:** khai giảng/nhập học.
+- **2026-04-01 Thứ Tư, giờ chính xác TBD — Senior 3-A:** ngày đầu năm học; Equinox hoàn tất bầu đủ bốn chức vụ ban cán sự.
+- **2026-04-06 Thứ Hai 08:30 — Đại sảnh Tracen:** lễ khai giảng/nhập học toàn trường; Special Week nhập học.
 - **2026-05-25 Thứ Hai 08:40–05-29 Thứ Sáu 12:20 — Khối học thuật:** giữa kỳ mùa xuân; training chiều giảm còn 90 phút.
 - **2026-07-06 Thứ Hai 08:40–07-10 Thứ Sáu 12:20 — Khối học thuật:** cuối kỳ mùa xuân.
 - **2026-07-20 Thứ Hai 07:00–08-09 Chủ Nhật 21:00 — Hokkaido/Sapporo facility:** Summer Training Camp I.

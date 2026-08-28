@@ -1,6 +1,6 @@
 # Air Groove — Knowledge Registry tại điểm prose hiện tại
 
-**Mốc:** sáng 2026-03-12, ngay sau vòng bầu lớp phó tổ chức sự kiện 3-A.
+**Mốc:** sáng 2026-04-01, ngay sau giờ nghỉ năm phút kết thúc vòng bầu lớp phó học tập 3-A.
 
 ## KNOWN — có nguồn trực tiếp
 
@@ -15,7 +15,9 @@
 - Cơ chế bỏ phiếu, quá trình kiểm phiếu công khai và kết quả đầy đủ: trực tiếp tham gia và chứng kiến. Air Groove biết Sirius đắc cử với 22/31 phiếu thuận, hơn Gentildonna một phiếu.
 - Trạng thái mắt trong cảnh bầu cử: trực tiếp thấy Equinox mở mắt phải ở phần nghiêm khắc, sau đó đóng phải/mở trái đúng năm phút; mắt trái pha đỏ–hồng–trắng, đồng tử sao sáu cánh và giọng nói dịu/ngọt rõ rệt.
 - Toàn bộ vòng lớp phó tổ chức sự kiện: Air Groove trực tiếp nhận phiếu, chọn Thuận cho sáu ứng viên nghiêm túc và Chống Gold Ship, rồi chứng kiến Equinox đọc công khai đủ 217 lựa chọn. Cô biết T.M. Opera O đắc cử 30–0–1, hơn Fuji Kiseki một phiếu; biết kết quả và lựa chọn cá nhân của toàn bộ cử tri vì chúng được công bố trước lớp.
-- Trạng thái mắt ở cuối vòng mới: Air Groove trực tiếp thấy Equinox nhắm cả hai mắt trong lúc đọc phiếu rồi mở mắt trái để công bố Opera O. Cô chưa có căn cứ biết lần mở mắt trái này sẽ kéo dài bao lâu.
+- Vòng lớp phó kỷ luật: Air Groove trực tiếp ứng cử và tham gia đánh giá ba đối thủ. Cô biết kết quả Hishi Amazon 23–7–1, Akitsu Teio 22–8–1, Gentildonna 21–8–2 và bản thân 19–5–7; biết Winning Ticket, Narita Taishin, Gold City và Mr. C.B. là bốn người kiểm phiếu.
+- Vòng lớp phó học tập: Air Groove trực tiếp đọc ba bản tự khai, bỏ phiếu và chứng kiến kiểm phiếu. Cô biết Flash thắng 24–6–1, Laurel đạt 23–7–1, Shakur đạt 22–8–1; Fine Motion, Sirius Symboli và Mayano Top Gun lần lượt phụ trách ba ứng viên.
+- Trạng thái mắt ở các vòng cuối: Air Groove trực tiếp thấy Equinox nhắm cả hai mắt trong lúc đọc phiếu sự kiện rồi mở mắt trái để công bố Opera O. Cô chưa có căn cứ gán thời lượng cho lần mở đó. Sau khi công bố Flash, Air Groove trực tiếp chứng kiến Equinox mở mắt trái, cho lớp nghỉ đúng năm phút và đóng mắt trái khi đồng hồ về không.
 
 ## UNKNOWN — không được mặc định biết
 

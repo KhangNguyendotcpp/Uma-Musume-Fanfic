@@ -7,7 +7,7 @@
 **Neo bậc học của Rudolf:** **Senior Year 3/năm cuối THPT — `APPROVED / AUTHOR_OVERRIDE`**
 
 > [!NOTE]
-> Sáng 2026-03-10, roster và phân công chủ nhiệm vẫn chỉ là dự kiến. Cảnh bầu ban cán sự ngày 2026-03-12 đã xác nhận Equinox là chủ nhiệm và khóa đầy đủ 32 học sinh dưới đây. Đây là quyết định fanfic, không phải tuổi/lớp official do Cygames công bố.
+> Sáng 2026-03-10, roster và phân công chủ nhiệm vẫn chỉ là dự kiến. Cảnh bầu ban cán sự ngày 2026-04-01 đã xác nhận Equinox là chủ nhiệm và khóa đầy đủ 32 học sinh dưới đây. Đây là quyết định fanfic, không phải tuổi/lớp official do Cygames công bố.
 
 ## Mục đích và quy ước
 
@@ -56,10 +56,12 @@
 
 ## Ban cán sự đã bầu
 
-- **Lớp trưởng:** **Sirius Symboli** — đắc cử sáng 2026-03-12 với **22 thuận / 6 chống / 3 trắng**, tổng 31 phiếu.
-- **Lớp phó tổ chức sự kiện:** **T.M. Opera O** — đắc cử sáng 2026-03-12 với **30 thuận / 0 chống / 1 trắng**, hơn Fuji Kiseki đúng một phiếu thuận.
-- **Lớp phó học tập:** `TBD`; repo không tự suy ra kết quả từ những vòng bầu khác.
-- Kết quả và quy trình đầy đủ: `fanfic/events/2026-03-12-class-3a-election.md`.
+- **Lớp trưởng:** **Sirius Symboli** — đắc cử sáng 2026-04-01 với **22 thuận / 6 chống / 3 trắng**, tổng 31 phiếu.
+- **Lớp phó kỷ luật:** **Hishi Amazon** — đắc cử với **23 thuận / 7 chống / 1 trắng**, hơn Akitsu Teio đúng một phiếu thuận.
+- **Lớp phó tổ chức sự kiện:** **T.M. Opera O** — đắc cử với **30 thuận / 0 chống / 1 trắng**, hơn Fuji Kiseki đúng một phiếu thuận.
+- **Lớp phó học tập:** **Eishin Flash** — đắc cử với **24 thuận / 6 chống / 1 trắng**, hơn Sakura Laurel đúng một phiếu thuận.
+- Cả bốn chức vụ đã được bầu xong; không được hạ trạng thái về còn hai chức vụ hoặc cho một người kiêm nhiệm.
+- Kết quả và quy trình đầy đủ: `fanfic/events/2026-04-01-class-3a-election.md`.
 
 ## Cảnh báo continuity còn áp dụng
 

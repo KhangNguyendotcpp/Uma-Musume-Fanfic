@@ -36,14 +36,11 @@ Mọi giờ nội địa dùng Japan Standard Time (JST). Giờ xuất phát maj
 | 2026-03-10 Thứ Ba, buổi tối (giờ chính xác TBD) | Nhà hàng thịt nướng trong khu mua sắm, Tokyo | Equinox ăn tối cùng Air Groove và mẹ cô bé, Dyna Carle, theo lời mời của Dyna; Air Groove xác nhận Equinox đã đối đãi tử tế với mình; Equinox và Dyna đổi liên lạc | STORY-ESTABLISHED / LOCKED |
 | 2026-03-11 Thứ Tư, giờ làm việc (giờ chính xác TBD) | Tracen Academy | Equinox hoàn tất ngày làm việc thường lệ đầu tiên: xác nhận quyền truy cập, họp tổ Lịch sử, sửa rubric và chuẩn bị học liệu; Orfevre thừa nhận hành vi trước đó không đúng mực; Equinox quan sát Haru Urara chạy nhưng chưa can thiệp | STORY-ESTABLISHED / LOCKED |
 | 2026-03-11 Thứ Tư, sau 19:00–cuối ngày | Căn hộ Shibuya | Equinox nhận bốn hộp và hai túi hàng may sẵn/phụ kiện, còn đồ đặt may chờ thử mẫu; gọi video với Zenith, đọc thêm ba hồ sơ 3-A để đạt 13/32, hoàn tất routine buổi tối và đi ngủ | STORY-ESTABLISHED / LOCKED |
-| 2026-03-12 Thứ Năm, buổi sáng (giờ chính xác TBD) | Lớp Senior 3-A, Tracen Academy | Equinox điều hành bầu ban cán sự. Sirius Symboli đắc cử lớp trưởng với 22/31 phiếu thuận. Ở vòng lớp phó tổ chức sự kiện, toàn bộ 32 phiếu và 217 lựa chọn hợp lệ; T.M. Opera O đắc cử với 30 thuận, 0 chống, 1 trắng, hơn Fuji Kiseki đúng một phiếu thuận | STORY-ESTABLISHED / LOCKED / CURRENT PROSE |
 | 2026-03-23 Thứ Hai 08:30 JST | Tracen Academy | Mốc cũ dự kiến cho nhịp nhiệm vụ staff thường trực; **không phải ngày Equinox được tuyển**, vì cô đã chính thức là staff từ 2026-03-09 | APPROVED baseline / subject to author revision |
-| 2026-04-06 Thứ Hai 08:30 JST | Tracen Academy | Khai giảng; Special Week nhập học; S1 era bắt đầu | APPROVED baseline |
+| 2026-04-01 Thứ Tư, buổi sáng (giờ chính xác TBD) | Lớp Senior 3-A, Tracen Academy | Ngày đầu năm học 2026–2027. Equinox điều hành xong bốn vòng bầu ban cán sự: Sirius Symboli đắc cử lớp trưởng 22–6–3; Hishi Amazon đắc cử lớp phó kỷ luật 23–7–1; T.M. Opera O đắc cử lớp phó tổ chức sự kiện 30–0–1; Eishin Flash đắc cử lớp phó học tập 24–6–1. Điểm prose hiện tại nằm sau giờ nghỉ năm phút kế tiếp vòng học tập | STORY-ESTABLISHED / LOCKED / CURRENT PROSE |
+| 2026-04-06 Thứ Hai 08:30 JST | Tracen Academy | Lễ khai giảng/nhập học toàn trường; Special Week nhập học; S1 era bắt đầu | APPROVED baseline |
 | 2026-04-12 Chủ Nhật 14:50 JST | Tokyo Racecourse | Debut race của Special Week | Spe thắng; ADOPTED result / date ORIGINAL |
-| 2026-04-19 Chủ Nhật 21:30 JST | Shin-Aomori Station, Aomori | Haise xuất hiện riêng | DRAFT exact arrival |
-| 2026-04-20 Thứ Hai 08:15 JST | Bộ phận đăng ký Tracen | Xử lý nhập học muộn của Haise | DRAFT |
-| 2026-05-03 Chủ Nhật 05:50 JST | Shin-Osaka Station, Osaka | Takiyama xuất hiện riêng | DRAFT exact arrival |
-| 2026-05-04 Thứ Hai 08:15 JST | Bộ phận đăng ký Tracen | Xử lý nhập học muộn của Takiyama | DRAFT |
+| 2026-04-13 đến 2026-04-20, giờ TBD | Điểm xuất hiện/Tracen TBD | Cửa sổ Zenith dự kiến đưa Haise và Takiyama tới, khoảng một đến hai tuần sau khi Special Week nhập học; ngày, thứ tự xuất hiện và thủ tục nhập học riêng của từng người chưa khóa | AUTHOR PLAN / exact details TBD |
 | 2026-05-10 Chủ Nhật 14:30 JST | Tracen training course, Fuchu | Mock race Special Week–Taiki Shuttle | Taiki thắng; training result ADOPTED |
 
 Haise/Taki chỉ chạy debut/qualifying trong phần còn lại của 2026. Họ **không** dự Classic 2026; exact race/result giữ `TBD`.

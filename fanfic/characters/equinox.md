@@ -7,7 +7,7 @@
 - **Số đo ba vòng (ngực–eo–hông):** **210–118–200 cm** — STORY-ESTABLISHED / LOCKED
 - **Cơ quan:** Tracen Academy
 - **Vai trò hiện tại:** giáo viên Lịch sử + trainer chính thức + giáo viên chủ nhiệm Senior 3-A, với quyền trong từng phạm vi chuyên môn — STORY-ESTABLISHED / LOCKED
-- **Trạng thái tại điểm prose hiện tại:** sáng 2026-03-12, đã điều hành xong vòng bầu lớp trưởng và lớp phó tổ chức sự kiện 3-A; Sirius Symboli và T.M. Opera O lần lượt đắc cử — STORY-ESTABLISHED / LOCKED
+- **Trạng thái tại điểm prose hiện tại:** sáng 2026-04-01, đã điều hành xong bốn vòng bầu ban cán sự 3-A; Sirius Symboli, Hishi Amazon, T.M. Opera O và Eishin Flash lần lượt giữ các chức vụ lớp trưởng, lớp phó kỷ luật, lớp phó tổ chức sự kiện và lớp phó học tập — STORY-ESTABLISHED / LOCKED
 - **Môn giảng dạy/đã giảng thử:** Lịch sử — STORY-ESTABLISHED / LOCKED
 - **Chức danh hợp đồng chính xác:** TBD; không ảnh hưởng kết quả tuyển dụng đã chốt
 
@@ -59,14 +59,16 @@ Equinox là Uma nhưng **không được định hướng làm racer thi đấu*
 - Đọc thêm ba hồ sơ 3-A vào buổi tối; tiến độ cuối ngày **13/32**. Không chia sẻ dữ liệu riêng tư trong hồ sơ với Zenith.
 - Nhận phần hàng may sẵn/phụ kiện; đồ đặt may riêng vẫn chờ dựng và thử mẫu.
 
-## Bầu lớp trưởng 3-A — 2026-03-12
+## Bầu ban cán sự 3-A — 2026-04-01
 
 - Điều hành quy trình tự khai, đánh giá chéo, bỏ phiếu kín và kiểm phiếu công khai cho 32 học sinh.
 - Kiểm tra tính hợp lệ của 155 phiếu trong chưa đầy một phút nhưng vẫn để năm học sinh trực tiếp phân loại, đếm hai lần và ký biên bản nhằm bảo đảm tính minh bạch, kể cả minh bạch đối với chính mình.
 - Công bố Sirius Symboli đắc cử với 22/31 phiếu thuận, hơn Gentildonna một phiếu.
 - Đóng mắt phải và mở mắt trái đúng năm phút chuyển tiếp; sau khi mắt trái khép lại, cuộc bầu ban cán sự tiếp tục.
+- Ở vòng lớp phó kỷ luật, công bố Hishi Amazon đắc cử với 23 thuận, 7 chống, 1 trắng, hơn Akitsu Teio đúng một phiếu thuận.
 - Ở vòng lớp phó tổ chức sự kiện, kiểm tra công khai 32 phiếu với 217 lựa chọn, không có phiếu hủy; công bố T.M. Opera O đắc cử với 30 thuận, 0 chống, 1 trắng, hơn Fuji Kiseki đúng một phiếu.
 - Mở mắt trái khi công bố Opera O đắc cử. Thời lượng của lần mở mắt này chưa được prose xác lập và không được tự đồng nhất với khoảng chuyển tiếp năm phút trước đó.
+- Ở vòng lớp phó học tập, công bố Eishin Flash đắc cử với 24 thuận, 6 chống, 1 trắng; cho lớp nghỉ đúng năm phút rồi đóng mắt trái khi đồng hồ về không.
 
 ## Nguyên tắc nghề nghiệp đã thể hiện
 - Sức khỏe và medical clearance đứng trên race, Winning Live và sức ép khán giả.
