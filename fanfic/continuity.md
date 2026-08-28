@@ -11,7 +11,7 @@
 
 ## Trục protagonist
 
-- Equinox xuất hiện, hoàn tất toàn bộ quy trình tuyển dụng và trở thành giáo viên Lịch sử + trainer chính thức ngày 2026-03-09. Orientation hậu tuyển dụng diễn ra 2026-03-10; sau đó cô ăn tối cùng Air Groove và Dyna Carle. Ngày 2026-03-11 cô hoàn tất ngày làm việc thường lệ đầu tiên, Orfevre thừa nhận hành vi không đúng mực, Equinox mới quan sát Haru Urara chứ chưa can thiệp, rồi đọc 13/32 hồ sơ trước khi ngủ. Prose hiện tại ở sáng 2026-03-12: Equinox đã được xác nhận là chủ nhiệm Senior 3-A, Sirius Symboli vừa đắc cử lớp trưởng và lớp đang chuẩn bị bầu lớp phó học tập.
+- Equinox xuất hiện, hoàn tất toàn bộ quy trình tuyển dụng và trở thành giáo viên Lịch sử + trainer chính thức ngày 2026-03-09. Orientation hậu tuyển dụng diễn ra 2026-03-10; sau đó cô ăn tối cùng Air Groove và Dyna Carle. Ngày 2026-03-11 cô hoàn tất ngày làm việc thường lệ đầu tiên, Orfevre thừa nhận hành vi không đúng mực, Equinox mới quan sát Haru Urara chứ chưa can thiệp, rồi đọc 13/32 hồ sơ trước khi ngủ. Prose hiện tại ở sáng 2026-03-12: Equinox đã được xác nhận là chủ nhiệm Senior 3-A; Sirius Symboli đã đắc cử lớp trưởng và T.M. Opera O vừa đắc cử lớp phó tổ chức sự kiện với 30/31 phiếu thuận, hơn Fuji Kiseki một phiếu.
 - Special Week nhập học 2026-04-06.
 - Haise đến 2026-04-19 và Taki đến 2026-05-03; ngày nhập học tương ứng vẫn DRAFT cho đến khi prose khóa.
 - Haise/Taki không chạy Classic năm 2026. Classic Year duy nhất của họ là 2027.

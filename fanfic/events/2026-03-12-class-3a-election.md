@@ -1,4 +1,4 @@
-# Bầu lớp trưởng 3-A — 2026-03-12
+# Bầu ban cán sự 3-A — 2026-03-12
 
 **Trạng thái:** `STORY-ESTABLISHED / LOCKED`  
 **Thời điểm:** sáng 2026-03-12, giờ đồng hồ chính xác `TBD`  
@@ -55,10 +55,86 @@ Equinox gọi năm học sinh lên công khai phân loại và đếm:
 - Mắt trái chỉ mở đúng **năm phút** trong khoảng chuyển tiếp. Khi đồng hồ về không, Equinox đóng mắt trái lại.
 - Việc đổi mắt là một thay đổi characterization có thật, không phải lý do để bỏ quy trình hoặc giảm tính minh bạch.
 
-## Điểm tiếp tục
+## Chuyển tiếp sau vòng lớp trưởng
 
 - Phiếu lớp trưởng đã được kẹp, niêm phong cùng biên bản và đặt sang một bên.
 - Sirius không được ứng cử thêm chức vụ trong cùng vòng bầu ban cán sự.
-- Cả lớp đã ổn định để bắt đầu phần ứng cử/đề cử **lớp phó học tập**; người được đề cử có quyền từ chối.
-- Mốc prose hiện tại là ngay sau khi năm phút chuyển tiếp kết thúc và mắt trái Equinox khép lại.
+- Cả lớp tiếp tục cuộc bầu ban cán sự. Vòng mới nhất đã được prose khóa là **lớp phó tổ chức sự kiện**.
 
+## Ứng viên lớp phó tổ chức sự kiện
+
+Bảy ứng viên:
+
+1. T.M. Opera O
+2. Winning Ticket
+3. Fuji Kiseki
+4. Taiki Shuttle
+5. Hishi Akebono
+6. Maruzensky
+7. Gold Ship
+
+Equinox phát phiếu cho cả bảy ứng viên và 25 thành viên còn lại của lớp. Mỗi người có mười phút để suy nghĩ, thảo luận, đánh giá và quyết định; ứng viên không đánh giá chính mình. Mỗi hàng dùng đúng một lựa chọn **Thuận / Chống / Trắng**.
+
+Khi hết giờ, Equinox thu phiếu theo thứ tự roster, đọc công khai tên cử tri cùng từng lựa chọn, kiểm tra tính hợp lệ rồi cập nhật bảng ngay trước lớp. Có **32 tờ phiếu**, **217 lựa chọn** và không có phiếu hủy; mỗi ứng viên nhận đúng 31 đánh giá.
+
+## Ledger phiếu lớp phó tổ chức sự kiện
+
+Quy ước: `—` là hàng tên chính ứng viên, không có quyền tự đánh giá.
+
+| Cử tri | Opera O | Winning Ticket | Fuji Kiseki | Taiki Shuttle | Hishi Akebono | Maruzensky | Gold Ship |
+|---|---|---|---|---|---|---|---|
+| Symboli Rudolf | Thuận | Thuận | Thuận | Thuận | Thuận | Thuận | Chống |
+| Air Groove | Thuận | Thuận | Thuận | Thuận | Thuận | Thuận | Chống |
+| Narita Brian | Trắng | Trắng | Thuận | Trắng | Trắng | Trắng | Chống |
+| Tamamo Cross | Thuận | Thuận | Thuận | Thuận | Thuận | Thuận | Chống |
+| Maruzensky | Thuận | Thuận | Thuận | Thuận | Thuận | — | Chống |
+| Mr. C.B. | Thuận | Thuận | Thuận | Thuận | Thuận | Thuận | Thuận |
+| Katsuragi Ace | Thuận | Thuận | Thuận | Thuận | Thuận | Thuận | Chống |
+| Mejiro Ramonu | Thuận | Chống | Trắng | Chống | Chống | Thuận | Trắng |
+| Sirius Symboli | Thuận | Thuận | Thuận | Thuận | Thuận | Thuận | Chống |
+| Gold City | Thuận | Thuận | Thuận | Thuận | Thuận | Thuận | Chống |
+| Inari One | Thuận | Thuận | Thuận | Thuận | Thuận | Thuận | Chống |
+| Hishi Amazon | Thuận | Thuận | Thuận | Thuận | Thuận | Thuận | Chống |
+| Fuji Kiseki | Thuận | Thuận | — | Thuận | Thuận | Thuận | Chống |
+| Taiki Shuttle | Thuận | Thuận | Thuận | — | Thuận | Thuận | Chống |
+| Silence Suzuka | Thuận | Thuận | Thuận | Thuận | Thuận | Thuận | Chống |
+| Fine Motion | Thuận | Thuận | Thuận | Thuận | Thuận | Thuận | Chống |
+| Air Shakur | Thuận | Chống | Trắng | Chống | Chống | Chống | Chống |
+| Eishin Flash | Thuận | Thuận | Thuận | Thuận | Trắng | Thuận | Chống |
+| T.M. Opera O | — | Thuận | Thuận | Thuận | Thuận | Thuận | Chống |
+| Hishi Akebono | Thuận | Thuận | Thuận | Thuận | — | Thuận | Chống |
+| Sakura Laurel | Thuận | Thuận | Thuận | Thuận | Thuận | Thuận | Chống |
+| Orfevre | Thuận | Chống | Thuận | Thuận | Chống | Thuận | Chống |
+| Gentildonna | Thuận | Chống | Thuận | Trắng | Trắng | Thuận | Chống |
+| Nakayama Festa | Thuận | Trắng | Thuận | Thuận | Trắng | Thuận | Trắng |
+| God Hannibal | Thuận | Trắng | Thuận | Trắng | Trắng | Trắng | Trắng |
+| Gold Ship | Thuận | Trắng | Thuận | Thuận | Trắng | Thuận | — |
+| Akitsu Teio | Thuận | Thuận | Thuận | Thuận | Thuận | Thuận | Chống |
+| Lord Royal | Thuận | Thuận | Thuận | Thuận | Thuận | Thuận | Chống |
+| Long Live Free | Thuận | Trắng | Thuận | Trắng | Trắng | Trắng | Trắng |
+| Narita Taishin | Thuận | Thuận | Thuận | Chống | Trắng | Chống | Trắng |
+| Winning Ticket | Thuận | — | Thuận | Thuận | Thuận | Thuận | Chống |
+| Mayano Top Gun | Thuận | Thuận | Thuận | Thuận | Thuận | Thuận | Thuận |
+
+## Kết quả lớp phó tổ chức sự kiện
+
+| Thứ hạng | Ứng viên | Thuận | Chống | Trắng | Tổng |
+|---:|---|---:|---:|---:|---:|
+| 1 | **T.M. Opera O** | **30** | **0** | **1** | **31** |
+| 2 | **Fuji Kiseki** | **29** | **0** | **2** | **31** |
+| 3 | **Maruzensky** | **26** | **2** | **3** | **31** |
+| 4 | **Taiki Shuttle** | **24** | **3** | **4** | **31** |
+| 5 | **Winning Ticket** | **22** | **4** | **5** | **31** |
+| 6 | **Hishi Akebono** | **20** | **3** | **8** | **31** |
+| 7 | **Gold Ship** | **2** | **24** | **5** | **31** |
+
+**T.M. Opera O đắc cử lớp phó tổ chức sự kiện**, hơn Fuji Kiseki đúng một phiếu Thuận. Cả hai không nhận phiếu Chống; giữa họ chỉ có tổng cộng ba phiếu Trắng.
+
+Gold Ship nhận hai phiếu Thuận từ **Mr. C.B.** và **Mayano Top Gun**; năm phiếu Trắng từ **Mejiro Ramonu, Nakayama Festa, God Hannibal, Long Live Free** và **Narita Taishin**; 24 người còn lại chọn Chống. Phiếu Chống của Tamamo Cross bị tô đen rất mạnh nhưng vẫn hợp lệ vì mực không vượt sang ô khác.
+
+## Trạng thái mắt và điểm tiếp tục mới
+
+- Trong phần thu, đọc và cập nhật phiếu, Equinox nhắm cả hai mắt nhưng vẫn quan sát bình thường.
+- Khi công bố kết quả, cô mở mắt trái pha đỏ–hồng–trắng với đồng tử sao sáu cánh; giọng chuyển sang dịu và ngọt rõ rệt.
+- Equinox viết **ĐẮC CỬ — LỚP PHÓ TỔ CHỨC SỰ KIỆN** cạnh tên Opera O và chính thức công bố kết quả.
+- Mốc prose hiện tại nằm ngay sau khi tiếng vỗ tay bùng lên và Opera O đứng giữa lớp dưới tên vừa được ghi trên bảng. Không tự gán thời lượng cho lần mở mắt trái này nếu prose chưa xác lập.

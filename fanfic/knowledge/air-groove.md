@@ -1,6 +1,6 @@
 # Air Groove — Knowledge Registry tại điểm prose hiện tại
 
-**Mốc:** sáng 2026-03-12, ngay sau vòng bầu lớp trưởng 3-A.
+**Mốc:** sáng 2026-03-12, ngay sau vòng bầu lớp phó tổ chức sự kiện 3-A.
 
 ## KNOWN — có nguồn trực tiếp
 
@@ -14,6 +14,8 @@
 - Nội dung năm bản tự khai ứng viên lớp trưởng: Air Groove là một trong 27 học sinh không ứng cử và đã trực tiếp đọc đủ các bản của Rudolf, Orfevre, Sirius Symboli, Gentildonna và T.M. Opera O.
 - Cơ chế bỏ phiếu, quá trình kiểm phiếu công khai và kết quả đầy đủ: trực tiếp tham gia và chứng kiến. Air Groove biết Sirius đắc cử với 22/31 phiếu thuận, hơn Gentildonna một phiếu.
 - Trạng thái mắt trong cảnh bầu cử: trực tiếp thấy Equinox mở mắt phải ở phần nghiêm khắc, sau đó đóng phải/mở trái đúng năm phút; mắt trái pha đỏ–hồng–trắng, đồng tử sao sáu cánh và giọng nói dịu/ngọt rõ rệt.
+- Toàn bộ vòng lớp phó tổ chức sự kiện: Air Groove trực tiếp nhận phiếu, chọn Thuận cho sáu ứng viên nghiêm túc và Chống Gold Ship, rồi chứng kiến Equinox đọc công khai đủ 217 lựa chọn. Cô biết T.M. Opera O đắc cử 30–0–1, hơn Fuji Kiseki một phiếu; biết kết quả và lựa chọn cá nhân của toàn bộ cử tri vì chúng được công bố trước lớp.
+- Trạng thái mắt ở cuối vòng mới: Air Groove trực tiếp thấy Equinox nhắm cả hai mắt trong lúc đọc phiếu rồi mở mắt trái để công bố Opera O. Cô chưa có căn cứ biết lần mở mắt trái này sẽ kéo dài bao lâu.
 
 ## UNKNOWN — không được mặc định biết
 

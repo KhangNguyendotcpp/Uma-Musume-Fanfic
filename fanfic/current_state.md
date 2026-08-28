@@ -2,7 +2,7 @@
 
 > **CANON GUARD — KHÔNG ĐƯỢC HẠ CẤP TRẠNG THÁI:** Equinox **đã vượt qua toàn bộ quy trình tuyển dụng tăng tốc và đã chính thức trở thành cả giáo viên Lịch sử lẫn trainer của Tracen Academy trong ngày 2026-03-09**. Không được viết hoặc suy luận rằng cô vẫn chỉ là ứng viên, mới qua vòng một, chưa đậu, hoặc phải chờ đến 2026-03-23 mới trở thành staff.
 
-**Mốc hiện tại của prose:** **sáng 2026-03-12**, tại lớp Senior 3-A. Equinox đã được xác nhận là giáo viên chủ nhiệm, điều hành xong vòng bầu lớp trưởng và công bố **Sirius Symboli** đắc cử với 22/31 phiếu thuận, hơn Gentildonna đúng một phiếu. Khoảng chuyển tiếp năm phút đã kết thúc, mắt trái Equinox vừa khép lại và lớp đang chuẩn bị bắt đầu bầu **lớp phó học tập**. Giờ đồng hồ chính xác của cảnh vẫn `TBD`. Những gì ghi là “đã xảy ra” trong file này là `STORY-ESTABLISHED / LOCKED`.
+**Mốc hiện tại của prose:** **sáng 2026-03-12**, tại lớp Senior 3-A. Sau khi **Sirius Symboli** đắc cử lớp trưởng, Equinox đã điều hành xong vòng bầu **lớp phó tổ chức sự kiện**. **T.M. Opera O** đắc cử với **30 thuận / 0 chống / 1 trắng**, hơn Fuji Kiseki đúng một phiếu thuận. Equinox vừa mở mắt trái, công bố kết quả và viết chức danh cạnh tên Opera O; cả lớp đang vỗ tay. Giờ đồng hồ chính xác của cảnh vẫn `TBD`. Những gì ghi là “đã xảy ra” trong file này là `STORY-ESTABLISHED / LOCKED`.
 
 ## 1. Trạng thái nghề nghiệp của Equinox
 
@@ -151,7 +151,18 @@ Các điều sau là kế hoạch tương lai, **không được viết như ký
 
 - Trong phần nghiêm khắc của quy trình, Equinox mở mắt phải và nhắm mắt trái.
 - Khi công bố kết quả, cô đóng mắt phải, mở mắt trái pha đỏ–hồng–trắng với đồng tử hình ngôi sao sáu cánh; giọng trở nên dịu và ngọt hơn rõ rệt.
-- Mắt trái tồn tại đúng năm phút chuyển tiếp rồi khép lại. Điểm tiếp tục là lúc lớp đã ổn định và chuẩn bị bắt đầu vòng bầu **lớp phó học tập**; Sirius không được ứng cử thêm chức vụ.
+- Mắt trái tồn tại đúng năm phút chuyển tiếp rồi khép lại. Sirius không được ứng cử thêm chức vụ trong cùng cuộc bầu ban cán sự.
+
+### Bầu lớp phó tổ chức sự kiện Senior 3-A
+
+- Bảy ứng viên là **T.M. Opera O, Winning Ticket, Fuji Kiseki, Taiki Shuttle, Hishi Akebono, Maruzensky** và **Gold Ship**.
+- Equinox phát phiếu cho đủ 32 thành viên lớp. Ứng viên không tự đánh giá; mỗi người chọn **Thuận / Chống / Trắng** cho từng ứng viên còn lại trong mười phút.
+- Phiếu được nộp theo thứ tự roster. Equinox đọc công khai tên cử tri và từng lựa chọn, kiểm tra tính hợp lệ rồi cập nhật bảng ngay trước lớp.
+- Toàn bộ **32 phiếu / 217 lựa chọn** đều hợp lệ; mỗi ứng viên nhận đúng 31 đánh giá.
+- Kết quả: **Opera O 30–0–1; Fuji 29–0–2; Maruzensky 26–2–3; Taiki 24–3–4; Winning Ticket 22–4–5; Hishi Akebono 20–3–8; Gold Ship 2–24–5** theo thứ tự Thuận–Chống–Trắng.
+- Opera O đắc cử, hơn Fuji đúng một phiếu Thuận. Cả hai không có phiếu Chống.
+- Gold Ship chỉ nhận Thuận từ Mr. C.B. và Mayano Top Gun; năm phiếu Trắng đến từ Mejiro Ramonu, Nakayama Festa, God Hannibal, Long Live Free và Narita Taishin. 24 người còn lại chọn Chống; phiếu Tamamo tô rất đậm nhưng vẫn hợp lệ.
+- Ledger từng cử tri được khóa tại `fanfic/events/2026-03-12-class-3a-election.md`.
 
 ## 9. Quan niệm cơ thể và giới tính đã khóa
 
@@ -164,6 +175,6 @@ Các điều sau là kế hoạch tương lai, **không được viết như ký
 
 ## 10. Điểm nối cảnh
 
-Điểm tiếp tục trực tiếp là vòng bầu **lớp phó học tập** của Senior 3-A vào sáng 2026-03-12. Năm phút chuyển tiếp đã hết, mắt trái Equinox đã khép lại, Sirius là lớp trưởng vừa đắc cử và không còn quyền ứng cử chức vụ khác trong cùng cuộc bầu ban cán sự.
+Điểm tiếp tục trực tiếp là ngay sau khi Equinox công bố **T.M. Opera O đắc cử lớp phó tổ chức sự kiện**. Mắt trái của Equinox đang mở, tên Opera O đã được ghi kèm chức danh trên bảng và tiếng vỗ tay vừa bùng lên. Không tự kéo trạng thái về trước vòng bỏ phiếu, không đổi bất kỳ phiếu cá nhân nào trong ledger và không tự gán thời lượng cho lần mở mắt trái này.
 
 Không được quay lại trạng thái “ứng viên” hay buộc Equinox thi lại. Không mặc định nhân vật biết một sự kiện đã qua nếu họ không được xác lập là người tham dự/người được kể lại; xem `fanfic/style/prohibited_tendencies.md`, `fanfic/knowledge/air-groove.md` và `fanfic/knowledge/zenith.md`.

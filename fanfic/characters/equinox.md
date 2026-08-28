@@ -7,7 +7,7 @@
 - **Số đo ba vòng (ngực–eo–hông):** **210–118–200 cm** — STORY-ESTABLISHED / LOCKED
 - **Cơ quan:** Tracen Academy
 - **Vai trò hiện tại:** giáo viên Lịch sử + trainer chính thức + giáo viên chủ nhiệm Senior 3-A, với quyền trong từng phạm vi chuyên môn — STORY-ESTABLISHED / LOCKED
-- **Trạng thái tại điểm prose hiện tại:** sáng 2026-03-12, đã điều hành xong vòng bầu lớp trưởng 3-A; Sirius Symboli đắc cử và lớp đang chuẩn bị bầu lớp phó học tập — STORY-ESTABLISHED / LOCKED
+- **Trạng thái tại điểm prose hiện tại:** sáng 2026-03-12, đã điều hành xong vòng bầu lớp trưởng và lớp phó tổ chức sự kiện 3-A; Sirius Symboli và T.M. Opera O lần lượt đắc cử — STORY-ESTABLISHED / LOCKED
 - **Môn giảng dạy/đã giảng thử:** Lịch sử — STORY-ESTABLISHED / LOCKED
 - **Chức danh hợp đồng chính xác:** TBD; không ảnh hưởng kết quả tuyển dụng đã chốt
 
@@ -64,7 +64,9 @@ Equinox là Uma nhưng **không được định hướng làm racer thi đấu*
 - Điều hành quy trình tự khai, đánh giá chéo, bỏ phiếu kín và kiểm phiếu công khai cho 32 học sinh.
 - Kiểm tra tính hợp lệ của 155 phiếu trong chưa đầy một phút nhưng vẫn để năm học sinh trực tiếp phân loại, đếm hai lần và ký biên bản nhằm bảo đảm tính minh bạch, kể cả minh bạch đối với chính mình.
 - Công bố Sirius Symboli đắc cử với 22/31 phiếu thuận, hơn Gentildonna một phiếu.
-- Đóng mắt phải và mở mắt trái đúng năm phút chuyển tiếp; khi mắt trái khép lại, lớp bắt đầu chuẩn bị bầu lớp phó học tập.
+- Đóng mắt phải và mở mắt trái đúng năm phút chuyển tiếp; sau khi mắt trái khép lại, cuộc bầu ban cán sự tiếp tục.
+- Ở vòng lớp phó tổ chức sự kiện, kiểm tra công khai 32 phiếu với 217 lựa chọn, không có phiếu hủy; công bố T.M. Opera O đắc cử với 30 thuận, 0 chống, 1 trắng, hơn Fuji Kiseki đúng một phiếu.
+- Mở mắt trái khi công bố Opera O đắc cử. Thời lượng của lần mở mắt này chưa được prose xác lập và không được tự đồng nhất với khoảng chuyển tiếp năm phút trước đó.
 
 ## Nguyên tắc nghề nghiệp đã thể hiện
 - Sức khỏe và medical clearance đứng trên race, Winning Live và sức ép khán giả.

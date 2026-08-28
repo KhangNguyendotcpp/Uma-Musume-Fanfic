@@ -57,7 +57,8 @@
 ## Ban cán sự đã bầu
 
 - **Lớp trưởng:** **Sirius Symboli** — đắc cử sáng 2026-03-12 với **22 thuận / 6 chống / 3 trắng**, tổng 31 phiếu.
-- **Lớp phó học tập:** `TBD`; vòng bầu cử sắp bắt đầu tại điểm prose hiện tại.
+- **Lớp phó tổ chức sự kiện:** **T.M. Opera O** — đắc cử sáng 2026-03-12 với **30 thuận / 0 chống / 1 trắng**, hơn Fuji Kiseki đúng một phiếu thuận.
+- **Lớp phó học tập:** `TBD`; repo không tự suy ra kết quả từ những vòng bầu khác.
 - Kết quả và quy trình đầy đủ: `fanfic/events/2026-03-12-class-3a-election.md`.
 
 ## Cảnh báo continuity còn áp dụng
