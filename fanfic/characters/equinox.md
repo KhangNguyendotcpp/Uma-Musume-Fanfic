@@ -7,7 +7,7 @@
 - **Số đo ba vòng (ngực–eo–hông):** **210–118–200 cm** — STORY-ESTABLISHED / LOCKED
 - **Cơ quan:** Tracen Academy
 - **Vai trò hiện tại:** giáo viên Lịch sử + trainer chính thức + giáo viên chủ nhiệm Senior 3-A, với quyền trong từng phạm vi chuyên môn — STORY-ESTABLISHED / LOCKED
-- **Trạng thái tại điểm prose hiện tại:** sáng 2026-04-01, đã điều hành xong bốn vòng bầu ban cán sự 3-A; Sirius Symboli, Hishi Amazon, T.M. Opera O và Eishin Flash lần lượt giữ các chức vụ lớp trưởng, lớp phó kỷ luật, lớp phó tổ chức sự kiện và lớp phó học tập — STORY-ESTABLISHED / LOCKED
+- **Trạng thái tại điểm prose hiện tại:** trưa 2026-04-01, đã điều hành xong bốn vòng bầu ban cán sự 3-A, phần sinh hoạt/kiểm tra cơ sở vật chất và khoảng một tiết rưỡi hỏi đáp làm quen; mốc dừng đúng lúc chuông nghỉ trưa vang lên — STORY-ESTABLISHED / LOCKED
 - **Môn giảng dạy/đã giảng thử:** Lịch sử — STORY-ESTABLISHED / LOCKED
 - **Chức danh hợp đồng chính xác:** TBD; không ảnh hưởng kết quả tuyển dụng đã chốt
 
@@ -69,6 +69,14 @@ Equinox là Uma nhưng **không được định hướng làm racer thi đấu*
 - Ở vòng lớp phó tổ chức sự kiện, kiểm tra công khai 32 phiếu với 217 lựa chọn, không có phiếu hủy; công bố T.M. Opera O đắc cử với 30 thuận, 0 chống, 1 trắng, hơn Fuji Kiseki đúng một phiếu.
 - Mở mắt trái khi công bố Opera O đắc cử. Thời lượng của lần mở mắt này chưa được prose xác lập và không được tự đồng nhất với khoảng chuyển tiếp năm phút trước đó.
 - Ở vòng lớp phó học tập, công bố Eishin Flash đắc cử với 24 thuận, 6 chống, 1 trắng; cho lớp nghỉ đúng năm phút rồi đóng mắt trái khi đồng hồ về không.
+
+## Sinh hoạt và hỏi đáp 3-A — 2026-04-01
+
+- Sau khi hoàn tất nội dung sinh hoạt đầu năm và xác nhận cơ sở vật chất bình thường, Equinox dùng khoảng một tiết rưỡi còn lại trước bữa trưa cho lớp hỏi cô và hỏi lẫn nhau.
+- Cô không đòi học sinh phải thích mình: yêu cầu là tuân thủ quy định và không xúc phạm người khác. Cô chấp nhận phản đối có căn cứ, yêu cầu giải trình và kênh phản ánh ngay cả khi bản thân có thể khó chịu.
+- Điều cô mong nhất ở lớp là học sinh không biến năng lực thành lý do để tự phá mình; điều cô ghét nhất là giấu chấn thương. Cô cũng không muốn bị đánh thức vì một việc có thể viết vào giấy.
+- Đánh giá cuối buổi của cô về 3-A: ồn, có năng lực, quá nhiều tự trọng, khó quản, nhưng biết nghe khi thật sự cần, biết phản đối mà chưa cần làm nhục nhau và “chưa tệ” trong ngày đầu tiên.
+- Chuông nghỉ trưa là endpoint hiện tại. Chưa viết cảnh rời lớp, ăn trưa hoặc khảo sát Izu.
 
 ## Nguyên tắc nghề nghiệp đã thể hiện
 - Sức khỏe và medical clearance đứng trên race, Winning Live và sức ép khán giả.

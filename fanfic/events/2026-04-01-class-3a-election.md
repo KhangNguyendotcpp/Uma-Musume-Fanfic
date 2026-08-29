@@ -1,7 +1,7 @@
-# Bầu ban cán sự 3-A — 2026-04-01
+# Bầu ban cán sự và sinh hoạt lớp 3-A — 2026-04-01
 
 **Trạng thái:** `STORY-ESTABLISHED / LOCKED`  
-**Thời điểm:** sáng 2026-04-01, ngày đầu năm học 2026–2027; giờ đồng hồ chính xác `TBD`
+**Thời điểm:** sáng 2026-04-01 đến chuông nghỉ trưa, ngày đầu năm học 2026–2027; giờ đồng hồ chính xác `TBD`
 **Địa điểm:** lớp Senior 3-A, Tracen Academy
 
 ## Phạm vi đã khóa
@@ -185,11 +185,47 @@ Equinox chọn ngẫu nhiên ba học sinh không ứng cử để kiểm phiế
 - **Eishin Flash đắc cử lớp phó học tập**, hơn Sakura Laurel đúng một phiếu thuận; Shakur đứng sau Laurel một phiếu và có số phiếu Chống cao hơn hai đối thủ.
 - Khi công bố, Equinox đóng mắt phải và mở mắt trái; cả lớp vỗ tay. Cô cho lớp nghỉ đúng năm phút và đóng mắt trái khi đồng hồ về không.
 
-## Ban cán sự hoàn chỉnh và điểm tiếp tục
+## Ban cán sự hoàn chỉnh
 
 1. **Lớp trưởng:** Sirius Symboli.
 2. **Lớp phó kỷ luật:** Hishi Amazon.
 3. **Lớp phó tổ chức sự kiện:** T.M. Opera O.
 4. **Lớp phó học tập:** Eishin Flash.
 
-Mốc prose hiện tại nằm ngay sau khi giờ nghỉ năm phút sau vòng lớp phó học tập kết thúc. Equinox đã đóng mắt trái; cả bốn chức vụ đã có người đắc cử. Không được quay lại trạng thái “mới bầu xong hai chức vụ”, mở lại bất kỳ vòng nào hoặc cho người đã đắc cử kiêm nhiệm thêm chức vụ.
+Cả bốn chức vụ đã có người đắc cử. Không được quay lại trạng thái “mới bầu xong hai chức vụ”, mở lại bất kỳ vòng nào hoặc cho người đã đắc cử kiêm nhiệm thêm chức vụ.
+
+## Phần sinh hoạt đầu năm sau bầu cử
+
+- Sau giờ nghỉ năm phút, Equinox hoàn tất các nội dung chính còn lại của buổi sinh hoạt đầu năm và xác nhận cơ sở vật chất lớp không có vấn đề.
+- Khi vẫn còn khoảng **một tiết rưỡi** trước giờ nghỉ trưa, cô cho phép lớp hỏi bất cứ điều gì phù hợp với bất cứ ai. Học sinh có quyền không trả lời; việc được gọi tên không buộc một người phải tham gia.
+- Phần đầu tập trung chủ yếu vào Equinox vì học sinh đã quen Tracen hơn cô. Câu hỏi có cả casual, nghiêm túc và nhạy cảm; Equinox trả lời những gì có thể trả lời mà không biến buổi làm quen thành một cuộc họp hành chính mới.
+- Equinox xác lập rằng học sinh phải tuân thủ quy định và không xúc phạm người khác, nhưng không bị buộc phải thích cô. Phản đối có căn cứ sẽ được nghe; hành vi phá lớp bị xử lý trước. Nếu cho rằng quyết định của cô sai, học sinh có thể yêu cầu giải trình và dùng kênh phản ánh. Sự khó chịu cá nhân của Equinox không thay đổi quy trình.
+- Điều Equinox mong nhất ở 3-A là các em **đừng biến năng lực thành lý do để tự phá mình**. “Làm được” không đồng nghĩa lúc nào cũng phải tiếp tục chịu đau, gánh thêm hoặc tự xử lý một mình.
+- Hai điều cô ghét được nói thẳng là **giấu chấn thương** và bị đánh thức vì một việc hoàn toàn có thể viết vào giấy.
+
+## Những trao đổi giữa học sinh đã khóa
+
+- Gold Ship hỏi trực tiếp những người đã bỏ Thuận/Trắng cho mình. Mr. C.B. chọn Thuận vì tò mò; Mayano Top Gun tin Gold Ship sẽ làm mọi ngày thú vị; Nakayama Festa, God Hannibal, Long Live Free, Mejiro Ramonu và Narita Taishin giải thích năm phiếu Trắng theo logic riêng. Tamamo Cross xác nhận đã tô ô Chống nhiều lần vì bút ra mực không đều rồi vì nghĩ tới khả năng Gold Ship đắc cử. Các lời giải thích không làm thay đổi ledger.
+- T.M. Opera O chấp nhận phản biện của Fuji Kiseki rằng một sự kiện sẽ thất bại nếu Opera biến người tham gia thành khán giả của mình. Fuji được quyền kéo Opera khỏi trung tâm khi cô sắp gây hậu quả trong sự kiện lớp; đây là cơ chế phối hợp, không phải một chức vụ mới.
+- Sirius Symboli yêu cầu Rudolf báo thẳng rủi ro mang tính hệ thống nhưng không âm thầm sửa thay công việc thường ngày. Rudolf thừa nhận mình không hoàn toàn thoải mái khi không làm lớp trưởng, song chấp nhận kết quả và sẽ cho Sirius cơ hội sửa trước khi can thiệp nếu không có nguy hiểm tức thời.
+- Gentildonna hỏi Orfevre học được gì từ bầu cử. Orfevre thừa nhận năng lực không buộc người khác trao quyền và chấp nhận luật của cuộc đấu mình đã bước vào; hai người xem lần đối đầu kế tiếp là một lời thách đấu sạch hơn, không phải tranh chấp kết quả hiện tại.
+- Fine Motion hỏi Air Shakur điều người khác nên hỏi thay vì đoán cô không có cảm xúc. Shakur muốn người khác chất vấn dữ liệu, giả định và đường đi tới kết luận; giả định dễ sai nhất của cô về 3-A là các thành viên sẽ tiếp tục hành động giống dữ liệu quá khứ dù họ biết mình đang bị quan sát.
+- Narita Taishin kiểm tra giới hạn công việc của Winning Ticket. Ticket còn một việc chưa xong nên chỉ được nhận thêm một và không tự nhận phần khảo sát Izu trừ khi nhóm phụ trách thật sự thiếu người.
+- Sakura Laurel chỉ ra rằng câu “tôi ổn” của Narita Brian đang phụ thuộc vào chính đánh giá của Brian. Brian đồng ý rằng lần sau Laurel có thể yêu cầu kiểm tra nếu có căn cứ. Đây không phải quyền chẩn đoán hay quyền ép kiểm tra vô điều kiện.
+- Nhóm trao đổi về sự kiện nêu các nguyên tắc gồm nhiều khẩu phần nhỏ, ghi rõ nguyên liệu/dị nguyên, có lựa chọn không tham gia sân khấu hoặc chụp ảnh, có khu vực yên tĩnh và không đo độ vui chỉ bằng âm lượng. Đây là ý tưởng hình thành trong đối thoại, **không phải kế hoạch sự kiện đã được phê duyệt**.
+- Hishi Amazon đồng ý sẽ hỏi trước khi giúp Narita Taishin và để Taishin tự xử lý nếu cô từ chối mà không có nguy hiểm. Winning Ticket cũng đổi từ hứa giúp vô điều kiện sang đề nghị Taishin gọi khi cần.
+- Các cuộc trao đổi còn lại xác lập thêm cách nhìn của từng người về tự do, danh hiệu, vẻ đẹp, thi đấu, lịch trống, đồ ăn, đường chạy, sự hỗ trợ và giới hạn cá nhân. Khi lớp tách thành nhiều nhóm nói chuyện chồng lên nhau, chỉ người trực tiếp tham gia hoặc được prose đặt đủ gần/nghe rõ mới mặc định biết nội dung nhóm đó; việc cùng ở trong phòng không biến mọi trao đổi nhỏ thành kiến thức chung của cả 32 người.
+
+## Cách vận hành ban cán sự được thống nhất
+
+- Sirius yêu cầu lớp phó kỷ luật và lớp phó học tập báo cáo **theo tuần** đối với việc bình thường; báo ngay khi có nguy cơ hoặc chậm hạn.
+- Vi phạm nhỏ đã xử lý xong chỉ cần ghi ngắn, không biến thành “hồ sơ tội phạm”.
+- Ý tưởng hoạt động có thể gửi bất cứ lúc nào; tiến độ được báo theo mốc của từng sự kiện.
+- Sirius yêu cầu ba lớp phó và những người khác nhắc khi cô bắt đầu ôm hết việc.
+- Việc lấy ý kiến/khảo sát cho chuyến Izu được dời tới sau giờ ăn trưa. Cảnh này **không khóa** phê duyệt chuyến đi, phương tiện, lịch trình, danh sách người tham gia hoặc ngân sách.
+
+## Đánh giá của Equinox và điểm tiếp tục
+
+Trước chuông nghỉ trưa, Sirius hỏi Equinox đánh giá lớp 3-A thế nào. Equinox trả lời rằng lớp **ồn, có năng lực, có quá nhiều tự trọng và khó quản**, nhưng biết nghe khi thật sự cần, biết phản đối mà chưa cần làm nhục nhau, và **“chưa tệ”** trong ngày đầu tiên.
+
+Mốc prose hiện tại dừng đúng lúc **chuông nghỉ trưa vang lên**. Buổi hỏi đáp/làm quen kết thúc; chưa có cảnh rời lớp, ăn trưa, phát khảo sát Izu hoặc họp ban cán sự sau chuông. Equinox đang nhắm cả hai mắt ở phần lớn đoạn cuối và không có trạng thái mắt mới nào được xác lập sau câu đánh giá.

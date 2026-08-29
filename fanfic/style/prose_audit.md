@@ -1,6 +1,6 @@
 # Prose Audit — từ mở đầu đến điểm hiện tại
 
-**Phạm vi:** các sự kiện prose đã được khóa trong repo từ Equinox xuất hiện ngày 2026-03-09 tới khi hoàn tất đủ bốn chức vụ ban cán sự Senior 3-A sáng 2026-04-01. Repo hiện giữ phần lớn các cảnh dưới dạng continuity summary thay vì chapter nguyên văn; vì vậy audit này chỉ kết luận chắc chắn ở nơi còn đủ văn bản/dữ kiện, không dựng lỗi cho đoạn không còn nguyên văn.
+**Phạm vi:** các sự kiện prose đã được khóa trong repo từ Equinox xuất hiện ngày 2026-03-09 tới chuông nghỉ trưa sau phần hỏi đáp/làm quen của Senior 3-A ngày 2026-04-01. Repo hiện giữ phần lớn các cảnh dưới dạng continuity summary thay vì chapter nguyên văn; vì vậy audit này chỉ kết luận chắc chắn ở nơi còn đủ văn bản/dữ kiện, không dựng lỗi cho đoạn không còn nguyên văn.
 
 **Trạng thái:** tài liệu chẩn đoán, không tự retcon sự kiện. Guardrail bắt buộc nằm tại `fanfic/style/prohibited_tendencies.md`.
 
@@ -19,6 +19,8 @@
 | MEDIUM | Cảnh may đo | Phản ứng đứng hình/đỏ mặt/che ngực/đồng thanh bị dồn dập và đồng bộ | Cá thể hóa phản ứng; giữ nhân viên chuyên nghiệp; không dùng học sinh làm thước so sánh cơ thể |
 | MEDIUM | Tuyển dụng/orientation | Nhiều nguyên tắc nghề nghiệp có nguy cơ biến cảnh thành biên bản policy | Để hành động chứng minh nguyên tắc; cắt câu hỏi–đáp không thay đổi quyết định |
 | MEDIUM | Equinox–Air Groove | Air Groove nhiều lần quyết định hoặc chốt thay một Uma trưởng thành | Giữ vai trò tư vấn/phản biện, sau đó để Equinox tự xác nhận quyết định |
+| MEDIUM | Hỏi đáp 3-A | Người kể chạm vào suy nghĩ/nhận ra của nhiều học sinh trong cùng một chuỗi hội thoại dài | Nếu lưu chapter nguyên văn, xác lập rõ người kể toàn tri có chủ đích hoặc đổi các kết luận nội tâm sang dấu hiệu quan sát được |
+| MEDIUM | Hỏi đáp 3-A | Nhiều cặp hỏi–đáp liên tiếp cùng kết ở một bài học hoàn chỉnh, có nguy cơ làm buổi làm quen giống một chuỗi vignette được đóng gói quá sạch | Giữ các trao đổi làm thay đổi quan hệ/quy trình; rút hoặc làm dang dở vài lượt chỉ lặp chức năng |
 | OPEN LOGIC | Đồ lót ban đầu | Zenith biết incarnation nhưng để lại sản phẩm sai rõ rệt | Chờ tác giả chốt lý do; không tự hợp thức hóa |
 | LOW | Nhịp câu | Chuỗi câu cực ngắn, lặp “Có/Không”, “hai đôi”, “lần thứ…” tạo dấu vết sinh văn bản máy móc | Pha câu ngắn với câu có chuyển động; mỗi nhịp lặp phải tăng stakes hoặc tạo payoff |
 | LOW | Câu “Do giống loài thôi” | Câu nói có thể bị hiểu rằng số đo này bình thường với mọi Uma, trái với chính phản ứng của nhân viên Uma | Nếu giữ như deadpan, cần để ngữ cảnh cho thấy Equinox nói về dạng draft-horse của mình hoặc đang cố giản lược quá mức |
@@ -51,6 +53,15 @@
 - Flash thắng Laurel một phiếu thuận; Laurel hơn Shakur một phiếu thuận; Shakur có 8 phiếu Chống, cao hơn Laurel một và Flash hai, đúng yêu cầu author.
 - Không có mâu thuẫn giữa việc cả ba chỉ có một phiếu Trắng và việc không có phiếu hủy: `Trắng` là một lựa chọn hợp lệ.
 - Khoảng nghỉ sau khi công bố Flash kéo dài đúng năm phút; đây là thời lượng đã được prose xác lập, khác với lần mở mắt trái công bố Opera O vốn chưa có thời lượng.
+
+## Kiểm tra phần hỏi đáp/làm quen 3-A tới chuông nghỉ trưa
+
+- Endpoint rõ: sau khi nội dung sinh hoạt và kiểm tra cơ sở vật chất hoàn tất, lớp dùng khoảng một tiết rưỡi cho hỏi đáp; cảnh dừng đúng lúc chuông nghỉ trưa vang lên. Không được tự chèn cảnh ăn trưa hoặc khảo sát Izu trước điểm nối.
+- Phần hỏi về hai phiếu Thuận/năm phiếu Trắng của Gold Ship khớp ledger đã khóa và không thay đổi bất kỳ lá phiếu nào.
+- Nhịp báo cáo do Sirius thống nhất là quyết định vận hành đã xảy ra. Ngược lại, quiet zone, no-photo, thực đơn/dị nguyên và các ý tưởng tương tự mới là nguyên tắc thảo luận; không được nâng thành kế hoạch sự kiện đã duyệt.
+- Việc nhắc khảo sát/chuyến Izu chỉ khóa ý định lấy ý kiến sau bữa trưa. Phê duyệt, điểm đến chi tiết, phương tiện, ngân sách, lịch trình và danh sách tham gia vẫn chưa được cảnh xác lập.
+- Tất cả 32 học sinh đều ở trong lớp nên lời Equinox nói với cả lớp và các lượt công khai trước khi lớp tách nhóm có kênh truyền hợp lệ. Khi nhiều nhóm nói chồng lên nhau, không mặc định cả 32 người nghe trọn từng nhóm; càng không tự truyền nội dung cho staff, học sinh lớp khác, Zenith, Haise hoặc Takiyama.
+- Chưa thấy lỗi số học hoặc xung đột kết quả bầu cử mới. Rủi ro chính của bản prose là focalization chuyển qua nhiều nội tâm và số lượng lớn mini-arc khép kín trong cùng một tiết; đây là vấn đề trình bày, không retcon sự kiện.
 
 ## Những phần hiện không thấy lỗi canon chắc chắn
 
