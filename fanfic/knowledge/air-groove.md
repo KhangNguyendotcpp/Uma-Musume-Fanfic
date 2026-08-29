@@ -1,6 +1,6 @@
 # Air Groove — Knowledge Registry tại điểm prose hiện tại
 
-**Mốc:** sáng 2026-04-01, ngay sau giờ nghỉ năm phút kết thúc vòng bầu lớp phó học tập 3-A.
+**Mốc:** trưa 2026-04-01, đúng lúc chuông nghỉ trưa vang lên sau phần hỏi đáp/làm quen của lớp 3-A.
 
 ## KNOWN — có nguồn trực tiếp
 
@@ -18,6 +18,13 @@
 - Vòng lớp phó kỷ luật: Air Groove trực tiếp ứng cử và tham gia đánh giá ba đối thủ. Cô biết kết quả Hishi Amazon 23–7–1, Akitsu Teio 22–8–1, Gentildonna 21–8–2 và bản thân 19–5–7; biết Winning Ticket, Narita Taishin, Gold City và Mr. C.B. là bốn người kiểm phiếu.
 - Vòng lớp phó học tập: Air Groove trực tiếp đọc ba bản tự khai, bỏ phiếu và chứng kiến kiểm phiếu. Cô biết Flash thắng 24–6–1, Laurel đạt 23–7–1, Shakur đạt 22–8–1; Fine Motion, Sirius Symboli và Mayano Top Gun lần lượt phụ trách ba ứng viên.
 - Trạng thái mắt ở các vòng cuối: Air Groove trực tiếp thấy Equinox nhắm cả hai mắt trong lúc đọc phiếu sự kiện rồi mở mắt trái để công bố Opera O. Cô chưa có căn cứ gán thời lượng cho lần mở đó. Sau khi công bố Flash, Air Groove trực tiếp chứng kiến Equinox mở mắt trái, cho lớp nghỉ đúng năm phút và đóng mắt trái khi đồng hồ về không.
+- Toàn bộ phần sinh hoạt đầu năm, kiểm tra cơ sở vật chất và hỏi đáp tới chuông nghỉ trưa: Air Groove ở trong lớp, trực tiếp nghe các câu hỏi/trả lời công khai. Cô biết Equinox không đòi học sinh phải thích mình, chấp nhận phản đối có căn cứ/yêu cầu giải trình/kênh phản ánh, mong lớp không biến năng lực thành lý do tự phá mình, ghét giấu chấn thương và không muốn bị đánh thức vì việc có thể viết vào giấy.
+- Air Groove trực tiếp nghe Sirius và Rudolf thống nhất ranh giới hỗ trợ lớp trưởng; nghe Sirius đặt nhịp báo cáo việc thường theo tuần, việc có nguy cơ/chậm hạn báo ngay, và yêu cầu được nhắc khi bắt đầu ôm hết việc.
+- Air Groove trực tiếp hỏi Sirius về nhịp báo cáo của lớp phó kỷ luật/lớp phó học tập và nghe câu trả lời: việc bình thường theo tuần, nguy cơ/chậm hạn báo ngay; vi phạm nhỏ đã xử lý chỉ ghi ngắn. Cô cũng trực tiếp hỏi Gold City cách xử lý phiếu Trắng và nghe câu trả lời rằng phải hỏi người bỏ phiếu còn thiếu thông tin gì rồi chấp nhận nếu họ vẫn không chọn mình.
+- Air Groove biết việc lấy ý kiến/khảo sát Izu được dời tới sau bữa trưa. Cô **không** được mặc định biết một lịch trình, phương tiện, ngân sách hoặc phê duyệt chưa xuất hiện.
+- Air Groove trực tiếp nghe đánh giá cuối buổi của Equinox: 3-A ồn, có năng lực, quá nhiều tự trọng, khó quản, nhưng biết nghe khi cần, biết phản đối mà chưa cần làm nhục nhau và “chưa tệ”.
+
+Khi lớp tách thành nhiều nhóm nói chuyện chồng lên nhau, registry **không** mặc định Air Groove nghe trọn mọi trao đổi Opera–Fuji, Brian–Laurel, Hishi–Taishin, Gold City–Gentildonna hoặc các nhóm khác chỉ vì cô ở cùng phòng. Chỉ chuyển từng nội dung sang `KNOWN` nếu prose xác lập cô tham gia, chú ý hoặc ở vị trí nghe rõ.
 
 ## UNKNOWN — không được mặc định biết
 

@@ -2,7 +2,7 @@
 
 > **CANON GUARD — KHÔNG ĐƯỢC HẠ CẤP TRẠNG THÁI:** Equinox **đã vượt qua toàn bộ quy trình tuyển dụng tăng tốc và đã chính thức trở thành cả giáo viên Lịch sử lẫn trainer của Tracen Academy trong ngày 2026-03-09**. Không được viết hoặc suy luận rằng cô vẫn chỉ là ứng viên, mới qua vòng một, chưa đậu, hoặc phải chờ đến 2026-03-23 mới trở thành staff.
 
-**Mốc hiện tại của prose:** **sáng 2026-04-01**, ngày đầu năm học 2026–2027, tại lớp Senior 3-A. Equinox đã điều hành xong cả bốn vòng bầu ban cán sự: **Sirius Symboli** là lớp trưởng, **Hishi Amazon** là lớp phó kỷ luật, **T.M. Opera O** là lớp phó tổ chức sự kiện và **Eishin Flash** là lớp phó học tập. Điểm dừng nằm ngay sau khi giờ nghỉ năm phút kế tiếp vòng học tập kết thúc; Equinox đã đóng mắt trái. Giờ đồng hồ chính xác của cảnh vẫn `TBD`. Những gì ghi là “đã xảy ra” trong file này là `STORY-ESTABLISHED / LOCKED`.
+**Mốc hiện tại của prose:** **trưa 2026-04-01**, ngày đầu năm học 2026–2027, tại lớp Senior 3-A. Equinox đã điều hành xong cả bốn vòng bầu ban cán sự, hoàn tất phần sinh hoạt đầu năm/kiểm tra cơ sở vật chất và dành khoảng một tiết rưỡi cuối cho lớp hỏi cô rồi hỏi lẫn nhau. Điểm dừng là đúng lúc **chuông nghỉ trưa vang lên**, ngay sau khi Equinox đánh giá 3-A “ồn”, có năng lực, quá nhiều tự trọng, khó quản nhưng biết nghe và phản đối mà chưa cần làm nhục nhau. Chưa có cảnh rời lớp hoặc ăn trưa. Những gì ghi là “đã xảy ra” trong file này là `STORY-ESTABLISHED / LOCKED`.
 
 ## 1. Trạng thái nghề nghiệp của Equinox
 
@@ -178,6 +178,18 @@ Các điều sau là kế hoạch tương lai, **không được viết như ký
 - Kết quả Thuận–Chống–Trắng: **Flash 24–6–1; Laurel 23–7–1; Shakur 22–8–1**. Không có phiếu hủy.
 - Eishin Flash đắc cử lớp phó học tập, hơn Laurel đúng một phiếu thuận. Equinox đóng mắt phải, mở mắt trái để công bố, cho lớp nghỉ năm phút rồi đóng mắt trái khi đồng hồ về không.
 
+### Sinh hoạt đầu năm và hỏi đáp tới giờ trưa
+
+- Sau khi hoàn tất nội dung chính và xác nhận cơ sở vật chất bình thường, Equinox cho lớp dùng khoảng **một tiết rưỡi** còn lại để hỏi bất cứ điều gì phù hợp với cô hoặc với nhau; người được hỏi có quyền không trả lời.
+- Equinox nói rõ học sinh không bị buộc phải thích cô, nhưng phải tuân thủ quy định và không xúc phạm người khác. Phản đối có căn cứ được nghe; lớp có thể yêu cầu cô giải trình và dùng kênh phản ánh, còn phá lớp sẽ bị xử lý như hành vi phá lớp.
+- Điều cô mong nhất ở 3-A là các em không biến năng lực thành lý do để tự phá mình. Hai điều cô ghét được nêu rõ là **giấu chấn thương** và đánh thức cô vì việc có thể viết vào giấy.
+- Sirius và Rudolf thống nhất Rudolf sẽ báo rủi ro hệ thống nhưng không âm thầm làm thay lớp trưởng; Rudolf chấp nhận kết quả dù không hoàn toàn thoải mái. Sirius yêu cầu cả lớp nhắc khi cô bắt đầu ôm hết việc.
+- Nhịp báo cáo ban cán sự: việc bình thường theo tuần; nguy cơ hoặc chậm hạn báo ngay; vi phạm nhỏ đã xử lý chỉ ghi ngắn; ý tưởng sự kiện gửi bất cứ lúc nào và báo tiến độ theo mốc.
+- Opera O tiếp nhận phản biện của Fuji về việc phải biết lùi khỏi trung tâm; Orfevre thừa nhận năng lực không tự trao quyền; Brian chấp nhận yêu cầu kiểm tra có căn cứ từ Laurel; Hishi Amazon và Winning Ticket học cách hỏi trước khi giúp Taishin.
+- Nhóm tổ chức mới chỉ nêu nguyên tắc bao quát người ít thích đám đông/sân khấu/chụp ảnh và lưu ý thực phẩm/dị nguyên. Đây chưa phải kế hoạch đã duyệt.
+- Khảo sát/ý kiến về chuyến Izu được dời tới sau bữa trưa. Chuyến đi, lịch trình, phương tiện, ngân sách và người tham gia vẫn chưa được khóa bởi cảnh này.
+- Trước chuông, Equinox đánh giá lớp “ồn”, có năng lực, quá nhiều tự trọng và khó quản, nhưng biết nghe khi cần, biết phản đối mà chưa cần làm nhục nhau và “chưa tệ” trong ngày đầu tiên.
+
 ## 9. Quan niệm cơ thể và giới tính đã khóa
 
 - Equinox không xem giới tính là trục cốt lõi giữ danh tính. Cơ thể, hormone, quần áo hoặc thói quen chăm sóc có thể thay đổi trải nghiệm nhưng không tự thay giá trị quan, tính cách hay người cô yêu.
@@ -189,6 +201,6 @@ Các điều sau là kế hoạch tương lai, **không được viết như ký
 
 ## 10. Điểm nối cảnh
 
-Điểm tiếp tục trực tiếp là ngay sau khi giờ nghỉ năm phút kế tiếp việc Equinox công bố **Eishin Flash đắc cử lớp phó học tập** kết thúc. Equinox đã đóng mắt trái. Ban cán sự đã đủ bốn chức vụ: **Sirius Symboli / Hishi Amazon / T.M. Opera O / Eishin Flash**. Không kéo trạng thái về trước bất kỳ vòng bỏ phiếu nào, không thay đổi ledger đã khóa và không cho một người kiêm nhiệm nhiều chức vụ.
+Điểm tiếp tục trực tiếp là **ngay sau tiếng chuông nghỉ trưa ngày 2026-04-01**. Buổi hỏi đáp/làm quen vừa kết thúc; Equinox và 32 học sinh vẫn ở lớp, chưa có hành động rời phòng hoặc bắt đầu bữa trưa. Ban cán sự đã đủ bốn chức vụ: **Sirius Symboli / Hishi Amazon / T.M. Opera O / Eishin Flash**. Không kéo trạng thái về trước bất kỳ vòng bỏ phiếu nào, không thay đổi ledger đã khóa, không cho một người kiêm nhiệm nhiều chức vụ và không viết chuyến Izu như đã được phê duyệt.
 
 Không được quay lại trạng thái “ứng viên” hay buộc Equinox thi lại. Không mặc định nhân vật biết một sự kiện đã qua nếu họ không được xác lập là người tham dự/người được kể lại; xem `fanfic/style/prohibited_tendencies.md`, `fanfic/knowledge/air-groove.md` và `fanfic/knowledge/zenith.md`.
