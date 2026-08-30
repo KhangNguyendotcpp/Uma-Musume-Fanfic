@@ -27,13 +27,21 @@ Các điều cấm:
 
 ## 2. Sai register xưng hô
 
+- Lời kể ngôi ba trong prose hiện tại gọi Equinox là **“cô ấy”** hoặc dùng tên; không rút thành “cô” khi có thể lẫn với chức danh hay đại từ tự xưng.
 - Equinox nói với học sinh: tự xưng **“cô”**, gọi **“em/các em”**.
+- Equinox nói về một học sinh với Zenith/người lớn: dùng **“em ấy”**, không dùng “cô ấy”.
+- Equinox nói với Zenith: **“anh–em”**; Equinox tự xưng “anh”, Zenith tự xưng “em”. Việc học sinh có mặt không làm đổi register vợ chồng.
 - Equinox nói với đồng nghiệp/staff trưởng thành: tự xưng **“tôi”**.
 - Equinox nói với người lớn ngoài trường, người lạ và nhân viên dịch vụ: mặc định tự xưng **“tôi”**, trừ khi quan hệ cụ thể đã thiết lập cách khác.
 - Air Groove và Symboli Rudolf vẫn là học sinh dù giữ chức vụ hội học sinh; Equinox dùng “cô–em” với họ.
-- Không để lời kể gọi Equinox là “cô/cô ấy” làm tràn đại từ “cô” vào lời thoại với người lớn.
+- Zenith nói với học sinh và học sinh nói trực tiếp với Zenith: **“chị–em/các em”**. Không để học sinh xưng “tôi/chúng tôi” với Zenith chỉ vì ngay trước đó đang nói với bạn cùng lớp.
+- Học sinh gọi trực tiếp Equinox là **“cô/thưa cô”**; khi nói về cô ấy với Zenith ưu tiên **“cô Equinox/cô ấy”**, không dùng “cổ”.
+- “Tôi–cậu”, “tui–mi” và register riêng của nhân vật chỉ giữ khi đúng người nghe là bạn học/người ngang hàng.
+- Không để lời kể gọi Equinox là “cô ấy” làm tràn đại từ “cô” vào lời thoại với người lớn hoặc Zenith.
 
 **Lỗi đã xảy ra trong cảnh may đo:** Equinox nói với nhân viên trưởng thành các câu như “Vợ cô để lại”, “Ngày mai cô cần dùng”, “Cô ngủ khỏa thân” và “Tối qua cô ngủ rất ngon”. Các câu này phải dùng “tôi/vợ tôi”; “cô” chỉ đúng khi Equinox đang nói với Air Groove hoặc một học sinh khác.
+
+**Lỗi đã thấy trong cảnh gọi Zenith tại căn tin:** Equinox dùng “cô ấy” cho Rudolf thay vì “em ấy”; Air Groove gọi trực tiếp Zenith là “cô” thay vì “chị”; Equinox tự xưng “cô” khi giả ngủ trước vợ thay vì “anh”; một số học sinh dùng “tôi/chúng tôi” với Zenith hoặc “cổ” cho Equinox; lời kể có chỗ rút “cô ấy” thành “cô”. Các dạng này phải được sửa theo ma trận trên trước khi lưu chapter nguyên văn.
 
 ## 3. Head-hopping và quyền truy cập nội tâm
 

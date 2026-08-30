@@ -49,7 +49,7 @@ University, Resident Athlete và postgraduate facility không phải official Cy
 
 ## 6. Equinox
 
-- Từ 2026-03-09, Equinox đã được tuyển chính thức làm trainer + giáo viên Lịch sử. Tới điểm prose hiện tại ở chuông nghỉ trưa 2026-04-01, cô đã được xác nhận là giáo viên chủ nhiệm Senior 3-A, điều hành xong cả bốn vòng bầu ban cán sự, hoàn tất sinh hoạt/kiểm tra cơ sở vật chất và phần hỏi đáp làm quen; Sirius Symboli, Hishi Amazon, T.M. Opera O và Eishin Flash lần lượt giữ bốn chức vụ đã khóa.
+- Từ 2026-03-09, Equinox đã được tuyển chính thức làm trainer + giáo viên Lịch sử. Trong ngày 2026-04-01, cô đã được xác nhận là giáo viên chủ nhiệm Senior 3-A, điều hành xong cả bốn vòng bầu ban cán sự, hoàn tất sinh hoạt/kiểm tra cơ sở vật chất và phần hỏi đáp làm quen; Sirius Symboli, Hishi Amazon, T.M. Opera O và Eishin Flash lần lượt giữ bốn chức vụ đã khóa. Điểm prose hiện tại đã chuyển tới cuối cuộc gọi với Zenith tại căn tin trong giờ nghỉ trưa; cuộc gọi không thay đổi các chức vụ hoặc quy trình học thuật này.
 - Contract title chi tiết và team ownership vẫn `TBD`; **kết quả tuyển dụng không còn TBD**.
 - Equinox có faculty authority trong classroom và trainer authority trong training; không vì vậy được bypass medical/race operations.
 

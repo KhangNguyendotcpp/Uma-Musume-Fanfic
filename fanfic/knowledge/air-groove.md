@@ -1,6 +1,6 @@
 # Air Groove — Knowledge Registry tại điểm prose hiện tại
 
-**Mốc:** trưa 2026-04-01, đúng lúc chuông nghỉ trưa vang lên sau phần hỏi đáp/làm quen của lớp 3-A.
+**Mốc:** cuối cuộc gọi video với Zenith tại căn tin trong giờ nghỉ trưa 2026-04-01.
 
 ## KNOWN — có nguồn trực tiếp
 
@@ -23,6 +23,10 @@
 - Air Groove trực tiếp hỏi Sirius về nhịp báo cáo của lớp phó kỷ luật/lớp phó học tập và nghe câu trả lời: việc bình thường theo tuần, nguy cơ/chậm hạn báo ngay; vi phạm nhỏ đã xử lý chỉ ghi ngắn. Cô cũng trực tiếp hỏi Gold City cách xử lý phiếu Trắng và nghe câu trả lời rằng phải hỏi người bỏ phiếu còn thiếu thông tin gì rồi chấp nhận nếu họ vẫn không chọn mình.
 - Air Groove biết việc lấy ý kiến/khảo sát Izu được dời tới sau bữa trưa. Cô **không** được mặc định biết một lịch trình, phương tiện, ngân sách hoặc phê duyệt chưa xuất hiện.
 - Air Groove trực tiếp nghe đánh giá cuối buổi của Equinox: 3-A ồn, có năng lực, quá nhiều tự trọng, khó quản, nhưng biết nghe khi cần, biết phản đối mà chưa cần làm nhục nhau và “chưa tệ”.
+- Air Groove tham gia cuộc gọi tại căn tin từ lúc Brian bắt đầu hỏi về các phát biểu sáng nay. Cô trực tiếp nghe Zenith phủ nhận giới tính cũ, tuổi đời, ngày thức tỉnh và khả năng quan sát từ xa của Equinox; đồng thời nghe Equinox khẳng định mình không đùa.
+- Air Groove trực tiếp nghe Zenith xác nhận hôn nhân, hai người con trưởng thành Twilight/Lux gọi Equinox là bố, cùng nhiều thói quen gia đình. Cô không nhận được ảnh, tài liệu hôn nhân, địa chỉ hoặc dữ liệu riêng tư nào.
+- Air Groove chứng kiến toàn bộ 3-A cùng Oguri Cap và bốn thành viên Team Spica ngoài lớp tụ lại; biết Special Week không có mặt trong nhóm hiện tại.
+- Air Groove trực tiếp nghe Equinox nói muốn Zenith tới Tracen và nghe Zenith chuyển sang cân nhắc nghiêm túc. Cô biết đây chưa phải ngày thăm hoặc sự kiện được duyệt; Opera O và Gold Ship chưa được giao nhiệm vụ tiếp đón.
 
 Khi lớp tách thành nhiều nhóm nói chuyện chồng lên nhau, registry **không** mặc định Air Groove nghe trọn mọi trao đổi Opera–Fuji, Brian–Laurel, Hishi–Taishin, Gold City–Gentildonna hoặc các nhóm khác chỉ vì cô ở cùng phòng. Chỉ chuyển từng nội dung sang `KNOWN` nếu prose xác lập cô tham gia, chú ý hoặc ở vị trí nghe rõ.
 
@@ -31,7 +35,7 @@ Khi lớp tách thành nhiều nhóm nói chuyện chồng lên nhau, registry *
 - Mức lương **460.000 yên** nêu trong phần hợp đồng.
 - Equinox chọn tài khoản ngân hàng nào, vì sao chọn, số tài khoản, số dư hoặc bất kỳ dữ liệu ngân hàng nào.
 - Nội dung chi tiết các màn hình/hợp đồng chỉ Equinox và staff phụ trách thấy trong orientation.
-- Trao đổi riêng giữa Equinox và Zenith; tình trạng hiện tại, incarnation hoặc thời điểm đến của Haise/Takiyama.
+- Trao đổi riêng giữa Equinox và Zenith ngoài phần được nói công khai trong cuộc gọi tại căn tin; tình trạng hiện tại hoặc thời điểm đến của Haise/Takiyama.
 - Bất kỳ thông tin nào chỉ xuất hiện trong lời kể khi Air Groove không ở trong cảnh.
 
 Air Groove chỉ chuyển một mục từ `UNKNOWN` sang `KNOWN` khi prose xác lập rõ cô được kể lại, đọc nguồn hợp lệ hoặc tự suy luận từ dữ kiện thật sự có. Không dùng câu “có lẽ cô bé đã nghe ở đâu đó” để sửa ngược continuity.

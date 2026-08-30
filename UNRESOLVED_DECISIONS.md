@@ -34,7 +34,7 @@ Không có thứ gì trong file này trở thành canon chỉ vì nó được l
 - Chức danh hợp đồng trainer/faculty chính xác sau khi tuyển: TBD
 - Equinox đã đậu vị trí trainer + giáo viên Lịch sử, hoàn tất cả hai bài thực hành và nhận thẻ nhân viên ngày 2026-03-09: STORY-ESTABLISHED / LOCKED
 - Equinox được giao chủ nhiệm Senior 3-A và đã điều hành bầu đủ bốn chức vụ ban cán sự sáng 2026-04-01: STORY-ESTABLISHED / LOCKED
-- Buổi hỏi đáp/làm quen 3-A đã kết thúc ở chuông nghỉ trưa 2026-04-01; khảo sát Izu mới được dời tới sau bữa trưa. Phê duyệt chuyến đi, điểm đến chi tiết, phương tiện, ngân sách, lịch trình và người tham gia: TBD
+- Buổi hỏi đáp/làm quen 3-A đã kết thúc ở chuông nghỉ trưa 2026-04-01; cuộc gọi video tại căn tin sau đó khiến Zenith bắt đầu cân nhắc tới thăm Tracen. Ngày/giờ thăm, đăng ký khách, lịch trình và hình thức tiếp đón: TBD. Khảo sát Izu vẫn chưa bắt đầu; phê duyệt chuyến đi, điểm đến chi tiết, phương tiện, ngân sách, lịch trình và người tham gia: TBD
 - Kết quả xin phòng lưu trú/căn hộ công vụ của Tracen: TBD
 - Ngày Equinox chính thức trở thành head trainer của certified team: TBD
 - Danh tính assistant trainer, international campaign manager, medical/biomechanics unit và analyst: TBD

@@ -2,7 +2,7 @@
 
 > **CANON GUARD — KHÔNG ĐƯỢC HẠ CẤP TRẠNG THÁI:** Equinox **đã vượt qua toàn bộ quy trình tuyển dụng tăng tốc và đã chính thức trở thành cả giáo viên Lịch sử lẫn trainer của Tracen Academy trong ngày 2026-03-09**. Không được viết hoặc suy luận rằng cô vẫn chỉ là ứng viên, mới qua vòng một, chưa đậu, hoặc phải chờ đến 2026-03-23 mới trở thành staff.
 
-**Mốc hiện tại của prose:** **trưa 2026-04-01**, ngày đầu năm học 2026–2027, tại lớp Senior 3-A. Equinox đã điều hành xong cả bốn vòng bầu ban cán sự, hoàn tất phần sinh hoạt đầu năm/kiểm tra cơ sở vật chất và dành khoảng một tiết rưỡi cuối cho lớp hỏi cô rồi hỏi lẫn nhau. Điểm dừng là đúng lúc **chuông nghỉ trưa vang lên**, ngay sau khi Equinox đánh giá 3-A “ồn”, có năng lực, quá nhiều tự trọng, khó quản nhưng biết nghe và phản đối mà chưa cần làm nhục nhau. Chưa có cảnh rời lớp hoặc ăn trưa. Những gì ghi là “đã xảy ra” trong file này là `STORY-ESTABLISHED / LOCKED`.
+**Mốc hiện tại của prose:** **giờ nghỉ trưa 2026-04-01**, ngày đầu năm học 2026–2027, tại căn tin Tracen. Sau buổi hỏi đáp, Equinox đã ăn trưa cùng Rudolf trong lúc gọi video với Zenith; Air Groove, Narita Brian, Oguri Cap, toàn bộ lớp 3-A và bốn thành viên Team Spica ngoài lớp lần lượt nhập cuộc. Zenith phủ nhận mọi lời giải thích siêu hình về chồng, trả lời các câu hỏi đời thường rồi bắt đầu cân nhắc nghiêm túc việc tới thăm Tracen sau khi Equinox nói mình **muốn** cô tới. Ngày thăm chưa được chốt; khảo sát Izu vẫn chưa bắt đầu. Những gì ghi là “đã xảy ra” trong file này là `STORY-ESTABLISHED / LOCKED`.
 
 ## 1. Trạng thái nghề nghiệp của Equinox
 
@@ -190,7 +190,18 @@ Các điều sau là kế hoạch tương lai, **không được viết như ký
 - Khảo sát/ý kiến về chuyến Izu được dời tới sau bữa trưa. Chuyến đi, lịch trình, phương tiện, ngân sách và người tham gia vẫn chưa được khóa bởi cảnh này.
 - Trước chuông, Equinox đánh giá lớp “ồn”, có năng lực, quá nhiều tự trọng và khó quản, nhưng biết nghe khi cần, biết phản đối mà chưa cần làm nhục nhau và “chưa tệ” trong ngày đầu tiên.
 
-## 9. Quan niệm cơ thể và giới tính đã khóa
+## 9. Cuộc gọi giờ trưa với Zenith đã xảy ra
+
+- Equinox ăn trưa cùng Rudolf. Zenith chỉ xuất hiện qua điện thoại, buộc chồng lấy thêm cơm và chê cách nói chuyện của anh chán òm.
+- Rudolf thắng Zenith trong một cuộc đấu chơi chữ cố ý nhạt. Đây là khoảng nhẹ của Rudolf, không thay thế register lãnh đạo/hội trưởng.
+- Air Groove và Narita Brian tới sau; Zenith phủ nhận mọi lời Equinox kể sáng nay về giới tính cũ, tuổi đời, ngày thức tỉnh và khả năng quan sát từ xa. Equinox nói mình không đùa. Rudolf, Air Groove và Brian chưa coi phía nào là kết luận đáng tin hoàn toàn.
+- Oguri Cap và Tamamo Cross nhập nhóm; sau đó toàn bộ 32 học sinh 3-A đều tụ quanh bàn. Team Spica có sáu thành viên hiện tại; Suzuka và Gold Ship đã thuộc 3-A, còn Tokai Teio, Mejiro McQueen, Vodka và Daiwa Scarlet là bốn người tới thêm. Special Week chưa nhập học và không có mặt.
+- Zenith xác nhận hôn nhân, hai người con đã trưởng thành **Twilight** và **Lux**, cùng việc các con gọi Equinox là **bố**. Cô kể nhiều thói quen gia đình nhưng không gửi hoặc công khai bất kỳ ảnh riêng tư nào.
+- Zenith đánh giá Equinox có kiến thức và không xem nhẹ trách nhiệm khi người khác phụ thuộc; lớp nên phản ánh thẳng nếu cô ấy dạy không tốt hoặc thật sự ngủ trong giờ.
+- Khi được hỏi về khả năng tới Tracen, Equinox nói **muốn** Zenith tới. Zenith chuyển sang cân nhắc nghiêm túc nhưng chỉ nói “một ngày nào đó” và “có thể”. Không có ngày thăm, đăng ký khách, lịch trình hoặc chương trình tiếp đón nào được duyệt.
+- Sự kiện chi tiết và ranh giới kiến thức nằm tại `fanfic/events/2026-04-01-class-3a-lunch-call.md`.
+
+## 10. Quan niệm cơ thể và giới tính đã khóa
 
 - Equinox không xem giới tính là trục cốt lõi giữ danh tính. Cơ thể, hormone, quần áo hoặc thói quen chăm sóc có thể thay đổi trải nghiệm nhưng không tự thay giá trị quan, tính cách hay người cô yêu.
 - Việc chăm tóc, dưỡng da, mặc đồ nữ hoặc nhận ra cơ thể hiện tại đẹp không quyết định xu hướng tính dục hay buộc cô vào một vai giới cố định.
@@ -199,8 +210,8 @@ Các điều sau là kế hoạch tương lai, **không được viết như ký
 - Hôn nhân khiến giới tính được gọi tên rõ hơn trong quan hệ, nhưng đối tượng Equinox yêu là Zenith chứ không phải một danh mục giới tính hay vai “chồng/vợ” được viết sẵn.
 - Equinox thoải mái với khỏa thân trong không gian riêng và ngủ khỏa thân. Không được biến sự thoải mái này thành quyền để nhân vật khác xâm phạm riêng tư hoặc thành trò phản ứng tập thể.
 
-## 10. Điểm nối cảnh
+## 11. Điểm nối cảnh
 
-Điểm tiếp tục trực tiếp là **ngay sau tiếng chuông nghỉ trưa ngày 2026-04-01**. Buổi hỏi đáp/làm quen vừa kết thúc; Equinox và 32 học sinh vẫn ở lớp, chưa có hành động rời phòng hoặc bắt đầu bữa trưa. Ban cán sự đã đủ bốn chức vụ: **Sirius Symboli / Hishi Amazon / T.M. Opera O / Eishin Flash**. Không kéo trạng thái về trước bất kỳ vòng bỏ phiếu nào, không thay đổi ledger đã khóa, không cho một người kiêm nhiệm nhiều chức vụ và không viết chuyến Izu như đã được phê duyệt.
+Điểm tiếp tục trực tiếp là **cuối cuộc gọi video giờ trưa ngày 2026-04-01 tại căn tin**. Zenith đã nói một ngày nào đó có thể tới thăm Tracen và đang cân nhắc nghiêm túc; Equinox bắt đầu ngủ thật giữa cụm học sinh. Chưa có ngày thăm, đăng ký khách, chương trình tiếp đón, khảo sát Izu hoặc cảnh buổi chiều. Ban cán sự vẫn là **Sirius Symboli / Hishi Amazon / T.M. Opera O / Eishin Flash**. Không kéo trạng thái về trước cuộc gọi, không biến ý tưởng của Opera O/Gold Ship thành kế hoạch được duyệt và không cho Special Week xuất hiện trước ngày nhập học 2026-04-06.
 
 Không được quay lại trạng thái “ứng viên” hay buộc Equinox thi lại. Không mặc định nhân vật biết một sự kiện đã qua nếu họ không được xác lập là người tham dự/người được kể lại; xem `fanfic/style/prohibited_tendencies.md`, `fanfic/knowledge/air-groove.md` và `fanfic/knowledge/zenith.md`.

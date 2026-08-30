@@ -7,7 +7,7 @@
 - **Số đo ba vòng (ngực–eo–hông):** **210–118–200 cm** — STORY-ESTABLISHED / LOCKED
 - **Cơ quan:** Tracen Academy
 - **Vai trò hiện tại:** giáo viên Lịch sử + trainer chính thức + giáo viên chủ nhiệm Senior 3-A, với quyền trong từng phạm vi chuyên môn — STORY-ESTABLISHED / LOCKED
-- **Trạng thái tại điểm prose hiện tại:** trưa 2026-04-01, đã điều hành xong bốn vòng bầu ban cán sự 3-A, phần sinh hoạt/kiểm tra cơ sở vật chất và khoảng một tiết rưỡi hỏi đáp làm quen; mốc dừng đúng lúc chuông nghỉ trưa vang lên — STORY-ESTABLISHED / LOCKED
+- **Trạng thái tại điểm prose hiện tại:** giờ nghỉ trưa 2026-04-01, đã điều hành xong bốn vòng bầu ban cán sự 3-A và phần hỏi đáp; sau đó ăn trưa cùng Rudolf trong lúc gọi video với Zenith, trước khi toàn bộ 3-A cùng một số thành viên Team Spica tụ lại. Mốc dừng cuối cuộc gọi khi Zenith bắt đầu cân nhắc việc tới thăm Tracen — STORY-ESTABLISHED / LOCKED
 - **Môn giảng dạy/đã giảng thử:** Lịch sử — STORY-ESTABLISHED / LOCKED
 - **Chức danh hợp đồng chính xác:** TBD; không ảnh hưởng kết quả tuyển dụng đã chốt
 
@@ -23,7 +23,8 @@
 - Khi nói với **học sinh**, Equinox tự xưng **“cô”** và gọi đối phương là **“em/các em”**. Air Groove, Symboli Rudolf và mọi thành viên hội học sinh vẫn thuộc nhóm này khi còn là học sinh.
 - Khi nói với **đồng nghiệp/staff trưởng thành**, Equinox tự xưng **“tôi”**. Không dùng “cô” để tự xưng chỉ vì người nghe gọi cô là giáo viên.
 - Với người lớn ngoài trường, nhân viên dịch vụ hoặc người lạ, mặc định dùng **“tôi”** trừ khi quan hệ cụ thể đã thiết lập một cách xưng hô khác.
-- Lời kể ngôi ba gọi Equinox là **“cô/cô ấy”** không làm thay đổi đại từ tự xưng trong hội thoại.
+- Lời kể ngôi ba ưu tiên gọi Equinox là **“cô ấy”** hoặc dùng tên; không rút thành **“cô”** trong prose hiện tại vì dễ tràn vào register hội thoại và lẫn với chức danh giáo viên.
+- Với Zenith, Equinox dùng **“anh–em”** và tự xưng **“anh”** kể cả khi đang ở Tracen hoặc có học sinh nghe. Khi nói về một học sinh với Zenith, dùng **“em ấy”**, không dùng **“cô ấy”**.
 
 ### Mắt
 - **Mở trái, nhắm phải:** mống mắt pha đỏ, hồng và trắng với đồng tử sao sáu cánh; thiên hướng nhẹ nhàng hơn, nói nhiều hơn, trọng công lý và giọng dịu/ngọt rõ rệt. Trong cảnh bầu lớp trưởng 3-A, trạng thái này kéo dài đúng năm phút.
@@ -50,6 +51,7 @@ Equinox là Uma nhưng **không được định hướng làm racer thi đấu*
 - Trong không gian riêng, Equinox thoải mái với khỏa thân và ngủ khỏa thân.
 - Zenith và Equinox dùng **anh–em**; Zenith tiếp tục gọi Equinox là chồng/người đàn ông trong cơ thể Uma nữ, và cách gọi đó làm Equinox dễ chịu chứ không phủ định cơ thể hiện tại.
 - Hôn nhân làm giới tính được gọi tên trong quan hệ, nhưng Equinox yêu Zenith như một cá thể, không yêu một danh mục giới tính hay vai diễn “chồng/vợ” có sẵn.
+- Hai người có hai người con đã trưởng thành: **Twilight** là con trai/anh, **Lux** là con gái/em. Cả hai gọi Equinox là **bố**; đây là quan hệ gia đình OU được prose giờ trưa 2026-04-01 công khai trước nhóm học sinh, không phải suy luận từ hình dạng hiện tại.
 
 ## Ngày làm việc 2026-03-11
 
@@ -76,7 +78,16 @@ Equinox là Uma nhưng **không được định hướng làm racer thi đấu*
 - Cô không đòi học sinh phải thích mình: yêu cầu là tuân thủ quy định và không xúc phạm người khác. Cô chấp nhận phản đối có căn cứ, yêu cầu giải trình và kênh phản ánh ngay cả khi bản thân có thể khó chịu.
 - Điều cô mong nhất ở lớp là học sinh không biến năng lực thành lý do để tự phá mình; điều cô ghét nhất là giấu chấn thương. Cô cũng không muốn bị đánh thức vì một việc có thể viết vào giấy.
 - Đánh giá cuối buổi của cô về 3-A: ồn, có năng lực, quá nhiều tự trọng, khó quản, nhưng biết nghe khi thật sự cần, biết phản đối mà chưa cần làm nhục nhau và “chưa tệ” trong ngày đầu tiên.
-- Chuông nghỉ trưa là endpoint hiện tại. Chưa viết cảnh rời lớp, ăn trưa hoặc khảo sát Izu.
+- Chuông nghỉ trưa là endpoint của cảnh trong lớp; khảo sát Izu chưa bắt đầu.
+
+## Cuộc gọi ở căn tin — 2026-04-01
+
+- Ăn trưa cùng Rudolf trong lúc gọi video với Zenith; lấy thêm cơm sau khi Zenith nhắc, rồi cố dùng việc đang ăn và nhắm mắt để tránh phải nói nhiều.
+- Thừa nhận thấy cuộc đấu chơi chữ nhạt giữa Rudolf và Zenith vui nhưng không cười thành tiếng.
+- Không chấp nhận lời Zenith phủ nhận các dữ kiện OU mà cô ấy đã kể sáng nay; nhiều lần nói mình không đùa nhưng bị vợ bảo tiếp tục ăn hoặc im.
+- Trước toàn bộ nhóm, trả lời một từ **“muốn”** khi Zenith hỏi có muốn cô tới Tracen hay không. Đây là lý do khiến Zenith bắt đầu cân nhắc nghiêm túc.
+- Khi Zenith nói sự im lặng của chồng không trống rỗng và anh luôn có mặt khi cần, mở mắt trái rất nhẹ, nói “Ừ” rồi khép lại. Nhịp này không có thời lượng kéo dài hoặc áp lực được xác lập.
+- Bắt đầu ngủ thật ở cuối cảnh. Ngày Zenith tới, đăng ký khách, hình thức tiếp đón và phần khảo sát Izu vẫn chưa được xác lập.
 
 ## Nguyên tắc nghề nghiệp đã thể hiện
 - Sức khỏe và medical clearance đứng trên race, Winning Live và sức ép khán giả.

@@ -1,6 +1,6 @@
 # Prose Audit — từ mở đầu đến điểm hiện tại
 
-**Phạm vi:** các sự kiện prose đã được khóa trong repo từ Equinox xuất hiện ngày 2026-03-09 tới chuông nghỉ trưa sau phần hỏi đáp/làm quen của Senior 3-A ngày 2026-04-01. Repo hiện giữ phần lớn các cảnh dưới dạng continuity summary thay vì chapter nguyên văn; vì vậy audit này chỉ kết luận chắc chắn ở nơi còn đủ văn bản/dữ kiện, không dựng lỗi cho đoạn không còn nguyên văn.
+**Phạm vi:** các sự kiện prose đã được khóa trong repo từ Equinox xuất hiện ngày 2026-03-09 tới cuối cuộc gọi video với Zenith tại căn tin trong giờ nghỉ trưa 2026-04-01. Repo hiện giữ phần lớn các cảnh dưới dạng continuity summary thay vì chapter nguyên văn; vì vậy audit này chỉ kết luận chắc chắn ở nơi còn đủ văn bản/dữ kiện, không dựng lỗi cho đoạn không còn nguyên văn.
 
 **Trạng thái:** tài liệu chẩn đoán, không tự retcon sự kiện. Guardrail bắt buộc nằm tại `fanfic/style/prohibited_tendencies.md`.
 
@@ -13,6 +13,7 @@
 | HIGH | Nhiều file repo trước cập nhật này | Mốc prose và trạng thái tuyển dụng/orientation bị lệch giữa `current_state`, timeline, legal framework và guide | Đã đồng bộ trong commit cập nhật; các lần sau phải tìm toàn repo trước khi đổi mốc |
 | HIGH | Timeline bầu ban cán sự | Repo đặt cuộc bầu vào 2026-03-12 dù author đã chốt năm học bắt đầu 2026-04-01 và chỉ bầu ban cán sự từ ngày đó | Đã chuyển toàn bộ sự kiện sang 2026-04-01; 01/04/2026 theo lịch Gregory là Thứ Tư, không phải Thứ Sáu |
 | HIGH | Current state sau các vòng lớp phó | Snapshot chỉ giữ Sirius và Opera O, làm rơi Hishi Amazon và Eishin Flash dù bốn chức vụ đã hoàn tất | Đã khóa đủ bốn chức vụ trong current state, roster, event, guide và continuity |
+| HIGH | Cảnh gọi Zenith ở căn tin | Register trượt giữa lời kể, vợ chồng, giáo viên–học sinh và học sinh–khách: `cô ấy/em ấy`, `cô/chị`, `cô/anh`, `tôi/em`, `cổ/cô Equinox` bị dùng chéo | Áp dụng ma trận trong `prohibited_tendencies.md` và event lunch-call; sửa toàn bộ trước khi lưu chapter nguyên văn |
 | MEDIUM | Cảnh cửa hàng | Head-hopping sang nội tâm/mục tiêu doanh số của nhân viên | Chỉ mô tả tín hiệu nhìn thấy hoặc xác lập người kể toàn tri nhất quán |
 | MEDIUM | Cảnh cửa hàng | Cùng một beat “Air Groove ngăn mua quá nhiều” lặp qua giày, dép, dây tóc, quần áo và đồ may đo | Giữ các lượt làm quan hệ tiến triển; rút gọn lượt chỉ lặp kết luận |
 | MEDIUM | Cảnh cửa hàng | Inventory và phí được liệt kê quá chi tiết, làm nhịp truyện đứng yên | Gom theo nhóm; chỉ giữ món/giá tạo setup, payoff hoặc continuity |
@@ -62,6 +63,15 @@
 - Việc nhắc khảo sát/chuyến Izu chỉ khóa ý định lấy ý kiến sau bữa trưa. Phê duyệt, điểm đến chi tiết, phương tiện, ngân sách, lịch trình và danh sách tham gia vẫn chưa được cảnh xác lập.
 - Tất cả 32 học sinh đều ở trong lớp nên lời Equinox nói với cả lớp và các lượt công khai trước khi lớp tách nhóm có kênh truyền hợp lệ. Khi nhiều nhóm nói chồng lên nhau, không mặc định cả 32 người nghe trọn từng nhóm; càng không tự truyền nội dung cho staff, học sinh lớp khác, Zenith, Haise hoặc Takiyama.
 - Chưa thấy lỗi số học hoặc xung đột kết quả bầu cử mới. Rủi ro chính của bản prose là focalization chuyển qua nhiều nội tâm và số lượng lớn mini-arc khép kín trong cùng một tiết; đây là vấn đề trình bày, không retcon sự kiện.
+
+## Kiểm tra cuộc gọi với Zenith tại căn tin 2026-04-01
+
+- Cast khớp chronology: toàn bộ 32 học sinh 3-A cuối cùng đều được gọi tên/có vị trí; Oguri Cap là người ngoài lớp. Team Spica có sáu thành viên hiện tại gồm Suzuka, Gold Ship, Teio, McQueen, Vodka và Scarlet; Special Week chưa nhập học ngày 2026-04-01 nên không xuất hiện.
+- Zenith chỉ hiện diện qua cuộc gọi video, đúng knowledge/appearance guardrail. Không có ảnh hoặc dữ liệu riêng tư nào thực sự được gửi.
+- Cảnh có nhiều arrival wave; người tới sau không tự động biết phần đầu. Những điều được nói sau khi cả nhóm đã tụ tập mới có kênh công khai cho toàn bộ 3-A.
+- Khả năng Zenith tới Tracen chỉ được khóa ở mức cân nhắc nghiêm túc. Biểu ngữ, pháo giấy, máy tạo khói và chương trình tiếp đón đều là joke/đề xuất bị chặn, không phải nhiệm vụ đã giao.
+- Xưng hô cần sửa trong chapter nguồn: Equinox → Rudolf `em ấy`; Air Groove → Zenith `chị`; Equinox → Zenith `anh`; học sinh → Zenith `em/chúng em`; học sinh nói về Equinox `cô Equinox/cô ấy`; narration → Equinox `cô ấy`.
+- Rủi ro trình bày còn lại: cuộc hỏi đáp quá dài và người kể liên tục xác nhận nội tâm của nhiều nhân vật. Đây chưa phải lỗi continuity, nhưng khi lưu chapter nên giữ focalization có chủ đích và tránh biến từng câu hỏi thành một mini-arc khép kín.
 
 ## Những phần hiện không thấy lỗi canon chắc chắn
 

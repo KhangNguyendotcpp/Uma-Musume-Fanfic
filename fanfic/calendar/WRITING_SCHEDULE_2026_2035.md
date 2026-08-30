@@ -39,7 +39,7 @@ Mốc Live là quy ước `ORIGINAL`. Với international campaign, Equinox ph�
 
 ## 2026
 
-- **2026-04-01 Thứ Tư, sáng–chuông nghỉ trưa, giờ chính xác TBD — Senior 3-A:** ngày đầu năm học; Equinox hoàn tất bầu đủ bốn chức vụ, nội dung sinh hoạt/kiểm tra cơ sở vật chất và khoảng một tiết rưỡi hỏi đáp làm quen. Mốc prose dừng ở chuông nghỉ trưa; khảo sát Izu chưa bắt đầu.
+- **2026-04-01 Thứ Tư, sáng–giờ nghỉ trưa, giờ chính xác TBD — Senior 3-A/căn tin:** Equinox hoàn tất bầu đủ bốn chức vụ, nội dung sinh hoạt/kiểm tra cơ sở vật chất và khoảng một tiết rưỡi hỏi đáp làm quen. Trong giờ trưa, cô ăn cùng Rudolf và gọi video với Zenith; toàn bộ 3-A, Oguri Cap và bốn thành viên Team Spica ngoài lớp lần lượt tham gia. Mốc prose dừng cuối cuộc gọi khi Zenith bắt đầu cân nhắc việc tới thăm; ngày thăm và khảo sát Izu chưa được chốt.
 - **2026-04-06 Thứ Hai 08:30 — Đại sảnh Tracen:** lễ khai giảng/nhập học toàn trường; Special Week nhập học.
 - **2026-05-25 Thứ Hai 08:40–05-29 Thứ Sáu 12:20 — Khối học thuật:** giữa kỳ mùa xuân; training chiều giảm còn 90 phút.
 - **2026-07-06 Thứ Hai 08:40–07-10 Thứ Sáu 12:20 — Khối học thuật:** cuối kỳ mùa xuân.

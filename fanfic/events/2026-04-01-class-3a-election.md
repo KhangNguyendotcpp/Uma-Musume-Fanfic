@@ -228,4 +228,4 @@ Cả bốn chức vụ đã có người đắc cử. Không được quay lại
 
 Trước chuông nghỉ trưa, Sirius hỏi Equinox đánh giá lớp 3-A thế nào. Equinox trả lời rằng lớp **ồn, có năng lực, có quá nhiều tự trọng và khó quản**, nhưng biết nghe khi thật sự cần, biết phản đối mà chưa cần làm nhục nhau, và **“chưa tệ”** trong ngày đầu tiên.
 
-Mốc prose hiện tại dừng đúng lúc **chuông nghỉ trưa vang lên**. Buổi hỏi đáp/làm quen kết thúc; chưa có cảnh rời lớp, ăn trưa, phát khảo sát Izu hoặc họp ban cán sự sau chuông. Equinox đang nhắm cả hai mắt ở phần lớn đoạn cuối và không có trạng thái mắt mới nào được xác lập sau câu đánh giá.
+Mốc của **cảnh này** dừng đúng lúc **chuông nghỉ trưa vang lên**. Buổi hỏi đáp/làm quen kết thúc; chưa có phát khảo sát Izu hoặc họp ban cán sự sau chuông. Cảnh tiếp theo đã được khóa riêng tại `fanfic/events/2026-04-01-class-3a-lunch-call.md`: Equinox xuống căn tin, ăn cùng Rudolf và gọi video với Zenith. Equinox đang nhắm cả hai mắt ở phần lớn đoạn cuối trong lớp và không có trạng thái mắt mới nào được xác lập sau câu đánh giá.
