@@ -34,7 +34,11 @@ Không có thứ gì trong file này trở thành canon chỉ vì nó được l
 - Chức danh hợp đồng trainer/faculty chính xác sau khi tuyển: TBD
 - Equinox đã đậu vị trí trainer + giáo viên Lịch sử, hoàn tất cả hai bài thực hành và nhận thẻ nhân viên ngày 2026-03-09: STORY-ESTABLISHED / LOCKED
 - Equinox được giao chủ nhiệm Senior 3-A và đã điều hành bầu đủ bốn chức vụ ban cán sự sáng 2026-04-01: STORY-ESTABLISHED / LOCKED
-- Buổi hỏi đáp/làm quen 3-A đã kết thúc ở chuông nghỉ trưa 2026-04-01; cuộc gọi video tại căn tin sau đó khiến Zenith bắt đầu cân nhắc tới thăm Tracen. Ngày/giờ thăm, đăng ký khách, lịch trình và hình thức tiếp đón: TBD. Khảo sát Izu vẫn chưa bắt đầu; phê duyệt chuyến đi, điểm đến chi tiết, phương tiện, ngân sách, lịch trình và người tham gia: TBD
+- Buổi hỏi đáp/làm quen 3-A và cuộc gọi video tại căn tin đã hoàn tất ngày 2026-04-01; Zenith bắt đầu cân nhắc tới thăm Tracen. Ngày/giờ thăm, đăng ký khách, lịch trình và hình thức tiếp đón: TBD. Khảo sát Izu vẫn chưa bắt đầu; phê duyệt chuyến đi, điểm đến chi tiết, phương tiện, ngân sách, lịch trình và người tham gia: TBD
+- Rudolf, Air Groove và Narita Brian đã nộp đơn ngày 2026-03-23 và hoàn tất buổi đánh giá nền tự nguyện đầu tiên chiều 2026-04-01: STORY-ESTABLISHED / LOCKED. Thành viên thứ tư–năm, thời điểm Team Zenith đủ điều kiện và quyết định tuyển chủ động của Equinox: TBD
+- Trạng thái chuyển team chính xác của Rudolf/Air Groove/Brian đối với roster Rigil trên giấy trong thời gian Team Zenith chờ duyệt: TBD; không tự coi profile TV Rigil là current fanfic paperwork hoặc tự tuyên bố chuyển team đã hoàn tất
+- Track 7 đã bị khóa vì thiệt hại do lượt chạy của Equinox; kết luận kỹ thuật, chi phí, trách nhiệm tài chính cuối cùng và ngày mở lại: TBD
+- Phương án để ba trainee ở căn hộ Shibuya bốn đêm đã được quản lý ký túc xá duyệt có điều kiện và cả ba đã đồng ý, nhưng đơn riêng, việc rời Tracen và toàn bộ kỳ lưu trú chưa xảy ra tại endpoint
 - Kết quả xin phòng lưu trú/căn hộ công vụ của Tracen: TBD
 - Ngày Equinox chính thức trở thành head trainer của certified team: TBD
 - Danh tính assistant trainer, international campaign manager, medical/biomechanics unit và analyst: TBD
@@ -49,7 +53,7 @@ Không có thứ gì trong file này trở thành canon chỉ vì nó được l
 
 ## Thể chế / cast
 
-- Năm sinh/tuổi chính xác của Rudolf: baseline fanfic ~18 vào 04/2026; chưa LOCKED
+- Năm sinh chính xác của Rudolf: TBD. Tuổi tại mốc 04/2026 đã được author khóa là **17**, Senior Year 3; baseline cũ ~18/University Year 1 đã bị hủy
 - Tuổi/năm học fanfic chính xác của Oguri ngoài neo 17 tuổi năm 2026: TBD
 - Danh mục ngành học cụ thể của University Division: TBD
 - Credential chính xác của Professional/Postgraduate track: TBD

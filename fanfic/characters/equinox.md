@@ -7,7 +7,7 @@
 - **Số đo ba vòng (ngực–eo–hông):** **210–118–200 cm** — STORY-ESTABLISHED / LOCKED
 - **Cơ quan:** Tracen Academy
 - **Vai trò hiện tại:** giáo viên Lịch sử + trainer chính thức + giáo viên chủ nhiệm Senior 3-A, với quyền trong từng phạm vi chuyên môn — STORY-ESTABLISHED / LOCKED
-- **Trạng thái tại điểm prose hiện tại:** giờ nghỉ trưa 2026-04-01, đã điều hành xong bốn vòng bầu ban cán sự 3-A và phần hỏi đáp; sau đó ăn trưa cùng Rudolf trong lúc gọi video với Zenith, trước khi toàn bộ 3-A cùng một số thành viên Team Spica tụ lại. Mốc dừng cuối cuộc gọi khi Zenith bắt đầu cân nhắc việc tới thăm Tracen — STORY-ESTABLISHED / LOCKED
+- **Trạng thái tại điểm prose hiện tại:** cuối buổi đánh giá nền chiều 2026-04-01 tại Track 7; đã tổ chức đánh giá tự nguyện đầu tiên cho Rudolf/Air Groove/Brian, báo cáo thiệt hại do lượt chạy 2400 m và mời cả ba ở căn hộ Shibuya bốn đêm. Mốc dừng khi ba học sinh đang về ký túc xá gom đồ/nộp đơn — STORY-ESTABLISHED / LOCKED
 - **Môn giảng dạy/đã giảng thử:** Lịch sử — STORY-ESTABLISHED / LOCKED
 - **Chức danh hợp đồng chính xác:** TBD; không ảnh hưởng kết quả tuyển dụng đã chốt
 
@@ -33,7 +33,14 @@
 - **Mở cả hai:** cố ý chưa định nghĩa sâu; đại diện Equinox hoàn chỉnh/toàn phần hơn là một power-up đơn giản.
 
 ## Đua
-Equinox là Uma nhưng **không được định hướng làm racer thi đấu** trong fanfic này. Chức năng nghề nghiệp tại chỗ là trainer/staff. Quyền sở hữu team và roster vận động viên chính xác còn TBD.
+Equinox là Uma nhưng **không được định hướng làm racer thi đấu** trong fanfic này. Chức năng nghề nghiệp tại chỗ là trainer/staff. Rudolf, Air Groove và Narita Brian là ba trainee/ứng viên đầu tiên đã nộp đơn và tham gia đánh giá; Team Zenith vẫn đang chờ duyệt vì chưa đủ năm Uma.
+
+### Năng lực chạy đã được prose xác lập
+
+- Trong một lượt 2400 m tại Track 7 ngày 2026-04-01, Equinox giữ đúng **50 km/h** từ bước chạy hoàn chỉnh đầu tiên tới vạch đích; đây là tốc độ tối đa cô ấy tự xác nhận cho cơ thể Shire hiện tại.
+- Rudolf, Air Groove và Brian đều về trước; Equinox về cuối, chậm hơn nhóm trước 0,9 giây.
+- Cô ấy không biểu hiện mệt đáng kể sau lượt chạy. Dữ kiện này chỉ áp cho điều kiện/lượt chạy đã thấy, không tự chứng minh sức bền vô hạn.
+- Lực đạp, tiếp đất và hãm ở tốc độ tối đa đủ phá hỏng mặt sân tiêu chuẩn dọc line ngoài; đi bộ bình thường không gây hư hại. Equinox tự mô tả cơ thể này ưu tiên lực kéo và kết luận không phù hợp làm pacer trên mặt sân tiêu chuẩn.
 
 ## Tuyển dụng tại Tracen — 2026-03-09
 - Hồ sơ tương đương đủ điều kiện dự tuyển được chấp nhận, dù không có lịch sử dài làm việc tại một cơ sở giáo dục hoặc team được công nhận.
@@ -88,6 +95,14 @@ Equinox là Uma nhưng **không được định hướng làm racer thi đấu*
 - Trước toàn bộ nhóm, trả lời một từ **“muốn”** khi Zenith hỏi có muốn cô tới Tracen hay không. Đây là lý do khiến Zenith bắt đầu cân nhắc nghiêm túc.
 - Khi Zenith nói sự im lặng của chồng không trống rỗng và anh luôn có mặt khi cần, mở mắt trái rất nhẹ, nói “Ừ” rồi khép lại. Nhịp này không có thời lượng kéo dài hoặc áp lực được xác lập.
 - Bắt đầu ngủ thật ở cuối cảnh. Ngày Zenith tới, đăng ký khách, hình thức tiếp đón và phần khảo sát Izu vẫn chưa được xác lập.
+
+## Buổi đánh giá nền và lời mời Shibuya — 2026-04-01
+
+- Thừa nhận đã đọc toàn bộ dữ liệu có quyền truy cập nhưng không báo tiến độ cho Rudolf/Air Groove/Brian trong chín ngày vì kế hoạch chưa hoàn chỉnh; chấp nhận đây là lỗi và cam kết cập nhật định kỳ.
+- Thừa nhận giận Hana nhưng không cho phép cảm xúc của mình hoặc động tác khiêu khích từ đồng nghiệp quyết định lịch tập và không dùng trainee làm câu trả lời trong xung đột cá nhân.
+- Tổ chức buổi đánh giá nền dưới tư cách trainer của trường trong khi Team Zenith chưa được chứng nhận.
+- Báo cáo đầy đủ thiệt hại Track 7, khóa khu vực không an toàn và nhận trách nhiệm; đề nghị khấu trừ phần trách nhiệm cá nhân vào lương nhưng Tracen chưa chấp thuận hoặc xác định số tiền.
+- Mời Rudolf, Air Groove và Brian tới căn hộ Shibuya bốn đêm tới Chủ Nhật 2026-04-05, ban đầu từ ý định mời buffet rồi mở rộng thành quan sát phục hồi. Cô gọi đây là “khắc phục”, không thừa nhận là xin lỗi hoặc chiều học sinh.
 
 ## Nguyên tắc nghề nghiệp đã thể hiện
 - Sức khỏe và medical clearance đứng trên race, Winning Live và sức ép khán giả.

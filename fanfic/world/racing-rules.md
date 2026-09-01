@@ -15,7 +15,7 @@ Từ glossary TV S1:
 
 ## 2. Team-size rule
 
-Khi chỉ có Haise/Taki, Equinox chưa đứng đầu một certified team độc lập. Người vượt assessment có thể làm trainer/staff, phụ trách cá nhân dưới cấu trúc được phân công hoặc nhóm training chưa được công nhận. Certified roster, thành viên thứ ba–năm và thời điểm chứng nhận: `TBD`.
+Rudolf, Air Groove và Narita Brian là ba trainee/ứng viên đầu tiên đã nộp đơn xin Equinox phụ trách và tham gia đánh giá nền tự nguyện. Team Zenith chưa phải certified team độc lập vì chưa đủ tối thiểu năm Uma. Equinox có thể phụ trách đánh giá cá nhân dưới tư cách trainer chính thức của trường, nhưng không được ra lệnh dưới danh nghĩa một team chưa được công nhận. Certified roster, thành viên thứ tư–năm và thời điểm chứng nhận: `TBD`.
 
 ## 3. Eligibility theo fanfic
 

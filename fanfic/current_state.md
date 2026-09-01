@@ -2,7 +2,7 @@
 
 > **CANON GUARD — KHÔNG ĐƯỢC HẠ CẤP TRẠNG THÁI:** Equinox **đã vượt qua toàn bộ quy trình tuyển dụng tăng tốc và đã chính thức trở thành cả giáo viên Lịch sử lẫn trainer của Tracen Academy trong ngày 2026-03-09**. Không được viết hoặc suy luận rằng cô vẫn chỉ là ứng viên, mới qua vòng một, chưa đậu, hoặc phải chờ đến 2026-03-23 mới trở thành staff.
 
-**Mốc hiện tại của prose:** **giờ nghỉ trưa 2026-04-01**, ngày đầu năm học 2026–2027, tại căn tin Tracen. Sau buổi hỏi đáp, Equinox đã ăn trưa cùng Rudolf trong lúc gọi video với Zenith; Air Groove, Narita Brian, Oguri Cap, toàn bộ lớp 3-A và bốn thành viên Team Spica ngoài lớp lần lượt nhập cuộc. Zenith phủ nhận mọi lời giải thích siêu hình về chồng, trả lời các câu hỏi đời thường rồi bắt đầu cân nhắc nghiêm túc việc tới thăm Tracen sau khi Equinox nói mình **muốn** cô tới. Ngày thăm chưa được chốt; khảo sát Izu vẫn chưa bắt đầu. Những gì ghi là “đã xảy ra” trong file này là `STORY-ESTABLISHED / LOCKED`.
+**Mốc hiện tại của prose:** **cuối buổi đánh giá nền chiều 2026-04-01**, ngày đầu năm học 2026–2027, tại Track số 7 của Tracen. Sau cuộc gọi giờ trưa, Equinox đã tổ chức buổi đánh giá tự nguyện đầu tiên cho Symboli Rudolf, Air Groove và Narita Brian; cả ba kéo cô ấy vào lượt chạy chung 2400 m. Equinox giữ đúng 50 km/h nhưng về cuối sau ba trainee 0,9 giây, đồng thời phá hư line ngoài của Track 7 bằng lực đạp/tiếp đất/hãm. Track đã bị khóa chờ kiểm tra. Cả ba vừa đồng ý lời mời ở căn hộ Shibuya bốn đêm và đang quay về ký túc xá để gom đồ, nộp đơn trước khi ra cổng. Chưa ai tới căn hộ hoặc ăn buffet; khảo sát Izu vẫn chưa bắt đầu. Những gì ghi là “đã xảy ra” trong file này là `STORY-ESTABLISHED / LOCKED`.
 
 ## 1. Trạng thái nghề nghiệp của Equinox
 
@@ -11,7 +11,8 @@
 - Equinox đã nhận **thẻ nhân viên** và được staff/trainer chào mừng sau khi đậu cả hai phần đánh giá thực hành.
 - Equinox đã hoàn tất orientation hậu tuyển dụng 2026-03-10 và ngày làm việc thường lệ đầu tiên 2026-03-11, gồm xác nhận quyền truy cập, họp tổ Lịch sử, sửa rubric và chuẩn bị học liệu. Những điểm chưa được prose xác nhận cuối cùng vẫn giữ `TBD`; chúng không phủ định tư cách giáo viên/trainer chính thức.
 - Phân công **giáo viên chủ nhiệm Senior 3-A** đã được prose xác nhận vào sáng 2026-04-01. Roster 32 học sinh và vai trò chủ nhiệm không còn là đề xuất tạm.
-- Equinox chưa được chốt team/roster độc lập. `Chưa có team được giao` không đồng nghĩa với `chưa phải trainer`.
+- Rudolf, Air Groove và Narita Brian đã nộp đơn xin Equinox phụ trách ngày 2026-03-23; Equinox đã nhận đơn và trực tiếp tổ chức buổi đánh giá nền tự nguyện đầu tiên chiều 2026-04-01.
+- **Team Zenith chưa được Tracen công nhận** vì mới có ba ứng viên/trainee, chưa đạt tối thiểu năm Uma theo rule đã adopt. `Team chưa được duyệt` không đồng nghĩa với `Equinox chưa phải trainer` hoặc `ba học sinh chưa được phép tham gia đánh giá cá nhân tự nguyện`.
 
 ## 2. Quy trình đã hoàn tất trong ngày 2026-03-09
 
@@ -49,7 +50,7 @@
 - Rudolf thuộc cohort Senior Year 3/năm cuối THPT của năm học 2026–2027; cô **không phải University Year 1** ở mốc này. Ngày 2026-03-09 nằm ngay trước sinh nhật 13/3 và trước khai giảng tháng 4.
 - Air Groove vẫn ý thức rõ Equinox là faculty/trainer, nhưng quan hệ đã bớt căng sau một ngày cùng xử lý công việc, nói chuyện về hoa và đi mua những vật dụng Equinox còn thiếu. Air Groove có thể khuyên hoặc ngăn Equinox mua quá mức; không biến cô bé thành phụ huynh hay người quản lý toàn bộ đời sống của một đồng nghiệp trưởng thành.
 - Yayoi xem Equinox là trường hợp bất thường nhưng đầy triển vọng.
-- Hana đã trực tiếp chất vấn/phản biện Equinox trong ngày đánh giá. Hai người hiện là đồng nghiệp; không được viết Hana như người có quyền phủ nhận kết quả tuyển dụng đã chốt.
+- Hana đã trực tiếp chất vấn/phản biện Equinox trong ngày đánh giá. Chiều 2026-04-01, Equinox nhận ra Hana cố ý dằn mặt bằng cách gọi Rigil đi training và thừa nhận mình giận, nhưng không dùng Rudolf/Air Groove/Brian để đáp trả. Hai người hiện là đồng nghiệp; không được viết Hana như người có quyền phủ nhận kết quả tuyển dụng đã chốt hoặc biến Hana thành phản diện vô cớ.
 - Orfevre đã chủ động nói chuyện với Equinox gần hết giờ trưa ngày 2026-03-11 về lớp trưởng, phẩm giá, quyền chất vấn và khả năng cai trị. Cô bé không nói đúng chữ “xin lỗi”, nhưng đã thừa nhận hành vi trước đó không đúng mực. Ngày 2026-04-01, Orfevre ứng cử lớp trưởng và đứng thứ năm với 12 phiếu thuận, 15 phiếu chống, 4 phiếu trắng; bước hạ nhiệt trước đó không tự động trao chức vụ hay xóa hệ quả hành vi cũ.
 - Equinox mới chỉ **quan sát** Haru Urara chạy trong một đoạn ngắn; hai người chưa có cuộc nói chuyện và Equinox chưa phụ trách cô bé. Sự tò mò của Equinox không phải quyền sở hữu hoặc quyết định kéo Haru vào team.
 
@@ -201,7 +202,26 @@ Các điều sau là kế hoạch tương lai, **không được viết như ký
 - Khi được hỏi về khả năng tới Tracen, Equinox nói **muốn** Zenith tới. Zenith chuyển sang cân nhắc nghiêm túc nhưng chỉ nói “một ngày nào đó” và “có thể”. Không có ngày thăm, đăng ký khách, lịch trình hoặc chương trình tiếp đón nào được duyệt.
 - Sự kiện chi tiết và ranh giới kiến thức nằm tại `fanfic/events/2026-04-01-class-3a-lunch-call.md`.
 
-## 10. Quan niệm cơ thể và giới tính đã khóa
+## 10. Nhóm trainee và buổi đánh giá chiều 2026-04-01
+
+- Rudolf, Air Groove và Brian đã chờ từ khi nộp đơn ngày 2026-03-23. Equinox đã đọc toàn bộ dữ liệu được phép truy cập và xây ba kế hoạch riêng + một phần chung, nhưng không cập nhật tiến độ vì kế hoạch chưa hoàn chỉnh. Cô thừa nhận đó là lỗi giao tiếp.
+- Sau khi cả ba trực tiếp yêu cầu, Equinox mở một **buổi đánh giá nền tự nguyện** dưới tư cách trainer của trường thay vì ra lệnh dưới danh nghĩa Team Zenith chưa được duyệt.
+- Equinox hứa cập nhật tiến độ ba ngày một lần, báo thay đổi ảnh hưởng lịch và gửi phiên bản kế hoạch đang làm. Trước cuối tuần cô phải quyết định có chủ động mời thêm thành viên hay tiếp tục chờ đơn.
+- Equinox thừa nhận giận Hana nhưng không cho phép cảm xúc hoặc khiêu khích giữa trainer quyết định lịch tập và không dùng trainee làm câu trả lời cho người khác.
+- Trong lượt chạy chung 2400 m sau phần đánh giá, Equinox giữ đúng 50 km/h từ bước hoàn chỉnh đầu tiên tới vạch đích. Rudolf, Air Groove và Brian đều về trước; Equinox về cuối, chậm hơn nhóm trước 0,9 giây.
+- Lực đạp, tiếp đất và hãm của Equinox làm hư hỏng liên tục line ngoài Track 7. Không có ai bị thương. Track bị khóa chờ kiểm tra; việc sửa xong, tổng chi phí và trách nhiệm tài chính cuối cùng vẫn chưa được xác lập.
+- Equinox không biểu hiện mệt đáng kể sau lượt chạy nhưng dữ liệu cho thấy sự hiện diện của cô ấy làm cả ba trainee tăng pace sớm. Cô kết luận mình không phù hợp làm pacer trên mặt sân tiêu chuẩn.
+- Chi tiết sự kiện, thủ tục và ranh giới kiến thức nằm tại `fanfic/events/2026-04-01-team-zenith-baseline.md`.
+
+## 11. Lời mời lưu trú Shibuya
+
+- Equinox đã mời Rudolf, Air Groove và Brian tới căn hộ Shibuya từ tối 2026-04-01 tới Chủ Nhật 2026-04-05: bốn đêm Thứ Tư–Thứ Bảy, trở về Chủ Nhật.
+- Kế hoạch bắt đầu từ một bữa buffet tại khu thương mại gần Shibuya Station, sau đó được mở rộng vì trở về ký túc xá muộn và để quan sát hồi phục, đau cơ muộn, giấc ngủ, khẩu phần cùng thói quen sinh hoạt trong hai ngày không có lớp + cuối tuần.
+- Quản lý ký túc xá đã duyệt phương án có điều kiện; cả ba vẫn phải tự nộp đơn lưu trú ngoài ký túc xá và hoàn tất xác nhận cần thiết theo hồ sơ. Cả ba đã đồng ý.
+- Equinox gọi đây là “khắc phục” việc không cung cấp kế hoạch/lời giải thích trong chín ngày, không thừa nhận đó là xin lỗi hoặc chiều học sinh.
+- Điểm cuối hiện tại: cả ba đang về ký túc xá gom va-li và nộp đơn trong thời hạn 15 phút. Chưa tới cổng, chưa rời Tracen, chưa tới Shibuya và chưa bắt đầu bữa tối/lưu trú.
+
+## 12. Quan niệm cơ thể và giới tính đã khóa
 
 - Equinox không xem giới tính là trục cốt lõi giữ danh tính. Cơ thể, hormone, quần áo hoặc thói quen chăm sóc có thể thay đổi trải nghiệm nhưng không tự thay giá trị quan, tính cách hay người cô yêu.
 - Việc chăm tóc, dưỡng da, mặc đồ nữ hoặc nhận ra cơ thể hiện tại đẹp không quyết định xu hướng tính dục hay buộc cô vào một vai giới cố định.
@@ -210,8 +230,8 @@ Các điều sau là kế hoạch tương lai, **không được viết như ký
 - Hôn nhân khiến giới tính được gọi tên rõ hơn trong quan hệ, nhưng đối tượng Equinox yêu là Zenith chứ không phải một danh mục giới tính hay vai “chồng/vợ” được viết sẵn.
 - Equinox thoải mái với khỏa thân trong không gian riêng và ngủ khỏa thân. Không được biến sự thoải mái này thành quyền để nhân vật khác xâm phạm riêng tư hoặc thành trò phản ứng tập thể.
 
-## 11. Điểm nối cảnh
+## 13. Điểm nối cảnh
 
-Điểm tiếp tục trực tiếp là **cuối cuộc gọi video giờ trưa ngày 2026-04-01 tại căn tin**. Zenith đã nói một ngày nào đó có thể tới thăm Tracen và đang cân nhắc nghiêm túc; Equinox bắt đầu ngủ thật giữa cụm học sinh. Chưa có ngày thăm, đăng ký khách, chương trình tiếp đón, khảo sát Izu hoặc cảnh buổi chiều. Ban cán sự vẫn là **Sirius Symboli / Hishi Amazon / T.M. Opera O / Eishin Flash**. Không kéo trạng thái về trước cuộc gọi, không biến ý tưởng của Opera O/Gold Ship thành kế hoạch được duyệt và không cho Special Week xuất hiện trước ngày nhập học 2026-04-06.
+Điểm tiếp tục trực tiếp là **sau khi Equinox yêu cầu Rudolf, Air Groove và Brian về ký túc xá gom đồ, nộp đơn rồi ra cổng Tracen trong 15 phút**, chiều 2026-04-01. Đội bảo trì đã tới Track 7; track vẫn bị khóa. Ba học sinh đã đồng ý đi nhưng chưa hoàn tất đơn, chưa tới cổng và chưa rời trường. Buffet, chuyến đi Shibuya, bốn đêm quan sát và mọi dữ liệu phục hồi đều chưa xảy ra. Zenith chưa biết chuyện. Khảo sát Izu vẫn chưa được xử lý; ngày Zenith tới thăm vẫn `TBD`. Ban cán sự vẫn là **Sirius Symboli / Hishi Amazon / T.M. Opera O / Eishin Flash**. Không cho Special Week xuất hiện trước ngày nhập học 2026-04-06.
 
 Không được quay lại trạng thái “ứng viên” hay buộc Equinox thi lại. Không mặc định nhân vật biết một sự kiện đã qua nếu họ không được xác lập là người tham dự/người được kể lại; xem `fanfic/style/prohibited_tendencies.md`, `fanfic/knowledge/air-groove.md` và `fanfic/knowledge/zenith.md`.

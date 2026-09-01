@@ -50,8 +50,9 @@ Jurisdiction có thể overlap; conflict phải escalated chứ không giải b�
 - Orientation ngày 2026-03-10 đã hoàn tất. Tài khoản, hợp đồng chi tiết, lương, lịch công tác và quyền truy cập là thủ tục hậu tuyển dụng; bất kỳ điểm nào còn chưa khóa cũng không hạ cô về trạng thái ứng viên.
 - Exact contract title và team ownership vẫn `TBD`; hiring result không còn là vấn đề chưa giải quyết.
 - TV S1 yêu cầu certified team tối thiểu năm Uma và ít nhất một trainer.
-- Trước khi roster đạt chuẩn, prose dùng “nhóm training/trainee được Equinox phụ trách”, có supervision và không tuyên bố certified team hai người.
-- Thời điểm đủ roster và danh sách thành viên thứ ba–năm vẫn `TBD`.
+- Rudolf, Air Groove và Narita Brian nộp đơn xin Equinox phụ trách ngày 2026-03-23. Chiều 2026-04-01, cả ba tự nguyện đăng ký và hoàn tất buổi đánh giá nền đầu tiên dưới tư cách đánh giá cá nhân do trainer của trường giám sát.
+- Trước khi roster đạt chuẩn, **Team Zenith** chỉ là tên nhóm đang chờ duyệt; prose dùng “nhóm training/trainee được Equinox phụ trách” hoặc “Team Zenith đang chờ duyệt”, không tuyên bố certified team ba người.
+- Thời điểm đủ roster và danh sách thành viên thứ tư–năm vẫn `TBD`.
 
 ## 7. Hậu tốt nghiệp
 
@@ -89,6 +90,8 @@ Các chức này không phải official canon và không tự làm họ thành n
 - Campus có phòng lưu trú ngắn hạn và căn hộ công vụ cho nhân viên đủ điều kiện; đây không phải chỗ ở tự động cấp cho mọi trainer/faculty.
 
 Tập hướng dẫn nhân viên có sơ đồ, số phòng, tuyến báo cáo và vị trí thiết bị an toàn cụ thể. Equinox đã đọc và nhớ chúng, nhưng prose chưa nêu các giá trị đó; repo không được tự dựng blueprint hoặc số phòng để lấp khoảng trống.
+
+**Tình trạng Track 7 tại điểm prose hiện tại:** line ngoài đã hư hỏng liên tục từ vạch xuất phát tới hết khu giảm tốc sau lượt chạy 2400 m của Equinox chiều 2026-04-01. Track đang tạm khóa; đội bảo trì đã tới nhưng chưa có kết luận về nền, lớp chịu lực, thoát nước, cảm biến, chi phí hoặc thời điểm mở lại.
 
 ### 8.2. Bản đồ tổ chức và tuyến báo cáo đã xác lập
 
@@ -132,12 +135,19 @@ Mỗi hoạt động cần tối thiểu: mục tiêu giáo dục, danh sách h�
 - Không biến phòng công vụ thành tài sản riêng hoặc đưa người ngoài vào mà không đăng ký.
 - Equinox dự định hỏi ngay trong ngày 2026-03-10 vì quãng đi làm từ Shibuya có thể tiêu tốn khoảng bốn giờ mỗi ngày. Việc được cấp phòng vẫn `TBD`.
 
-### 8.6. Lớp Senior 3-A
+### 8.6. Học sinh lưu trú ngoài ký túc xá
+
+- Chiều 2026-04-01, quản lý ký túc xá đã duyệt có điều kiện phương án để Rudolf, Air Groove và Brian ở căn hộ Shibuya của Equinox tới Chủ Nhật 2026-04-05.
+- Phê duyệt phương án của staff không thay quyết định cá nhân: từng học sinh vẫn phải tự nộp đơn lưu trú ngoài ký túc xá; xác nhận người giám hộ/liên hệ khẩn cấp áp dụng theo hồ sơ.
+- Cả ba đã đồng ý nhưng chưa hoàn tất đơn hoặc rời Tracen tại endpoint. Không được viết như kỳ lưu trú đã bắt đầu.
+- Đây là hoạt động trainer/trainee có mục tiêu quan sát phục hồi và bữa ăn, không phải chuyến đi lớp 3-A hoặc khảo sát Izu.
+
+### 8.7. Lớp Senior 3-A
 
 - Equinox đã nhận trong tập tài liệu một bìa riêng mang nhãn **“Lớp THPT 3-A — hồ sơ dự kiến năm học 2026–2027”**, gồm 32 tab học sinh và ghi dành cho giáo viên **có khả năng** được phân công chủ nhiệm.
 - Hồ sơ có kết quả học tập, nhận xét cuối năm của giáo viên chủ nhiệm lớp 11, chuyên cần, thế mạnh/khó khăn, tương tác xã hội, nghĩa vụ hội học sinh, lịch race ảnh hưởng việc học và cảnh báo cần chú ý.
 - Equinox tách chồng hồ sơ ra và **chưa đọc từng hồ sơ**, để tránh trộn ấn tượng từ tiết dạy thử với nhận xét cũ.
-- Việc Tracen chuẩn bị tài liệu cho cô là `STORY-ESTABLISHED`. Tới chuông nghỉ trưa 2026-04-01, cảnh đầu năm đã xác nhận Equinox là giáo viên chủ nhiệm, khóa roster 32 người, hoàn tất đủ bốn chức vụ, kiểm tra cơ sở vật chất lớp bình thường và kết thúc phần hỏi đáp làm quen thành `STORY-ESTABLISHED / LOCKED`. Cảnh căn tin sau đó chỉ mở khả năng Zenith tới thăm; chưa có đăng ký khách hoặc tiếp đón được duyệt. Xem `fanfic/world/class-3a-roster-2026.md`, `fanfic/events/2026-04-01-class-3a-election.md` và `fanfic/events/2026-04-01-class-3a-lunch-call.md`.
+- Việc Tracen chuẩn bị tài liệu cho cô là `STORY-ESTABLISHED`. Tới chuông nghỉ trưa 2026-04-01, cảnh đầu năm đã xác nhận Equinox là giáo viên chủ nhiệm, khóa roster 32 người, hoàn tất đủ bốn chức vụ, kiểm tra cơ sở vật chất lớp bình thường và kết thúc phần hỏi đáp làm quen thành `STORY-ESTABLISHED / LOCKED`. Cảnh căn tin sau đó chỉ mở khả năng Zenith tới thăm; chưa có đăng ký khách hoặc tiếp đón được duyệt. Buổi chiều chuyển sang đánh giá trainer/trainee riêng, không thay đổi hoạt động lớp và không phải khảo sát Izu. Xem `fanfic/world/class-3a-roster-2026.md`, `fanfic/events/2026-04-01-class-3a-election.md`, `fanfic/events/2026-04-01-class-3a-lunch-call.md` và `fanfic/events/2026-04-01-team-zenith-baseline.md`.
 
 ## 9. Tuyến ga Fuchu → Tracen và lớp dịch vụ quanh đường
 

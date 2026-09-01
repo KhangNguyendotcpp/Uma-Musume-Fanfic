@@ -80,6 +80,8 @@ Các điều cấm:
 
 **Lỗi đã xảy ra:** thước ban đầu đo được vòng ngực **210 cm**, nhưng sau đó vòng hông **200 cm** lại cần “loại thước dài hơn”. 200 nhỏ hơn 210 nên chi tiết này tự mâu thuẫn. Cảnh cũng đo vòng dưới ngực ở đầu rồi liệt kê “vòng dưới ngực” lần nữa về sau mà không nói đó là phép đo xác nhận.
 
+**Khóa sau cảnh Track 7:** một lượt 2400 m chỉ chứng minh Equinox không biểu hiện mệt đáng kể trong chính điều kiện đó, không chứng minh “sức bền vô hạn”. Đề nghị trừ chi phí khỏi lương không đồng nghĩa Tracen đã chấp thuận khấu trừ. Track 7 bị khóa chờ kiểm tra, chưa được mặc định sửa xong hoặc mở lại.
+
 ## 7. Hợp lý nhân quả và chuẩn bị từ nhân vật ngoài cảnh
 
 - Không để một vật bất tiện tồn tại chỉ để tạo cảnh hài nếu một nhân vật có năng lực và biết trước đã chuẩn bị nó.
@@ -87,6 +89,8 @@ Các điều cấm:
 - Năng lực toàn tri/toàn năng của OU không được bật tắt tùy nhu cầu một câu đùa; mọi giới hạn tự áp dụng phải nhất quán.
 
 **Điểm chưa giải quyết:** Zenith để lại áo ngực đầu tiên cho Equinox nhưng sản phẩm sai cả kích cỡ lẫn cấu trúc dù Zenith biết cơ thể incarnation. Cần một lời giải được tác giả duyệt—ví dụ trạng thái đồ tạm khẩn cấp—trước khi xem đây là logic hoàn chỉnh; không tự chế lời giải trong prose.
+
+**Lưu trú Shibuya:** phê duyệt có điều kiện của quản lý ký túc xá không thay quyền đồng ý của Rudolf/Air Groove/Brian hoặc đơn riêng từng em. Tại endpoint, cả ba mới đi gom đồ/nộp đơn; không được tự cho họ đã tới căn hộ, ăn buffet hoặc để Zenith biết trước.
 
 ## 8. Biến prose thành biên bản chính sách
 

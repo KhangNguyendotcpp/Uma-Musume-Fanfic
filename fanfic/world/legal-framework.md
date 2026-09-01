@@ -29,7 +29,7 @@ File này chỉ chốt rule cần để prose nhất quán; không giả là b�
 - Fic adopt TV S1 fact: trainer là licensed professional, hướng dẫn training và chọn race.
 - Employment contract, malpractice, appeal và medical chain chưa có official law đầy đủ.
 - Equinox có legal local identity và hồ sơ dự tuyển hợp lệ trong world; cơ chế tạo identity thuộc internal OU notes.
-- Equinox đã hoàn tất quy trình tuyển dụng tăng tốc ngày 2026-03-09 và được tuyển chính thức làm giáo viên Lịch sử + trainer. Kết quả tuyển dụng không còn `TBD`; exact license record, contract title và team ownership vẫn `NEEDS_FANFIC_DECISION`.
+- Equinox đã hoàn tất quy trình tuyển dụng tăng tốc ngày 2026-03-09 và được tuyển chính thức làm giáo viên Lịch sử + trainer. Kết quả tuyển dụng không còn `TBD`; exact license record và contract title vẫn `NEEDS_FANFIC_DECISION`. Chiều 2026-04-01, cô đã dùng quyền trainer của trường để tổ chức đánh giá cá nhân tự nguyện cho Rudolf/Air Groove/Brian; việc này không đồng nghĩa Team Zenith đã được chứng nhận.
 
 ## 5. Medical/race authority
 - Trainer quyết training recommendation và race-entry proposal.
@@ -64,6 +64,8 @@ Fic đã chốt tối thiểu rằng thông tin y tế không được công b�
 - Khiếu nại về trainer do quản lý trainer phối hợp đơn vị đúng chuyên môn; yếu tố y tế, quấy rối, học thuật hoặc hình sự phải chuyển đúng nơi.
 - Gặp riêng trong phòng khóa cửa không bị cấm tuyệt đối, nhưng phải có quy tắc an toàn/minh bạch, lịch hẹn và log sử dụng. Khu chung có camera; phòng cần riêng tư không ghi nội dung nhưng phải có kiểm soát ra vào/cửa quan sát phù hợp.
 - Chạm tai hoặc đuôi học sinh khi không có sự đồng thuận là vi phạm ranh giới cơ thể và có thể là misconduct nghiêm trọng. Thành tích của trainer không làm giảm mức xử lý.
+- Phương án học sinh lưu trú tại nhà riêng staff phải qua quản lý ký túc xá, đơn riêng của từng học sinh và xác nhận người giám hộ/liên hệ khẩn cấp khi hồ sơ yêu cầu. Phê duyệt phương án không cho staff quyền quyết định thay học sinh.
+- Trong phương án Shibuya 2026-04-01, việc dùng thiết bị đeo chỉ thực hiện khi từng học sinh đồng ý; không đặt camera trong phòng ngủ và không vào phòng nếu không có lý do an toàn. Đây là ranh giới đã được Equinox nói rõ, không phải quyền giám sát vô hạn dưới nhãn “thu thập dữ liệu”.
 
 ## 9. Identity và crossover
 Haise/Takiyama/Equinox có hồ sơ hành chính hợp lệ, không phải giấy tờ giả dễ bị routine check phát hiện. Public profiles trông như Uma-world records bình thường. Origin/OU metaphysics không xuất hiện trong public legal file.

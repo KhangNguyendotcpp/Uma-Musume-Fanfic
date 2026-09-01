@@ -1,6 +1,6 @@
 # Air Groove — Knowledge Registry tại điểm prose hiện tại
 
-**Mốc:** cuối cuộc gọi video với Zenith tại căn tin trong giờ nghỉ trưa 2026-04-01.
+**Mốc:** sau buổi đánh giá nền và lời mời Shibuya chiều 2026-04-01; Air Groove đang quay về ký túc xá để gom đồ/nộp đơn.
 
 ## KNOWN — có nguồn trực tiếp
 
@@ -27,6 +27,13 @@
 - Air Groove trực tiếp nghe Zenith xác nhận hôn nhân, hai người con trưởng thành Twilight/Lux gọi Equinox là bố, cùng nhiều thói quen gia đình. Cô không nhận được ảnh, tài liệu hôn nhân, địa chỉ hoặc dữ liệu riêng tư nào.
 - Air Groove chứng kiến toàn bộ 3-A cùng Oguri Cap và bốn thành viên Team Spica ngoài lớp tụ lại; biết Special Week không có mặt trong nhóm hiện tại.
 - Air Groove trực tiếp nghe Equinox nói muốn Zenith tới Tracen và nghe Zenith chuyển sang cân nhắc nghiêm túc. Cô biết đây chưa phải ngày thăm hoặc sự kiện được duyệt; Opera O và Gold Ship chưa được giao nhiệm vụ tiếp đón.
+- Air Groove trực tiếp tham gia cuộc đối thoại sau khi Hana gọi Rigil đi training. Cô biết Equinox giận Hana nhưng từ chối để cơn giận hoặc hành động khiêu khích quyết định lịch tập và không dùng trainee để đáp trả đồng nghiệp.
+- Air Groove biết Rudolf, Brian và mình đã nộp đơn ngày 2026-03-23; Equinox đã đọc toàn bộ dữ liệu được phép truy cập và chuẩn bị ba kế hoạch riêng + một phần chung nhưng sai khi không báo tiến độ trong chín ngày.
+- Air Groove trực tiếp yêu cầu và xác nhận tham gia buổi đánh giá nền tự nguyện chiều 2026-04-01. Cô biết Team Zenith chưa được chứng nhận vì mới có ba trainee/ứng viên, nhưng Equinox có thể làm đánh giá cá nhân dưới tư cách trainer chính thức của trường.
+- Air Groove biết cam kết cập nhật mới: ba ngày một lần trong giai đoạn chuẩn bị, báo ngay khi thay đổi ảnh hưởng lịch và gửi phiên bản kế hoạch đang làm.
+- Air Groove trực tiếp tham gia lượt chạy 2400 m với Equinox. Cô biết Equinox giữ đúng 50 km/h, cả ba trainee về trước 0,9 giây, Equinox không biểu hiện mệt đáng kể và sự hiện diện/lực tiếp đất của cô ấy làm ba runner tăng pace sớm.
+- Air Groove chứng kiến line ngoài Track 7 bị phá hư, báo cáo được gửi và track bị khóa. Cô biết Equinox đề nghị nhận trách nhiệm/khấu trừ lương, nhưng chưa biết kết luận bảo trì, tổng chi phí, trách nhiệm cuối cùng hoặc thời điểm mở lại.
+- Air Groove trực tiếp nhận và đồng ý lời mời ở căn hộ Shibuya bốn đêm tới Chủ Nhật 2026-04-05. Cô biết phương án buffet, mục tiêu theo dõi phục hồi, ranh giới riêng tư và việc quản lý ký túc xá đã duyệt có điều kiện; cô vẫn phải tự nộp đơn trước khi rời trường.
 
 Khi lớp tách thành nhiều nhóm nói chuyện chồng lên nhau, registry **không** mặc định Air Groove nghe trọn mọi trao đổi Opera–Fuji, Brian–Laurel, Hishi–Taishin, Gold City–Gentildonna hoặc các nhóm khác chỉ vì cô ở cùng phòng. Chỉ chuyển từng nội dung sang `KNOWN` nếu prose xác lập cô tham gia, chú ý hoặc ở vị trí nghe rõ.
 
@@ -36,6 +43,7 @@ Khi lớp tách thành nhiều nhóm nói chuyện chồng lên nhau, registry *
 - Equinox chọn tài khoản ngân hàng nào, vì sao chọn, số tài khoản, số dư hoặc bất kỳ dữ liệu ngân hàng nào.
 - Nội dung chi tiết các màn hình/hợp đồng chỉ Equinox và staff phụ trách thấy trong orientation.
 - Trao đổi riêng giữa Equinox và Zenith ngoài phần được nói công khai trong cuộc gọi tại căn tin; tình trạng hiện tại hoặc thời điểm đến của Haise/Takiyama.
+- Kết luận kiểm tra Track 7, tổng chi phí sửa chữa và việc Tracen có thực sự khấu trừ lương Equinox hay không.
 - Bất kỳ thông tin nào chỉ xuất hiện trong lời kể khi Air Groove không ở trong cảnh.
 
 Air Groove chỉ chuyển một mục từ `UNKNOWN` sang `KNOWN` khi prose xác lập rõ cô được kể lại, đọc nguồn hợp lệ hoặc tự suy luận từ dữ kiện thật sự có. Không dùng câu “có lẽ cô bé đã nghe ở đâu đó” để sửa ngược continuity.

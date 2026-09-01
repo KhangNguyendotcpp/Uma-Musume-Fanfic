@@ -51,7 +51,7 @@
 - Equinox nói rõ mình muốn Zenith tới. Một từ “muốn” khiến Zenith chuyển từ nói đùa sang cân nhắc nghiêm túc.
 - Zenith chỉ nói **một ngày nào đó có thể sẽ tới**. Ngày, giờ, đăng ký khách, người tiếp đón và lịch trình vẫn `TBD`.
 - Điều kiện Zenith nêu: không biểu ngữ “vợ cô Equinox”, không pháo giấy, không máy tạo khói và không chuẩn bị câu hỏi về việc Equinox tồn tại trước vũ trụ. Opera O và Gold Ship chưa được giao bất kỳ nhiệm vụ chính thức nào.
-- Điểm cuối cảnh: Zenith thực sự bắt đầu cân nhắc chuyến thăm; Equinox bắt đầu ngủ thật giữa đám học sinh. Khảo sát/chuyến Izu vẫn chưa được prose xử lý hoặc phê duyệt.
+- Điểm cuối cảnh: Zenith thực sự bắt đầu cân nhắc chuyến thăm; Equinox bắt đầu ngủ thật giữa đám học sinh. Cảnh tiếp theo trong chronology đã được khóa tại `fanfic/events/2026-04-01-team-zenith-baseline.md`; khảo sát/chuyến Izu vẫn chưa được prose xử lý hoặc phê duyệt.
 
 ## Ranh giới kiến thức
 

@@ -1,6 +1,6 @@
 # Prose Audit — từ mở đầu đến điểm hiện tại
 
-**Phạm vi:** các sự kiện prose đã được khóa trong repo từ Equinox xuất hiện ngày 2026-03-09 tới cuối cuộc gọi video với Zenith tại căn tin trong giờ nghỉ trưa 2026-04-01. Repo hiện giữ phần lớn các cảnh dưới dạng continuity summary thay vì chapter nguyên văn; vì vậy audit này chỉ kết luận chắc chắn ở nơi còn đủ văn bản/dữ kiện, không dựng lỗi cho đoạn không còn nguyên văn.
+**Phạm vi:** các sự kiện prose đã được khóa trong repo từ Equinox xuất hiện ngày 2026-03-09 tới cuối buổi đánh giá nền/lời mời Shibuya chiều 2026-04-01. Repo hiện giữ phần lớn các cảnh dưới dạng continuity summary thay vì chapter nguyên văn; vì vậy audit này chỉ kết luận chắc chắn ở nơi còn đủ văn bản/dữ kiện, không dựng lỗi cho đoạn không còn nguyên văn.
 
 **Trạng thái:** tài liệu chẩn đoán, không tự retcon sự kiện. Guardrail bắt buộc nằm tại `fanfic/style/prohibited_tendencies.md`.
 
@@ -72,6 +72,16 @@
 - Khả năng Zenith tới Tracen chỉ được khóa ở mức cân nhắc nghiêm túc. Biểu ngữ, pháo giấy, máy tạo khói và chương trình tiếp đón đều là joke/đề xuất bị chặn, không phải nhiệm vụ đã giao.
 - Xưng hô cần sửa trong chapter nguồn: Equinox → Rudolf `em ấy`; Air Groove → Zenith `chị`; Equinox → Zenith `anh`; học sinh → Zenith `em/chúng em`; học sinh nói về Equinox `cô Equinox/cô ấy`; narration → Equinox `cô ấy`.
 - Rủi ro trình bày còn lại: cuộc hỏi đáp quá dài và người kể liên tục xác nhận nội tâm của nhiều nhân vật. Đây chưa phải lỗi continuity, nhưng khi lưu chapter nên giữ focalization có chủ đích và tránh biến từng câu hỏi thành một mini-arc khép kín.
+
+## Kiểm tra buổi đánh giá nền / Track 7 / lời mời Shibuya 2026-04-01
+
+- Trình tự quyền hạn khớp trạng thái team: Rudolf/Air Groove/Brian đã nộp đơn nhưng Team Zenith chưa đủ năm; cả ba tự nguyện yêu cầu đánh giá cá nhân, Equinox dùng quyền trainer chính thức của trường thay vì quyền từ team chưa được chứng nhận.
+- Register trong chapter nguồn có cụm lỗi đã được cảnh báo tại `xung-ho-and-dialogue-register.md`: Rudolf và Brian dùng `em` khi đổi từ nói với Equinox sang nói với nhau. Nếu lưu chapter nguyên văn, phải reset về baseline `tôi–cậu` của đúng cặp.
+- 50 km/h trên 2400 m tương đương 172,8 giây nếu giữ đều sau bước chạy hoàn chỉnh đầu tiên; prose không cần in thời gian này nhưng không được tạo split mâu thuẫn. Chậm 0,9 giây ở vạch đích không xác lập thứ tự nội bộ của Rudolf/Air Groove/Brian.
+- Thiệt hại Track 7 đã được báo và track bị khóa; chưa có kết luận bảo trì. Câu Equinox xin trừ chi phí vào lương là đề nghị đơn phương, không phải quyết định hành chính hoặc số tiền đã tính.
+- Khoảng lưu trú hợp lý theo lịch: tối Thứ Tư 01/04 qua bốn đêm Thứ Tư–Thứ Bảy, trở về Chủ Nhật 05/04. Hai ngày 02–03/04 không có tiết học theo prose mới; không gọi chúng là cuối tuần.
+- Quản lý ký túc xá mới duyệt phương án có điều kiện. Mỗi học sinh vẫn phải nộp đơn và giữ quyền từ chối; tại endpoint chưa ai hoàn tất thủ tục hoặc rời Tracen.
+- Zenith chưa có kênh biết buổi đánh giá, thiệt hại hoặc lời mời. Không cho cô chuẩn bị căn hộ/đồ ăn trước khi được kể.
 
 ## Những phần hiện không thấy lỗi canon chắc chắn
 

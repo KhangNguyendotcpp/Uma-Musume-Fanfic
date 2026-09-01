@@ -1,12 +1,13 @@
-# Team Equinox — Career Framework 2026–2035
+# Team Zenith dưới quyền Equinox — Career Framework 2026–2035
 
 **Vai trò:** khung sự nghiệp và vận hành đã thống nhất để nối Haise, Takiyama, Rudolf, Air Groove và Narita Brian qua S1 → S2/RTTT → S3/BOANE. File này không tự biến một finish `DRAFT` thành canon.
 
 ## 1. Trạng thái tại điểm prose hiện tại
 
-- Điểm prose hiện tại: **cuối cuộc gọi video với Zenith tại căn tin trong giờ nghỉ trưa 2026-04-01**; Equinox đã được xác nhận là chủ nhiệm Senior 3-A, điều hành xong bầu đủ bốn chức vụ ban cán sự (Sirius Symboli, Hishi Amazon, T.M. Opera O và Eishin Flash), hoàn tất nội dung sinh hoạt/kiểm tra cơ sở vật chất, phần hỏi đáp làm quen và bữa trưa. Cuộc gọi không tạo team hoặc roster trainee mới.
-- Equinox đã là trainer + giáo viên Lịch sử chính thức; quyền sở hữu team và roster được chứng nhận vẫn `TBD`.
-- Trước khi đủ tối thiểu năm Uma để được công nhận theo rule TV S1, prose dùng **nhóm training do Equinox phụ trách**, không gọi đó là certified team hai người.
+- Điểm prose hiện tại: **cuối buổi đánh giá nền chiều 2026-04-01 tại Track 7**. Sau cuộc gọi giờ trưa, Equinox đã tổ chức buổi đánh giá tự nguyện đầu tiên cho Symboli Rudolf, Air Groove và Narita Brian, báo cáo thiệt hại Track 7 rồi mời cả ba tới căn hộ Shibuya bốn đêm. Endpoint dừng khi họ mới quay về ký túc xá gom đồ/nộp đơn; chưa ai rời Tracen.
+- Equinox đã là trainer + giáo viên Lịch sử chính thức. Rudolf, Air Groove và Brian đã nộp đơn ngày 2026-03-23, Equinox đã nhận đơn và hiện là ba trainee/ứng viên đầu tiên trong nhóm chờ duyệt.
+- **Team Zenith** là tên nhóm đang dùng trong continuity nhưng chưa phải certified team. Trước khi đủ tối thiểu năm Uma theo rule TV S1, prose phải dùng **nhóm training do Equinox phụ trách / Team Zenith đang chờ duyệt** và không mô tả team đã được Tracen công nhận.
+- Equinox phải quyết định trước cuối tuần sau 2026-04-01 việc chủ động mời thêm người hay tiếp tục chờ đơn; quyết định và thành viên thứ tư–năm vẫn `TBD`.
 - Haise và Takiyama nhập Senior Year 1 tháng 4/2026, debut năm 2026 và chỉ có **một Classic Year: 2027**.
 
 ## 2. Các giai đoạn của team
