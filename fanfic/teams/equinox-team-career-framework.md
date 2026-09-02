@@ -4,7 +4,7 @@
 
 ## 1. Trạng thái tại điểm prose hiện tại
 
-- Điểm prose hiện tại: **cuối buổi đánh giá nền chiều 2026-04-01 tại Track 7**. Sau cuộc gọi giờ trưa, Equinox đã tổ chức buổi đánh giá tự nguyện đầu tiên cho Symboli Rudolf, Air Groove và Narita Brian, báo cáo thiệt hại Track 7 rồi mời cả ba tới căn hộ Shibuya bốn đêm. Endpoint dừng khi họ mới quay về ký túc xá gom đồ/nộp đơn; chưa ai rời Tracen.
+- Điểm prose hiện tại: **ngay sau khi rời cổng Tracen cuối chiều 2026-04-01**. Sau cuộc gọi giờ trưa, Equinox đã tổ chức buổi đánh giá tự nguyện đầu tiên cho Symboli Rudolf, Air Groove và Narita Brian, báo cáo thiệt hại Track 7 rồi mời cả ba tới căn hộ Shibuya bốn đêm. Ba học sinh đã hoàn tất đơn, mang hành lý tới cổng và cùng Equinox rời trường; chưa ai lên tàu hoặc tới Shibuya.
 - Equinox đã là trainer + giáo viên Lịch sử chính thức. Rudolf, Air Groove và Brian đã nộp đơn ngày 2026-03-23, Equinox đã nhận đơn và hiện là ba trainee/ứng viên đầu tiên trong nhóm chờ duyệt.
 - **Team Zenith** là tên nhóm đang dùng trong continuity nhưng chưa phải certified team. Trước khi đủ tối thiểu năm Uma theo rule TV S1, prose phải dùng **nhóm training do Equinox phụ trách / Team Zenith đang chờ duyệt** và không mô tả team đã được Tracen công nhận.
 - Equinox phải quyết định trước cuối tuần sau 2026-04-01 việc chủ động mời thêm người hay tiếp tục chờ đơn; quyết định và thành viên thứ tư–năm vẫn `TBD`.

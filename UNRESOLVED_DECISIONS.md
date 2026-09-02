@@ -38,7 +38,7 @@ Không có thứ gì trong file này trở thành canon chỉ vì nó được l
 - Rudolf, Air Groove và Narita Brian đã nộp đơn ngày 2026-03-23 và hoàn tất buổi đánh giá nền tự nguyện đầu tiên chiều 2026-04-01: STORY-ESTABLISHED / LOCKED. Thành viên thứ tư–năm, thời điểm Team Zenith đủ điều kiện và quyết định tuyển chủ động của Equinox: TBD
 - Trạng thái chuyển team chính xác của Rudolf/Air Groove/Brian đối với roster Rigil trên giấy trong thời gian Team Zenith chờ duyệt: TBD; không tự coi profile TV Rigil là current fanfic paperwork hoặc tự tuyên bố chuyển team đã hoàn tất
 - Track 7 đã bị khóa vì thiệt hại do lượt chạy của Equinox; kết luận kỹ thuật, chi phí, trách nhiệm tài chính cuối cùng và ngày mở lại: TBD
-- Phương án để ba trainee ở căn hộ Shibuya bốn đêm đã được quản lý ký túc xá duyệt có điều kiện và cả ba đã đồng ý, nhưng đơn riêng, việc rời Tracen và toàn bộ kỳ lưu trú chưa xảy ra tại endpoint
+- Phương án để ba trainee ở căn hộ Shibuya bốn đêm đã được quản lý ký túc xá duyệt; Rudolf đã hoàn tất thủ tục qua Miho, Air Groove/Brian qua Ritto, và cả ba đã mang hành lý rời Tracen cùng Equinox. Chuyến tàu, buffet, việc tới căn hộ và toàn bộ kỳ lưu trú chưa xảy ra tại endpoint
 - Kết quả xin phòng lưu trú/căn hộ công vụ của Tracen: TBD
 - Ngày Equinox chính thức trở thành head trainer của certified team: TBD
 - Danh tính assistant trainer, international campaign manager, medical/biomechanics unit và analyst: TBD
@@ -55,6 +55,8 @@ Không có thứ gì trong file này trở thành canon chỉ vì nó được l
 
 - Năm sinh chính xác của Rudolf: TBD. Tuổi tại mốc 04/2026 đã được author khóa là **17**, Senior Year 3; baseline cũ ~18/University Year 1 đã bị hủy
 - Tuổi/năm học fanfic chính xác của Oguri ngoài neo 17 tuổi năm 2026: TBD
+- Agnes Tachyon và Manhattan Cafe đã được prose khóa là Senior Year 1 vào 2026-04-01; tuổi/năm sinh chính xác vẫn TBD
+- Rice Shower nói 2026-04-01 là ngày đầu tiên ở Tracen; lớp/năm học fanfic chính xác vẫn TBD
 - Danh mục ngành học cụ thể của University Division: TBD
 - Credential chính xác của Professional/Postgraduate track: TBD
 - Quy trình bầu và nhiệm kỳ chi tiết của Tracen Athlete Council: TBD

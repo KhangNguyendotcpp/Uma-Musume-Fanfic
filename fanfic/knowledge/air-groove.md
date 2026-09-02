@@ -1,6 +1,6 @@
 # Air Groove — Knowledge Registry tại điểm prose hiện tại
 
-**Mốc:** sau buổi đánh giá nền và lời mời Shibuya chiều 2026-04-01; Air Groove đang quay về ký túc xá để gom đồ/nộp đơn.
+**Mốc:** ngay sau khi Air Groove cùng Equinox, Rudolf và Brian rời cổng Tracen cuối chiều 2026-04-01.
 
 ## KNOWN — có nguồn trực tiếp
 
@@ -33,7 +33,10 @@
 - Air Groove biết cam kết cập nhật mới: ba ngày một lần trong giai đoạn chuẩn bị, báo ngay khi thay đổi ảnh hưởng lịch và gửi phiên bản kế hoạch đang làm.
 - Air Groove trực tiếp tham gia lượt chạy 2400 m với Equinox. Cô biết Equinox giữ đúng 50 km/h, cả ba trainee về trước 0,9 giây, Equinox không biểu hiện mệt đáng kể và sự hiện diện/lực tiếp đất của cô ấy làm ba runner tăng pace sớm.
 - Air Groove chứng kiến line ngoài Track 7 bị phá hư, báo cáo được gửi và track bị khóa. Cô biết Equinox đề nghị nhận trách nhiệm/khấu trừ lương, nhưng chưa biết kết luận bảo trì, tổng chi phí, trách nhiệm cuối cùng hoặc thời điểm mở lại.
-- Air Groove trực tiếp nhận và đồng ý lời mời ở căn hộ Shibuya bốn đêm tới Chủ Nhật 2026-04-05. Cô biết phương án buffet, mục tiêu theo dõi phục hồi, ranh giới riêng tư và việc quản lý ký túc xá đã duyệt có điều kiện; cô vẫn phải tự nộp đơn trước khi rời trường.
+- Air Groove trực tiếp nhận và đồng ý lời mời ở căn hộ Shibuya bốn đêm tới Chủ Nhật 2026-04-05. Cô biết phương án buffet, mục tiêu theo dõi phục hồi, ranh giới riêng tư và việc quản lý ký túc xá đã duyệt có điều kiện; cô đã tự hoàn tất phần đơn cá nhân trước khi rời trường.
+- Air Groove đã tự hoàn tất đơn qua Ritto, mang va-li tới cổng và nghe Tazuna xác nhận cả ba thủ tục đều hoàn tất, phạm vi lưu trú đã được ghi nhận và nhóm phải báo nếu đổi lịch trở về.
+- Air Groove biết Equinox vẫn chưa báo Zenith về Track 7 hoặc việc ba học sinh sẽ tới căn hộ; cô trực tiếp phản ứng khi Tazuna nhắc Equinox phải báo trước khi về nhà.
+- Air Groove trực tiếp thấy Equinox vẫn mặc lớp đồ công sở từ sáng. Cô **không biết** Equinox đã thay đồ lót hoặc loại đồ lót bên dưới.
 
 Khi lớp tách thành nhiều nhóm nói chuyện chồng lên nhau, registry **không** mặc định Air Groove nghe trọn mọi trao đổi Opera–Fuji, Brian–Laurel, Hishi–Taishin, Gold City–Gentildonna hoặc các nhóm khác chỉ vì cô ở cùng phòng. Chỉ chuyển từng nội dung sang `KNOWN` nếu prose xác lập cô tham gia, chú ý hoặc ở vị trí nghe rõ.
 
@@ -44,6 +47,8 @@ Khi lớp tách thành nhiều nhóm nói chuyện chồng lên nhau, registry *
 - Nội dung chi tiết các màn hình/hợp đồng chỉ Equinox và staff phụ trách thấy trong orientation.
 - Trao đổi riêng giữa Equinox và Zenith ngoài phần được nói công khai trong cuộc gọi tại căn tin; tình trạng hiện tại hoặc thời điểm đến của Haise/Takiyama.
 - Kết luận kiểm tra Track 7, tổng chi phí sửa chữa và việc Tracen có thực sự khấu trừ lương Equinox hay không.
+- Nội dung những cuộc nói chuyện ở cổng xảy ra trước khi Air Groove tới, gồm trao đổi riêng với Tazuna, Team Spica, Hana, Tachyon/Cafe và Urara/Rice.
+- Việc Equinox thay đồ lót trong phòng thay đồ trainer.
 - Bất kỳ thông tin nào chỉ xuất hiện trong lời kể khi Air Groove không ở trong cảnh.
 
 Air Groove chỉ chuyển một mục từ `UNKNOWN` sang `KNOWN` khi prose xác lập rõ cô được kể lại, đọc nguồn hợp lệ hoặc tự suy luận từ dữ kiện thật sự có. Không dùng câu “có lẽ cô bé đã nghe ở đâu đó” để sửa ngược continuity.

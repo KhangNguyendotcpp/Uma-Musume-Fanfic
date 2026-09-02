@@ -17,7 +17,7 @@
 | Resident Athlete Program | Official không công bố | Cho racer đã tốt nghiệp tiếp tục thi đấu/training tại Tracen | ORIGINAL / APPROVED |
 | Tracen Athlete Council | Official không công bố | Cơ quan đại diện vận động viên, tách khỏi student council | ORIGINAL / APPROVED |
 | Central Student Council | Mở rộng thể chế của fanfic | Chỉ đại diện người đang là học sinh/sinh viên Senior + University | ORIGINAL / APPROVED |
-| Tuổi Rudolf tháng 04/2026 | Chính thức không nói rõ | ~18; University Year 1; Chủ tịch Central Student Council | ORIGINAL / APPROVED |
+| Tuổi Rudolf tháng 04/2026 | Chính thức không nói rõ | 17; Senior Year 3; Chủ tịch Central Student Council. Baseline cũ ~18/University Year 1 đã bị author hủy | ORIGINAL / AUTHOR_OVERRIDE / APPROVED |
 | Haise/Takiyama | Không phải nhân vật Uma chính thức | Profile địa phương theo chuẩn Uma; bối cảnh OU sâu giữ nội bộ | ORIGINAL / quy tắc format LOCKED |
 | Career Haise/Takiyama sau Classic | Author direction | 2027 là Classic duy nhất; sau 2028 trọng tâm Senior G1/quốc tế; exact result giữ DRAFT tới khi duyệt | Framework APPROVED / result DRAFT |
 | Nguồn gốc OU của protagonist | Canon OU | Repo OU có thẩm quyền cho danh tính/lịch sử/tính cách trước Uma | liên kết ADOPTED |

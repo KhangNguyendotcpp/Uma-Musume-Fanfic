@@ -1,6 +1,6 @@
 # Prose Audit — từ mở đầu đến điểm hiện tại
 
-**Phạm vi:** các sự kiện prose đã được khóa trong repo từ Equinox xuất hiện ngày 2026-03-09 tới cuối buổi đánh giá nền/lời mời Shibuya chiều 2026-04-01. Repo hiện giữ phần lớn các cảnh dưới dạng continuity summary thay vì chapter nguyên văn; vì vậy audit này chỉ kết luận chắc chắn ở nơi còn đủ văn bản/dữ kiện, không dựng lỗi cho đoạn không còn nguyên văn.
+**Phạm vi:** các sự kiện prose đã được khóa trong repo từ Equinox xuất hiện ngày 2026-03-09 tới lúc cô ấy cùng Rudolf/Air Groove/Brian rời cổng Tracen cuối chiều 2026-04-01. Repo hiện giữ phần lớn các cảnh dưới dạng continuity summary thay vì chapter nguyên văn; vì vậy audit này chỉ kết luận chắc chắn ở nơi còn đủ văn bản/dữ kiện, không dựng lỗi cho đoạn không còn nguyên văn.
 
 **Trạng thái:** tài liệu chẩn đoán, không tự retcon sự kiện. Guardrail bắt buộc nằm tại `fanfic/style/prohibited_tendencies.md`.
 
@@ -80,8 +80,18 @@
 - 50 km/h trên 2400 m tương đương 172,8 giây nếu giữ đều sau bước chạy hoàn chỉnh đầu tiên; prose không cần in thời gian này nhưng không được tạo split mâu thuẫn. Chậm 0,9 giây ở vạch đích không xác lập thứ tự nội bộ của Rudolf/Air Groove/Brian.
 - Thiệt hại Track 7 đã được báo và track bị khóa; chưa có kết luận bảo trì. Câu Equinox xin trừ chi phí vào lương là đề nghị đơn phương, không phải quyết định hành chính hoặc số tiền đã tính.
 - Khoảng lưu trú hợp lý theo lịch: tối Thứ Tư 01/04 qua bốn đêm Thứ Tư–Thứ Bảy, trở về Chủ Nhật 05/04. Hai ngày 02–03/04 không có tiết học theo prose mới; không gọi chúng là cuối tuần.
-- Quản lý ký túc xá mới duyệt phương án có điều kiện. Mỗi học sinh vẫn phải nộp đơn và giữ quyền từ chối; tại endpoint chưa ai hoàn tất thủ tục hoặc rời Tracen.
+- Quản lý ký túc xá mới duyệt phương án có điều kiện ở nhịp Track 7. Cảnh cổng tiếp theo đã khóa việc từng học sinh hoàn tất thủ tục và rời trường; điều này không retcon quyền tự quyết tại thời điểm được hỏi.
 - Zenith chưa có kênh biết buổi đánh giá, thiệt hại hoặc lời mời. Không cho cô chuẩn bị căn hộ/đồ ăn trước khi được kể.
+
+## Kiểm tra cảnh chờ ở cổng và rời Tracen 2026-04-01
+
+- Endpoint đã tiến đúng một nhịp: ba đơn hoàn tất, hành lý đã tới cổng và bốn người đã rời Tracen; chưa có chuyến tàu, buffet, căn hộ hoặc dữ liệu phục hồi. Zenith vẫn chưa được kể.
+- Knowledge channels được tách theo wave xuất hiện. Spica chỉ biết Equinox đang chờ ba học sinh; Hana biết Track 7 và bữa buffet; Tachyon/Cafe, Urara/Rice chỉ biết phần trực tiếp; ba trainee tới sau không tự động biết các cuộc trò chuyện trước.
+- Phần đối thoại Tachyon dài và dồn nhiều lượt phản biện liên tiếp. Chức năng hợp lệ là đặt ranh giới consent/falsifiability và ngăn em ấy dùng trí thông minh để tránh trách nhiệm; khi lưu chapter nguyên văn, không kéo nó thành trận tranh thắng trí tuệ hoặc lặp cùng kết luận sau khi Tachyon đã xin lỗi.
+- Câu Cafe xin lỗi thay được Equinox chặn đúng ranh giới trách nhiệm. Không được biến Cafe thành người quản lý đạo đức của Tachyon hoặc bắt em ấy chịu lỗi chỉ vì đi cùng.
+- Haru Urara đã có agency rõ: em ấy chủ động nhận ra Equinox, hỏi đánh giá và cho phép quan sát. Lời hứa quan sát không phải tuyển team, chẩn đoán toàn diện hoặc quyền can thiệp trainer hiện tại.
+- Register chính khớp: Equinox dùng `tôi` với Tazuna/Hana và `cô–em` với học sinh; Rice tự gọi `Rice`, Urara tự gọi `Urara`; học sinh gọi `chị Tazuna` theo prose đã khóa. Không để các register này tràn sang cặp khác.
+- Chi tiết đồ lót của Equinox chỉ thuộc narrator/private knowledge. Không cho bất kỳ học sinh hoặc staff nào suy ra từ việc lớp đồ công sở không đổi.
 
 ## Những phần hiện không thấy lỗi canon chắc chắn
 

@@ -140,6 +140,8 @@ Sổ này lưu **baseline khi nói với học sinh ngang hàng**, không ghi đ
 | Fine Motion | `tớ–cậu` | `official/characters/shorts-profiles/fine-motion.md` | Lịch thiệp/quý tộc nhưng tò mò, hòa giải và có social intelligence; bối cảnh ngoại giao chính thức xét riêng | `ADOPTED` |
 | Tamamo Cross | `tui–mi` | `fanfic/events/2026-04-01-class-3a-lunch-call.md`; profile riêng phải đọc lại khi viết cảnh mới | Phương ngữ/register đã được prose khóa; không áp cho nhân vật khác | `LOCKED` |
 | Mayano Top Gun | tự gọi `Mayano`, gọi `cậu` hoặc tên | `official/characters/tv-supporting-profiles/mayano-top-gun.md`; cách Việt hóa đã dùng trong prose 2026-04-01 | Profile ghi first-person `Maya / Atashi`; fanfic Việt hóa self-reference thành `Mayano`. Giữ aviation motif vừa phải | `ADOPTED` |
+| Haru Urara | tự gọi `Urara`, gọi `cậu` hoặc tên | `official/characters/core-profiles/haru-urara.md`; `fanfic/events/2026-04-01-tracen-gate-departure.md` | Profile cho phép `watashi/Urara`; prose đã khóa self-reference `Urara`. Voice thân thiện, hồn nhiên nhưng không infantilize | `LOCKED` |
+| Rice Shower | tự gọi `Rice`, gọi `cậu` hoặc tên | `official/characters/tv-supporting-profiles/rice-shower.md`; `fanfic/events/2026-04-01-tracen-gate-departure.md` | Profile và prose khóa self-reference `Rice`; giữ giọng nhút nhát, không biến thành trẻ con vô năng | `LOCKED` |
 
 ### Cách thêm một dòng mới
 

@@ -7,7 +7,7 @@
 - **Số đo ba vòng (ngực–eo–hông):** **210–118–200 cm** — STORY-ESTABLISHED / LOCKED
 - **Cơ quan:** Tracen Academy
 - **Vai trò hiện tại:** giáo viên Lịch sử + trainer chính thức + giáo viên chủ nhiệm Senior 3-A, với quyền trong từng phạm vi chuyên môn — STORY-ESTABLISHED / LOCKED
-- **Trạng thái tại điểm prose hiện tại:** cuối buổi đánh giá nền chiều 2026-04-01 tại Track 7; đã tổ chức đánh giá tự nguyện đầu tiên cho Rudolf/Air Groove/Brian, báo cáo thiệt hại do lượt chạy 2400 m và mời cả ba ở căn hộ Shibuya bốn đêm. Mốc dừng khi ba học sinh đang về ký túc xá gom đồ/nộp đơn — STORY-ESTABLISHED / LOCKED
+- **Trạng thái tại điểm prose hiện tại:** ngay sau khi rời cổng Tracen cuối chiều 2026-04-01 cùng Rudolf/Air Groove/Brian; ba đơn lưu trú đã hoàn tất nhưng cả nhóm chưa lên tàu, chưa tới Shibuya và Zenith chưa được báo — STORY-ESTABLISHED / LOCKED
 - **Môn giảng dạy/đã giảng thử:** Lịch sử — STORY-ESTABLISHED / LOCKED
 - **Chức danh hợp đồng chính xác:** TBD; không ảnh hưởng kết quả tuyển dụng đã chốt
 
@@ -103,6 +103,15 @@ Equinox là Uma nhưng **không được định hướng làm racer thi đấu*
 - Tổ chức buổi đánh giá nền dưới tư cách trainer của trường trong khi Team Zenith chưa được chứng nhận.
 - Báo cáo đầy đủ thiệt hại Track 7, khóa khu vực không an toàn và nhận trách nhiệm; đề nghị khấu trừ phần trách nhiệm cá nhân vào lương nhưng Tracen chưa chấp thuận hoặc xác định số tiền.
 - Mời Rudolf, Air Groove và Brian tới căn hộ Shibuya bốn đêm tới Chủ Nhật 2026-04-05, ban đầu từ ý định mời buffet rồi mở rộng thành quan sát phục hồi. Cô gọi đây là “khắc phục”, không thừa nhận là xin lỗi hoặc chiều học sinh.
+
+## Chờ ở cổng và rời Tracen — 2026-04-01
+
+- Sau buổi đánh giá, thay một bộ đồ lót ren nhưng giữ nguyên blouse, pencil skirt và jacket mặc từ sáng. Chi tiết đồ lót là riêng tư, không có nhân vật nào khác được mặc định biết.
+- Trao đổi với Tazuna về tình trạng cơ thể, bữa ăn, Track 7 và việc chưa báo Zenith; quan hệ đồng nghiệp đã bớt thuần hành chính nhưng chưa được nâng thành bạn thân.
+- Nói chuyện bình thường với Hana về báo cáo/an toàn dù vẫn còn giận; không để cảm xúc quyết định thay cách xử lý công việc.
+- Chặn cách Agnes Tachyon tự tiện lấy phản ứng người khác làm dữ liệu, buộc em ấy tách sự tò mò khỏi quyền sử dụng đối tượng và tự xin lỗi. Equinox có ấn tượng xấu với hành vi này, không phải định kiến vĩnh viễn với toàn bộ con người Tachyon.
+- Lần đầu nói chuyện với Haru Urara và đồng ý quan sát em ấy chạy lần nữa sau khi Urara trực tiếp cho phép; chưa nhận vào team hoặc giành quyền từ trainer khác. Đồng thời gặp Rice Shower trong ngày đầu em ấy tới Tracen.
+- Nhận Rudolf/Air Groove/Brian tại cổng sau khi cả ba hoàn tất thủ tục. Cùng họ rời trường; chưa báo Zenith, chưa lên tàu và chưa bắt đầu bữa tối/lưu trú.
 
 ## Nguyên tắc nghề nghiệp đã thể hiện
 - Sức khỏe và medical clearance đứng trên race, Winning Live và sức ép khán giả.

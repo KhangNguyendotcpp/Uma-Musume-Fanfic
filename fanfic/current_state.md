@@ -2,7 +2,7 @@
 
 > **CANON GUARD — KHÔNG ĐƯỢC HẠ CẤP TRẠNG THÁI:** Equinox **đã vượt qua toàn bộ quy trình tuyển dụng tăng tốc và đã chính thức trở thành cả giáo viên Lịch sử lẫn trainer của Tracen Academy trong ngày 2026-03-09**. Không được viết hoặc suy luận rằng cô vẫn chỉ là ứng viên, mới qua vòng một, chưa đậu, hoặc phải chờ đến 2026-03-23 mới trở thành staff.
 
-**Mốc hiện tại của prose:** **cuối buổi đánh giá nền chiều 2026-04-01**, ngày đầu năm học 2026–2027, tại Track số 7 của Tracen. Sau cuộc gọi giờ trưa, Equinox đã tổ chức buổi đánh giá tự nguyện đầu tiên cho Symboli Rudolf, Air Groove và Narita Brian; cả ba kéo cô ấy vào lượt chạy chung 2400 m. Equinox giữ đúng 50 km/h nhưng về cuối sau ba trainee 0,9 giây, đồng thời phá hư line ngoài của Track 7 bằng lực đạp/tiếp đất/hãm. Track đã bị khóa chờ kiểm tra. Cả ba vừa đồng ý lời mời ở căn hộ Shibuya bốn đêm và đang quay về ký túc xá để gom đồ, nộp đơn trước khi ra cổng. Chưa ai tới căn hộ hoặc ăn buffet; khảo sát Izu vẫn chưa bắt đầu. Những gì ghi là “đã xảy ra” trong file này là `STORY-ESTABLISHED / LOCKED`.
+**Mốc hiện tại của prose:** **ngay sau khi rời cổng Tracen cuối chiều 2026-04-01**, ngày đầu năm học 2026–2027. Sau buổi đánh giá nền và thiệt hại Track 7, Equinox đã thay đồ lót nhưng giữ nguyên blouse, pencil skirt và jacket mặc từ sáng rồi chờ tại cổng. Trong lúc chờ, cô ấy nói chuyện với Tazuna, gặp Team Spica, Hana/Team Rigil, Agnes Tachyon–Manhattan Cafe và Haru Urara–Rice Shower. Rudolf, Air Groove và Narita Brian đã hoàn tất đơn lưu trú, mang hành lý tới cổng và cùng Equinox bước ra ngoài trường. Chưa ai lên tàu, tới Shibuya, ăn buffet hoặc vào căn hộ; Zenith vẫn chưa được báo và khảo sát Izu vẫn chưa bắt đầu. Những gì ghi là “đã xảy ra” trong file này là `STORY-ESTABLISHED / LOCKED`.
 
 ## 1. Trạng thái nghề nghiệp của Equinox
 
@@ -50,9 +50,11 @@
 - Rudolf thuộc cohort Senior Year 3/năm cuối THPT của năm học 2026–2027; cô **không phải University Year 1** ở mốc này. Ngày 2026-03-09 nằm ngay trước sinh nhật 13/3 và trước khai giảng tháng 4.
 - Air Groove vẫn ý thức rõ Equinox là faculty/trainer, nhưng quan hệ đã bớt căng sau một ngày cùng xử lý công việc, nói chuyện về hoa và đi mua những vật dụng Equinox còn thiếu. Air Groove có thể khuyên hoặc ngăn Equinox mua quá mức; không biến cô bé thành phụ huynh hay người quản lý toàn bộ đời sống của một đồng nghiệp trưởng thành.
 - Yayoi xem Equinox là trường hợp bất thường nhưng đầy triển vọng.
-- Hana đã trực tiếp chất vấn/phản biện Equinox trong ngày đánh giá. Chiều 2026-04-01, Equinox nhận ra Hana cố ý dằn mặt bằng cách gọi Rigil đi training và thừa nhận mình giận, nhưng không dùng Rudolf/Air Groove/Brian để đáp trả. Hai người hiện là đồng nghiệp; không được viết Hana như người có quyền phủ nhận kết quả tuyển dụng đã chốt hoặc biến Hana thành phản diện vô cớ.
+- Hana đã trực tiếp chất vấn/phản biện Equinox trong ngày đánh giá. Chiều 2026-04-01, Equinox nhận ra Hana cố ý dằn mặt bằng cách gọi Rigil đi training và thừa nhận mình giận, nhưng không dùng Rudolf/Air Groove/Brian để đáp trả. Khi gặp lại ở cổng, hai người trao đổi bình thường về Track 7 và bữa tối; Hana hỏi an toàn, nói sẽ đọc báo cáo ngày sau và không khiêu khích thêm. Hai người vẫn bất đồng nhưng đã có thể làm việc như đồng nghiệp; không được biến Hana thành phản diện vô cớ hoặc nhảy thẳng sang thân thiết.
 - Orfevre đã chủ động nói chuyện với Equinox gần hết giờ trưa ngày 2026-03-11 về lớp trưởng, phẩm giá, quyền chất vấn và khả năng cai trị. Cô bé không nói đúng chữ “xin lỗi”, nhưng đã thừa nhận hành vi trước đó không đúng mực. Ngày 2026-04-01, Orfevre ứng cử lớp trưởng và đứng thứ năm với 12 phiếu thuận, 15 phiếu chống, 4 phiếu trắng; bước hạ nhiệt trước đó không tự động trao chức vụ hay xóa hệ quả hành vi cũ.
-- Equinox mới chỉ **quan sát** Haru Urara chạy trong một đoạn ngắn; hai người chưa có cuộc nói chuyện và Equinox chưa phụ trách cô bé. Sự tò mò của Equinox không phải quyền sở hữu hoặc quyết định kéo Haru vào team.
+- Equinox đã quan sát Haru Urara chạy trong một đoạn ngắn ngày 2026-03-11 và lần đầu trực tiếp nói chuyện với em ấy tại cổng ngày 2026-04-01. Sau khi Urara chủ động đồng ý, Equinox hứa sẽ quan sát một lần chạy khác; cô ấy vẫn chưa phụ trách, chưa nhận Urara vào team và chưa có quyền sửa kế hoạch của trainer hiện tại.
+- Equinox và Tazuna đã bớt mức xã giao thuần hành chính. Tazuna hỏi sức khỏe/bữa ăn, Equinox hỏi lại Tazuna đã ăn chưa; Tazuna cũng đủ thân để khuyên cô báo Zenith trước khi đưa ba học sinh về căn hộ. Đây là quan hệ đồng nghiệp đang ấm lên, chưa phải tình bạn thân đã khóa.
+- Agnes Tachyon và Manhattan Cafe là Senior Year 1 trong fanfic ở mốc này. Cuộc gặp đầu tiên khiến Equinox có ấn tượng xấu với cách Tachyon tự tiện lấy phản ứng người khác làm dữ liệu; Tachyon đã tự xin lỗi sau khi bị chỉ ra vấn đề về consent và khả năng phản chứng. Cafe không chịu trách nhiệm thay chỉ vì đi cùng.
 
 ## 4. Haise và Takiyama
 
@@ -217,11 +219,21 @@ Các điều sau là kế hoạch tương lai, **không được viết như ký
 
 - Equinox đã mời Rudolf, Air Groove và Brian tới căn hộ Shibuya từ tối 2026-04-01 tới Chủ Nhật 2026-04-05: bốn đêm Thứ Tư–Thứ Bảy, trở về Chủ Nhật.
 - Kế hoạch bắt đầu từ một bữa buffet tại khu thương mại gần Shibuya Station, sau đó được mở rộng vì trở về ký túc xá muộn và để quan sát hồi phục, đau cơ muộn, giấc ngủ, khẩu phần cùng thói quen sinh hoạt trong hai ngày không có lớp + cuối tuần.
-- Quản lý ký túc xá đã duyệt phương án có điều kiện; cả ba vẫn phải tự nộp đơn lưu trú ngoài ký túc xá và hoàn tất xác nhận cần thiết theo hồ sơ. Cả ba đã đồng ý.
+- Quản lý ký túc xá đã duyệt phương án có điều kiện. Tới endpoint hiện tại, Rudolf đã hoàn tất qua Miho; Air Groove và Brian hoàn tất qua Ritto; người liên hệ khẩn cấp trong hồ sơ không có phản hồi từ chối. Cả ba được phép rời trường cùng Equinox và phải báo lại nếu thay đổi lịch trở về.
 - Equinox gọi đây là “khắc phục” việc không cung cấp kế hoạch/lời giải thích trong chín ngày, không thừa nhận đó là xin lỗi hoặc chiều học sinh.
-- Điểm cuối hiện tại: cả ba đang về ký túc xá gom va-li và nộp đơn trong thời hạn 15 phút. Chưa tới cổng, chưa rời Tracen, chưa tới Shibuya và chưa bắt đầu bữa tối/lưu trú.
+- Điểm cuối hiện tại: cả ba đã mang hành lý tới cổng, được Tazuna xác nhận thủ tục hoàn tất và cùng Equinox rời Tracen. Chưa lên tàu, chưa tới Shibuya, chưa ăn buffet, chưa vào căn hộ và chưa bắt đầu phần quan sát tại nhà.
 
-## 12. Quan niệm cơ thể và giới tính đã khóa
+## 12. Các cuộc gặp ở cổng Tracen cuối chiều 2026-04-01
+
+- Equinox vẫn tự báo cáo không đau/không căng cơ sau lượt chạy; Track 7 còn màu đỏ, chưa có chấn thương mới hoặc kết luận kỹ thuật. Không nâng lời tự kiểm tra thành medical clearance.
+- Team Spica biết Equinox đang chờ Rudolf/Air Groove/Brian nhưng không được kể mục đích. Gold Ship gọi đó là “hoạt động bí mật” chỉ như joke và bị phủ nhận.
+- Hana biết Equinox gây thiệt hại Track 7, không ai bị thương, báo cáo đã gửi và bảo trì đang xử lý. Hana cũng biết Equinox sẽ đi ăn buffet với ba học sinh; bà chưa được nói về bốn đêm lưu trú.
+- Tachyon/Cafe chỉ biết các lời đồn công khai hoặc dễ quan sát, cùng toàn bộ cuộc đối thoại trực tiếp của chính họ. Không cho hai em truy cập ngược báo cáo Track 7, hồ sơ trainee hoặc kế hoạch lưu trú.
+- Urara và Rice chỉ biết cuộc đối thoại của chính mình. Rice nói đây là ngày đầu ở Tracen và đang cùng Urara đi mua đồ dùng; chính xác lớp/năm học fanfic của Rice vẫn chưa được khóa từ cảnh này.
+- Zenith chưa biết buổi đánh giá, thiệt hại Track 7, lời mời lưu trú hoặc việc bốn người đã rời trường. Equinox đã đồng ý báo trước khi về tới căn hộ nhưng chưa thực hiện ở endpoint.
+- Sự kiện và ranh giới kiến thức đầy đủ nằm tại `fanfic/events/2026-04-01-tracen-gate-departure.md`.
+
+## 13. Quan niệm cơ thể và giới tính đã khóa
 
 - Equinox không xem giới tính là trục cốt lõi giữ danh tính. Cơ thể, hormone, quần áo hoặc thói quen chăm sóc có thể thay đổi trải nghiệm nhưng không tự thay giá trị quan, tính cách hay người cô yêu.
 - Việc chăm tóc, dưỡng da, mặc đồ nữ hoặc nhận ra cơ thể hiện tại đẹp không quyết định xu hướng tính dục hay buộc cô vào một vai giới cố định.
@@ -230,8 +242,8 @@ Các điều sau là kế hoạch tương lai, **không được viết như ký
 - Hôn nhân khiến giới tính được gọi tên rõ hơn trong quan hệ, nhưng đối tượng Equinox yêu là Zenith chứ không phải một danh mục giới tính hay vai “chồng/vợ” được viết sẵn.
 - Equinox thoải mái với khỏa thân trong không gian riêng và ngủ khỏa thân. Không được biến sự thoải mái này thành quyền để nhân vật khác xâm phạm riêng tư hoặc thành trò phản ứng tập thể.
 
-## 13. Điểm nối cảnh
+## 14. Điểm nối cảnh
 
-Điểm tiếp tục trực tiếp là **sau khi Equinox yêu cầu Rudolf, Air Groove và Brian về ký túc xá gom đồ, nộp đơn rồi ra cổng Tracen trong 15 phút**, chiều 2026-04-01. Đội bảo trì đã tới Track 7; track vẫn bị khóa. Ba học sinh đã đồng ý đi nhưng chưa hoàn tất đơn, chưa tới cổng và chưa rời trường. Buffet, chuyến đi Shibuya, bốn đêm quan sát và mọi dữ liệu phục hồi đều chưa xảy ra. Zenith chưa biết chuyện. Khảo sát Izu vẫn chưa được xử lý; ngày Zenith tới thăm vẫn `TBD`. Ban cán sự vẫn là **Sirius Symboli / Hishi Amazon / T.M. Opera O / Eishin Flash**. Không cho Special Week xuất hiện trước ngày nhập học 2026-04-06.
+Điểm tiếp tục trực tiếp là **ngay sau khi Equinox, Rudolf, Air Groove và Brian bước qua cổng chính, rời Tracen cuối chiều 2026-04-01**. Track 7 vẫn bị khóa. Ba đơn lưu trú đã hoàn tất và cả ba mang theo hành lý, nhưng nhóm chưa lên tàu, chưa tới Shibuya, chưa ăn buffet, chưa vào căn hộ và chưa bắt đầu thu dữ liệu phục hồi tại nhà. Equinox chưa báo Zenith dù đã hứa sẽ báo trước khi về tới căn hộ. Khảo sát Izu vẫn chưa được xử lý; ngày Zenith tới thăm vẫn `TBD`. Ban cán sự vẫn là **Sirius Symboli / Hishi Amazon / T.M. Opera O / Eishin Flash**. Team Zenith vẫn chưa được chứng nhận và không cho Special Week xuất hiện trước ngày nhập học 2026-04-06.
 
 Không được quay lại trạng thái “ứng viên” hay buộc Equinox thi lại. Không mặc định nhân vật biết một sự kiện đã qua nếu họ không được xác lập là người tham dự/người được kể lại; xem `fanfic/style/prohibited_tendencies.md`, `fanfic/knowledge/air-groove.md` và `fanfic/knowledge/zenith.md`.

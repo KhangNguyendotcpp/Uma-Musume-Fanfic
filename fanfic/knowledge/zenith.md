@@ -1,6 +1,6 @@
 # Zenith — Registry kiến thức trong fanfic Uma
 
-**Phạm vi:** những gì Zenith đã trực tiếp biết qua quan hệ gia đình, chuẩn bị trước tại căn hộ và cuộc gọi video với Equinox. File này không thay thế canon OU về danh tính hoặc lịch sử Zenith.
+**Phạm vi:** những gì Zenith đã trực tiếp biết qua quan hệ gia đình, chuẩn bị trước tại căn hộ và cuộc gọi video với Equinox. Tại endpoint sau khi nhóm rời cổng Tracen, Equinox vẫn chưa liên lạc lại. File này không thay thế canon OU về danh tính hoặc lịch sử Zenith.
 
 | Lĩnh vực | Trạng thái tại cuối cuộc gọi trưa 2026-04-01 |
 |---|---|
@@ -20,11 +20,11 @@
 | Khả năng tới thăm Tracen | KNOWN/OPEN: Equinox nói muốn Zenith tới; Zenith đã chuyển sang cân nhắc nghiêm túc nhưng chưa chọn ngày hoặc hoàn tất đăng ký khách |
 | Những gì Zenith đã nói với học sinh | KNOWN trực tiếp: xác nhận hôn nhân, hai con trưởng thành Twilight/Lux gọi Equinox là bố, nhiều thói quen gia đình và việc Equinox không xem nhẹ trách nhiệm khi người khác phụ thuộc; phủ nhận mọi lời giải thích siêu hình |
 | Buổi đánh giá chiều 2026-04-01 / Track 7 | UNKNOWN tại endpoint: chưa được Equinox hoặc học sinh kể |
-| Lời mời Rudolf/Air Groove/Brian ở căn hộ Shibuya | UNKNOWN tại endpoint: chưa được kể và ba học sinh chưa tới căn hộ |
+| Lời mời Rudolf/Air Groove/Brian ở căn hộ Shibuya | UNKNOWN tại endpoint: chưa được kể; cả ba đã rời Tracen nhưng chưa tới căn hộ |
 
 ## Guardrail
 
 - Không cho Zenith tự biết nội dung hồ sơ học sinh, lương, tài khoản, quy trình nội bộ hoặc sự kiện tại Tracen nếu Equinox chưa kể, Zenith chưa đọc nguồn hợp lệ hoặc canon OU chưa xác lập một kênh biết riêng.
 - Việc Zenith đoán đúng thói quen Equinox hoặc đã chuẩn bị vật dụng trong căn hộ không tự mở rộng thành quyền biết mọi dữ liệu tổ chức.
 - Việc thấy cả lớp trong cuộc gọi không làm Zenith biết đầy đủ hồ sơ, phiếu bầu, nội dung buổi hỏi đáp sáng hoặc khảo sát Izu. Chỉ các câu được nói trực tiếp trong cuộc gọi mới có kênh truyền.
-- Không cho Zenith chuẩn bị đồ ăn/phòng ngủ, phản ứng với Track 7 hoặc biết ba học sinh sắp tới trước khi có cảnh truyền đạt sau endpoint hiện tại.
+- Không cho Zenith chuẩn bị đồ ăn/phòng ngủ, phản ứng với Track 7 hoặc biết ba học sinh đang trên đường tới trước khi có cảnh truyền đạt sau endpoint hiện tại.

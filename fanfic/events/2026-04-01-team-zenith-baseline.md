@@ -52,13 +52,13 @@
 - Mục tiêu Equinox nêu gồm: tốc độ hồi phục, đau cơ khởi phát muộn, chất lượng giấc ngủ, khẩu phần thực tế và thói quen sinh hoạt trong ngày không phải tới lớp. Cô đề xuất bữa ăn chung, kiểm tra vận động buổi sáng và thiết bị đeo nếu từng học sinh đồng ý; không đặt camera trong phòng ngủ và không vào phòng nếu không có lý do an toàn.
 - Equinox cũng thừa nhận trong chín ngày từ lúc nhận đơn, cô không cung cấp kế hoạch hoặc lời giải thích đầy đủ và cần **khắc phục**. Cô phủ nhận đây là lời xin lỗi hoặc việc chiều học sinh, dù đã giữ bàn buffet cho bốn người và xin duyệt phương án trước khi hỏi.
 - Quản lý ký túc xá đã duyệt phương án có điều kiện của Equinox, nhưng Rudolf, Air Groove và Brian vẫn phải tự nộp đơn lưu trú ngoài ký túc xá; xác nhận người giám hộ/liên hệ khẩn cấp áp dụng theo hồ sơ từng em.
-- Cả ba đồng ý tham gia. Điểm cuối cảnh là Equinox yêu cầu họ về ký túc xá gom đồ vào va-li, nộp đơn và ra cổng Tracen; cô đặt thời hạn **15 phút**. Chưa ai tới căn hộ, chưa ăn buffet và kỳ lưu trú chưa bắt đầu tại endpoint này.
+- Cả ba đồng ý tham gia. Điểm cuối riêng của nhịp tại Track 7 là Equinox yêu cầu họ về ký túc xá gom đồ vào va-li, nộp đơn và ra cổng Tracen; cô đặt thời hạn **15 phút**. Phần tiếp nối tại cổng được khóa trong `fanfic/events/2026-04-01-tracen-gate-departure.md`.
 
 ## Ranh giới kiến thức và continuity
 
 - Rudolf, Air Groove và Brian trực tiếp biết toàn bộ phần trao đổi, lượt chạy, thiệt hại Track 7, báo cáo và lời mời. Hana cùng các thành viên Rigil không được mặc định biết phần xảy ra sau khi đã rẽ đi.
 - Bộ phận bảo trì/Race Operations biết nội dung báo cáo Equinox gửi và tình trạng Track 7 trong phạm vi công việc; không tự động biết lý do cá nhân của lời mời Shibuya.
-- Zenith chưa được kể về buổi đánh giá, Track 7 hoặc việc ba học sinh sắp tới căn hộ ở endpoint hiện tại.
+- Zenith chưa được kể về buổi đánh giá, Track 7 hoặc việc ba học sinh sắp tới căn hộ ở cuối nhịp này; trạng thái vẫn giữ nguyên sau cảnh cổng kế tiếp.
 - Khảo sát/chuyến Izu của lớp 3-A vẫn chưa được xử lý hoặc phê duyệt. Lời mời ba trainee là hoạt động riêng trong phạm vi trainer/dorm, không phải chuyến đi lớp.
 
 ## Xưng hô bắt buộc
