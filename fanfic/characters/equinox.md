@@ -7,7 +7,7 @@
 - **Số đo ba vòng (ngực–eo–hông):** **210–118–200 cm** — STORY-ESTABLISHED / LOCKED
 - **Cơ quan:** Tracen Academy
 - **Vai trò hiện tại:** giáo viên Lịch sử + trainer chính thức + giáo viên chủ nhiệm Senior 3-A, với quyền trong từng phạm vi chuyên môn — STORY-ESTABLISHED / LOCKED
-- **Trạng thái tại điểm prose hiện tại:** ngay sau khi rời cổng Tracen cuối chiều 2026-04-01 cùng Rudolf/Air Groove/Brian; ba đơn lưu trú đã hoàn tất nhưng cả nhóm chưa lên tàu, chưa tới Shibuya và Zenith chưa được báo — STORY-ESTABLISHED / LOCKED
+- **Trạng thái tại điểm prose hiện tại:** buổi tối 2026-04-01 tại căn hộ tầng 39 Park Court Shibuya The Tower; sau hành trình từ Tracen, buffet với Zenith và việc bắt đầu lưu trú, Equinox đã thắng Rudolf tám ván cờ liên tiếp. Bộ cờ vua đã được cất, ba bộ shogi/cờ vây/cờ tướng vẫn còn trên bàn — STORY-ESTABLISHED / LOCKED
 - **Môn giảng dạy/đã giảng thử:** Lịch sử — STORY-ESTABLISHED / LOCKED
 - **Chức danh hợp đồng chính xác:** TBD; không ảnh hưởng kết quả tuyển dụng đã chốt
 
@@ -112,6 +112,21 @@ Equinox là Uma nhưng **không được định hướng làm racer thi đấu*
 - Chặn cách Agnes Tachyon tự tiện lấy phản ứng người khác làm dữ liệu, buộc em ấy tách sự tò mò khỏi quyền sử dụng đối tượng và tự xin lỗi. Equinox có ấn tượng xấu với hành vi này, không phải định kiến vĩnh viễn với toàn bộ con người Tachyon.
 - Lần đầu nói chuyện với Haru Urara và đồng ý quan sát em ấy chạy lần nữa sau khi Urara trực tiếp cho phép; chưa nhận vào team hoặc giành quyền từ trainer khác. Đồng thời gặp Rice Shower trong ngày đầu em ấy tới Tracen.
 - Nhận Rudolf/Air Groove/Brian tại cổng sau khi cả ba hoàn tất thủ tục. Cùng họ rời trường; chưa báo Zenith, chưa lên tàu và chưa bắt đầu bữa tối/lưu trú.
+
+## Từ Tracen tới Shibuya — 2026-04-01
+
+- Đi cùng Rudolf/Air Groove/Brian theo tuyến Keiō từ Fuchu, đổi tại Meidaimae tới Shibuya.
+- Trong toa đông, phát hiện Air Groove bị sàm sỡ, khống chế người gây ra và bàn giao cho phía đường sắt/cảnh sát. Để Air Groove tự quyết định việc tiếp tục hành trình; cô bé chọn đi tiếp.
+- Dùng buffet cùng ba học sinh và Zenith khi vợ bất ngờ xuất hiện trực tiếp. Sau bữa tối, Zenith rời về The Beyond Valley; bốn người còn lại tới căn hộ.
+
+## Đêm đầu lưu trú và tám ván cờ — 2026-04-01
+
+- Cho ba học sinh quyền ra vào tạm thời bằng thẻ dự phòng/mật khẩu, thống nhất ranh giới riêng tư và chấp nhận phải mặc đồ tại khu vực sinh hoạt chung trong thời gian có học sinh ở cùng.
+- Chuẩn bị phần theo dõi phục hồi và kế hoạch kiểm tra 08:00/mua đồ 08:30 sáng 2026-04-02; hai mốc này chưa xảy ra.
+- Sở hữu bốn bộ cờ cao cấp: cờ vua hộp platinum với bàn kính/quân đá quý gothic; shogi, cờ vây và cờ tướng dùng hộp, bàn và quân gỗ quý.
+- Chơi tám ván cờ nhanh năm phút mỗi bên với Rudolf và thắng 8–0. Tám kết thúc lần lượt là discovered checkmate, double checkmate, castling checkmate, promotion mate, rook underpromotion mate, knight underpromotion mate, en passant checkmate và en passant double-check mate.
+- Không dừng tay hoặc đổi quân đã chọn trong lượt của mình. Ở ván cuối dùng 24 giây, trong khi Rudolf gần hết năm phút và vẫn không đạt mục tiêu buộc Equinox phải dừng.
+- Cất đủ bộ cờ vua cùng Rudolf/Air Groove/Brian. Endpoint nằm trước lúc chọn trò tiếp theo; ba hộp cờ còn lại chưa được mở.
 
 ## Nguyên tắc nghề nghiệp đã thể hiện
 - Sức khỏe và medical clearance đứng trên race, Winning Live và sức ép khán giả.

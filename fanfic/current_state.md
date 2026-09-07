@@ -2,7 +2,7 @@
 
 > **CANON GUARD — KHÔNG ĐƯỢC HẠ CẤP TRẠNG THÁI:** Equinox **đã vượt qua toàn bộ quy trình tuyển dụng tăng tốc và đã chính thức trở thành cả giáo viên Lịch sử lẫn trainer của Tracen Academy trong ngày 2026-03-09**. Không được viết hoặc suy luận rằng cô vẫn chỉ là ứng viên, mới qua vòng một, chưa đậu, hoặc phải chờ đến 2026-03-23 mới trở thành staff.
 
-**Mốc hiện tại của prose:** **ngay sau khi rời cổng Tracen cuối chiều 2026-04-01**, ngày đầu năm học 2026–2027. Sau buổi đánh giá nền và thiệt hại Track 7, Equinox đã thay đồ lót nhưng giữ nguyên blouse, pencil skirt và jacket mặc từ sáng rồi chờ tại cổng. Trong lúc chờ, cô ấy nói chuyện với Tazuna, gặp Team Spica, Hana/Team Rigil, Agnes Tachyon–Manhattan Cafe và Haru Urara–Rice Shower. Rudolf, Air Groove và Narita Brian đã hoàn tất đơn lưu trú, mang hành lý tới cổng và cùng Equinox bước ra ngoài trường. Chưa ai lên tàu, tới Shibuya, ăn buffet hoặc vào căn hộ; Zenith vẫn chưa được báo và khảo sát Izu vẫn chưa bắt đầu. Những gì ghi là “đã xảy ra” trong file này là `STORY-ESTABLISHED / LOCKED`.
+**Mốc hiện tại của prose:** **buổi tối 2026-04-01, ngay sau khi Equinox, Rudolf, Air Groove và Narita Brian cất xong bộ cờ vua tại căn hộ tầng 39 Park Court Shibuya The Tower**. Sau khi rời Tracen, nhóm đã đi tàu tới Shibuya, xử lý một vụ sàm sỡ nhằm vào Air Groove, ăn buffet cùng Zenith xuất hiện trực tiếp, vào căn hộ, thống nhất quy tắc lưu trú và hoàn tất tám ván cờ Equinox thắng 8–0. Hộp cờ vua đã đóng; ba hộp shogi, cờ vây và cờ tướng vẫn nằm trên bàn. Track 7 vẫn bị khóa, Team Zenith chưa được chứng nhận, khảo sát Izu chưa bắt đầu và ngày Zenith tới thăm Tracen vẫn `TBD`. Những gì ghi là “đã xảy ra” trong file này là `STORY-ESTABLISHED / LOCKED`.
 
 ## 1. Trạng thái nghề nghiệp của Equinox
 
@@ -219,9 +219,9 @@ Các điều sau là kế hoạch tương lai, **không được viết như ký
 
 - Equinox đã mời Rudolf, Air Groove và Brian tới căn hộ Shibuya từ tối 2026-04-01 tới Chủ Nhật 2026-04-05: bốn đêm Thứ Tư–Thứ Bảy, trở về Chủ Nhật.
 - Kế hoạch bắt đầu từ một bữa buffet tại khu thương mại gần Shibuya Station, sau đó được mở rộng vì trở về ký túc xá muộn và để quan sát hồi phục, đau cơ muộn, giấc ngủ, khẩu phần cùng thói quen sinh hoạt trong hai ngày không có lớp + cuối tuần.
-- Quản lý ký túc xá đã duyệt phương án có điều kiện. Tới endpoint hiện tại, Rudolf đã hoàn tất qua Miho; Air Groove và Brian hoàn tất qua Ritto; người liên hệ khẩn cấp trong hồ sơ không có phản hồi từ chối. Cả ba được phép rời trường cùng Equinox và phải báo lại nếu thay đổi lịch trở về.
+- Quản lý ký túc xá đã duyệt phương án có điều kiện. Trước khi rời cổng, Rudolf đã hoàn tất qua Miho; Air Groove và Brian hoàn tất qua Ritto; người liên hệ khẩn cấp trong hồ sơ không có phản hồi từ chối. Cả ba được phép rời trường cùng Equinox và phải báo lại nếu thay đổi lịch trở về.
 - Equinox gọi đây là “khắc phục” việc không cung cấp kế hoạch/lời giải thích trong chín ngày, không thừa nhận đó là xin lỗi hoặc chiều học sinh.
-- Điểm cuối hiện tại: cả ba đã mang hành lý tới cổng, được Tazuna xác nhận thủ tục hoàn tất và cùng Equinox rời Tracen. Chưa lên tàu, chưa tới Shibuya, chưa ăn buffet, chưa vào căn hộ và chưa bắt đầu phần quan sát tại nhà.
+- Điểm cuối của nhịp lời mời/cổng: cả ba mang hành lý tới, được Tazuna xác nhận thủ tục hoàn tất và cùng Equinox rời Tracen. Phần tiếp nối tới Shibuya và căn hộ đã xảy ra trong mục 13–14.
 
 ## 12. Các cuộc gặp ở cổng Tracen cuối chiều 2026-04-01
 
@@ -230,10 +230,26 @@ Các điều sau là kế hoạch tương lai, **không được viết như ký
 - Hana biết Equinox gây thiệt hại Track 7, không ai bị thương, báo cáo đã gửi và bảo trì đang xử lý. Hana cũng biết Equinox sẽ đi ăn buffet với ba học sinh; bà chưa được nói về bốn đêm lưu trú.
 - Tachyon/Cafe chỉ biết các lời đồn công khai hoặc dễ quan sát, cùng toàn bộ cuộc đối thoại trực tiếp của chính họ. Không cho hai em truy cập ngược báo cáo Track 7, hồ sơ trainee hoặc kế hoạch lưu trú.
 - Urara và Rice chỉ biết cuộc đối thoại của chính mình. Rice nói đây là ngày đầu ở Tracen và đang cùng Urara đi mua đồ dùng; chính xác lớp/năm học fanfic của Rice vẫn chưa được khóa từ cảnh này.
-- Zenith chưa biết buổi đánh giá, thiệt hại Track 7, lời mời lưu trú hoặc việc bốn người đã rời trường. Equinox đã đồng ý báo trước khi về tới căn hộ nhưng chưa thực hiện ở endpoint.
+- Ở endpoint riêng của cảnh cổng, Zenith chưa biết buổi đánh giá, thiệt hại Track 7, lời mời lưu trú hoặc việc bốn người đã rời trường. Sau đó cô trực tiếp xuất hiện tại buffet Shibuya; phạm vi biết mới được khóa riêng trong mục 13 và `fanfic/knowledge/zenith.md`.
 - Sự kiện và ranh giới kiến thức đầy đủ nằm tại `fanfic/events/2026-04-01-tracen-gate-departure.md`.
 
-## 13. Quan niệm cơ thể và giới tính đã khóa
+## 13. Hành trình tới Shibuya và bữa buffet
+
+- Nhóm đi tuyến Keiō từ Fuchu, đổi tại Meidaimae rồi tới Shibuya. Trong toa đông, Air Groove bị sàm sỡ; Equinox khống chế người gây ra và bàn giao cho phía đường sắt/cảnh sát. Air Groove chọn tiếp tục hành trình.
+- Cả bốn ăn buffet tại khu thương mại gần Shibuya Station. Zenith bất ngờ xuất hiện trực tiếp, nhập bữa và gặp Rudolf/Air Groove/Brian ngoài màn hình lần đầu, sau đó rời về The Beyond Valley trước khi nhóm tới căn hộ.
+- Việc Zenith xuất hiện ở Shibuya không phải chuyến thăm Tracen. Ngày tới trường, đăng ký khách và tiếp đón vẫn chưa được chốt.
+
+## 14. Đêm đầu tại căn hộ và tám ván cờ
+
+- Căn hộ của Equinox nằm ở tầng 39 Park Court Shibuya The Tower, có phòng khách, bếp lớn, phòng ăn, phòng làm việc, thư viện nhỏ, hai phòng ngủ nhìn toàn cảnh, ba phòng tắm, hai phòng thay đồ và ban công lớn với hồ bơi vô cực.
+- Ba học sinh nhận thẻ ra vào dự phòng/mật khẩu cho kỳ lưu trú. Equinox phải mặc đồ ở khu vực sinh hoạt chung. Air Groove chủ động xử lý lượt giặt đầu và danh sách việc nhà; Rudolf làm việc hội học sinh/đọc ở thư viện; Brian giãn cơ, xem replay và chọn sofa bed; Equinox kiểm tra phục hồi, thiết bị cùng ranh giới riêng tư.
+- Kế hoạch sáng hôm sau là kiểm tra trạng thái lúc 08:00 và đi mua đồ lúc 08:30; hai mốc chưa xảy ra.
+- Rudolf chọn bộ cờ vua trong bốn bộ cờ cao cấp của Equinox. Bộ cờ vua có hộp platinum, bàn kính và quân đá quý gothic; ba bộ shogi/cờ vây/cờ tướng dùng hộp, bàn và quân gỗ quý.
+- Equinox thắng Rudolf tám ván liên tiếp bằng tám dạng kết thúc: discovered checkmate, double checkmate, castling checkmate, promotion mate, rook underpromotion mate, knight underpromotion mate, en passant checkmate và en passant double-check mate.
+- Tỷ số **Rudolf 0 — Equinox 8**. Rudolf không đạt mục tiêu buộc Equinox dừng tay ở ván cuối nhưng chuyển từ choáng/không phục sang kính trọng trực tiếp năng lực của cô ấy và hẹn lần sau sẽ buộc cô ấy dừng.
+- Chi tiết sự kiện và ranh giới kiến thức nằm tại `fanfic/events/2026-04-01-shibuya-transit-buffet-apartment-chess.md`.
+
+## 15. Quan niệm cơ thể và giới tính đã khóa
 
 - Equinox không xem giới tính là trục cốt lõi giữ danh tính. Cơ thể, hormone, quần áo hoặc thói quen chăm sóc có thể thay đổi trải nghiệm nhưng không tự thay giá trị quan, tính cách hay người cô yêu.
 - Việc chăm tóc, dưỡng da, mặc đồ nữ hoặc nhận ra cơ thể hiện tại đẹp không quyết định xu hướng tính dục hay buộc cô vào một vai giới cố định.
@@ -242,8 +258,8 @@ Các điều sau là kế hoạch tương lai, **không được viết như ký
 - Hôn nhân khiến giới tính được gọi tên rõ hơn trong quan hệ, nhưng đối tượng Equinox yêu là Zenith chứ không phải một danh mục giới tính hay vai “chồng/vợ” được viết sẵn.
 - Equinox thoải mái với khỏa thân trong không gian riêng và ngủ khỏa thân. Không được biến sự thoải mái này thành quyền để nhân vật khác xâm phạm riêng tư hoặc thành trò phản ứng tập thể.
 
-## 14. Điểm nối cảnh
+## 16. Điểm nối cảnh
 
-Điểm tiếp tục trực tiếp là **ngay sau khi Equinox, Rudolf, Air Groove và Brian bước qua cổng chính, rời Tracen cuối chiều 2026-04-01**. Track 7 vẫn bị khóa. Ba đơn lưu trú đã hoàn tất và cả ba mang theo hành lý, nhưng nhóm chưa lên tàu, chưa tới Shibuya, chưa ăn buffet, chưa vào căn hộ và chưa bắt đầu thu dữ liệu phục hồi tại nhà. Equinox chưa báo Zenith dù đã hứa sẽ báo trước khi về tới căn hộ. Khảo sát Izu vẫn chưa được xử lý; ngày Zenith tới thăm vẫn `TBD`. Ban cán sự vẫn là **Sirius Symboli / Hishi Amazon / T.M. Opera O / Eishin Flash**. Team Zenith vẫn chưa được chứng nhận và không cho Special Week xuất hiện trước ngày nhập học 2026-04-06.
+Điểm tiếp tục trực tiếp là **ngay sau khi Equinox, Rudolf, Air Groove và Brian cất xong bộ cờ vua tại căn hộ Shibuya trong đêm đầu lưu trú 2026-04-01**. Hộp platinum đã khóa và được đẩy sang một bên; ba hộp shogi, cờ vây và cờ tướng vẫn còn nguyên trên bàn, chưa có trò tiếp theo được chọn. Kế hoạch kiểm tra 08:00 và mua đồ 08:30 ngày 2026-04-02 chưa xảy ra. Track 7 vẫn bị khóa; Team Zenith chưa được chứng nhận; khảo sát Izu chưa được xử lý; ngày Zenith tới thăm Tracen vẫn `TBD`. Ban cán sự vẫn là **Sirius Symboli / Hishi Amazon / T.M. Opera O / Eishin Flash** và Special Week không xuất hiện trước ngày nhập học 2026-04-06.
 
 Không được quay lại trạng thái “ứng viên” hay buộc Equinox thi lại. Không mặc định nhân vật biết một sự kiện đã qua nếu họ không được xác lập là người tham dự/người được kể lại; xem `fanfic/style/prohibited_tendencies.md`, `fanfic/knowledge/air-groove.md` và `fanfic/knowledge/zenith.md`.

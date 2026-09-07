@@ -1,6 +1,6 @@
 # Zenith — Registry kiến thức trong fanfic Uma
 
-**Phạm vi:** những gì Zenith đã trực tiếp biết qua quan hệ gia đình, chuẩn bị trước tại căn hộ và cuộc gọi video với Equinox. Tại endpoint sau khi nhóm rời cổng Tracen, Equinox vẫn chưa liên lạc lại. File này không thay thế canon OU về danh tính hoặc lịch sử Zenith.
+**Phạm vi:** những gì Zenith đã trực tiếp biết qua quan hệ gia đình, chuẩn bị trước tại căn hộ, cuộc gọi video giờ trưa và lần xuất hiện trực tiếp tại buffet Shibuya tối 2026-04-01. File này không thay thế canon OU về danh tính hoặc lịch sử Zenith.
 
 | Lĩnh vực | Trạng thái tại cuối cuộc gọi trưa 2026-04-01 |
 |---|---|
@@ -19,12 +19,16 @@
 | Team Spica tại mốc 2026-04-01 | KNOWN trực tiếp: thấy sáu thành viên hiện tại gồm Suzuka, Gold Ship, Teio, McQueen, Vodka và Scarlet; Special Week chưa có mặt |
 | Khả năng tới thăm Tracen | KNOWN/OPEN: Equinox nói muốn Zenith tới; Zenith đã chuyển sang cân nhắc nghiêm túc nhưng chưa chọn ngày hoặc hoàn tất đăng ký khách |
 | Những gì Zenith đã nói với học sinh | KNOWN trực tiếp: xác nhận hôn nhân, hai con trưởng thành Twilight/Lux gọi Equinox là bố, nhiều thói quen gia đình và việc Equinox không xem nhẹ trách nhiệm khi người khác phụ thuộc; phủ nhận mọi lời giải thích siêu hình |
-| Buổi đánh giá chiều 2026-04-01 / Track 7 | UNKNOWN tại endpoint: chưa được Equinox hoặc học sinh kể |
-| Lời mời Rudolf/Air Groove/Brian ở căn hộ Shibuya | UNKNOWN tại endpoint: chưa được kể; cả ba đã rời Tracen nhưng chưa tới căn hộ |
+| Buổi đánh giá chiều 2026-04-01 / Track 7 | Không tự động biết báo cáo kỹ thuật đầy đủ; chỉ chuyển phần nào thành KNOWN nếu nó được nói trực tiếp trong cảnh buffet hoặc một kênh khác được prose xác lập |
+| Lời mời Rudolf/Air Groove/Brian ở căn hộ Shibuya | PARTIALLY_KNOWN: Zenith trực tiếp gặp cả ba tại buffet Shibuya khi họ đi cùng Equinox; mục đích, thời lượng bốn đêm và thủ tục chỉ được coi là KNOWN nếu lời thoại buffet thực sự nói rõ |
+| Buffet Shibuya | KNOWN trực tiếp: Zenith xuất hiện ngoài màn hình, ăn cùng Equinox/Rudolf/Air Groove/Brian rồi rời về The Beyond Valley |
+| Không gian và sinh hoạt tại căn hộ sau buffet | UNKNOWN tại endpoint: Zenith đã rời trước khi bốn người vào căn hộ; không mặc định biết phân chỗ, quy tắc sinh hoạt, việc giặt đồ hoặc kế hoạch sáng 02/04 |
+| Tám ván cờ Equinox–Rudolf | UNKNOWN tại endpoint: không có mặt và chưa có cảnh được kể lại |
 
 ## Guardrail
 
 - Không cho Zenith tự biết nội dung hồ sơ học sinh, lương, tài khoản, quy trình nội bộ hoặc sự kiện tại Tracen nếu Equinox chưa kể, Zenith chưa đọc nguồn hợp lệ hoặc canon OU chưa xác lập một kênh biết riêng.
 - Việc Zenith đoán đúng thói quen Equinox hoặc đã chuẩn bị vật dụng trong căn hộ không tự mở rộng thành quyền biết mọi dữ liệu tổ chức.
 - Việc thấy cả lớp trong cuộc gọi không làm Zenith biết đầy đủ hồ sơ, phiếu bầu, nội dung buổi hỏi đáp sáng hoặc khảo sát Izu. Chỉ các câu được nói trực tiếp trong cuộc gọi mới có kênh truyền.
-- Không cho Zenith chuẩn bị đồ ăn/phòng ngủ, phản ứng với Track 7 hoặc biết ba học sinh đang trên đường tới trước khi có cảnh truyền đạt sau endpoint hiện tại.
+- Việc Zenith gặp nhóm tại buffet xóa trạng thái “chưa biết ba học sinh đã tới Shibuya”, nhưng không mở quyền biết toàn bộ diễn biến trước đó ở Tracen hoặc phần xảy ra trong căn hộ sau khi cô rời đi.
+- Không cho Zenith phản ứng với tám ván cờ, kế hoạch kiểm tra 08:00, việc đi mua đồ 08:30 hoặc các quyết định riêng trong căn hộ trước khi có cảnh truyền đạt hợp lệ.

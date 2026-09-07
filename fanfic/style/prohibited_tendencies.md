@@ -90,7 +90,7 @@ Các điều cấm:
 
 **Điểm chưa giải quyết:** Zenith để lại áo ngực đầu tiên cho Equinox nhưng sản phẩm sai cả kích cỡ lẫn cấu trúc dù Zenith biết cơ thể incarnation. Cần một lời giải được tác giả duyệt—ví dụ trạng thái đồ tạm khẩn cấp—trước khi xem đây là logic hoàn chỉnh; không tự chế lời giải trong prose.
 
-**Lưu trú Shibuya:** phê duyệt có điều kiện của quản lý ký túc xá không thay quyền đồng ý của Rudolf/Air Groove/Brian hoặc đơn riêng từng em. Tại endpoint mới, cả ba đã hoàn tất đơn, mang hành lý và rời Tracen cùng Equinox; không được tự cho nhóm đã lên tàu, tới căn hộ, ăn buffet, bắt đầu thu dữ liệu hoặc để Zenith biết trước.
+**Lưu trú Shibuya:** phê duyệt có điều kiện của quản lý ký túc xá không thay quyền đồng ý của Rudolf/Air Groove/Brian hoặc đơn riêng từng em. Tại endpoint mới, cả ba đã hoàn tất đơn, đi tàu tới Shibuya, ăn buffet, vào căn hộ và cùng Equinox cất xong bộ cờ vua sau tám ván. Không được tự cho kỳ lưu trú đã kết thúc, mốc kiểm tra 08:00/mua đồ 08:30 sáng 02/04 đã xảy ra, hoặc Zenith biết phần sinh hoạt/cờ xảy ra sau khi cô đã rời buffet.
 
 **Cảnh cổng Tracen:** các nhóm tới và rời cổng theo từng thời điểm. Team Spica không biết mục đích chờ; Hana biết Track 7 và bữa buffet nhưng chưa biết lưu trú; Tachyon/Cafe, Urara/Rice chỉ biết cuộc nói chuyện trực tiếp của mình; Rudolf/Air Groove/Brian tới sau nên không tự biết các cuộc gặp trước. Việc người kể biết Equinox thay đồ lót không truyền thông tin đó cho bất kỳ nhân vật nào.
 

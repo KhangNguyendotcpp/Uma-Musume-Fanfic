@@ -1,6 +1,6 @@
 # Prose Audit — từ mở đầu đến điểm hiện tại
 
-**Phạm vi:** các sự kiện prose đã được khóa trong repo từ Equinox xuất hiện ngày 2026-03-09 tới lúc cô ấy cùng Rudolf/Air Groove/Brian rời cổng Tracen cuối chiều 2026-04-01. Repo hiện giữ phần lớn các cảnh dưới dạng continuity summary thay vì chapter nguyên văn; vì vậy audit này chỉ kết luận chắc chắn ở nơi còn đủ văn bản/dữ kiện, không dựng lỗi cho đoạn không còn nguyên văn.
+**Phạm vi:** các sự kiện prose đã được khóa trong repo từ Equinox xuất hiện ngày 2026-03-09 tới lúc cô ấy cùng Rudolf/Air Groove/Brian cất xong bộ cờ vua tại căn hộ Shibuya tối 2026-04-01. Repo hiện giữ phần lớn các cảnh dưới dạng continuity summary thay vì chapter nguyên văn; vì vậy audit này chỉ kết luận chắc chắn ở nơi còn đủ văn bản/dữ kiện, không dựng lỗi cho đoạn không còn nguyên văn.
 
 **Trạng thái:** tài liệu chẩn đoán, không tự retcon sự kiện. Guardrail bắt buộc nằm tại `fanfic/style/prohibited_tendencies.md`.
 
@@ -92,6 +92,18 @@
 - Haru Urara đã có agency rõ: em ấy chủ động nhận ra Equinox, hỏi đánh giá và cho phép quan sát. Lời hứa quan sát không phải tuyển team, chẩn đoán toàn diện hoặc quyền can thiệp trainer hiện tại.
 - Register chính khớp: Equinox dùng `tôi` với Tazuna/Hana và `cô–em` với học sinh; Rice tự gọi `Rice`, Urara tự gọi `Urara`; học sinh gọi `chị Tazuna` theo prose đã khóa. Không để các register này tràn sang cặp khác.
 - Chi tiết đồ lót của Equinox chỉ thuộc narrator/private knowledge. Không cho bất kỳ học sinh hoặc staff nào suy ra từ việc lớp đồ công sở không đổi.
+
+## Kiểm tra hành trình, buffet và đêm đầu tại Shibuya 2026-04-01
+
+- Tuyến di chuyển khớp setup đã có: Fuchu → Meidaimae bằng Keiō Line, đổi sang Keiō Inokashira Line → Shibuya. Không được quay lại endpoint “chưa lên tàu/chưa tới Shibuya”.
+- Vụ sàm sỡ chỉ khóa việc Air Groove bị nhắm tới, Equinox khống chế người gây ra, phía đường sắt/cảnh sát tiếp nhận và Air Groove tự chọn tiếp tục. Không tự thêm bản án, kết quả điều tra hoặc chấn thương.
+- Zenith trực tiếp xuất hiện tại buffet, sau đó rời về The Beyond Valley trước khi bốn người vào căn hộ. Vì vậy cô biết phần mình dự nhưng không tự biết bố trí lưu trú, sinh hoạt hoặc tám ván cờ.
+- Căn hộ khóa ở tầng 39 Park Court Shibuya The Tower với hai phòng ngủ, ba phòng tắm, hai phòng thay đồ, máy giặt không có máy sấy, ban công/hồ bơi vô cực cùng các không gian đã ghi trong event. Không tự thêm phòng hoặc tiện ích mới chỉ để phục vụ cảnh.
+- Quy tắc Equinox mặc đồ tại khu vực sinh hoạt chung bảo vệ ranh giới của ba học sinh; không dùng nó làm cớ xóa quyền riêng tư của Equinox trong phòng ngủ/phòng tắm/phòng thay đồ.
+- Bốn bộ cờ và vật liệu đã khóa: cờ vua hộp platinum, bàn kính, quân đá quý gothic; shogi/cờ vây/cờ tướng dùng hộp, bàn và quân gỗ quý.
+- Chuỗi tám kết thúc giữ đúng thứ tự: discovered, double, castling, promotion, rook underpromotion, knight underpromotion, en passant, en passant double-check mate. Tỷ số là 0–8; Rudolf bị đau lòng tự trọng nhưng kết thúc ở sự kính trọng và ý muốn học, không bị viết thành yếu đuối, cay cú hoặc bị làm nhục.
+- Ván cuối khóa mục tiêu của Rudolf là buộc Equinox dừng tay, thời gian Equinox dùng là 24 giây và kết quả là en passant double-check mate. Không tự nâng thành Equinox cố ý săn người để khoe năng lực hoặc Rudolf chơi hời hợt.
+- Endpoint là sau khi cất đủ 32 quân và khóa hộp cờ vua. Ba hộp còn lại vẫn trên bàn; kiểm tra 08:00 và đi mua đồ 08:30 sáng 02/04 chưa xảy ra.
 
 ## Những phần hiện không thấy lỗi canon chắc chắn
 

@@ -1,6 +1,6 @@
 # Air Groove — Knowledge Registry tại điểm prose hiện tại
 
-**Mốc:** ngay sau khi Air Groove cùng Equinox, Rudolf và Brian rời cổng Tracen cuối chiều 2026-04-01.
+**Mốc:** buổi tối 2026-04-01, ngay sau khi Air Groove cùng Equinox, Rudolf và Brian cất xong bộ cờ vua tại căn hộ Shibuya.
 
 ## KNOWN — có nguồn trực tiếp
 
@@ -37,6 +37,14 @@
 - Air Groove đã tự hoàn tất đơn qua Ritto, mang va-li tới cổng và nghe Tazuna xác nhận cả ba thủ tục đều hoàn tất, phạm vi lưu trú đã được ghi nhận và nhóm phải báo nếu đổi lịch trở về.
 - Air Groove biết Equinox vẫn chưa báo Zenith về Track 7 hoặc việc ba học sinh sẽ tới căn hộ; cô trực tiếp phản ứng khi Tazuna nhắc Equinox phải báo trước khi về nhà.
 - Air Groove trực tiếp thấy Equinox vẫn mặc lớp đồ công sở từ sáng. Cô **không biết** Equinox đã thay đồ lót hoặc loại đồ lót bên dưới.
+- Air Groove trực tiếp trải qua chuyến tàu từ Fuchu qua Meidaimae tới Shibuya. Cô biết mình bị sàm sỡ trong toa đông, Equinox đã khống chế người gây ra và bàn giao cho phía đường sắt/cảnh sát; cô tự chọn tiếp tục hành trình.
+- Air Groove trực tiếp ăn buffet cùng Equinox/Rudolf/Brian và gặp Zenith xuất hiện ngoài màn hình lần đầu. Cô biết Zenith rời về The Beyond Valley trước khi nhóm vào căn hộ; việc này không tự trao cho Air Groove dữ kiện OU khác chưa được kể.
+- Air Groove đã vào căn hộ tầng 39 Park Court Shibuya The Tower và trực tiếp thấy bố cục gồm phòng khách, bếp, phòng ăn, phòng làm việc, thư viện nhỏ, hai phòng ngủ nhìn toàn cảnh, ba phòng tắm, hai phòng thay đồ và ban công có hồ bơi vô cực.
+- Air Groove nhận thẻ ra vào dự phòng/mật khẩu cho kỳ lưu trú, biết ranh giới không gian riêng và quy tắc Equinox phải mặc đồ trong khu vực sinh hoạt chung. Quyền truy cập tạm thời không bao gồm hồ sơ Tracen hoặc thiết bị riêng chưa được cho phép.
+- Air Groove chủ động xử lý lượt giặt đầu trong căn hộ có máy giặt nhưng không có máy sấy và theo dõi danh sách việc nhà. Điều này không biến cô thành người quản lý toàn bộ sinh hoạt của Equinox.
+- Air Groove trực tiếp biết kế hoạch sáng 02/04: kiểm tra trạng thái lúc 08:00 và đi mua đồ lúc 08:30; hai mốc chưa xảy ra.
+- Air Groove trực tiếp quan sát tám ván cờ giữa Rudolf và Equinox, biết thời gian năm phút mỗi bên, tỷ số 0–8, thứ tự tám dạng chiếu hết và mục tiêu cuối của Rudolf là buộc Equinox dừng tay. Cô biết Equinox không dừng, dùng 24 giây trong ván cuối và cả hai nhớ được tám ván.
+- Air Groove giữ tờ danh sách mua sắm có ghi tỷ số thay vì xé bỏ; cô cùng cả nhóm kiểm đủ 32 quân và cất bộ cờ vua. Cô biết ba bộ shogi/cờ vây/cờ tướng còn nguyên trên bàn tại endpoint.
 
 Khi lớp tách thành nhiều nhóm nói chuyện chồng lên nhau, registry **không** mặc định Air Groove nghe trọn mọi trao đổi Opera–Fuji, Brian–Laurel, Hishi–Taishin, Gold City–Gentildonna hoặc các nhóm khác chỉ vì cô ở cùng phòng. Chỉ chuyển từng nội dung sang `KNOWN` nếu prose xác lập cô tham gia, chú ý hoặc ở vị trí nghe rõ.
 
@@ -49,6 +57,8 @@ Khi lớp tách thành nhiều nhóm nói chuyện chồng lên nhau, registry *
 - Kết luận kiểm tra Track 7, tổng chi phí sửa chữa và việc Tracen có thực sự khấu trừ lương Equinox hay không.
 - Nội dung những cuộc nói chuyện ở cổng xảy ra trước khi Air Groove tới, gồm trao đổi riêng với Tazuna, Team Spica, Hana, Tachyon/Cafe và Urara/Rice.
 - Việc Equinox thay đồ lót trong phòng thay đồ trainer.
+- Chi tiết Equinox và Zenith trao đổi riêng trước/sau phần Zenith trực tiếp ở buffet, nếu không được nói trước mặt Air Groove.
+- Những gì Zenith làm hoặc biết sau khi đã rời buffet; Air Groove không thể suy ngược rằng Zenith thấy phần căn hộ hay tám ván cờ.
 - Bất kỳ thông tin nào chỉ xuất hiện trong lời kể khi Air Groove không ở trong cảnh.
 
 Air Groove chỉ chuyển một mục từ `UNKNOWN` sang `KNOWN` khi prose xác lập rõ cô được kể lại, đọc nguồn hợp lệ hoặc tự suy luận từ dữ kiện thật sự có. Không dùng câu “có lẽ cô bé đã nghe ở đâu đó” để sửa ngược continuity.

@@ -38,7 +38,7 @@ Không có thứ gì trong file này trở thành canon chỉ vì nó được l
 - Rudolf, Air Groove và Narita Brian đã nộp đơn ngày 2026-03-23 và hoàn tất buổi đánh giá nền tự nguyện đầu tiên chiều 2026-04-01: STORY-ESTABLISHED / LOCKED. Thành viên thứ tư–năm, thời điểm Team Zenith đủ điều kiện và quyết định tuyển chủ động của Equinox: TBD
 - Trạng thái chuyển team chính xác của Rudolf/Air Groove/Brian đối với roster Rigil trên giấy trong thời gian Team Zenith chờ duyệt: TBD; không tự coi profile TV Rigil là current fanfic paperwork hoặc tự tuyên bố chuyển team đã hoàn tất
 - Track 7 đã bị khóa vì thiệt hại do lượt chạy của Equinox; kết luận kỹ thuật, chi phí, trách nhiệm tài chính cuối cùng và ngày mở lại: TBD
-- Phương án để ba trainee ở căn hộ Shibuya bốn đêm đã được quản lý ký túc xá duyệt; Rudolf đã hoàn tất thủ tục qua Miho, Air Groove/Brian qua Ritto, và cả ba đã mang hành lý rời Tracen cùng Equinox. Chuyến tàu, buffet, việc tới căn hộ và toàn bộ kỳ lưu trú chưa xảy ra tại endpoint
+- Phương án để ba trainee ở căn hộ Shibuya bốn đêm đã được quản lý ký túc xá duyệt; Rudolf hoàn tất thủ tục qua Miho, Air Groove/Brian qua Ritto. Cả ba đã đi tàu tới Shibuya, ăn buffet, vào căn hộ và bắt đầu kỳ lưu trú. Endpoint ở đêm đầu sau tám ván cờ; các lần kiểm tra phục hồi tiếp theo, toàn bộ diễn biến 02–05/04 và việc trở về vẫn chưa xảy ra
 - Kết quả xin phòng lưu trú/căn hộ công vụ của Tracen: TBD
 - Ngày Equinox chính thức trở thành head trainer của certified team: TBD
 - Danh tính assistant trainer, international campaign manager, medical/biomechanics unit và analyst: TBD
