@@ -31,7 +31,7 @@
 - Ba học sinh nhận thẻ ra vào dự phòng và mật khẩu cần thiết cho thời gian lưu trú. Quyền truy cập này chỉ áp dụng cho kỳ ở bốn đêm, không tự mở rộng sang tài liệu công việc, thiết bị hoặc không gian riêng bị giới hạn.
 - Vì có học sinh ở cùng, Equinox phải mặc đồ tại khu vực sinh hoạt chung. Quy tắc này không xóa quyền riêng tư của cô ấy trong phòng ngủ, phòng tắm hoặc phòng thay đồ.
 - Nhịp sinh hoạt đầu tiên tách theo nhu cầu: Rudolf xử lý công việc hội học sinh và dùng thư viện; Brian giãn cơ, xem lại replay và chọn sofa bed; Air Groove theo dõi giặt đồ/các việc cần sắp; Equinox kiểm tra trạng thái phục hồi, thiết bị theo dõi và quy tắc an toàn–riêng tư.
-- Kế hoạch sáng 2026-04-02 đã được thống nhất ở mức: kiểm tra tình trạng lúc 08:00 và đi mua đồ lúc 08:30. Hai mốc này chưa xảy ra tại endpoint hiện tại.
+- Kế hoạch sáng 2026-04-02 đã được thống nhất ở mức: kiểm tra tình trạng lúc 08:00 và đi mua đồ lúc 08:30. Hai phần chưa xảy ra tại endpoint riêng của sự kiện 2026-04-01 và được thực hiện trong sự kiện sáng hôm sau.
 
 ## Bốn bộ cờ
 
@@ -55,11 +55,11 @@
 - Rudolf nhớ đủ tám ván và muốn phân tích lại khi có thời gian; Equinox cũng xác nhận nhớ. Air Groove giữ tờ danh sách mua sắm có ghi tỷ số **Rudolf 0 — Equinox 8** thay vì xé bỏ.
 - Brian đánh giá ván cuối hay nhất vì Rudolf đã nhìn thấy ý đồ nhưng vẫn bị buộc phải đi vào nhánh đó. Câu này không biến thất bại thành trò làm nhục; Rudolf trực tiếp thừa nhận ván cuối đau nhưng có giá trị.
 
-## Endpoint hiện tại
+## Endpoint của sự kiện
 
 - Cả bốn cất đủ 32 quân vào đúng khoang nhung, lau bàn kính, gập bàn và khóa hộp platinum.
 - Hộp cờ vua được đẩy sang một bên. Không ai đứng lên; ba hộp shogi, cờ vây và cờ tướng vẫn còn nguyên trên bàn.
-- Điểm tiếp tục trực tiếp là **ngay sau khi bộ cờ vua được cất xong**, trước khi nhóm chọn trò tiếp theo hoặc chuyển sang hoạt động khác trong đêm đầu lưu trú.
+- Phần sự kiện 2026-04-01 dừng **ngay sau khi bộ cờ vua được cất xong**. Repo hiện đã có prose sáng 2026-04-02; việc ba bộ cờ còn lại có được chơi trong khoảng giữa hay không vẫn chưa được xác lập.
 
 ## Ranh giới kiến thức và trạng thái
 

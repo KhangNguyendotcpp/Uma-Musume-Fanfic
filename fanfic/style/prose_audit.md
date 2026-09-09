@@ -1,6 +1,6 @@
 # Prose Audit — từ mở đầu đến điểm hiện tại
 
-**Phạm vi:** các sự kiện prose đã được khóa trong repo từ Equinox xuất hiện ngày 2026-03-09 tới lúc cô ấy cùng Rudolf/Air Groove/Brian cất xong bộ cờ vua tại căn hộ Shibuya tối 2026-04-01. Repo hiện giữ phần lớn các cảnh dưới dạng continuity summary thay vì chapter nguyên văn; vì vậy audit này chỉ kết luận chắc chắn ở nơi còn đủ văn bản/dữ kiện, không dựng lỗi cho đoạn không còn nguyên văn.
+**Phạm vi:** các sự kiện prose đã được khóa trong repo từ Equinox xuất hiện ngày 2026-03-09 tới lúc cô ấy cùng Rudolf/Air Groove/Brian ăn kem xong và tiếp tục mua sắm tại Shibuya sáng 2026-04-02. Repo hiện giữ phần lớn các cảnh dưới dạng continuity summary thay vì chapter nguyên văn; vì vậy audit này chỉ kết luận chắc chắn ở nơi còn đủ văn bản/dữ kiện, không dựng lỗi cho đoạn không còn nguyên văn.
 
 **Trạng thái:** tài liệu chẩn đoán, không tự retcon sự kiện. Guardrail bắt buộc nằm tại `fanfic/style/prohibited_tendencies.md`.
 
@@ -103,7 +103,17 @@
 - Bốn bộ cờ và vật liệu đã khóa: cờ vua hộp platinum, bàn kính, quân đá quý gothic; shogi/cờ vây/cờ tướng dùng hộp, bàn và quân gỗ quý.
 - Chuỗi tám kết thúc giữ đúng thứ tự: discovered, double, castling, promotion, rook underpromotion, knight underpromotion, en passant, en passant double-check mate. Tỷ số là 0–8; Rudolf bị đau lòng tự trọng nhưng kết thúc ở sự kính trọng và ý muốn học, không bị viết thành yếu đuối, cay cú hoặc bị làm nhục.
 - Ván cuối khóa mục tiêu của Rudolf là buộc Equinox dừng tay, thời gian Equinox dùng là 24 giây và kết quả là en passant double-check mate. Không tự nâng thành Equinox cố ý săn người để khoe năng lực hoặc Rudolf chơi hời hợt.
-- Endpoint là sau khi cất đủ 32 quân và khóa hộp cờ vua. Ba hộp còn lại vẫn trên bàn; kiểm tra 08:00 và đi mua đồ 08:30 sáng 02/04 chưa xảy ra.
+- Endpoint riêng của cảnh 2026-04-01 là sau khi cất đủ 32 quân và khóa hộp cờ vua. Ba hộp còn lại vẫn trên bàn; kiểm tra 08:00 và đi mua đồ sáng 02/04 xảy ra ở cảnh sau.
+
+## Kiểm tra cảnh mua sắm và quán kem sáng 2026-04-02
+
+- Cast chỉ gồm Equinox, Rudolf, Air Groove và Brian; cả bốn trực tiếp biết sự kiện. Zenith không có mặt và chưa được kể lại.
+- Buổi kiểm tra trạng thái đã xảy ra trước khi ra ngoài; prose xác lập dữ liệu không có bất thường cấp tính và một dấu căng rất nhỏ ở chân phải Air Groove đã hết ở bước đầu sau khoảng nghỉ. Không nâng chi tiết này thành medical clearance toàn diện hoặc kết luận phục hồi dài hạn.
+- Việc Air Groove kiểm chất lượng, hạn dùng, sức chứa và cách xếp xe phù hợp tính cách nhưng không được kéo thành quyền quản lý tiền/tài sản của Equinox. Equinox vẫn tự quyết định, trả bốn phần kem và giữ trách nhiệm thanh toán xe thực phẩm; cô trực tiếp dừng mua thêm đồ ăn khi chấp nhận lý do còn phần phi thực phẩm.
+- Beat “mẹ đơn thân và ba con gái” là hiểu nhầm từ người ngoài dựa trên đội hình một người đẩy/ba người lấy; không biến thành vai trò pháp lý, quan hệ gia đình thật hoặc cơ sở để Equinox đối xử với trainee như con.
+- Danh sách thực phẩm dài chỉ được khóa theo nhóm cùng vài món có payoff: snack đậu xanh nước dừa của Equinox, óc chó của Brian, giới hạn đồ có cồn và bốn vị kem. Khi viết tiếp không cần đọc lại toàn bộ inventory.
+- Register chính khớp: Equinox dùng `cô–em/các em` với học sinh và dùng cách lịch sự trung tính với nhân viên/người lạ; Rudolf/Air Groove/Brian dùng baseline `tôi–cậu` khi nói ngang hàng. Không để cách người phụ nữ gọi Equinox là “cô” biến thành tự xưng của Equinox với người lớn.
+- Endpoint rõ: nhóm vừa ăn kem xong và tiếp tục đi trong siêu thị; xe thực phẩm gần đầy nhưng chưa thanh toán, phần hàng phi thực phẩm chưa xong, cả bốn chưa rời trung tâm hoặc trở về căn hộ.
 
 ## Những phần hiện không thấy lỗi canon chắc chắn
 

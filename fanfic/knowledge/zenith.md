@@ -1,6 +1,6 @@
 # Zenith — Registry kiến thức trong fanfic Uma
 
-**Phạm vi:** những gì Zenith đã trực tiếp biết qua quan hệ gia đình, chuẩn bị trước tại căn hộ, cuộc gọi video giờ trưa và lần xuất hiện trực tiếp tại buffet Shibuya tối 2026-04-01. File này không thay thế canon OU về danh tính hoặc lịch sử Zenith.
+**Phạm vi:** những gì Zenith đã trực tiếp biết qua quan hệ gia đình, chuẩn bị trước tại căn hộ, cuộc gọi video giờ trưa và lần xuất hiện trực tiếp tại buffet Shibuya tối 2026-04-01. Endpoint truyện đã sang sáng 2026-04-02 nhưng chưa có kênh truyền mới cho Zenith. File này không thay thế canon OU về danh tính hoặc lịch sử Zenith.
 
 | Lĩnh vực | Trạng thái tại cuối cuộc gọi trưa 2026-04-01 |
 |---|---|
@@ -22,8 +22,9 @@
 | Buổi đánh giá chiều 2026-04-01 / Track 7 | Không tự động biết báo cáo kỹ thuật đầy đủ; chỉ chuyển phần nào thành KNOWN nếu nó được nói trực tiếp trong cảnh buffet hoặc một kênh khác được prose xác lập |
 | Lời mời Rudolf/Air Groove/Brian ở căn hộ Shibuya | PARTIALLY_KNOWN: Zenith trực tiếp gặp cả ba tại buffet Shibuya khi họ đi cùng Equinox; mục đích, thời lượng bốn đêm và thủ tục chỉ được coi là KNOWN nếu lời thoại buffet thực sự nói rõ |
 | Buffet Shibuya | KNOWN trực tiếp: Zenith xuất hiện ngoài màn hình, ăn cùng Equinox/Rudolf/Air Groove/Brian rồi rời về The Beyond Valley |
-| Không gian và sinh hoạt tại căn hộ sau buffet | UNKNOWN tại endpoint: Zenith đã rời trước khi bốn người vào căn hộ; không mặc định biết phân chỗ, quy tắc sinh hoạt, việc giặt đồ hoặc kế hoạch sáng 02/04 |
+| Không gian và sinh hoạt tại căn hộ sau buffet | UNKNOWN tại endpoint: Zenith đã rời trước khi bốn người vào căn hộ; không mặc định biết phân chỗ, quy tắc sinh hoạt, việc giặt đồ hoặc diễn biến sáng 02/04 |
 | Tám ván cờ Equinox–Rudolf | UNKNOWN tại endpoint: không có mặt và chưa có cảnh được kể lại |
+| Kiểm tra/mua sắm/ăn kem sáng 2026-04-02 | UNKNOWN tại endpoint: không có mặt và chưa có cảnh truyền đạt hợp lệ |
 
 ## Guardrail
 
@@ -31,4 +32,4 @@
 - Việc Zenith đoán đúng thói quen Equinox hoặc đã chuẩn bị vật dụng trong căn hộ không tự mở rộng thành quyền biết mọi dữ liệu tổ chức.
 - Việc thấy cả lớp trong cuộc gọi không làm Zenith biết đầy đủ hồ sơ, phiếu bầu, nội dung buổi hỏi đáp sáng hoặc khảo sát Izu. Chỉ các câu được nói trực tiếp trong cuộc gọi mới có kênh truyền.
 - Việc Zenith gặp nhóm tại buffet xóa trạng thái “chưa biết ba học sinh đã tới Shibuya”, nhưng không mở quyền biết toàn bộ diễn biến trước đó ở Tracen hoặc phần xảy ra trong căn hộ sau khi cô rời đi.
-- Không cho Zenith phản ứng với tám ván cờ, kế hoạch kiểm tra 08:00, việc đi mua đồ 08:30 hoặc các quyết định riêng trong căn hộ trước khi có cảnh truyền đạt hợp lệ.
+- Không cho Zenith phản ứng với tám ván cờ, kết quả kiểm tra 08:00, chuyến mua sắm, hiểu nhầm “mẹ và ba con”, phần ăn kem hoặc các quyết định riêng trong căn hộ trước khi có cảnh truyền đạt hợp lệ.

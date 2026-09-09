@@ -7,7 +7,7 @@
 - **Số đo ba vòng (ngực–eo–hông):** **210–118–200 cm** — STORY-ESTABLISHED / LOCKED
 - **Cơ quan:** Tracen Academy
 - **Vai trò hiện tại:** giáo viên Lịch sử + trainer chính thức + giáo viên chủ nhiệm Senior 3-A, với quyền trong từng phạm vi chuyên môn — STORY-ESTABLISHED / LOCKED
-- **Trạng thái tại điểm prose hiện tại:** buổi tối 2026-04-01 tại căn hộ tầng 39 Park Court Shibuya The Tower; sau hành trình từ Tracen, buffet với Zenith và việc bắt đầu lưu trú, Equinox đã thắng Rudolf tám ván cờ liên tiếp. Bộ cờ vua đã được cất, ba bộ shogi/cờ vây/cờ tướng vẫn còn trên bàn — STORY-ESTABLISHED / LOCKED
+- **Trạng thái tại điểm prose hiện tại:** sáng 2026-04-02 tại siêu thị trong một trung tâm thương mại gần căn hộ Shibuya; sau kiểm tra trạng thái buổi sáng, Equinox cùng Rudolf/Air Groove/Brian đã đi bộ tới mua thực phẩm, nghỉ ăn kem và vừa tiếp tục mua sắm. Xe gần đầy nhưng chưa thanh toán; nhóm chưa mua xong phần hàng phi thực phẩm, chưa rời trung tâm và chưa về căn hộ — STORY-ESTABLISHED / LOCKED
 - **Môn giảng dạy/đã giảng thử:** Lịch sử — STORY-ESTABLISHED / LOCKED
 - **Chức danh hợp đồng chính xác:** TBD; không ảnh hưởng kết quả tuyển dụng đã chốt
 
@@ -122,11 +122,20 @@ Equinox là Uma nhưng **không được định hướng làm racer thi đấu*
 ## Đêm đầu lưu trú và tám ván cờ — 2026-04-01
 
 - Cho ba học sinh quyền ra vào tạm thời bằng thẻ dự phòng/mật khẩu, thống nhất ranh giới riêng tư và chấp nhận phải mặc đồ tại khu vực sinh hoạt chung trong thời gian có học sinh ở cùng.
-- Chuẩn bị phần theo dõi phục hồi và kế hoạch kiểm tra 08:00/mua đồ 08:30 sáng 2026-04-02; hai mốc này chưa xảy ra.
+- Chuẩn bị phần theo dõi phục hồi và kế hoạch kiểm tra 08:00/mua đồ 08:30 sáng 2026-04-02; hai phần được thực hiện ở sự kiện sáng hôm sau.
 - Sở hữu bốn bộ cờ cao cấp: cờ vua hộp platinum với bàn kính/quân đá quý gothic; shogi, cờ vây và cờ tướng dùng hộp, bàn và quân gỗ quý.
 - Chơi tám ván cờ nhanh năm phút mỗi bên với Rudolf và thắng 8–0. Tám kết thúc lần lượt là discovered checkmate, double checkmate, castling checkmate, promotion mate, rook underpromotion mate, knight underpromotion mate, en passant checkmate và en passant double-check mate.
 - Không dừng tay hoặc đổi quân đã chọn trong lượt của mình. Ở ván cuối dùng 24 giây, trong khi Rudolf gần hết năm phút và vẫn không đạt mục tiêu buộc Equinox phải dừng.
 - Cất đủ bộ cờ vua cùng Rudolf/Air Groove/Brian. Endpoint nằm trước lúc chọn trò tiếp theo; ba hộp cờ còn lại chưa được mở.
+
+## Kiểm tra phục hồi và mua sắm Shibuya — sáng 2026-04-02
+
+- Hoàn tất phần kiểm tra trạng thái buổi sáng trước khi ra ngoài. Dữ liệu không cho thấy bất thường cấp tính; ghi nhận một dấu căng rất nhỏ ở chân phải Air Groove trong căn hộ và không còn thấy dấu đó ở bước đầu sau khoảng nghỉ tại quán kem.
+- Đi bộ cùng Rudolf/Air Groove/Brian tới trung tâm thương mại gần căn hộ, đứng phía ngoài để chắn dòng người đông và tự đẩy xe hàng gần đầy mà tốc độ không thay đổi đáng kể.
+- Cho ba học sinh tự chọn thực phẩm với giới hạn phải vừa tủ/tủ lạnh và không được lấy đồ có cồn hoặc sản phẩm dành cho người lớn; không đặt trần ngân sách thực tế. Tự giữ cùng giới hạn không mua rượu trong chuyến đi với học sinh.
+- Xác nhận thích snack đậu xanh nước dừa, lấy ba túi và nhớ cụ thể sức chứa còn lại của tủ lạnh/tủ thực phẩm. Không biến sự dễ dãi khi mua đồ thành việc Air Groove nắm quyền quyết định tài chính thay cô ấy.
+- Không sửa lời một phụ nữ lớn tuổi gọi ba học sinh là “các con nhà cô” vì hiểu nhầm không gây hại và người phụ nữ đang vui. Đây không phải việc Equinox tự nhận vai phụ huynh.
+- Chọn kem vani, trả tiền cả bốn phần rồi bắt đầu lơ mơ khi ngồi nghỉ. Sau khi ăn xong và phân loại rác, tiếp tục đẩy xe vào dòng khách; xe thực phẩm chưa thanh toán và phần hàng phi thực phẩm còn ở phía sau.
 
 ## Nguyên tắc nghề nghiệp đã thể hiện
 - Sức khỏe và medical clearance đứng trên race, Winning Live và sức ép khán giả.

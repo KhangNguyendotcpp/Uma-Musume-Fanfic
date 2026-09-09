@@ -1,6 +1,6 @@
 # Air Groove — Knowledge Registry tại điểm prose hiện tại
 
-**Mốc:** buổi tối 2026-04-01, ngay sau khi Air Groove cùng Equinox, Rudolf và Brian cất xong bộ cờ vua tại căn hộ Shibuya.
+**Mốc:** sáng 2026-04-02, ngay sau khi Air Groove cùng Equinox, Rudolf và Brian ăn kem xong rồi tiếp tục mua sắm trong siêu thị tại Shibuya.
 
 ## KNOWN — có nguồn trực tiếp
 
@@ -42,9 +42,14 @@
 - Air Groove đã vào căn hộ tầng 39 Park Court Shibuya The Tower và trực tiếp thấy bố cục gồm phòng khách, bếp, phòng ăn, phòng làm việc, thư viện nhỏ, hai phòng ngủ nhìn toàn cảnh, ba phòng tắm, hai phòng thay đồ và ban công có hồ bơi vô cực.
 - Air Groove nhận thẻ ra vào dự phòng/mật khẩu cho kỳ lưu trú, biết ranh giới không gian riêng và quy tắc Equinox phải mặc đồ trong khu vực sinh hoạt chung. Quyền truy cập tạm thời không bao gồm hồ sơ Tracen hoặc thiết bị riêng chưa được cho phép.
 - Air Groove chủ động xử lý lượt giặt đầu trong căn hộ có máy giặt nhưng không có máy sấy và theo dõi danh sách việc nhà. Điều này không biến cô thành người quản lý toàn bộ sinh hoạt của Equinox.
-- Air Groove trực tiếp biết kế hoạch sáng 02/04: kiểm tra trạng thái lúc 08:00 và đi mua đồ lúc 08:30; hai mốc chưa xảy ra.
+- Air Groove trực tiếp biết kế hoạch sáng 02/04: kiểm tra trạng thái lúc 08:00 và đi mua đồ lúc 08:30. Hai phần đã được thực hiện vào sáng 02/04; giờ rời nhà chính xác chưa được repo khóa.
 - Air Groove trực tiếp quan sát tám ván cờ giữa Rudolf và Equinox, biết thời gian năm phút mỗi bên, tỷ số 0–8, thứ tự tám dạng chiếu hết và mục tiêu cuối của Rudolf là buộc Equinox dừng tay. Cô biết Equinox không dừng, dùng 24 giây trong ván cuối và cả hai nhớ được tám ván.
 - Air Groove giữ tờ danh sách mua sắm có ghi tỷ số thay vì xé bỏ; cô cùng cả nhóm kiểm đủ 32 quân và cất bộ cờ vua. Cô biết ba bộ shogi/cờ vây/cờ tướng còn nguyên trên bàn tại endpoint.
+- Air Groove trực tiếp tham gia kiểm tra trạng thái buổi sáng. Cô biết dữ liệu không cho thấy bất thường cấp tính, Equinox đã quan sát một dấu căng rất nhỏ ở chân phải mình trong căn hộ và dấu ấy không còn xuất hiện ở bước đầu sau khoảng nghỉ ăn kem.
+- Air Groove trực tiếp đi bộ cùng nhóm tới trung tâm thương mại, giữ danh sách, kiểm độ tươi/hạn dùng/sức chứa và sắp xe. Cô biết Equinox cho phép tự chọn đồ trong giới hạn lưu trữ/độ tuổi, không đặt trần ngân sách thực tế và không mua rượu trong chuyến đi.
+- Air Groove trực tiếp thấy Equinox lấy ba túi snack đậu xanh nước dừa, khẳng định đó là món mình thích và nói hàng ở nhà đã hết. Cô biết Equinox nhớ không gian còn lại trong tủ lạnh/tủ khô, nhưng không được nâng lời nhớ này thành một phép kiểm kho độc lập của chính Air Groove.
+- Air Groove trực tiếp chứng kiến người ngoài hiểu nhầm ba học sinh là con của Equinox và việc Equinox không sửa lời người phụ nữ lớn tuổi. Cô biết đây là lựa chọn tránh giải thích một hiểu nhầm vô hại, không phải thay đổi quan hệ pháp lý hoặc nghề nghiệp.
+- Air Groove trực tiếp nghỉ ăn kem cùng nhóm; biết Equinox/Rudolf/mình/Brian lần lượt chọn vani/matcha/dâu-sữa/chocolate đen và Equinox thanh toán. Cô biết xe thực phẩm chưa thanh toán, phần hàng phi thực phẩm còn ở phía sau và nhóm đã tiếp tục đi trong siêu thị.
 
 Khi lớp tách thành nhiều nhóm nói chuyện chồng lên nhau, registry **không** mặc định Air Groove nghe trọn mọi trao đổi Opera–Fuji, Brian–Laurel, Hishi–Taishin, Gold City–Gentildonna hoặc các nhóm khác chỉ vì cô ở cùng phòng. Chỉ chuyển từng nội dung sang `KNOWN` nếu prose xác lập cô tham gia, chú ý hoặc ở vị trí nghe rõ.
 
@@ -59,6 +64,7 @@ Khi lớp tách thành nhiều nhóm nói chuyện chồng lên nhau, registry *
 - Việc Equinox thay đồ lót trong phòng thay đồ trainer.
 - Chi tiết Equinox và Zenith trao đổi riêng trước/sau phần Zenith trực tiếp ở buffet, nếu không được nói trước mặt Air Groove.
 - Những gì Zenith làm hoặc biết sau khi đã rời buffet; Air Groove không thể suy ngược rằng Zenith thấy phần căn hộ hay tám ván cờ.
+- Việc ba bộ shogi/cờ vây/cờ tướng có được chơi sau tám ván cờ hay không, nếu phần prose không trực tiếp xác lập.
 - Bất kỳ thông tin nào chỉ xuất hiện trong lời kể khi Air Groove không ở trong cảnh.
 
 Air Groove chỉ chuyển một mục từ `UNKNOWN` sang `KNOWN` khi prose xác lập rõ cô được kể lại, đọc nguồn hợp lệ hoặc tự suy luận từ dữ kiện thật sự có. Không dùng câu “có lẽ cô bé đã nghe ở đâu đó” để sửa ngược continuity.

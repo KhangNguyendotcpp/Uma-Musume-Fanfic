@@ -2,7 +2,7 @@
 
 > **CANON GUARD — KHÔNG ĐƯỢC HẠ CẤP TRẠNG THÁI:** Equinox **đã vượt qua toàn bộ quy trình tuyển dụng tăng tốc và đã chính thức trở thành cả giáo viên Lịch sử lẫn trainer của Tracen Academy trong ngày 2026-03-09**. Không được viết hoặc suy luận rằng cô vẫn chỉ là ứng viên, mới qua vòng một, chưa đậu, hoặc phải chờ đến 2026-03-23 mới trở thành staff.
 
-**Mốc hiện tại của prose:** **buổi tối 2026-04-01, ngay sau khi Equinox, Rudolf, Air Groove và Narita Brian cất xong bộ cờ vua tại căn hộ tầng 39 Park Court Shibuya The Tower**. Sau khi rời Tracen, nhóm đã đi tàu tới Shibuya, xử lý một vụ sàm sỡ nhằm vào Air Groove, ăn buffet cùng Zenith xuất hiện trực tiếp, vào căn hộ, thống nhất quy tắc lưu trú và hoàn tất tám ván cờ Equinox thắng 8–0. Hộp cờ vua đã đóng; ba hộp shogi, cờ vây và cờ tướng vẫn nằm trên bàn. Track 7 vẫn bị khóa, Team Zenith chưa được chứng nhận, khảo sát Izu chưa bắt đầu và ngày Zenith tới thăm Tracen vẫn `TBD`. Những gì ghi là “đã xảy ra” trong file này là `STORY-ESTABLISHED / LOCKED`.
+**Mốc hiện tại của prose:** **sáng 2026-04-02, ngay sau khi Equinox, Rudolf, Air Groove và Narita Brian ăn kem xong rồi tiếp tục đi trong siêu thị tại một trung tâm thương mại gần căn hộ Shibuya**. Buổi kiểm tra trạng thái sáng đã diễn ra, nhóm đã đi bộ từ Park Court Shibuya The Tower tới trung tâm, chất gần đầy một xe thực phẩm và nghỉ chân ở quán kem. Họ chưa thanh toán xe hàng, chưa mua xong phần hàng phi thực phẩm, chưa rời trung tâm và chưa trở về căn hộ. Track 7 vẫn bị khóa, Team Zenith chưa được chứng nhận, khảo sát Izu chưa bắt đầu và ngày Zenith tới thăm Tracen vẫn `TBD`. Những gì ghi là “đã xảy ra” trong file này là `STORY-ESTABLISHED / LOCKED`.
 
 ## 1. Trạng thái nghề nghiệp của Equinox
 
@@ -243,13 +243,25 @@ Các điều sau là kế hoạch tương lai, **không được viết như ký
 
 - Căn hộ của Equinox nằm ở tầng 39 Park Court Shibuya The Tower, có phòng khách, bếp lớn, phòng ăn, phòng làm việc, thư viện nhỏ, hai phòng ngủ nhìn toàn cảnh, ba phòng tắm, hai phòng thay đồ và ban công lớn với hồ bơi vô cực.
 - Ba học sinh nhận thẻ ra vào dự phòng/mật khẩu cho kỳ lưu trú. Equinox phải mặc đồ ở khu vực sinh hoạt chung. Air Groove chủ động xử lý lượt giặt đầu và danh sách việc nhà; Rudolf làm việc hội học sinh/đọc ở thư viện; Brian giãn cơ, xem replay và chọn sofa bed; Equinox kiểm tra phục hồi, thiết bị cùng ranh giới riêng tư.
-- Kế hoạch sáng hôm sau là kiểm tra trạng thái lúc 08:00 và đi mua đồ lúc 08:30; hai mốc chưa xảy ra.
+- Kế hoạch sáng hôm sau là kiểm tra trạng thái lúc 08:00 và đi mua đồ lúc 08:30; cả hai phần đã được thực hiện trong nhịp sáng 2026-04-02, với giờ rời nhà chính xác vẫn `TBD`.
 - Rudolf chọn bộ cờ vua trong bốn bộ cờ cao cấp của Equinox. Bộ cờ vua có hộp platinum, bàn kính và quân đá quý gothic; ba bộ shogi/cờ vây/cờ tướng dùng hộp, bàn và quân gỗ quý.
 - Equinox thắng Rudolf tám ván liên tiếp bằng tám dạng kết thúc: discovered checkmate, double checkmate, castling checkmate, promotion mate, rook underpromotion mate, knight underpromotion mate, en passant checkmate và en passant double-check mate.
 - Tỷ số **Rudolf 0 — Equinox 8**. Rudolf không đạt mục tiêu buộc Equinox dừng tay ở ván cuối nhưng chuyển từ choáng/không phục sang kính trọng trực tiếp năng lực của cô ấy và hẹn lần sau sẽ buộc cô ấy dừng.
 - Chi tiết sự kiện và ranh giới kiến thức nằm tại `fanfic/events/2026-04-01-shibuya-transit-buffet-apartment-chess.md`.
 
-## 15. Quan niệm cơ thể và giới tính đã khóa
+## 15. Sáng 2026-04-02: kiểm tra và mua sắm tại Shibuya
+
+- Buổi kiểm tra trạng thái sáng đã diễn ra trước lúc ra ngoài. Dữ liệu không cho thấy bất thường cấp tính; Equinox chỉ ghi nhận một dấu căng rất nhỏ ở chân phải Air Groove trong căn hộ.
+- Equinox, Rudolf, Air Groove và Brian đi bộ vài phút tới một trung tâm thương mại gần căn hộ rồi xuống siêu thị tầng hầm. Tên trung tâm và giờ đến chính xác vẫn `TBD`.
+- Equinox đẩy xe; ba học sinh được tự chọn đồ miễn mọi thứ vừa không gian lưu trữ và không gồm đồ có cồn/sản phẩm người lớn. Không có trần ngân sách thực tế được đặt ra.
+- Nhóm lấy thực phẩm qua nhiều khu tới khi xe gần đầy. Air Groove giữ danh sách, kiểm chất lượng/hạn dùng và sắp hàng; Equinox vẫn là người quyết định, chịu chi phí và đẩy xe. Xe thực phẩm chưa được thanh toán tại endpoint.
+- Equinox xác nhận thích snack đậu xanh nước dừa và lấy ba túi. Cô nhớ không gian lưu trữ còn đủ cho lượng đã chọn. Không ai mua rượu.
+- Một phụ nữ lớn tuổi hiểu nhầm ba học sinh là con của Equinox; cô ấy không sửa vì việc đó không gây hại và người phụ nữ đang vui. Đây chỉ là hiểu nhầm từ góc nhìn người ngoài, không thay quan hệ giáo viên–học sinh.
+- Sau gần một giờ, nhóm nghỉ ở quán kem trong siêu thị. Equinox/Rudolf/Air Groove/Brian lần lượt chọn vani/matcha/dâu-sữa/chocolate đen; Equinox trả tiền cả bốn phần.
+- Sau khi ăn, không ai báo đau tăng và dấu căng rất nhỏ ở bước chân phải đầu tiên của Air Groove không còn xuất hiện. Cả bốn đứng dậy tiếp tục mua sắm; xe thực phẩm chưa thanh toán và phần hàng phi thực phẩm còn ở phía sau.
+- Chi tiết đầy đủ nằm tại `fanfic/events/2026-04-02-shibuya-morning-shopping-ice-cream.md`.
+
+## 16. Quan niệm cơ thể và giới tính đã khóa
 
 - Equinox không xem giới tính là trục cốt lõi giữ danh tính. Cơ thể, hormone, quần áo hoặc thói quen chăm sóc có thể thay đổi trải nghiệm nhưng không tự thay giá trị quan, tính cách hay người cô yêu.
 - Việc chăm tóc, dưỡng da, mặc đồ nữ hoặc nhận ra cơ thể hiện tại đẹp không quyết định xu hướng tính dục hay buộc cô vào một vai giới cố định.
@@ -258,8 +270,8 @@ Các điều sau là kế hoạch tương lai, **không được viết như ký
 - Hôn nhân khiến giới tính được gọi tên rõ hơn trong quan hệ, nhưng đối tượng Equinox yêu là Zenith chứ không phải một danh mục giới tính hay vai “chồng/vợ” được viết sẵn.
 - Equinox thoải mái với khỏa thân trong không gian riêng và ngủ khỏa thân. Không được biến sự thoải mái này thành quyền để nhân vật khác xâm phạm riêng tư hoặc thành trò phản ứng tập thể.
 
-## 16. Điểm nối cảnh
+## 17. Điểm nối cảnh
 
-Điểm tiếp tục trực tiếp là **ngay sau khi Equinox, Rudolf, Air Groove và Brian cất xong bộ cờ vua tại căn hộ Shibuya trong đêm đầu lưu trú 2026-04-01**. Hộp platinum đã khóa và được đẩy sang một bên; ba hộp shogi, cờ vây và cờ tướng vẫn còn nguyên trên bàn, chưa có trò tiếp theo được chọn. Kế hoạch kiểm tra 08:00 và mua đồ 08:30 ngày 2026-04-02 chưa xảy ra. Track 7 vẫn bị khóa; Team Zenith chưa được chứng nhận; khảo sát Izu chưa được xử lý; ngày Zenith tới thăm Tracen vẫn `TBD`. Ban cán sự vẫn là **Sirius Symboli / Hishi Amazon / T.M. Opera O / Eishin Flash** và Special Week không xuất hiện trước ngày nhập học 2026-04-06.
+Điểm tiếp tục trực tiếp là **ngay sau khi Equinox, Rudolf, Air Groove và Brian ăn kem xong, đứng dậy rồi tiếp tục đi trong siêu thị sáng 2026-04-02**. Equinox đang đẩy xe thực phẩm gần đầy; hàng chưa thanh toán, nhóm chưa rời trung tâm thương mại hoặc trở về căn hộ, và phần mua sắm phi thực phẩm chưa diễn ra. Repo chưa xác lập việc ba bộ shogi/cờ vây/cờ tướng có được chơi sau tám ván cờ hay không. Track 7 vẫn bị khóa; Team Zenith chưa được chứng nhận; khảo sát Izu chưa được xử lý; ngày Zenith tới thăm Tracen vẫn `TBD`. Ban cán sự vẫn là **Sirius Symboli / Hishi Amazon / T.M. Opera O / Eishin Flash** và Special Week không xuất hiện trước ngày nhập học 2026-04-06.
 
 Không được quay lại trạng thái “ứng viên” hay buộc Equinox thi lại. Không mặc định nhân vật biết một sự kiện đã qua nếu họ không được xác lập là người tham dự/người được kể lại; xem `fanfic/style/prohibited_tendencies.md`, `fanfic/knowledge/air-groove.md` và `fanfic/knowledge/zenith.md`.
