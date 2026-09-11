@@ -117,7 +117,10 @@ Equinox là Uma nhưng **không được định hướng làm racer thi đấu*
 
 - Đi cùng Rudolf/Air Groove/Brian theo tuyến Keiō từ Fuchu, đổi tại Meidaimae tới Shibuya.
 - Trong toa đông, phát hiện Air Groove bị sàm sỡ, khống chế người gây ra và bàn giao cho phía đường sắt/cảnh sát. Để Air Groove tự quyết định việc tiếp tục hành trình; cô bé chọn đi tiếp.
-- Dùng buffet cùng ba học sinh và Zenith khi vợ bất ngờ xuất hiện trực tiếp. Sau bữa tối, Zenith rời về The Beyond Valley; bốn người còn lại tới căn hộ.
+- Dùng buffet cùng ba học sinh và Zenith khi vợ bất ngờ xuất hiện trực tiếp. Sau bữa buffet, Zenith rời về The Beyond Valley; bốn người còn lại tới căn hộ.
+- Khoảng 17:10 trên đường đi bộ về, cho ba học sinh xem nhóm chat nơi Zenith, Elaina, Azusa và Beelzebub gửi/so sánh bầu trời phía nhà với ảnh Shibuya; gửi ảnh nhóm và crop riêng từng em sau khi xin phép, với phạm vi chỉ giữ trong gia đình.
+- Chỉ trả lời nơi chụp là `gần nhà` và `rất xa`, không cung cấp địa danh hoặc múi giờ. Gia đình không dùng tên The Beyond trong chat; Equinox không xác nhận bất kỳ suy đoán nào của Rudolf, Air Groove hoặc Brian về quê nhà.
+- Báo `Dưới sảnh` rồi `Rồi` trong nhóm gia đình khi bốn người tới tòa nhà/cửa căn hộ. Cảnh đường về kết thúc lúc mở cửa cho ba học sinh bước vào.
 
 ## Đêm đầu lưu trú và tám ván cờ — 2026-04-01
 

@@ -98,6 +98,10 @@
 - Tuyến di chuyển khớp setup đã có: Fuchu → Meidaimae bằng Keiō Line, đổi sang Keiō Inokashira Line → Shibuya. Không được quay lại endpoint “chưa lên tàu/chưa tới Shibuya”.
 - Vụ sàm sỡ chỉ khóa việc Air Groove bị nhắm tới, Equinox khống chế người gây ra, phía đường sắt/cảnh sát tiếp nhận và Air Groove tự chọn tiếp tục. Không tự thêm bản án, kết quả điều tra hoặc chấn thương.
 - Zenith trực tiếp xuất hiện tại buffet, sau đó rời về The Beyond Valley trước khi bốn người vào căn hộ. Vì vậy cô biết phần mình dự nhưng không tự biết bố trí lưu trú, sinh hoạt hoặc tám ván cờ.
+- Cảnh chat bầu trời khoảng 17:10 chỉ dùng bốn người nhà có voice OU đã khóa: Zenith, Elaina, Azusa và Beelzebub. Haise/Takiyama vẫn mất ý thức; thế hệ con không xuất hiện hoặc bị lôi vào thoại khi chưa có voice canon phù hợp.
+- Tên `The Beyond` không xuất hiện trong phần tin nhắn mà ba học sinh đọc. Các em chỉ thấy ảnh từ `bên nhà/gần nhà/rất xa`; sự tương đồng của bầu trời tạo nghi ngờ nhưng không đủ cho kết luận ngoài thế giới. Không được hồi tố Air Groove biết nhãn `The Beyond Valley` chỉ vì narrator/repo dùng tên đó.
+- Việc gửi ảnh có consent hai bước: ảnh nhóm được cả ba đồng ý; crop riêng chỉ lấy từ ảnh đã cho phép và được xác nhận giữ trong gia đình. Không nâng thành quyền gửi ảnh mới hoặc đăng công khai.
+- Endpoint riêng của nhịp đường về là lúc Equinox nhắn đã về rồi mở cửa cho ba học sinh bước vào. Zenith/Azusa/Beelzebub/Elaina không tự biết phần trong căn hộ sau đó chỉ vì còn ở cùng group chat.
 - Căn hộ khóa ở tầng 39 Park Court Shibuya The Tower với hai phòng ngủ, ba phòng tắm, hai phòng thay đồ, máy giặt không có máy sấy, ban công/hồ bơi vô cực cùng các không gian đã ghi trong event. Không tự thêm phòng hoặc tiện ích mới chỉ để phục vụ cảnh.
 - Quy tắc Equinox mặc đồ tại khu vực sinh hoạt chung bảo vệ ranh giới của ba học sinh; không dùng nó làm cớ xóa quyền riêng tư của Equinox trong phòng ngủ/phòng tắm/phòng thay đồ.
 - Bốn bộ cờ và vật liệu đã khóa: cờ vua hộp platinum, bàn kính, quân đá quý gothic; shogi/cờ vây/cờ tướng dùng hộp, bàn và quân gỗ quý.

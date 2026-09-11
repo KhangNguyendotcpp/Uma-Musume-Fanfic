@@ -38,7 +38,10 @@
 - Air Groove biết Equinox vẫn chưa báo Zenith về Track 7 hoặc việc ba học sinh sẽ tới căn hộ; cô trực tiếp phản ứng khi Tazuna nhắc Equinox phải báo trước khi về nhà.
 - Air Groove trực tiếp thấy Equinox vẫn mặc lớp đồ công sở từ sáng. Cô **không biết** Equinox đã thay đồ lót hoặc loại đồ lót bên dưới.
 - Air Groove trực tiếp trải qua chuyến tàu từ Fuchu qua Meidaimae tới Shibuya. Cô biết mình bị sàm sỡ trong toa đông, Equinox đã khống chế người gây ra và bàn giao cho phía đường sắt/cảnh sát; cô tự chọn tiếp tục hành trình.
-- Air Groove trực tiếp ăn buffet cùng Equinox/Rudolf/Brian và gặp Zenith xuất hiện ngoài màn hình lần đầu. Cô biết Zenith rời về The Beyond Valley trước khi nhóm vào căn hộ; việc này không tự trao cho Air Groove dữ kiện OU khác chưa được kể.
+- Air Groove trực tiếp ăn buffet cùng Equinox/Rudolf/Brian và gặp Zenith xuất hiện ngoài màn hình lần đầu. Cô biết Zenith rời nhóm trước khi họ vào căn hộ, nhưng **không biết tên `The Beyond Valley` hoặc địa điểm thật mà Zenith trở về**; việc gặp Zenith không tự trao cho Air Groove dữ kiện OU khác chưa được kể.
+- Khoảng 17:10 trên đường đi bộ về, Air Groove trực tiếp xem nhóm chat gia đình trên màn hình Equinox. Cô thấy tin nhắn/ảnh từ Zenith, Elaina, Azusa và Beelzebub; thấy ảnh gốc cùng ảnh ghép so sánh bầu trời phía nhà với Shibuya; biết Equinox mô tả nơi đó là `gần nhà` và `rất xa` nhưng không cho địa danh hoặc câu trả lời về múi giờ.
+- Air Groove đồng ý cho Equinox gửi ảnh nhóm và crop từ ảnh gốc vào phạm vi gia đình. Đoạn chat không cho cô dữ kiện để xác định những thành viên khác đang ở đâu, đang làm gì hoặc vì sao không nhắn.
+- Air Groove chỉ nghi ngờ Equinox giấu một phần quê nhà. Cô giữ các giả thuyết đời thường và không kết luận Equinox đến từ thế giới khác; cô không hình dung được khoảng cách thật giữa Shibuya và nơi trong ảnh.
 - Air Groove đã vào căn hộ tầng 39 Park Court Shibuya The Tower và trực tiếp thấy bố cục gồm phòng khách, bếp, phòng ăn, phòng làm việc, thư viện nhỏ, hai phòng ngủ nhìn toàn cảnh, ba phòng tắm, hai phòng thay đồ và ban công có hồ bơi vô cực.
 - Air Groove nhận thẻ ra vào dự phòng/mật khẩu cho kỳ lưu trú, biết ranh giới không gian riêng và quy tắc Equinox phải mặc đồ trong khu vực sinh hoạt chung. Quyền truy cập tạm thời không bao gồm hồ sơ Tracen hoặc thiết bị riêng chưa được cho phép.
 - Air Groove chủ động xử lý lượt giặt đầu trong căn hộ có máy giặt nhưng không có máy sấy và theo dõi danh sách việc nhà. Điều này không biến cô thành người quản lý toàn bộ sinh hoạt của Equinox.
@@ -64,6 +67,7 @@ Khi lớp tách thành nhiều nhóm nói chuyện chồng lên nhau, registry *
 - Việc Equinox thay đồ lót trong phòng thay đồ trainer.
 - Chi tiết Equinox và Zenith trao đổi riêng trước/sau phần Zenith trực tiếp ở buffet, nếu không được nói trước mặt Air Groove.
 - Những gì Zenith làm hoặc biết sau khi đã rời buffet; Air Groove không thể suy ngược rằng Zenith thấy phần căn hộ hay tám ván cờ.
+- Tên `The Beyond`, `The Beyond Valley`, vị trí/bản chất OU của nơi chụp ảnh, khoảng cách thật giữa hai nơi và nguyên nhân vật lý/siêu hình khiến hai bầu trời tương đồng.
 - Việc ba bộ shogi/cờ vây/cờ tướng có được chơi sau tám ván cờ hay không, nếu phần prose không trực tiếp xác lập.
 - Bất kỳ thông tin nào chỉ xuất hiện trong lời kể khi Air Groove không ở trong cảnh.
 

@@ -233,10 +233,13 @@ Các điều sau là kế hoạch tương lai, **không được viết như ký
 - Ở endpoint riêng của cảnh cổng, Zenith chưa biết buổi đánh giá, thiệt hại Track 7, lời mời lưu trú hoặc việc bốn người đã rời trường. Sau đó cô trực tiếp xuất hiện tại buffet Shibuya; phạm vi biết mới được khóa riêng trong mục 13 và `fanfic/knowledge/zenith.md`.
 - Sự kiện và ranh giới kiến thức đầy đủ nằm tại `fanfic/events/2026-04-01-tracen-gate-departure.md`.
 
-## 13. Hành trình tới Shibuya và bữa buffet
+## 13. Hành trình tới Shibuya, bữa buffet và đường về
 
 - Nhóm đi tuyến Keiō từ Fuchu, đổi tại Meidaimae rồi tới Shibuya. Trong toa đông, Air Groove bị sàm sỡ; Equinox khống chế người gây ra và bàn giao cho phía đường sắt/cảnh sát. Air Groove chọn tiếp tục hành trình.
 - Cả bốn ăn buffet tại khu thương mại gần Shibuya Station. Zenith bất ngờ xuất hiện trực tiếp, nhập bữa và gặp Rudolf/Air Groove/Brian ngoài màn hình lần đầu, sau đó rời về The Beyond Valley trước khi nhóm tới căn hộ.
+- Khoảng 17:10 trên đường đi bộ về, bốn người chụp ảnh dưới bầu trời Shibuya. Equinox cho ba học sinh xem nhóm chat gia đình nơi Zenith, Elaina, Azusa và Beelzebub gửi/so sánh ảnh hoàng hôn phía nhà với ảnh Shibuya; Equinox cũng gửi ảnh nhóm và các crop được ba em cho phép giữ nội bộ.
+- Taki và Haise vẫn mất ý thức nên không nhắn; thế hệ con không xuất hiện hoặc được nhắc tới. Tin nhắn không gọi tên The Beyond. Rudolf, Air Groove và Brian chỉ biết ảnh đến từ một nơi gia đình Equinox gọi là `bên nhà/gần nhà/rất xa`; cả ba nghi ngờ cô ấy giấu một phần quê nhà nhưng không kết luận nguồn gốc ngoài thế giới hoặc hình dung đúng khoảng cách.
+- Equinox báo với gia đình khi nhóm ở sảnh và khi đã tới cửa. Cảnh đường về dừng lúc cô ấy mở cửa căn hộ tầng 39 cho Rudolf, Air Groove và Brian bước vào; mọi diễn biến sinh hoạt bên trong xảy ra sau endpoint này.
 - Việc Zenith xuất hiện ở Shibuya không phải chuyến thăm Tracen. Ngày tới trường, đăng ký khách và tiếp đón vẫn chưa được chốt.
 
 ## 14. Đêm đầu tại căn hộ và tám ván cờ
