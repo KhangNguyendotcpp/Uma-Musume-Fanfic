@@ -1,6 +1,6 @@
 # Air Groove — Knowledge Registry tại điểm prose hiện tại
 
-**Mốc:** tối 2026-04-02, ngay sau khi Air Groove cùng Equinox, Rudolf và Brian hoàn tất bữa tối và toàn bộ việc nhà tại căn hộ Shibuya.
+**Mốc:** tối 2026-04-02, ngay sau khi Air Groove nghe Equinox chơi xong `Bunny Girl` trong phòng khách căn hộ Shibuya; cây guitar chưa được cất.
 
 ## KNOWN — có nguồn trực tiếp
 
@@ -61,6 +61,9 @@
 - Air Groove trực tiếp yêu cầu Equinox nghỉ, biết cô ấy ngủ đúng 30 phút rồi dậy nấu tối. Cô cùng nhóm chuẩn bị lẩu miso gà/cơm/rau bina trộn mè và hoàn tất việc nhà.
 - Air Groove trực tiếp nghe Rudolf tự báo mỏi sau đùi/cơ dép và Brian tự báo mỏi nhưng không đau, gồm lưng trên. Cô biết đây chưa phải kết luận phục hồi cuối cùng.
 - Air Groove trực tiếp nghe Equinox xác nhận đang cân nhắc mua cơ sở tập riêng. Cô biết mình đã yêu cầu báo cáo về kỹ thuật, vận hành, nhân sự, khoảng cách và quyền trainee; chưa có nơi nào được mua hoặc chọn.
+- Air Groove trực tiếp nghe Equinox chơi guitar và hát `Tsuki ga Kirei ne to Iwaretai`, sau đó là `Bunny Girl` của AKASAKI theo hướng solo acoustic. Cô biết Equinox có kỹ thuật guitar vững, dùng bass/hợp âm/mute/percussion/slide/hammer-on và không cần sân khấu hoặc micro cho buổi chơi trong phòng khách.
+- Air Groove trực tiếp thấy Equinox mở hé mắt trái khi hát rồi khép lại sau mỗi bài; biết giọng hát khi đó mềm, ngọt, airy, thấp hơn nhưng giống màu giọng Zenith lúc hát. Cô không tự biết cơ chế OU sâu hơn chỉ từ việc nghe hoặc nhìn.
+- Air Groove nghe Brian yêu cầu bài thứ hai và muốn nghe thêm sau `Bunny Girl`; biết Brian thích nhịp bài thứ hai hơn. Cô trực tiếp trải qua endpoint nơi guitar vẫn ở trong lòng Equinox và bài thứ ba chưa được quyết định.
 
 Khi lớp tách thành nhiều nhóm nói chuyện chồng lên nhau, registry **không** mặc định Air Groove nghe trọn mọi trao đổi Opera–Fuji, Brian–Laurel, Hishi–Taishin, Gold City–Gentildonna hoặc các nhóm khác chỉ vì cô ở cùng phòng. Chỉ chuyển từng nội dung sang `KNOWN` nếu prose xác lập cô tham gia, chú ý hoặc ở vị trí nghe rõ.
 
@@ -77,6 +80,7 @@ Khi lớp tách thành nhiều nhóm nói chuyện chồng lên nhau, registry *
 - Những gì Zenith làm hoặc biết sau khi đã rời buffet; Air Groove không thể suy ngược rằng Zenith thấy phần căn hộ hay tám ván cờ.
 - Tên `The Beyond`, `The Beyond Valley`, vị trí/bản chất OU của nơi chụp ảnh, khoảng cách thật giữa hai nơi và nguyên nhân vật lý/siêu hình khiến hai bầu trời tương đồng.
 - Việc ba bộ shogi/cờ vây/cờ tướng có được chơi sau tám ván cờ hay không, nếu phần prose không trực tiếp xác lập.
+- Lịch sử đầy đủ của cây guitar, ý nghĩa riêng của các nét vẽ trên thân đàn và danh tính người Equinox có thể nghĩ tới trong lúc hát; Air Groove chỉ biết những gì trực tiếp nhìn/nghe trong phòng khách.
 - Bất kỳ thông tin nào chỉ xuất hiện trong lời kể khi Air Groove không ở trong cảnh.
 
 Air Groove chỉ chuyển một mục từ `UNKNOWN` sang `KNOWN` khi prose xác lập rõ cô được kể lại, đọc nguồn hợp lệ hoặc tự suy luận từ dữ kiện thật sự có. Không dùng câu “có lẽ cô bé đã nghe ở đâu đó” để sửa ngược continuity.

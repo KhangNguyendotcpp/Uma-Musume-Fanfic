@@ -2,7 +2,7 @@
 
 > **CANON GUARD — KHÔNG ĐƯỢC HẠ CẤP TRẠNG THÁI:** Equinox **đã vượt qua toàn bộ quy trình tuyển dụng tăng tốc và đã chính thức trở thành cả giáo viên Lịch sử lẫn trainer của Tracen Academy trong ngày 2026-03-09**. Không được viết hoặc suy luận rằng cô vẫn chỉ là ứng viên, mới qua vòng một, chưa đậu, hoặc phải chờ đến 2026-03-23 mới trở thành staff.
 
-**Mốc hiện tại của prose:** **tối 2026-04-02, ngay sau khi Equinox, Rudolf, Air Groove và Narita Brian ăn lẩu miso gà rồi hoàn tất toàn bộ việc nhà tại căn hộ tầng 39 Park Court Shibuya The Tower**. Nhóm đã hoàn tất đủ việc mua sắm để trở về căn hộ, trải qua buổi thể lực, một khối tự do bốn giờ, ba báo cáo được gửi lúc 17:15, khoảng nghỉ 30 phút, bữa tối và việc dọn dẹp. Track 7 vẫn bị khóa, Team Zenith chưa được chứng nhận, cơ sở tập riêng chỉ đang được cân nhắc, khảo sát Izu chưa bắt đầu và ngày Zenith tới thăm Tracen vẫn `TBD`. Những gì ghi là “đã xảy ra” trong file này là `STORY-ESTABLISHED / LOCKED`.
+**Mốc hiện tại của prose:** **tối 2026-04-02, ngay sau khi Equinox chơi xong `Bunny Girl` cho Symboli Rudolf, Air Groove và Narita Brian trong phòng khách căn hộ tầng 39 Park Court Shibuya The Tower**. Sau khi hoàn tất việc nhà, cả bốn chuyển sang nghe Equinox chơi guitar và hát `Tsuki ga Kirei ne to Iwaretai`, rồi `Bunny Girl`; cây đàn vẫn nằm trong lòng cô ấy và nhóm chưa quyết định có nghe bài thứ ba hay không. Track 7 vẫn bị khóa, Team Zenith chưa được chứng nhận, cơ sở tập riêng chỉ đang được cân nhắc, khảo sát Izu chưa bắt đầu và ngày Zenith tới thăm Tracen vẫn `TBD`. Những gì ghi là “đã xảy ra” trong file này là `STORY-ESTABLISHED / LOCKED`.
 
 ## 1. Trạng thái nghề nghiệp của Equinox
 
@@ -276,7 +276,16 @@ Các điều sau là kế hoạch tương lai, **không được viết như ký
 - Equinox xác nhận đang cân nhắc mua một cơ sở tập riêng và sẽ làm báo cáo về yêu cầu kỹ thuật/vận hành. **Chưa có nơi nào được mua hoặc chọn**, chưa khóa địa điểm, chi phí, nhân sự, thiết kế hay quyền sử dụng.
 - Chi tiết đầy đủ và ranh giới kiến thức nằm tại `fanfic/events/2026-04-02-apartment-strength-reports-dinner.md`.
 
-## 17. Quan niệm cơ thể và giới tính đã khóa
+## 17. 2026-04-02: hai bài acoustic trong phòng khách
+
+- Sau khi hoàn tất việc nhà, Equinox lấy cây guitar acoustic cũ có những nét vẽ của hai đứa trẻ nay đã trưởng thành và chơi cho Rudolf, Air Groove, Brian nghe trong phòng khách; không có sân khấu hoặc micro.
+- Bài đầu là `Tsuki ga Kirei ne to Iwaretai`, được phối chậm bằng rải dây, bass, hợp âm mở và tiếng gõ nhẹ trên thân đàn. Bài thứ hai là `Bunny Girl` của AKASAKI, chơi theo hướng solo acoustic 4/4 với bass, hợp âm, mute, slide và hammer-on.
+- Trong cả hai bài, Equinox mở hé mắt trái; giọng hát trở nên mềm, ngọt, hơi airy, có độ khàn nhẹ và giống Zenith khi hát nhưng thấp hơn. Cô khép mắt trái sau mỗi bài; thay đổi này không áp vào giọng nói thường ngày.
+- Rudolf nhận ra lớp nghĩa tỏ tình gián tiếp của bài đầu và nghi ngờ có người nhận ở xa nhưng không xác định danh tính. Air Groove chú ý tới cả khung cảnh trăng phía sau Equinox và cách chơi; Brian là người liên tục yêu cầu nghe thêm, đồng thời thích nhịp mạnh hơn của bài thứ hai.
+- Endpoint nằm sau hợp âm cuối của `Bunny Girl`: cây đàn vẫn trong lòng Equinox, Brian muốn nghe thêm, Equinox ngáp và cuộc thương lượng về bài thứ ba chưa ngã ngũ.
+- Chi tiết đầy đủ và ranh giới kiến thức nằm tại `fanfic/events/2026-04-02-apartment-acoustic-night.md`.
+
+## 18. Quan niệm cơ thể và giới tính đã khóa
 
 - Equinox không xem giới tính là trục cốt lõi giữ danh tính. Cơ thể, hormone, quần áo hoặc thói quen chăm sóc có thể thay đổi trải nghiệm nhưng không tự thay giá trị quan, tính cách hay người cô yêu.
 - Việc chăm tóc, dưỡng da, mặc đồ nữ hoặc nhận ra cơ thể hiện tại đẹp không quyết định xu hướng tính dục hay buộc cô vào một vai giới cố định.
@@ -285,8 +294,8 @@ Các điều sau là kế hoạch tương lai, **không được viết như ký
 - Hôn nhân khiến giới tính được gọi tên rõ hơn trong quan hệ, nhưng đối tượng Equinox yêu là Zenith chứ không phải một danh mục giới tính hay vai “chồng/vợ” được viết sẵn.
 - Equinox thoải mái với khỏa thân trong không gian riêng và ngủ khỏa thân. Không được biến sự thoải mái này thành quyền để nhân vật khác xâm phạm riêng tư hoặc thành trò phản ứng tập thể.
 
-## 18. Điểm nối cảnh
+## 19. Điểm nối cảnh
 
-Điểm tiếp tục trực tiếp là **ngay sau khi Equinox, Rudolf, Air Groove và Brian hoàn tất việc nhà sau bữa tối tại căn hộ tối 2026-04-02**. Máy rửa chén đang chạy, bếp/bàn đã sạch, rác đã mang đi, quần áo đã được gấp hoặc treo, đồ ăn còn lại đã dán nhãn và đèn bếp đã tắt. Buổi thể lực sáng chưa có báo cáo cuối vì còn chờ dữ liệu đau cơ/giấc ngủ/trạng thái sáng hôm sau. Repo chưa xác lập việc ba bộ shogi/cờ vây/cờ tướng có được chơi sau tám ván cờ hay không. Track 7 vẫn bị khóa; Team Zenith chưa được chứng nhận; cơ sở tập riêng mới chỉ ở mức xem xét; khảo sát Izu chưa được xử lý; ngày Zenith tới thăm Tracen vẫn `TBD`. Ban cán sự vẫn là **Sirius Symboli / Hishi Amazon / T.M. Opera O / Eishin Flash** và Special Week không xuất hiện trước ngày nhập học 2026-04-06.
+Điểm tiếp tục trực tiếp là **ngay sau khi Equinox chơi xong `Bunny Girl` trong phòng khách căn hộ tối 2026-04-02**. Cây guitar vẫn nằm trong lòng cô ấy và chưa được cất; Brian muốn nghe tiếp, Equinox vừa ngáp, còn Rudolf/Air Groove vẫn ở cạnh. Bếp/bàn đã sạch, máy rửa chén vẫn chạy/hong khô và đèn bếp đã tắt. Buổi thể lực sáng chưa có báo cáo cuối vì còn chờ dữ liệu đau cơ/giấc ngủ/trạng thái sáng hôm sau. Repo không tự điền trò chơi cờ/bài chưa được prose hiện có xác lập tên hoặc kết quả. Track 7 vẫn bị khóa; Team Zenith chưa được chứng nhận; cơ sở tập riêng mới chỉ ở mức xem xét; khảo sát Izu chưa được xử lý; ngày Zenith tới thăm Tracen vẫn `TBD`. Ban cán sự vẫn là **Sirius Symboli / Hishi Amazon / T.M. Opera O / Eishin Flash** và Special Week không xuất hiện trước ngày nhập học 2026-04-06.
 
 Không được quay lại trạng thái “ứng viên” hay buộc Equinox thi lại. Không mặc định nhân vật biết một sự kiện đã qua nếu họ không được xác lập là người tham dự/người được kể lại; xem `fanfic/style/prohibited_tendencies.md`, `fanfic/knowledge/air-groove.md` và `fanfic/knowledge/zenith.md`.

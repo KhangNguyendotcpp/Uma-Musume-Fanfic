@@ -1,6 +1,6 @@
 # Zenith — Registry kiến thức trong fanfic Uma
 
-**Phạm vi:** những gì Zenith đã trực tiếp biết qua quan hệ gia đình, chuẩn bị trước tại căn hộ, cuộc gọi video giờ trưa, lần xuất hiện trực tiếp tại buffet Shibuya và nhóm chat gia đình trên đường Equinox về căn hộ tối 2026-04-01. Endpoint truyện đã sang tối 2026-04-02 nhưng chưa có kênh truyền mới cho Zenith sau lúc Equinox báo đã về. File này không thay thế canon OU về danh tính hoặc lịch sử Zenith.
+**Phạm vi:** những gì Zenith đã trực tiếp biết qua quan hệ gia đình, chuẩn bị trước tại căn hộ, cuộc gọi video giờ trưa, lần xuất hiện trực tiếp tại buffet Shibuya và nhóm chat gia đình trên đường Equinox về căn hộ tối 2026-04-01. Endpoint truyện đã sang tối 2026-04-02, sau hai bài acoustic trong phòng khách, nhưng chưa có kênh truyền mới cho Zenith sau lúc Equinox báo đã về. File này không thay thế canon OU về danh tính hoặc lịch sử Zenith.
 
 | Lĩnh vực | Trạng thái sau tin nhắn báo đã về ngày 2026-04-01 |
 |---|---|
@@ -28,6 +28,7 @@
 | Tám ván cờ Equinox–Rudolf | UNKNOWN tại endpoint: không có mặt và chưa có cảnh được kể lại |
 | Kiểm tra/mua sắm/ăn kem sáng 2026-04-02 | UNKNOWN tại endpoint: không có mặt và chưa có cảnh truyền đạt hợp lệ |
 | Buổi thể lực, ba báo cáo, cơ sở tập đang cân nhắc, bữa tối và việc nhà 2026-04-02 | UNKNOWN tại endpoint: không có mặt và chưa có cảnh truyền đạt hợp lệ |
+| Hai bài acoustic tối 2026-04-02 | UNKNOWN tại endpoint: không có mặt/không gọi video và chưa được kể về `Tsuki ga Kirei ne to Iwaretai`, `Bunny Girl`, phản ứng của ba học sinh hoặc trạng thái mắt/giọng của Equinox |
 
 ## Guardrail
 

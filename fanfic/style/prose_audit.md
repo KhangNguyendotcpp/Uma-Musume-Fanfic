@@ -1,6 +1,6 @@
 # Prose Audit — từ mở đầu đến điểm hiện tại
 
-**Phạm vi:** các sự kiện prose đã được khóa trong repo từ Equinox xuất hiện ngày 2026-03-09 tới lúc cô ấy cùng Rudolf/Air Groove/Brian hoàn tất bữa tối và việc nhà tại căn hộ Shibuya tối 2026-04-02. Repo hiện giữ phần lớn các cảnh dưới dạng continuity summary thay vì chapter nguyên văn; vì vậy audit này chỉ kết luận chắc chắn ở nơi còn đủ văn bản/dữ kiện, không dựng lỗi cho đoạn không còn nguyên văn.
+**Phạm vi:** các sự kiện prose đã được khóa trong repo từ Equinox xuất hiện ngày 2026-03-09 tới lúc cô ấy chơi xong `Bunny Girl` cho Rudolf/Air Groove/Brian tại căn hộ Shibuya tối 2026-04-02. Repo hiện giữ phần lớn các cảnh dưới dạng continuity summary thay vì chapter nguyên văn; vì vậy audit này chỉ kết luận chắc chắn ở nơi còn đủ văn bản/dữ kiện, không dựng lỗi cho đoạn không còn nguyên văn.
 
 **Trạng thái:** tài liệu chẩn đoán, không tự retcon sự kiện. Guardrail bắt buộc nằm tại `fanfic/style/prohibited_tendencies.md`.
 
@@ -128,8 +128,18 @@
 - Việc mỗi tài liệu chỉ dùng “tốt” một lần là beat characterization có payoff rõ; không kéo nó thành running gag trong mọi báo cáo sau nếu prose chưa lặp lại.
 - Air Groove có quyền yêu cầu Equinox nghỉ và nêu điều kiện phân tích trước khi mua cơ sở tập, nhưng Equinox vẫn tự chọn nghỉ, tự quyết định nấu và tự cam kết làm báo cáo. Không biến Air Groove thành người quản lý toàn bộ đời sống/tài sản của cô ấy.
 - Cơ sở tập riêng chỉ ở mức Equinox đang xem xét. Không tự tạo địa điểm, giá, nhân sự, thiết kế, lịch mua hoặc quyền sử dụng trước khi author khóa.
-- Endpoint mới là sau bữa tối và việc nhà. Chi tiết shopping giữa quán kem và lúc về căn hộ chỉ được dùng ở mức prose thật sự xác lập; tổng tiền và inventory phi thực phẩm không được tự dựng từ việc thấy tủ lạnh đã đầy.
+- Endpoint riêng của event này là sau bữa tối và việc nhà; prose đã đi tiếp sang hai bài acoustic. Chi tiết shopping giữa quán kem và lúc về căn hộ chỉ được dùng ở mức prose thật sự xác lập; tổng tiền và inventory phi thực phẩm không được tự dựng từ việc thấy tủ lạnh đã đầy.
 - Register trong đoạn hiện có khớp ma trận chính: Equinox dùng `cô–em/các em`; học sinh dùng `em–cô`; Rudolf/Air Groove/Brian dùng `tôi–cậu` khi nói ngang hàng. Không để lời kể gọi Equinox là `cô` thay cho `cô ấy`.
+
+## Kiểm tra hai bài acoustic tối 2026-04-02
+
+- Cast vẫn chỉ gồm Equinox, Rudolf, Air Groove và Brian. Zenith không có mặt hoặc ở trong cuộc gọi; sự giống nhau giữa màu giọng hát của Equinox và Zenith là so sánh của ba người từng trực tiếp nghe Zenith hát, không phải kênh để Zenith biết cảnh này.
+- Hai bài và thứ tự đã khóa: `Tsuki ga Kirei ne to Iwaretai`, sau đó `Bunny Girl` của AKASAKI. Không chép nguyên lời bài hát vào continuity summary và không tự thêm bài thứ ba trước khi prose xác lập.
+- Trạng thái mắt nhất quán: Equinox mở hé mắt trái khi hát và khép lại sau mỗi bài. Giọng mềm/ngọt/airy hơn, giống Zenith lúc hát nhưng thấp hơn; không nâng sự tương đồng thành đổi danh tính, bắt chước hoàn toàn hoặc cơ chế OU mới.
+- Kỹ thuật guitar của bài thứ hai dựa trên hướng solo acoustic: 4/4, bass, hợp âm, mute, percussion, slide và hammer-on. Đây là mô tả bản phối trong truyện, không phải tuyên bố rằng từng động tác khớp tuyệt đối một bản thu ngoài đời.
+- Rudolf chỉ **nghi ngờ** bài đầu có người nhận ở xa; danh tính người đó chưa được nói. Air Groove/Brian không được tự biết điều Equinox nghĩ tới chỉ vì cùng quan sát hướng nhìn hoặc sắc thái giọng.
+- Cảnh dùng người kể linh hoạt qua phản ứng của cả ba học sinh. Nếu lưu chapter nguyên văn, phải giữ chế độ toàn tri có chủ đích hoặc giảm các câu khẳng định nội tâm liên tiếp; không biến mỗi phản ứng thành bằng chứng khách quan về ý nghĩ của Equinox.
+- Endpoint hiện tại là sau `Bunny Girl`: guitar vẫn trong lòng Equinox, Brian muốn nghe thêm và Equinox vừa ngáp. Không viết rằng đàn đã được cất, cả nhóm đã đi ngủ hoặc đã thống nhất bài tiếp theo nếu chưa có prose mới.
 
 ## Những phần hiện không thấy lỗi canon chắc chắn
 
