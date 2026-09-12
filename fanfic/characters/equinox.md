@@ -7,7 +7,7 @@
 - **Số đo ba vòng (ngực–eo–hông):** **210–118–200 cm** — STORY-ESTABLISHED / LOCKED
 - **Cơ quan:** Tracen Academy
 - **Vai trò hiện tại:** giáo viên Lịch sử + trainer chính thức + giáo viên chủ nhiệm Senior 3-A, với quyền trong từng phạm vi chuyên môn — STORY-ESTABLISHED / LOCKED
-- **Trạng thái tại điểm prose hiện tại:** tối 2026-04-02 tại căn hộ tầng 39 Park Court Shibuya The Tower; sau buổi thể lực, ba tài liệu, bữa tối và việc nhà, Equinox đã chơi guitar/hát `Tsuki ga Kirei ne to Iwaretai` cùng `Bunny Girl` cho Rudolf/Air Groove/Brian. Endpoint nằm ngay sau bài thứ hai, cây đàn vẫn trong lòng cô ấy. Track 7 vẫn khóa; cơ sở tập riêng mới ở mức cân nhắc — STORY-ESTABLISHED / LOCKED
+- **Trạng thái tại điểm prose hiện tại:** tối 2026-04-02 tại căn hộ tầng 39 Park Court Shibuya The Tower; sau buổi thể lực, ba tài liệu, bữa tối và việc nhà, Equinox đã chơi guitar/hát `Tsuki ga Kirei ne to Iwaretai` cùng `Bunny Girl` cho Rudolf/Air Groove/Brian. Equinox đã khép buổi guitar bằng `Phonecert` bản Việt, cất đàn, nhắn riêng với Zenith, bôi kem dưỡng tay rồi ngủ; Rudolf, Air Groove và Brian cũng đã ngủ. Track 7 vẫn khóa; cơ sở tập riêng mới ở mức cân nhắc — STORY-ESTABLISHED / LOCKED
 - **Môn giảng dạy/đã giảng thử:** Lịch sử — STORY-ESTABLISHED / LOCKED
 - **Chức danh hợp đồng chính xác:** TBD; không ảnh hưởng kết quả tuyển dụng đã chốt
 
@@ -154,7 +154,8 @@ Equinox là Uma nhưng **không được định hướng làm racer thi đấu*
 - Sở hữu và chơi thành thạo một cây guitar acoustic cũ có nét vẽ của hai đứa trẻ nay đã trưởng thành trên thân đàn; gần một tháng không chạm vào đàn không làm cô mất khả năng chơi liền mạch sau một quãng ngắn tìm lại cảm giác.
 - Chơi `Tsuki ga Kirei ne to Iwaretai` theo bản phối chậm, rồi `Bunny Girl` của AKASAKI theo hướng solo acoustic 4/4 có bass, hợp âm, mute, slide, tiếng gõ thân đàn và hammer-on.
 - Khi hát, mở hé mắt trái; giọng trở nên mềm, ngọt, hơi airy, có độ khàn nhẹ và giống Zenith lúc hát nhưng thấp hơn. Cách nhả chữ, hơi thở ấm và sắc trầm vẫn là của Equinox; không viết như cô biến thành hoặc bắt chước hoàn toàn Zenith.
-- Không cần sân khấu/micro và không phô diễn kỹ thuật. Sau mỗi bài, cô để âm đàn tự tắt rồi khép mắt trái. Ở endpoint, guitar chưa được cất và Brian vẫn muốn nghe thêm.
+- Không cần sân khấu/micro và không phô diễn kỹ thuật. Cách kết bài tùy bản phối: `Kẻ Thù` được chặn dây, `Phonecert` để hợp âm cuối tự tắt rồi khép mắt trái. Ở endpoint, guitar đã cất và cả bốn đã ngủ.
+- Chọn `Phonecert` bản Việt để khép tối; xác nhận gu cá nhân không thích tiếng Hàn khi hát dù thích trong giao tiếp và người nhận của bài này vẫn là Zenith. Hai tay đỏ/rát sau buổi đàn; bôi kem theo lời nhắc của Zenith qua tin nhắn riêng rồi ngủ. Việc hát lại chờ tay hết đau, chưa có lịch.
 
 ## Nguyên tắc nghề nghiệp đã thể hiện
 - Sức khỏe và medical clearance đứng trên race, Winning Live và sức ép khán giả.

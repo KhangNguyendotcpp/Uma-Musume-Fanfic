@@ -49,7 +49,7 @@
 
 - Sau bữa tối, không ai để một người nhận hết việc. Brian xử lý nồi/nước dùng còn lại và mang rác; Rudolf thu bát đĩa, lau bàn và xếp ghế; Air Groove xếp máy rửa chén, chia/gấp quần áo; Equinox vệ sinh bếp, khu sơ chế thịt sống, dán nhãn thức ăn thừa và khóa thiết bị/tài liệu Tracen.
 - Tới endpoint, bếp và bàn đã sạch, rác đã mang đi, quần áo được gấp hoặc treo, thức ăn còn lại được dán nhãn, máy rửa chén đang chạy và thẻ ra vào đã trở lại đúng khay. Equinox tắt đèn bếp, chỉ giữ ánh sáng phòng khách.
-- Điểm tiếp tục riêng của event này là **ngay sau khi Air Groove xác nhận toàn bộ việc nhà đã xong trong buổi tối 2026-04-02**. Prose đã đi tiếp sang hai bài acoustic trong phòng khách tại `fanfic/events/2026-04-02-apartment-acoustic-night.md`.
+- Điểm tiếp tục riêng của event này là **ngay sau khi Air Groove xác nhận toàn bộ việc nhà đã xong trong buổi tối 2026-04-02**. Prose đã đi tiếp sang buổi acoustic, `Phonecert` khép tối và cả bốn đi ngủ tại `fanfic/events/2026-04-02-apartment-acoustic-night.md`.
 
 ## Ranh giới kiến thức và trạng thái
 

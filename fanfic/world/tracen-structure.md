@@ -139,7 +139,7 @@ Mỗi hoạt động cần tối thiểu: mục tiêu giáo dục, danh sách h�
 
 - Chiều 2026-04-01, quản lý ký túc xá đã duyệt có điều kiện phương án để Rudolf, Air Groove và Brian ở căn hộ Shibuya của Equinox tới Chủ Nhật 2026-04-05.
 - Phê duyệt phương án của staff không thay quyết định cá nhân: từng học sinh vẫn phải tự nộp đơn lưu trú ngoài ký túc xá; xác nhận người giám hộ/liên hệ khẩn cấp áp dụng theo hồ sơ.
-- Cả ba đã đồng ý, hoàn tất đơn qua đúng ký túc xá, mang hành lý rời Tracen cùng Equinox, đi tàu tới Shibuya và bắt đầu kỳ lưu trú tại căn hộ tầng 39 Park Court Shibuya The Tower. Ngày 02/04, nhóm đã hoàn tất kiểm tra trạng thái, mua sắm, trở về căn hộ, tham gia buổi thể lực, nhận báo cáo đúng phân quyền, dùng bữa tối, hoàn tất việc nhà rồi nghe Equinox chơi hai bài acoustic. Endpoint hiện tại nằm ngay sau `Bunny Girl`, khi guitar chưa được cất và bài thứ ba chưa được quyết định; kỳ lưu trú vẫn chưa kết thúc và ngày trở về vẫn là Chủ Nhật 05/04 theo kế hoạch.
+- Cả ba đã đồng ý, hoàn tất đơn qua đúng ký túc xá, mang hành lý rời Tracen cùng Equinox, đi tàu tới Shibuya và bắt đầu kỳ lưu trú tại căn hộ tầng 39 Park Court Shibuya The Tower. Ngày 02/04, nhóm đã hoàn tất kiểm tra trạng thái, mua sắm, trở về căn hộ, tham gia buổi thể lực, nhận báo cáo đúng phân quyền, dùng bữa tối, hoàn tất việc nhà rồi nghe buổi acoustic của Equinox. Buổi đàn đã tiếp tục tới `Kẻ Thù` rồi khép bằng `Phonecert`; Equinox cất đàn, nhắn Zenith và ngủ sau ba học sinh; kỳ lưu trú vẫn chưa kết thúc và ngày trở về vẫn là Chủ Nhật 05/04 theo kế hoạch.
 - Đây là hoạt động trainer/trainee có mục tiêu quan sát phục hồi và bữa ăn, không phải chuyến đi lớp 3-A hoặc khảo sát Izu.
 
 ### 8.7. Lớp Senior 3-A

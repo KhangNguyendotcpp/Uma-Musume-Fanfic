@@ -2,7 +2,7 @@
 
 > **CANON GUARD — KHÔNG ĐƯỢC HẠ CẤP TRẠNG THÁI:** Equinox **đã vượt qua toàn bộ quy trình tuyển dụng tăng tốc và đã chính thức trở thành cả giáo viên Lịch sử lẫn trainer của Tracen Academy trong ngày 2026-03-09**. Không được viết hoặc suy luận rằng cô vẫn chỉ là ứng viên, mới qua vòng một, chưa đậu, hoặc phải chờ đến 2026-03-23 mới trở thành staff.
 
-**Mốc hiện tại của prose:** **tối 2026-04-02, ngay sau khi Equinox chơi xong `Bunny Girl` cho Symboli Rudolf, Air Groove và Narita Brian trong phòng khách căn hộ tầng 39 Park Court Shibuya The Tower**. Sau khi hoàn tất việc nhà, cả bốn chuyển sang nghe Equinox chơi guitar và hát `Tsuki ga Kirei ne to Iwaretai`, rồi `Bunny Girl`; cây đàn vẫn nằm trong lòng cô ấy và nhóm chưa quyết định có nghe bài thứ ba hay không. Track 7 vẫn bị khóa, Team Zenith chưa được chứng nhận, cơ sở tập riêng chỉ đang được cân nhắc, khảo sát Izu chưa bắt đầu và ngày Zenith tới thăm Tracen vẫn `TBD`. Những gì ghi là “đã xảy ra” trong file này là `STORY-ESTABLISHED / LOCKED`.
+**Mốc hiện tại của prose:** **cuối tối 2026-04-02, khi Equinox, Symboli Rudolf, Air Groove và Narita Brian đã ngủ tại căn hộ tầng 39 Park Court Shibuya The Tower**. Equinox đã khép buổi guitar bằng `Phonecert` bản Việt, cất đàn, nhắn riêng với Zenith, bôi kem dưỡng tay rồi ngủ; Rudolf, Air Groove và Brian cũng đã ngủ. Zenith đã được kể về buổi đàn qua tin nhắn và nhận ảnh tay, không nghe trực tiếp buổi diễn. Track 7 vẫn bị khóa, Team Zenith chưa được chứng nhận, cơ sở tập riêng chỉ đang được cân nhắc, khảo sát Izu chưa bắt đầu và ngày Zenith tới thăm Tracen vẫn `TBD`. Những gì ghi là “đã xảy ra” trong file này là `STORY-ESTABLISHED / LOCKED`.
 
 ## 1. Trạng thái nghề nghiệp của Equinox
 
@@ -276,13 +276,16 @@ Các điều sau là kế hoạch tương lai, **không được viết như ký
 - Equinox xác nhận đang cân nhắc mua một cơ sở tập riêng và sẽ làm báo cáo về yêu cầu kỹ thuật/vận hành. **Chưa có nơi nào được mua hoặc chọn**, chưa khóa địa điểm, chi phí, nhân sự, thiết kế hay quyền sử dụng.
 - Chi tiết đầy đủ và ranh giới kiến thức nằm tại `fanfic/events/2026-04-02-apartment-strength-reports-dinner.md`.
 
-## 17. 2026-04-02: hai bài acoustic trong phòng khách
+## 17. 2026-04-02: đêm acoustic, Phonecert và đi ngủ
 
 - Sau khi hoàn tất việc nhà, Equinox lấy cây guitar acoustic cũ có những nét vẽ của hai đứa trẻ nay đã trưởng thành và chơi cho Rudolf, Air Groove, Brian nghe trong phòng khách; không có sân khấu hoặc micro.
 - Bài đầu là `Tsuki ga Kirei ne to Iwaretai`, được phối chậm bằng rải dây, bass, hợp âm mở và tiếng gõ nhẹ trên thân đàn. Bài thứ hai là `Bunny Girl` của AKASAKI, chơi theo hướng solo acoustic 4/4 với bass, hợp âm, mute, slide và hammer-on.
 - Trong cả hai bài, Equinox mở hé mắt trái; giọng hát trở nên mềm, ngọt, hơi airy, có độ khàn nhẹ và giống Zenith khi hát nhưng thấp hơn. Cô khép mắt trái sau mỗi bài; thay đổi này không áp vào giọng nói thường ngày.
 - Rudolf nhận ra lớp nghĩa tỏ tình gián tiếp của bài đầu và nghi ngờ có người nhận ở xa nhưng không xác định danh tính. Air Groove chú ý tới cả khung cảnh trăng phía sau Equinox và cách chơi; Brian là người liên tục yêu cầu nghe thêm, đồng thời thích nhịp mạnh hơn của bài thứ hai.
-- Endpoint nằm sau hợp âm cuối của `Bunny Girl`: cây đàn vẫn trong lòng Equinox, Brian muốn nghe thêm, Equinox ngáp và cuộc thương lượng về bài thứ ba chưa ngã ngũ.
+- Sau hai bài đầu, chuỗi bài truy hồi gồm `Giữ Lấy Làm Gì`, `Nghe kể là năm 90s`, `Tình Đắng Như Ly Cà Phê`, `Tình ca tình ta`, `I Love You 3000`, `Kẻ Thù`, rồi `Phonecert` bản Việt của Hoàng Dũng (gốc 10CM). Nguồn phần giữa chỉ còn tóm tắt; không tự phục dựng lời thoại hoặc phản ứng chưa có văn bản. Brian thích `Kẻ Thù` vì lực của bài và vì không nói về tình yêu.
+- `Phonecert` là bài cuối theo quyết định tác giả. Equinox nói mình không thích tiếng Hàn khi hát nhưng thích trong giao tiếp; Air Groove xác định đó là sở thích cá nhân. Equinox xác nhận người được hướng tới trong `Phonecert` vẫn là Zenith, không phải ba trainee.
+- Hai bàn tay Equinox đỏ/rát sau buổi đàn, chưa rách/chảy máu/phồng nước qua quan sát của Air Groove. Guitar đã cất, cả ba về chỗ ngủ; Brian ở sofa bed, Rudolf/Air Groove ở chỗ ngủ phía trong. Equinox hẹn kiểm tra 08:00 sáng 03/04.
+- Equinox nhắn riêng với Zenith, gửi danh sách bài và ảnh tay trước/sau bôi kem, báo ba học sinh đã ngủ và ngày hôm nay ổn. Zenith muốn nghe lại khi tay hết đau nhưng chưa có lịch; không có cuộc gọi hát ru thực sự diễn ra. Equinox sau đó tắt màn hình và ngủ; máy rửa chén đã kết thúc chu trình.
 - Chi tiết đầy đủ và ranh giới kiến thức nằm tại `fanfic/events/2026-04-02-apartment-acoustic-night.md`.
 
 ## 18. Quan niệm cơ thể và giới tính đã khóa
@@ -296,6 +299,6 @@ Các điều sau là kế hoạch tương lai, **không được viết như ký
 
 ## 19. Điểm nối cảnh
 
-Điểm tiếp tục trực tiếp là **ngay sau khi Equinox chơi xong `Bunny Girl` trong phòng khách căn hộ tối 2026-04-02**. Cây guitar vẫn nằm trong lòng cô ấy và chưa được cất; Brian muốn nghe tiếp, Equinox vừa ngáp, còn Rudolf/Air Groove vẫn ở cạnh. Bếp/bàn đã sạch, máy rửa chén vẫn chạy/hong khô và đèn bếp đã tắt. Buổi thể lực sáng chưa có báo cáo cuối vì còn chờ dữ liệu đau cơ/giấc ngủ/trạng thái sáng hôm sau. Repo không tự điền trò chơi cờ/bài chưa được prose hiện có xác lập tên hoặc kết quả. Track 7 vẫn bị khóa; Team Zenith chưa được chứng nhận; cơ sở tập riêng mới chỉ ở mức xem xét; khảo sát Izu chưa được xử lý; ngày Zenith tới thăm Tracen vẫn `TBD`. Ban cán sự vẫn là **Sirius Symboli / Hishi Amazon / T.M. Opera O / Eishin Flash** và Special Week không xuất hiện trước ngày nhập học 2026-04-06.
+Điểm tiếp tục trực tiếp là **cuối tối 2026-04-02, khi cả bốn đã ngủ sau `Phonecert` và cuộc nhắn tin riêng Equinox–Zenith**. Guitar đã cất, bếp/bàn sạch và máy rửa chén đã kết thúc chu trình. Buổi kiểm tra 08:00 sáng 03/04 mới là lịch hẹn; báo cáo thể lực cuối vẫn chờ dữ liệu đau cơ/giấc ngủ/trạng thái sáng hôm sau. Repo không tự điền trò chơi cờ/bài chưa được prose hiện có xác lập tên hoặc kết quả. Track 7 vẫn bị khóa; Team Zenith chưa được chứng nhận; cơ sở tập riêng mới chỉ ở mức xem xét; khảo sát Izu chưa được xử lý; ngày Zenith tới thăm Tracen vẫn `TBD`. Ban cán sự vẫn là **Sirius Symboli / Hishi Amazon / T.M. Opera O / Eishin Flash** và Special Week không xuất hiện trước ngày nhập học 2026-04-06.
 
 Không được quay lại trạng thái “ứng viên” hay buộc Equinox thi lại. Không mặc định nhân vật biết một sự kiện đã qua nếu họ không được xác lập là người tham dự/người được kể lại; xem `fanfic/style/prohibited_tendencies.md`, `fanfic/knowledge/air-groove.md` và `fanfic/knowledge/zenith.md`.

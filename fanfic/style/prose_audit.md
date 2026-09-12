@@ -1,6 +1,6 @@
 # Prose Audit — từ mở đầu đến điểm hiện tại
 
-**Phạm vi:** các sự kiện prose đã được khóa trong repo từ Equinox xuất hiện ngày 2026-03-09 tới lúc cô ấy chơi xong `Bunny Girl` cho Rudolf/Air Groove/Brian tại căn hộ Shibuya tối 2026-04-02. Repo hiện giữ phần lớn các cảnh dưới dạng continuity summary thay vì chapter nguyên văn; vì vậy audit này chỉ kết luận chắc chắn ở nơi còn đủ văn bản/dữ kiện, không dựng lỗi cho đoạn không còn nguyên văn.
+**Phạm vi:** các sự kiện prose đã được khóa trong repo từ Equinox xuất hiện ngày 2026-03-09 tới khi cả bốn đã ngủ sau `Phonecert` và tin nhắn riêng Equinox–Zenith tại căn hộ Shibuya cuối tối 2026-04-02. Repo hiện giữ phần lớn các cảnh dưới dạng continuity summary thay vì chapter nguyên văn; vì vậy audit này chỉ kết luận chắc chắn ở nơi còn đủ văn bản/dữ kiện, không dựng lỗi cho đoạn không còn nguyên văn.
 
 **Trạng thái:** tài liệu chẩn đoán, không tự retcon sự kiện. Guardrail bắt buộc nằm tại `fanfic/style/prohibited_tendencies.md`.
 
@@ -134,12 +134,12 @@
 ## Kiểm tra hai bài acoustic tối 2026-04-02
 
 - Cast vẫn chỉ gồm Equinox, Rudolf, Air Groove và Brian. Zenith không có mặt hoặc ở trong cuộc gọi; sự giống nhau giữa màu giọng hát của Equinox và Zenith là so sánh của ba người từng trực tiếp nghe Zenith hát, không phải kênh để Zenith biết cảnh này.
-- Hai bài và thứ tự đã khóa: `Tsuki ga Kirei ne to Iwaretai`, sau đó `Bunny Girl` của AKASAKI. Không chép nguyên lời bài hát vào continuity summary và không tự thêm bài thứ ba trước khi prose xác lập.
+- Hai bài và thứ tự đã khóa: `Tsuki ga Kirei ne to Iwaretai`, sau đó `Bunny Girl` của AKASAKI. Không chép nguyên lời bài hát vào continuity summary và phần tiếp theo đã được bổ sung ở event đêm acoustic; không tự dựng lời thoại cho các đoạn chỉ còn tóm tắt.
 - Trạng thái mắt nhất quán: Equinox mở hé mắt trái khi hát và khép lại sau mỗi bài. Giọng mềm/ngọt/airy hơn, giống Zenith lúc hát nhưng thấp hơn; không nâng sự tương đồng thành đổi danh tính, bắt chước hoàn toàn hoặc cơ chế OU mới.
 - Kỹ thuật guitar của bài thứ hai dựa trên hướng solo acoustic: 4/4, bass, hợp âm, mute, percussion, slide và hammer-on. Đây là mô tả bản phối trong truyện, không phải tuyên bố rằng từng động tác khớp tuyệt đối một bản thu ngoài đời.
 - Rudolf chỉ **nghi ngờ** bài đầu có người nhận ở xa; danh tính người đó chưa được nói. Air Groove/Brian không được tự biết điều Equinox nghĩ tới chỉ vì cùng quan sát hướng nhìn hoặc sắc thái giọng.
 - Cảnh dùng người kể linh hoạt qua phản ứng của cả ba học sinh. Nếu lưu chapter nguyên văn, phải giữ chế độ toàn tri có chủ đích hoặc giảm các câu khẳng định nội tâm liên tiếp; không biến mỗi phản ứng thành bằng chứng khách quan về ý nghĩ của Equinox.
-- Endpoint hiện tại là sau `Bunny Girl`: guitar vẫn trong lòng Equinox, Brian muốn nghe thêm và Equinox vừa ngáp. Không viết rằng đàn đã được cất, cả nhóm đã đi ngủ hoặc đã thống nhất bài tiếp theo nếu chưa có prose mới.
+- Endpoint riêng của hai bài đầu là sau `Bunny Girl`; prose mới đã tiến tới `Phonecert`, cất đàn, nhắn Zenith và cả bốn ngủ. Không dùng endpoint lịch sử của hai bài đầu làm điểm tiếp tục hiện tại.
 
 ## Những phần hiện không thấy lỗi canon chắc chắn
 
@@ -156,3 +156,13 @@
 - thời lượng thực tế của toàn bộ ngày 2026-03-10 so với số hợp đồng, orientation, di chuyển và mua sắm;
 - kênh truyền thông tin giữa HR, staff, Student Council và Air Groove;
 - sự chuyển biến quan hệ Equinox–Air Groove có đủ bước đệm hay chưa.
+
+## Kiểm tra Phonecert và khép đêm 02/04
+
+- Quyết định trực tiếp của tác giả khóa `Phonecert` là bài cuối và dừng khi cả bốn ngủ. Không tự thêm encore hoặc cảnh sáng 03/04. Chuỗi bài giữa `Bunny Girl` và `Kẻ Thù` chỉ còn bản tóm tắt truy hồi trong lần cập nhật; event ghi rõ giới hạn nguồn.
+- Phân biệt khán giả trong phòng với người được hướng tới trong bài: Equinox trực tiếp xác nhận `Phonecert` dành cho Zenith. Không suy tình cảm lãng mạn giáo viên–trainee hoặc hồi tố người nhận cho mọi bài khác.
+- Zenith chỉ biết buổi diễn qua danh sách bài và ảnh/tin nhắn sau đó. Ba học sinh đã về chỗ ngủ nên không biết cuộc nhắn riêng. Không truyền dữ liệu training hoặc báo cáo bằng câu trả lời “ổn”.
+- Tay đỏ/rát là tình trạng cụ thể trong cảnh, không tự dựng chấn thương nặng hoặc tuyên bố đã hồi phục sau bôi kem. Hẹn kiểm tra 08:00 sáng 03/04 chưa phải sự kiện kiểm tra đã hoàn tất.
+- Bản prose mới cho Equinox thay đồ ngủ trong phòng riêng, khác thói quen ngủ khỏa thân đã khóa. Không nâng chi tiết một đêm thành thay đổi thói quen chung; khi sửa chapter cần giữ ranh giới giữa thói quen và lựa chọn cụ thể, không tự xóa canon cũ.
+- Air Groove quan sát tay và nhắc dừng có căn cứ trực tiếp; không nâng thành quyền quyết định đời sống của Equinox hoặc chẩn đoán y khoa. Gu tiếng Hàn là ý kiến nhân vật, không phải sự thật khách quan của narrator.
+- Ba block tác giả chỉnh `28416`, `73146`, `56391` đã được đối chiếu với event căn tin/baseline và các ngoại lệ register hiện hành; không kéo mốc truyện lùi về 01/04 hoặc đổi ban cán sự.
