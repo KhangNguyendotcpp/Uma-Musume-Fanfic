@@ -1,6 +1,6 @@
 # Air Groove — Knowledge Registry tại điểm prose hiện tại
 
-**Mốc:** sáng 2026-04-02, ngay sau khi Air Groove cùng Equinox, Rudolf và Brian ăn kem xong rồi tiếp tục mua sắm trong siêu thị tại Shibuya.
+**Mốc:** tối 2026-04-02, ngay sau khi Air Groove cùng Equinox, Rudolf và Brian hoàn tất bữa tối và toàn bộ việc nhà tại căn hộ Shibuya.
 
 ## KNOWN — có nguồn trực tiếp
 
@@ -53,6 +53,14 @@
 - Air Groove trực tiếp thấy Equinox lấy ba túi snack đậu xanh nước dừa, khẳng định đó là món mình thích và nói hàng ở nhà đã hết. Cô biết Equinox nhớ không gian còn lại trong tủ lạnh/tủ khô, nhưng không được nâng lời nhớ này thành một phép kiểm kho độc lập của chính Air Groove.
 - Air Groove trực tiếp chứng kiến người ngoài hiểu nhầm ba học sinh là con của Equinox và việc Equinox không sửa lời người phụ nữ lớn tuổi. Cô biết đây là lựa chọn tránh giải thích một hiểu nhầm vô hại, không phải thay đổi quan hệ pháp lý hoặc nghề nghiệp.
 - Air Groove trực tiếp nghỉ ăn kem cùng nhóm; biết Equinox/Rudolf/mình/Brian lần lượt chọn vani/matcha/dâu-sữa/chocolate đen và Equinox thanh toán. Cô biết xe thực phẩm chưa thanh toán, phần hàng phi thực phẩm còn ở phía sau và nhóm đã tiếp tục đi trong siêu thị.
+- Air Groove biết nhóm đã hoàn tất đủ việc mua sắm để mang thực phẩm mới về căn hộ; tổng thanh toán và danh sách đầy đủ phần hàng phi thực phẩm vẫn không được tự điền nếu prose không xác lập.
+- Air Groove trực tiếp tham gia buổi thể lực 02/04, biết mục tiêu vận động, tempo chậm và quy tắc dừng ở thất bại kỹ thuật. Cô biết chân phải mình tiếp tục được theo dõi và tự báo vào bữa tối rằng hai chân chỉ nặng đều, không còn điểm căng riêng.
+- Air Groove trực tiếp nhận báo cáo đúng phân quyền lúc 17:15, đọc phần liên quan của Track 7/buổi đánh giá và phụ lục cá nhân của mình. Cô biết Track 7 vẫn khóa, còn chờ kiểm tra kỹ thuật và đề nghị trừ lương chưa được Tracen chấp thuận.
+- Air Groove biết mỗi trainee chỉ được xem phụ lục cá nhân của chính mình; cô không tự biết dữ liệu riêng trong phụ lục Rudolf hoặc Brian.
+- Air Groove trực tiếp xác nhận mỗi tài liệu chỉ dùng từ “tốt” một lần và hiểu đó là kết luận cụ thể, không phải lời khen chung để làm mềm phê bình.
+- Air Groove trực tiếp yêu cầu Equinox nghỉ, biết cô ấy ngủ đúng 30 phút rồi dậy nấu tối. Cô cùng nhóm chuẩn bị lẩu miso gà/cơm/rau bina trộn mè và hoàn tất việc nhà.
+- Air Groove trực tiếp nghe Rudolf tự báo mỏi sau đùi/cơ dép và Brian tự báo mỏi nhưng không đau, gồm lưng trên. Cô biết đây chưa phải kết luận phục hồi cuối cùng.
+- Air Groove trực tiếp nghe Equinox xác nhận đang cân nhắc mua cơ sở tập riêng. Cô biết mình đã yêu cầu báo cáo về kỹ thuật, vận hành, nhân sự, khoảng cách và quyền trainee; chưa có nơi nào được mua hoặc chọn.
 
 Khi lớp tách thành nhiều nhóm nói chuyện chồng lên nhau, registry **không** mặc định Air Groove nghe trọn mọi trao đổi Opera–Fuji, Brian–Laurel, Hishi–Taishin, Gold City–Gentildonna hoặc các nhóm khác chỉ vì cô ở cùng phòng. Chỉ chuyển từng nội dung sang `KNOWN` nếu prose xác lập cô tham gia, chú ý hoặc ở vị trí nghe rõ.
 
@@ -62,7 +70,7 @@ Khi lớp tách thành nhiều nhóm nói chuyện chồng lên nhau, registry *
 - Equinox chọn tài khoản ngân hàng nào, vì sao chọn, số tài khoản, số dư hoặc bất kỳ dữ liệu ngân hàng nào.
 - Nội dung chi tiết các màn hình/hợp đồng chỉ Equinox và staff phụ trách thấy trong orientation.
 - Trao đổi riêng giữa Equinox và Zenith ngoài phần được nói công khai trong cuộc gọi tại căn tin; tình trạng hiện tại hoặc thời điểm đến của Haise/Takiyama.
-- Kết luận kiểm tra Track 7, tổng chi phí sửa chữa và việc Tracen có thực sự khấu trừ lương Equinox hay không.
+- Kết luận kỹ thuật cuối cùng của đội bảo trì Track 7, tổng chi phí sửa chữa và việc Tracen có thực sự khấu trừ lương Equinox hay không. Air Groove chỉ biết phần báo cáo Equinox được cấp cho mình và các hạng mục còn chờ kiểm tra.
 - Nội dung những cuộc nói chuyện ở cổng xảy ra trước khi Air Groove tới, gồm trao đổi riêng với Tazuna, Team Spica, Hana, Tachyon/Cafe và Urara/Rice.
 - Việc Equinox thay đồ lót trong phòng thay đồ trainer.
 - Chi tiết Equinox và Zenith trao đổi riêng trước/sau phần Zenith trực tiếp ở buffet, nếu không được nói trước mặt Air Groove.

@@ -1,6 +1,6 @@
 # Zenith — Registry kiến thức trong fanfic Uma
 
-**Phạm vi:** những gì Zenith đã trực tiếp biết qua quan hệ gia đình, chuẩn bị trước tại căn hộ, cuộc gọi video giờ trưa, lần xuất hiện trực tiếp tại buffet Shibuya và nhóm chat gia đình trên đường Equinox về căn hộ tối 2026-04-01. Endpoint truyện đã sang sáng 2026-04-02 nhưng chưa có kênh truyền mới cho Zenith sau lúc Equinox báo đã về. File này không thay thế canon OU về danh tính hoặc lịch sử Zenith.
+**Phạm vi:** những gì Zenith đã trực tiếp biết qua quan hệ gia đình, chuẩn bị trước tại căn hộ, cuộc gọi video giờ trưa, lần xuất hiện trực tiếp tại buffet Shibuya và nhóm chat gia đình trên đường Equinox về căn hộ tối 2026-04-01. Endpoint truyện đã sang tối 2026-04-02 nhưng chưa có kênh truyền mới cho Zenith sau lúc Equinox báo đã về. File này không thay thế canon OU về danh tính hoặc lịch sử Zenith.
 
 | Lĩnh vực | Trạng thái sau tin nhắn báo đã về ngày 2026-04-01 |
 |---|---|
@@ -27,6 +27,7 @@
 | Không gian và sinh hoạt tại căn hộ sau buffet | UNKNOWN tại endpoint: Zenith đã rời trước khi bốn người vào căn hộ; không mặc định biết phân chỗ, quy tắc sinh hoạt, việc giặt đồ hoặc diễn biến sáng 02/04 |
 | Tám ván cờ Equinox–Rudolf | UNKNOWN tại endpoint: không có mặt và chưa có cảnh được kể lại |
 | Kiểm tra/mua sắm/ăn kem sáng 2026-04-02 | UNKNOWN tại endpoint: không có mặt và chưa có cảnh truyền đạt hợp lệ |
+| Buổi thể lực, ba báo cáo, cơ sở tập đang cân nhắc, bữa tối và việc nhà 2026-04-02 | UNKNOWN tại endpoint: không có mặt và chưa có cảnh truyền đạt hợp lệ |
 
 ## Guardrail
 
@@ -35,4 +36,4 @@
 - Việc thấy cả lớp trong cuộc gọi không làm Zenith biết đầy đủ hồ sơ, phiếu bầu, nội dung buổi hỏi đáp sáng hoặc khảo sát Izu. Chỉ các câu được nói trực tiếp trong cuộc gọi mới có kênh truyền.
 - Việc Zenith gặp nhóm tại buffet xóa trạng thái “chưa biết ba học sinh đã tới Shibuya”, nhưng không mở quyền biết toàn bộ diễn biến trước đó ở Tracen hoặc phần xảy ra trong căn hộ sau khi cô rời đi.
 - Group chat đường về chỉ cho Zenith biết ảnh đã được Equinox gửi và trạng thái nhóm tới sảnh/cửa. Nó không truyền cho cô suy nghĩ riêng của Rudolf/Air Groove/Brian hoặc mọi câu họ nói khi không được gõ vào chat.
-- Không cho Zenith phản ứng với tám ván cờ, kết quả kiểm tra 08:00, chuyến mua sắm, hiểu nhầm “mẹ và ba con”, phần ăn kem hoặc các quyết định riêng trong căn hộ trước khi có cảnh truyền đạt hợp lệ.
+- Không cho Zenith phản ứng với tám ván cờ, kết quả kiểm tra 08:00, chuyến mua sắm, hiểu nhầm “mẹ và ba con”, phần ăn kem, buổi thể lực, ba báo cáo, việc cân nhắc cơ sở tập riêng, bữa tối hoặc các quyết định riêng trong căn hộ trước khi có cảnh truyền đạt hợp lệ.

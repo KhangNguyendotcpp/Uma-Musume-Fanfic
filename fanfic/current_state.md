@@ -2,7 +2,7 @@
 
 > **CANON GUARD — KHÔNG ĐƯỢC HẠ CẤP TRẠNG THÁI:** Equinox **đã vượt qua toàn bộ quy trình tuyển dụng tăng tốc và đã chính thức trở thành cả giáo viên Lịch sử lẫn trainer của Tracen Academy trong ngày 2026-03-09**. Không được viết hoặc suy luận rằng cô vẫn chỉ là ứng viên, mới qua vòng một, chưa đậu, hoặc phải chờ đến 2026-03-23 mới trở thành staff.
 
-**Mốc hiện tại của prose:** **sáng 2026-04-02, ngay sau khi Equinox, Rudolf, Air Groove và Narita Brian ăn kem xong rồi tiếp tục đi trong siêu thị tại một trung tâm thương mại gần căn hộ Shibuya**. Buổi kiểm tra trạng thái sáng đã diễn ra, nhóm đã đi bộ từ Park Court Shibuya The Tower tới trung tâm, chất gần đầy một xe thực phẩm và nghỉ chân ở quán kem. Họ chưa thanh toán xe hàng, chưa mua xong phần hàng phi thực phẩm, chưa rời trung tâm và chưa trở về căn hộ. Track 7 vẫn bị khóa, Team Zenith chưa được chứng nhận, khảo sát Izu chưa bắt đầu và ngày Zenith tới thăm Tracen vẫn `TBD`. Những gì ghi là “đã xảy ra” trong file này là `STORY-ESTABLISHED / LOCKED`.
+**Mốc hiện tại của prose:** **tối 2026-04-02, ngay sau khi Equinox, Rudolf, Air Groove và Narita Brian ăn lẩu miso gà rồi hoàn tất toàn bộ việc nhà tại căn hộ tầng 39 Park Court Shibuya The Tower**. Nhóm đã hoàn tất đủ việc mua sắm để trở về căn hộ, trải qua buổi thể lực, một khối tự do bốn giờ, ba báo cáo được gửi lúc 17:15, khoảng nghỉ 30 phút, bữa tối và việc dọn dẹp. Track 7 vẫn bị khóa, Team Zenith chưa được chứng nhận, cơ sở tập riêng chỉ đang được cân nhắc, khảo sát Izu chưa bắt đầu và ngày Zenith tới thăm Tracen vẫn `TBD`. Những gì ghi là “đã xảy ra” trong file này là `STORY-ESTABLISHED / LOCKED`.
 
 ## 1. Trạng thái nghề nghiệp của Equinox
 
@@ -264,7 +264,19 @@ Các điều sau là kế hoạch tương lai, **không được viết như ký
 - Sau khi ăn, không ai báo đau tăng và dấu căng rất nhỏ ở bước chân phải đầu tiên của Air Groove không còn xuất hiện. Cả bốn đứng dậy tiếp tục mua sắm; xe thực phẩm chưa thanh toán và phần hàng phi thực phẩm còn ở phía sau.
 - Chi tiết đầy đủ nằm tại `fanfic/events/2026-04-02-shibuya-morning-shopping-ice-cream.md`.
 
-## 16. Quan niệm cơ thể và giới tính đã khóa
+## 16. 2026-04-02: buổi thể lực, báo cáo và buổi tối tại căn hộ
+
+- Phần prose sau xác nhận nhóm đã hoàn tất đủ việc mua sắm để mang thực phẩm mới về căn hộ. Tổng thanh toán, danh sách hàng phi thực phẩm và giờ về chính xác chưa được repo khóa.
+- Equinox tổ chức một buổi thể lực dùng tempo chậm và ngưỡng thất bại kỹ thuật, phục vụ truyền lực khi chạy, ổn định một chân, kiểm soát chuỗi khớp, sức chịu tải của gân kheo/cơ dép, độ cứng thân người và khả năng giữ tư thế khi mệt.
+- Trong khối tự do bốn giờ, Equinox viết báo cáo Track 7 **19 trang chính + 6 trang phụ lục**, báo cáo buổi đánh giá hôm trước với phụ lục cá nhân và bản tóm tắt thể lực sáng 02/04. Bản tóm tắt chưa phải báo cáo cuối vì còn chờ đau cơ buổi tối, giấc ngủ và trạng thái sáng hôm sau.
+- Cả ba tài liệu chỉ dùng từ “tốt” đúng một lần cho một kết luận cụ thể; Brian phát hiện, Air Groove và Rudolf xác nhận. Đây không phải hạn ngạch Equinox cố ý đặt.
+- Các báo cáo được gửi lúc **17:15 JST** theo đúng phân quyền. Track 7 vẫn bị khóa; đề nghị trừ chi phí khỏi lương vẫn chỉ là đề nghị và chưa có kết luận kỹ thuật/tài chính cuối cùng.
+- Equinox nghỉ đúng 30 phút rồi cùng ba học sinh nấu **lẩu miso gà, cơm và rau bina trộn mè**; mì được dùng cuối nồi. Sau ăn, cả bốn tự chia việc nhà và hoàn tất toàn bộ dọn dẹp.
+- Air Groove tự báo hai chân nặng đều, không còn điểm căng riêng ở chân phải; Rudolf mỏi sau đùi/cơ dép; Brian mỏi nhưng không đau, gồm lưng trên. Đây chưa phải medical clearance hoặc kết luận phục hồi cuối.
+- Equinox xác nhận đang cân nhắc mua một cơ sở tập riêng và sẽ làm báo cáo về yêu cầu kỹ thuật/vận hành. **Chưa có nơi nào được mua hoặc chọn**, chưa khóa địa điểm, chi phí, nhân sự, thiết kế hay quyền sử dụng.
+- Chi tiết đầy đủ và ranh giới kiến thức nằm tại `fanfic/events/2026-04-02-apartment-strength-reports-dinner.md`.
+
+## 17. Quan niệm cơ thể và giới tính đã khóa
 
 - Equinox không xem giới tính là trục cốt lõi giữ danh tính. Cơ thể, hormone, quần áo hoặc thói quen chăm sóc có thể thay đổi trải nghiệm nhưng không tự thay giá trị quan, tính cách hay người cô yêu.
 - Việc chăm tóc, dưỡng da, mặc đồ nữ hoặc nhận ra cơ thể hiện tại đẹp không quyết định xu hướng tính dục hay buộc cô vào một vai giới cố định.
@@ -273,8 +285,8 @@ Các điều sau là kế hoạch tương lai, **không được viết như ký
 - Hôn nhân khiến giới tính được gọi tên rõ hơn trong quan hệ, nhưng đối tượng Equinox yêu là Zenith chứ không phải một danh mục giới tính hay vai “chồng/vợ” được viết sẵn.
 - Equinox thoải mái với khỏa thân trong không gian riêng và ngủ khỏa thân. Không được biến sự thoải mái này thành quyền để nhân vật khác xâm phạm riêng tư hoặc thành trò phản ứng tập thể.
 
-## 17. Điểm nối cảnh
+## 18. Điểm nối cảnh
 
-Điểm tiếp tục trực tiếp là **ngay sau khi Equinox, Rudolf, Air Groove và Brian ăn kem xong, đứng dậy rồi tiếp tục đi trong siêu thị sáng 2026-04-02**. Equinox đang đẩy xe thực phẩm gần đầy; hàng chưa thanh toán, nhóm chưa rời trung tâm thương mại hoặc trở về căn hộ, và phần mua sắm phi thực phẩm chưa diễn ra. Repo chưa xác lập việc ba bộ shogi/cờ vây/cờ tướng có được chơi sau tám ván cờ hay không. Track 7 vẫn bị khóa; Team Zenith chưa được chứng nhận; khảo sát Izu chưa được xử lý; ngày Zenith tới thăm Tracen vẫn `TBD`. Ban cán sự vẫn là **Sirius Symboli / Hishi Amazon / T.M. Opera O / Eishin Flash** và Special Week không xuất hiện trước ngày nhập học 2026-04-06.
+Điểm tiếp tục trực tiếp là **ngay sau khi Equinox, Rudolf, Air Groove và Brian hoàn tất việc nhà sau bữa tối tại căn hộ tối 2026-04-02**. Máy rửa chén đang chạy, bếp/bàn đã sạch, rác đã mang đi, quần áo đã được gấp hoặc treo, đồ ăn còn lại đã dán nhãn và đèn bếp đã tắt. Buổi thể lực sáng chưa có báo cáo cuối vì còn chờ dữ liệu đau cơ/giấc ngủ/trạng thái sáng hôm sau. Repo chưa xác lập việc ba bộ shogi/cờ vây/cờ tướng có được chơi sau tám ván cờ hay không. Track 7 vẫn bị khóa; Team Zenith chưa được chứng nhận; cơ sở tập riêng mới chỉ ở mức xem xét; khảo sát Izu chưa được xử lý; ngày Zenith tới thăm Tracen vẫn `TBD`. Ban cán sự vẫn là **Sirius Symboli / Hishi Amazon / T.M. Opera O / Eishin Flash** và Special Week không xuất hiện trước ngày nhập học 2026-04-06.
 
 Không được quay lại trạng thái “ứng viên” hay buộc Equinox thi lại. Không mặc định nhân vật biết một sự kiện đã qua nếu họ không được xác lập là người tham dự/người được kể lại; xem `fanfic/style/prohibited_tendencies.md`, `fanfic/knowledge/air-groove.md` và `fanfic/knowledge/zenith.md`.

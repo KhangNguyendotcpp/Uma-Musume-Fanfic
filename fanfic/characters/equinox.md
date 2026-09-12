@@ -7,7 +7,7 @@
 - **Số đo ba vòng (ngực–eo–hông):** **210–118–200 cm** — STORY-ESTABLISHED / LOCKED
 - **Cơ quan:** Tracen Academy
 - **Vai trò hiện tại:** giáo viên Lịch sử + trainer chính thức + giáo viên chủ nhiệm Senior 3-A, với quyền trong từng phạm vi chuyên môn — STORY-ESTABLISHED / LOCKED
-- **Trạng thái tại điểm prose hiện tại:** sáng 2026-04-02 tại siêu thị trong một trung tâm thương mại gần căn hộ Shibuya; sau kiểm tra trạng thái buổi sáng, Equinox cùng Rudolf/Air Groove/Brian đã đi bộ tới mua thực phẩm, nghỉ ăn kem và vừa tiếp tục mua sắm. Xe gần đầy nhưng chưa thanh toán; nhóm chưa mua xong phần hàng phi thực phẩm, chưa rời trung tâm và chưa về căn hộ — STORY-ESTABLISHED / LOCKED
+- **Trạng thái tại điểm prose hiện tại:** tối 2026-04-02 tại căn hộ tầng 39 Park Court Shibuya The Tower; sau khi trở về từ mua sắm, Equinox đã tổ chức buổi thể lực, viết/gửi ba tài liệu lúc 17:15, nghỉ 30 phút, cùng Rudolf/Air Groove/Brian nấu bữa tối và hoàn tất việc nhà. Track 7 vẫn khóa; cơ sở tập riêng mới ở mức cân nhắc — STORY-ESTABLISHED / LOCKED
 - **Môn giảng dạy/đã giảng thử:** Lịch sử — STORY-ESTABLISHED / LOCKED
 - **Chức danh hợp đồng chính xác:** TBD; không ảnh hưởng kết quả tuyển dụng đã chốt
 
@@ -139,6 +139,15 @@ Equinox là Uma nhưng **không được định hướng làm racer thi đấu*
 - Xác nhận thích snack đậu xanh nước dừa, lấy ba túi và nhớ cụ thể sức chứa còn lại của tủ lạnh/tủ thực phẩm. Không biến sự dễ dãi khi mua đồ thành việc Air Groove nắm quyền quyết định tài chính thay cô ấy.
 - Không sửa lời một phụ nữ lớn tuổi gọi ba học sinh là “các con nhà cô” vì hiểu nhầm không gây hại và người phụ nữ đang vui. Đây không phải việc Equinox tự nhận vai phụ huynh.
 - Chọn kem vani, trả tiền cả bốn phần rồi bắt đầu lơ mơ khi ngồi nghỉ. Sau khi ăn xong và phân loại rác, tiếp tục đẩy xe vào dòng khách; xe thực phẩm chưa thanh toán và phần hàng phi thực phẩm còn ở phía sau.
+
+## Buổi thể lực, báo cáo và buổi tối — 2026-04-02
+
+- Tổ chức buổi thể lực dùng tempo chậm và thất bại kỹ thuật làm ngưỡng dừng, không cho trainee đổi kỹ thuật để hoàn thành thêm rep.
+- Dành khối tự do bốn giờ viết ba tài liệu: báo cáo Track 7 19 trang chính + 6 phụ lục, báo cáo buổi đánh giá hôm trước và tóm tắt thể lực chưa hoàn chỉnh. Gửi đúng phân quyền lúc 17:15.
+- Trong báo cáo Track 7, tách dữ kiện, suy luận và phần chờ kiểm tra; tự nhận trách nhiệm cho quyết định chạy tối đa khi chưa có thử nghiệm lực tương ứng. Không viết đề nghị trừ lương như thể Tracen đã duyệt.
+- Chỉ dùng từ “tốt” đúng một lần trong mỗi tài liệu vì cho rằng phần đó chính xác, không nhằm làm mềm phê bình hoặc tạo lời động viên chung chung.
+- Nằm nghỉ đúng 30 phút theo yêu cầu của Air Groove rồi dậy nấu tối. Cùng ba học sinh chuẩn bị lẩu miso gà, cơm và rau bina trộn mè, sau đó chia và hoàn tất việc nhà.
+- Đang xem xét mua một cơ sở tập riêng vì nhu cầu thiết bị cố định, dữ liệu thống nhất, kiểm soát quyền truy cập, mặt sàn/khu chạy chịu tải và không phải đặt lịch. Đã đồng ý làm báo cáo riêng trước quyết định; chưa mua hoặc chọn địa điểm.
 
 ## Nguyên tắc nghề nghiệp đã thể hiện
 - Sức khỏe và medical clearance đứng trên race, Winning Live và sức ép khán giả.

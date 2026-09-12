@@ -1,6 +1,6 @@
 # Prose Audit — từ mở đầu đến điểm hiện tại
 
-**Phạm vi:** các sự kiện prose đã được khóa trong repo từ Equinox xuất hiện ngày 2026-03-09 tới lúc cô ấy cùng Rudolf/Air Groove/Brian ăn kem xong và tiếp tục mua sắm tại Shibuya sáng 2026-04-02. Repo hiện giữ phần lớn các cảnh dưới dạng continuity summary thay vì chapter nguyên văn; vì vậy audit này chỉ kết luận chắc chắn ở nơi còn đủ văn bản/dữ kiện, không dựng lỗi cho đoạn không còn nguyên văn.
+**Phạm vi:** các sự kiện prose đã được khóa trong repo từ Equinox xuất hiện ngày 2026-03-09 tới lúc cô ấy cùng Rudolf/Air Groove/Brian hoàn tất bữa tối và việc nhà tại căn hộ Shibuya tối 2026-04-02. Repo hiện giữ phần lớn các cảnh dưới dạng continuity summary thay vì chapter nguyên văn; vì vậy audit này chỉ kết luận chắc chắn ở nơi còn đủ văn bản/dữ kiện, không dựng lỗi cho đoạn không còn nguyên văn.
 
 **Trạng thái:** tài liệu chẩn đoán, không tự retcon sự kiện. Guardrail bắt buộc nằm tại `fanfic/style/prohibited_tendencies.md`.
 
@@ -118,6 +118,18 @@
 - Danh sách thực phẩm dài chỉ được khóa theo nhóm cùng vài món có payoff: snack đậu xanh nước dừa của Equinox, óc chó của Brian, giới hạn đồ có cồn và bốn vị kem. Khi viết tiếp không cần đọc lại toàn bộ inventory.
 - Register chính khớp: Equinox dùng `cô–em/các em` với học sinh và dùng cách lịch sự trung tính với nhân viên/người lạ; Rudolf/Air Groove/Brian dùng baseline `tôi–cậu` khi nói ngang hàng. Không để cách người phụ nữ gọi Equinox là “cô” biến thành tự xưng của Equinox với người lớn.
 - Endpoint rõ: nhóm vừa ăn kem xong và tiếp tục đi trong siêu thị; xe thực phẩm gần đầy nhưng chưa thanh toán, phần hàng phi thực phẩm chưa xong, cả bốn chưa rời trung tâm hoặc trở về căn hộ.
+
+## Kiểm tra buổi thể lực, báo cáo và buổi tối 2026-04-02
+
+- Cast chỉ gồm Equinox, Rudolf, Air Groove và Brian. Zenith không có mặt, không được kể lại và không tự biết bất kỳ phần nào của buổi thể lực, báo cáo, cơ sở tập đang cân nhắc, bữa tối hoặc việc nhà.
+- Ba báo cáo giữ đúng ranh giới dữ liệu: bản Track 7 chỉ sao chép phần liên quan cho trainee; báo cáo đánh giá có phụ lục cá nhân; mỗi trainee chỉ xem phần của mình. Không dùng việc cả ba thiết bị cùng nhận thông báo làm quyền đọc chéo dữ liệu.
+- Báo cáo Track 7 phân biệt observation/log/suy luận/chờ kiểm tra và không kết luận mặt sân yếu hay một nguyên nhân duy nhất. Đề nghị trừ lương vẫn không phải quyết định Tracen; track vẫn khóa.
+- Bản tóm tắt thể lực chưa hoàn chỉnh vì phản ứng đau cơ trễ, giấc ngủ và trạng thái sáng sau chưa có. Các tự báo cáo trong bữa tối không được nâng thành medical clearance.
+- Việc mỗi tài liệu chỉ dùng “tốt” một lần là beat characterization có payoff rõ; không kéo nó thành running gag trong mọi báo cáo sau nếu prose chưa lặp lại.
+- Air Groove có quyền yêu cầu Equinox nghỉ và nêu điều kiện phân tích trước khi mua cơ sở tập, nhưng Equinox vẫn tự chọn nghỉ, tự quyết định nấu và tự cam kết làm báo cáo. Không biến Air Groove thành người quản lý toàn bộ đời sống/tài sản của cô ấy.
+- Cơ sở tập riêng chỉ ở mức Equinox đang xem xét. Không tự tạo địa điểm, giá, nhân sự, thiết kế, lịch mua hoặc quyền sử dụng trước khi author khóa.
+- Endpoint mới là sau bữa tối và việc nhà. Chi tiết shopping giữa quán kem và lúc về căn hộ chỉ được dùng ở mức prose thật sự xác lập; tổng tiền và inventory phi thực phẩm không được tự dựng từ việc thấy tủ lạnh đã đầy.
+- Register trong đoạn hiện có khớp ma trận chính: Equinox dùng `cô–em/các em`; học sinh dùng `em–cô`; Rudolf/Air Groove/Brian dùng `tôi–cậu` khi nói ngang hàng. Không để lời kể gọi Equinox là `cô` thay cho `cô ấy`.
 
 ## Những phần hiện không thấy lỗi canon chắc chắn
 

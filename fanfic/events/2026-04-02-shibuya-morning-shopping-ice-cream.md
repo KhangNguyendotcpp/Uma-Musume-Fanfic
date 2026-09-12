@@ -38,11 +38,12 @@
 - Trong lúc ăn, Air Groove tiếp tục kiểm tra danh sách và sức chứa. Equinox đề xuất có thể mua thêm/lấy xe khác, nhưng chấp nhận dừng mua thực phẩm khi Air Groove nhắc còn các mặt hàng không phải thực phẩm ở phần sau.
 - Khi đứng dậy, không ai báo đau tăng. Dấu căng rất nhỏ ở bước đầu chân phải của Air Groove mà Equinox đã thấy trong căn hộ không còn xuất hiện sau khoảng nghỉ; điều này không tự thay cho medical clearance đầy đủ.
 
-## Endpoint hiện tại
+## Endpoint của nhịp mua sắm
 
 - Cả bốn đã ăn hết kem, Equinox phân loại cốc/thìa vào đúng thùng rác và quay lại xe.
 - Air Groove nói tiếp tục; Equinox đẩy xe hàng gần đầy rời khu nghỉ và cả bốn nhập lại dòng khách trong siêu thị.
 - Họ **chưa thanh toán xe thực phẩm, chưa rời trung tâm thương mại và chưa trở về căn hộ**. Các mặt hàng không phải thực phẩm vẫn còn ở phần mua sắm tiếp theo.
+- Phần prose sau đã vượt endpoint này và xác nhận nhóm hoàn tất đủ việc mua sắm để mang thực phẩm về căn hộ. Tổng thanh toán, danh sách đầy đủ hàng phi thực phẩm và giờ về chính xác không được khóa trong file này; phần tiếp theo nằm tại `fanfic/events/2026-04-02-apartment-strength-reports-dinner.md`.
 
 ## Ranh giới kiến thức và trạng thái
 
