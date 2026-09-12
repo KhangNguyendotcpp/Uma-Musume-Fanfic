@@ -72,13 +72,13 @@ Các register riêng đã xuất hiện và được phép giữ khi đúng nhâ
 | Equinox | Zenith | `anh–em` |
 | Zenith | Equinox | `em–anh`; nói với học sinh có thể gọi `anh ấy/chồng chị` |
 | Zenith | học sinh | `chị–em/các em` |
-| Học sinh | Zenith | `em/chúng em–chị`, không dùng `tôi/chúng tôi` |
+| Học sinh | Zenith | mặc định `em/chúng em–chị`; phải giữ ngoại lệ đã được tác giả khóa theo đúng nhân vật/cảnh |
 | Equinox | đồng nghiệp/staff trưởng thành | `tôi` + cách gọi phù hợp người nghe |
 | Equinox | người lớn ngoài trường/nhân viên dịch vụ | mặc định `tôi`; không tự xưng `cô` |
 | Học sinh thân thiện | học sinh ngang hàng | `tớ–cậu`, trừ register riêng có bằng chứng |
 | Học sinh formal/xa cách/đối đầu | học sinh ngang hàng | có thể `tôi–cậu`, nhưng phải chứng minh bằng profile/bối cảnh |
 
-Lời kể ngôi ba gọi Equinox là `cô ấy` hoặc dùng tên; không rút thành `cô` khi có thể lẫn với chức danh/tự xưng. Equinox nói về học sinh với Zenith/người lớn dùng `em ấy`, không dùng `cô ấy`. Học sinh nói về Equinox với Zenith ưu tiên `cô Equinox/cô ấy`, không dùng `cổ`.
+Lời kể ngôi ba mặc định gọi Equinox là `cô ấy` hoặc dùng tên; chỉ rút thành `cô` khi antecedent hoàn toàn rõ hoặc câu đã được tác giả khóa nguyên văn. Equinox nói về học sinh với Zenith/người lớn mặc định dùng `em ấy`. Học sinh nói về Equinox với Zenith mặc định dùng `cô Equinox/cô ấy`. Các ngoại lệ nguyên văn trong cuộc gọi căn tin 2026-04-01 được ghi ở mục 9 và không được tự động mở rộng sang cảnh khác.
 
 ## 6. Hội thoại nhiều người
 
@@ -115,17 +115,18 @@ Sau khi viết, thực hiện một lượt chỉ kiểm tra xưng hô:
 
 Không được giao prose với ghi chú “sẽ sửa xưng hô sau”. Xưng hô sai là lỗi blocking.
 
-## 9. Các lỗi mẫu đã cấm lặp lại
+## 9. Ngoại lệ nguyên văn đã được tác giả khóa
 
-- Rudolf nói với Brian: `Em chưa cười` / `Em khuyên cậu đừng thử` — `em` bị nhiễm từ cuộc nói chuyện với Equinox; phải reset sang register học sinh–học sinh được profile/bối cảnh hỗ trợ.
-- Brian đáp Rudolf: `Em chưa nói sẽ thử` — cùng lỗi nhiễm `em`.
-- Fuji nói trực tiếp với Zenith: `chúng tôi` hoặc `tôi` — phải là `chúng em` hoặc `em`.
-- Air Groove nói trực tiếp với Zenith: gọi `cô` — phải gọi `chị`.
-- Equinox nói với Zenith: tự xưng `cô` — phải là `anh`.
-- Equinox nói về Rudolf với Zenith: `cô ấy` — phải là `em ấy`.
-- Học sinh nói về Equinox với Zenith: `cổ` — phải là `cô Equinox/cô ấy`.
+Bản chỉnh sửa mới nhất của tác giả giữ các lựa chọn sau. Chúng **không còn là lỗi phải sửa** trong chapter nguồn, nhưng cũng không trở thành default cho cảnh mới:
 
-Sửa một lỗi không kết thúc audit. Phải rà toàn scene theo người nghe vì lỗi register thường đi thành cụm.
+- Trong cuộc gọi căn tin, Air Groove tự xưng `em` nhưng gọi Zenith là `cô` ở các câu chất vấn đầu tiên.
+- Fuji Kiseki dùng `tôi` khi xin phép hỏi Zenith; các học sinh khác giữ register đúng như lời thoại riêng của mình thay vì bị ép về một mẫu đồng loạt.
+- Tamamo Cross dùng `cổ` khi nói về Equinox, phù hợp phương ngữ đã khóa của Tamamo.
+- Equinox giữ nguyên các câu `Cô ấy phân tích đúng` khi nói về Rudolf và `Cô đã ngủ` khi giả ngủ trước Zenith; register vợ chồng chung vẫn là `anh–em`.
+- Lời kể trong cảnh có thể rút `cô ấy` thành `cô` ở một số câu đã khóa nếu antecedent Equinox không mơ hồ.
+- Trong cảnh hành lang trước buổi đánh giá nền, Rudolf nói `Em khuyên cậu đừng thử` và Brian đáp `Em chưa nói sẽ thử`; giữ đúng bản tác giả dù baseline giữa ba học sinh vẫn là `tôi–cậu` cho cảnh mới.
+
+Ngoài các câu và ngữ cảnh đã khóa trên, vẫn phải reset register mỗi khi đổi người nghe và áp dụng ma trận ở mục 5. Không suy ngoại lệ của một nhân vật thành quyền dùng lẫn đại từ cho toàn cast.
 
 ## 10. Sổ quyết định register tiếng Việt
 

@@ -23,8 +23,8 @@
 - Khi nói với **học sinh**, Equinox tự xưng **“cô”** và gọi đối phương là **“em/các em”**. Air Groove, Symboli Rudolf và mọi thành viên hội học sinh vẫn thuộc nhóm này khi còn là học sinh.
 - Khi nói với **đồng nghiệp/staff trưởng thành**, Equinox tự xưng **“tôi”**. Không dùng “cô” để tự xưng chỉ vì người nghe gọi cô là giáo viên.
 - Với người lớn ngoài trường, nhân viên dịch vụ hoặc người lạ, mặc định dùng **“tôi”** trừ khi quan hệ cụ thể đã thiết lập một cách xưng hô khác.
-- Lời kể ngôi ba ưu tiên gọi Equinox là **“cô ấy”** hoặc dùng tên; không rút thành **“cô”** trong prose hiện tại vì dễ tràn vào register hội thoại và lẫn với chức danh giáo viên.
-- Với Zenith, Equinox dùng **“anh–em”** và tự xưng **“anh”** kể cả khi đang ở Tracen hoặc có học sinh nghe. Khi nói về một học sinh với Zenith, dùng **“em ấy”**, không dùng **“cô ấy”**.
+- Lời kể ngôi ba ưu tiên gọi Equinox là **“cô ấy”** hoặc dùng tên; chỉ rút thành **“cô”** khi antecedent hoàn toàn rõ hoặc câu đã được tác giả khóa, vì cách rút này dễ tràn vào register hội thoại và lẫn với chức danh giáo viên.
+- Với Zenith, Equinox dùng **“anh–em”** và tự xưng **“anh”** kể cả khi đang ở Tracen hoặc có học sinh nghe. Khi nói về một học sinh với Zenith, mặc định dùng **“em ấy”**. Hai câu deadpan `Cô ấy phân tích đúng` về Rudolf và `Cô đã ngủ` trong cuộc gọi căn tin 2026-04-01 là ngoại lệ nguyên văn tác giả đã khóa, không được dùng để đổi register chung của hai vợ chồng.
 
 ### Mắt
 - **Mở trái, nhắm phải:** mống mắt pha đỏ, hồng và trắng với đồng tử sao sáu cánh; thiên hướng nhẹ nhàng hơn, nói nhiều hơn, trọng công lý và giọng dịu/ngọt rõ rệt. Trong cảnh bầu lớp trưởng 3-A, trạng thái này kéo dài đúng năm phút.

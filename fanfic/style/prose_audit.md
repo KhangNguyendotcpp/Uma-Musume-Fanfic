@@ -13,7 +13,7 @@
 | HIGH | Nhiều file repo trước cập nhật này | Mốc prose và trạng thái tuyển dụng/orientation bị lệch giữa `current_state`, timeline, legal framework và guide | Đã đồng bộ trong commit cập nhật; các lần sau phải tìm toàn repo trước khi đổi mốc |
 | HIGH | Timeline bầu ban cán sự | Repo đặt cuộc bầu vào 2026-03-12 dù author đã chốt năm học bắt đầu 2026-04-01 và chỉ bầu ban cán sự từ ngày đó | Đã chuyển toàn bộ sự kiện sang 2026-04-01; 01/04/2026 theo lịch Gregory là Thứ Tư, không phải Thứ Sáu |
 | HIGH | Current state sau các vòng lớp phó | Snapshot chỉ giữ Sirius và Opera O, làm rơi Hishi Amazon và Eishin Flash dù bốn chức vụ đã hoàn tất | Đã khóa đủ bốn chức vụ trong current state, roster, event, guide và continuity |
-| HIGH | Cảnh gọi Zenith ở căn tin | Register trượt giữa lời kể, vợ chồng, giáo viên–học sinh và học sinh–khách: `cô ấy/em ấy`, `cô/chị`, `cô/anh`, `tôi/em`, `cổ/cô Equinox` bị dùng chéo | Áp dụng ma trận trong `prohibited_tendencies.md` và event lunch-call; sửa toàn bộ trước khi lưu chapter nguyên văn |
+| AUTHOR-LOCKED | Cảnh gọi Zenith ở căn tin | Bản chỉnh sửa giữ có chủ ý một số lựa chọn lệch default: `Cô ấy phân tích đúng`, `Cô đã ngủ`, Air Groove gọi Zenith là `cô`, Fuji dùng `tôi`, Tamamo dùng `cổ` và vài câu kể dùng `cô` | Giữ nguyên trong chapter nguồn; không suy thành default cho cảnh mới hoặc toàn cast |
 | MEDIUM | Cảnh cửa hàng | Head-hopping sang nội tâm/mục tiêu doanh số của nhân viên | Chỉ mô tả tín hiệu nhìn thấy hoặc xác lập người kể toàn tri nhất quán |
 | MEDIUM | Cảnh cửa hàng | Cùng một beat “Air Groove ngăn mua quá nhiều” lặp qua giày, dép, dây tóc, quần áo và đồ may đo | Giữ các lượt làm quan hệ tiến triển; rút gọn lượt chỉ lặp kết luận |
 | MEDIUM | Cảnh cửa hàng | Inventory và phí được liệt kê quá chi tiết, làm nhịp truyện đứng yên | Gom theo nhóm; chỉ giữ món/giá tạo setup, payoff hoặc continuity |
@@ -70,13 +70,13 @@
 - Zenith chỉ hiện diện qua cuộc gọi video, đúng knowledge/appearance guardrail. Không có ảnh hoặc dữ liệu riêng tư nào thực sự được gửi.
 - Cảnh có nhiều arrival wave; người tới sau không tự động biết phần đầu. Những điều được nói sau khi cả nhóm đã tụ tập mới có kênh công khai cho toàn bộ 3-A.
 - Khả năng Zenith tới Tracen chỉ được khóa ở mức cân nhắc nghiêm túc. Biểu ngữ, pháo giấy, máy tạo khói và chương trình tiếp đón đều là joke/đề xuất bị chặn, không phải nhiệm vụ đã giao.
-- Xưng hô cần sửa trong chapter nguồn: Equinox → Rudolf `em ấy`; Air Groove → Zenith `chị`; Equinox → Zenith `anh`; học sinh → Zenith `em/chúng em`; học sinh nói về Equinox `cô Equinox/cô ấy`; narration → Equinox `cô ấy`.
+- Xưng hô đã được tác giả khóa theo bản chỉnh sửa: giữ `Cô ấy phân tích đúng`, `Cô đã ngủ`, Air Groove `em–cô`, Fuji `tôi–chị`, Tamamo dùng `cổ` và các câu kể rút Equinox thành `cô` khi antecedent rõ. Đây là quyết định scene-specific; các lượt thoại/cảnh mới vẫn phải lập ledger riêng.
 - Rủi ro trình bày còn lại: cuộc hỏi đáp quá dài và người kể liên tục xác nhận nội tâm của nhiều nhân vật. Đây chưa phải lỗi continuity, nhưng khi lưu chapter nên giữ focalization có chủ đích và tránh biến từng câu hỏi thành một mini-arc khép kín.
 
 ## Kiểm tra buổi đánh giá nền / Track 7 / lời mời Shibuya 2026-04-01
 
 - Trình tự quyền hạn khớp trạng thái team: Rudolf/Air Groove/Brian đã nộp đơn nhưng Team Zenith chưa đủ năm; cả ba tự nguyện yêu cầu đánh giá cá nhân, Equinox dùng quyền trainer chính thức của trường thay vì quyền từ team chưa được chứng nhận.
-- Register trong chapter nguồn có cụm lỗi đã được cảnh báo tại `xung-ho-and-dialogue-register.md`: Rudolf và Brian dùng `em` khi đổi từ nói với Equinox sang nói với nhau. Nếu lưu chapter nguyên văn, phải reset về baseline `tôi–cậu` của đúng cặp.
+- Bản chỉnh sửa hiện hành giữ nguyên `Em khuyên cậu đừng thử` của Rudolf và `Em chưa nói sẽ thử` của Brian khi hai người nói với nhau trong cuộc tranh luận trước cửa phòng giáo vụ. Đây là ngoại lệ scene-specific do tác giả khóa; baseline `tôi–cậu` vẫn áp dụng cho cảnh mới nếu không có quyết định khác.
 - 50 km/h trên 2400 m tương đương 172,8 giây nếu giữ đều sau bước chạy hoàn chỉnh đầu tiên; prose không cần in thời gian này nhưng không được tạo split mâu thuẫn. Chậm 0,9 giây ở vạch đích không xác lập thứ tự nội bộ của Rudolf/Air Groove/Brian.
 - Thiệt hại Track 7 đã được báo và track bị khóa; chưa có kết luận bảo trì. Câu Equinox xin trừ chi phí vào lương là đề nghị đơn phương, không phải quyết định hành chính hoặc số tiền đã tính.
 - Khoảng lưu trú hợp lý theo lịch: tối Thứ Tư 01/04 qua bốn đêm Thứ Tư–Thứ Bảy, trở về Chủ Nhật 05/04. Hai ngày 02–03/04 không có tiết học theo prose mới; không gọi chúng là cuối tuần.

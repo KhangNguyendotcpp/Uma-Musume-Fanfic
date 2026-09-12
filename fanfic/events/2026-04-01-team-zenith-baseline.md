@@ -69,4 +69,4 @@
 | Equinox → Rudolf/Air Groove/Brian | `cô–em/các em` |
 | Ba học sinh → Equinox | `em–cô/thưa cô` |
 | Equinox ↔ Hana | đồng nghiệp trưởng thành; Equinox tự xưng `tôi` |
-| Rudolf/Air Groove/Brian ↔ nhau | baseline `tôi–cậu`; không để `em–cô` tràn từ câu nói với Equinox |
+| Rudolf/Air Groove/Brian ↔ nhau | baseline cảnh mới là `tôi–cậu`; riêng bản tác giả của cảnh này giữ `Em khuyên cậu đừng thử` (Rudolf) và `Em chưa nói sẽ thử` (Brian) |

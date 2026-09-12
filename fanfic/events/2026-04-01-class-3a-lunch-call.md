@@ -65,18 +65,20 @@
 | Quan hệ | Cách dùng đúng |
 |---|---|
 | Lời kể → Equinox | `cô ấy`; dùng tên để tránh lặp, không rút thành `cô` khi có nguy cơ lẫn với vai giáo viên |
-| Equinox → Zenith | `anh–em`; Equinox tự xưng `anh`, không tự xưng `cô` |
+| Equinox → Zenith | register chung `anh–em`; giữ nguyên ngoại lệ deadpan `Cô đã ngủ` trong bản tác giả |
 | Zenith → Equinox | `em–anh`; gọi Equinox là `anh ấy/chồng chị` khi nói với học sinh |
-| Equinox → học sinh | `cô–em/các em`; khi nói về một học sinh dùng `em ấy`, không dùng `cô ấy` |
-| Học sinh → Equinox | gọi trực tiếp `cô/thưa cô`; khi nói về cô với Zenith ưu tiên `cô Equinox/cô ấy`, không dùng `cổ` |
-| Zenith ↔ học sinh | `chị–em/các em`; học sinh trực tiếp nói với Zenith phải xưng `em/chúng em`, không xưng `tôi/chúng tôi` |
+| Equinox → học sinh | `cô–em/các em`; khi nói về Rudolf với Zenith, giữ câu tác giả khóa `Cô ấy phân tích đúng` |
+| Học sinh → Equinox | gọi trực tiếp `cô/thưa cô`; khi nói về cô với Zenith mặc định `cô Equinox/cô ấy`, riêng Tamamo giữ `cổ` theo phương ngữ |
+| Zenith → học sinh | `chị–em/các em` |
+| Học sinh → Zenith | theo bản tác giả: phần lớn dùng `em/chúng em–chị`; Air Groove dùng `em–cô` ở các câu chất vấn đầu, Fuji dùng `tôi–chị` khi xin phép hỏi |
 | Học sinh ↔ học sinh | giữ voice riêng như `tôi–cậu`, `tui–mi` nếu đúng nhân vật và đúng người nghe |
 
-Các lỗi phải sửa nếu chapter nguyên văn được lưu:
+Các lựa chọn nguyên văn đã được tác giả khóa và **không sửa ngược** nếu chapter được lưu:
 
-- `Cô ấy phân tích đúng` (Equinox nói về Rudolf) → `Em ấy phân tích đúng`.
-- `Còn việc cô có thể nhìn từ nơi rất xa?` / `Cô gọi đúng lúc...` (Air Groove nói với Zenith) → dùng `chị`.
-- `Cô đã ngủ` (Equinox nói với Zenith) → `Anh đã ngủ`.
-- `Cổ ở nhà...`, `nhưng cổ trông...` khi học sinh nói về Equinox → `cô Equinox/cô ấy`.
-- `Chị Zenith, tôi...` hoặc `chúng tôi...` khi học sinh trực tiếp nói với Zenith → `em/chúng em`.
-- Các câu trần thuật như `Cô đã gọi đúng tên vợ` hoặc `nói quanh cô` → `cô ấy đã...` / `nói quanh cô ấy`.
+- `Cô ấy phân tích đúng` (Equinox nói về Rudolf) và `Cô đã ngủ` (Equinox giả ngủ trước Zenith).
+- `Còn việc cô có thể nhìn từ nơi rất xa?` / `Cô gọi đúng lúc...` của Air Groove.
+- `Cổ ở nhà...`, `nhưng cổ trông...` của Tamamo khi nói về Equinox.
+- Câu xin phép dùng `tôi` của Fuji Kiseki với Zenith.
+- Các câu trần thuật rút `cô ấy` thành `cô` tại nơi antecedent Equinox đã rõ.
+
+Đây là ngoại lệ theo đúng lời thoại/câu kể hiện hành, không phải ma trận chung để áp vào cảnh mới hoặc nhân vật khác.
