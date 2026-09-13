@@ -35,3 +35,8 @@ Repo này liên kết chặt chẽ với `KhangNguyendotcpp/original-universe-ca
 Danh sách nhân vật được quản lý tại `official/characters/INDEX.md`. Mọi trường dữ liệu không được nguồn hỗ trợ phải giữ trạng thái `UNSPECIFIED` hoặc `TBD`; tuyệt đối không được đoán để điền cho đủ.
 
 **Ngôn ngữ làm việc của repo là tiếng Việt.** Tên riêng, tên giải đấu, đường dẫn file và các token trạng thái như `LOCKED`, `DRAFT`, `TBD` được giữ nguyên khi cần để tránh làm hỏng liên kết và quy tắc máy.
+
+## Lịch đầu tháng 4 và mốc thời gian prose
+
+- Lịch 01–03/04/2026 đã được tác giả đính chính: `fanfic/timeline/2026-04-01-to-03-chronology.md`.
+- Quy tắc cứng khi chuyển cảnh: `fanfic/style/scene-time-anchors.md` — ghi đủ giờ/phút/thứ/ngày/tháng/năm ngay trước đoạn đầu cảnh mới.

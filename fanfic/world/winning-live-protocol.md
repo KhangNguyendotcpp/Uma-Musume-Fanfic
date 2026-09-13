@@ -48,4 +48,4 @@ Nếu episode/corpus cho timing hoặc lineup khác, episode-specific fact thắ
 - https://umamusume.jp/about/
 - https://anime-umamusume.jp/archive/1st/keywords/
 - `official/world/winning-live.md`
-- `fanfic/calendar/WRITING_SCHEDULE_2026_2029.md`
+- `fanfic/calendar/WRITING_SCHEDULE_2026_2035.md`

@@ -1,6 +1,6 @@
 # Air Groove — Knowledge Registry tại điểm prose hiện tại
 
-**Mốc:** cuối tối 2026-04-02; Air Groove đã nghe hết buổi guitar khép bằng `Phonecert` và về chỗ ngủ. Tin nhắn riêng Equinox–Zenith sau đó không thuộc kiến thức của cô bé.
+**Mốc:** cuối tối 2026-04-03; Air Groove đã nghe hết buổi guitar khép bằng `Phonecert` và về chỗ ngủ. Tin nhắn riêng Equinox–Zenith sau đó không thuộc kiến thức của cô bé.
 
 ## KNOWN — có nguồn trực tiếp
 
@@ -39,9 +39,6 @@
 - Air Groove trực tiếp thấy Equinox vẫn mặc lớp đồ công sở từ sáng. Cô **không biết** Equinox đã thay đồ lót hoặc loại đồ lót bên dưới.
 - Air Groove trực tiếp trải qua chuyến tàu từ Fuchu qua Meidaimae tới Shibuya. Cô biết mình bị sàm sỡ trong toa đông, Equinox đã khống chế người gây ra và bàn giao cho phía đường sắt/cảnh sát; cô tự chọn tiếp tục hành trình.
 - Air Groove trực tiếp ăn buffet cùng Equinox/Rudolf/Brian và gặp Zenith xuất hiện ngoài màn hình lần đầu. Cô biết Zenith rời nhóm trước khi họ vào căn hộ, nhưng **không biết tên `The Beyond Valley` hoặc địa điểm thật mà Zenith trở về**; việc gặp Zenith không tự trao cho Air Groove dữ kiện OU khác chưa được kể.
-- Khoảng 17:10 trên đường đi bộ về, Air Groove trực tiếp xem nhóm chat gia đình trên màn hình Equinox. Cô thấy tin nhắn/ảnh từ Zenith, Elaina, Azusa và Beelzebub; thấy ảnh gốc cùng ảnh ghép so sánh bầu trời phía nhà với Shibuya; biết Equinox mô tả nơi đó là `gần nhà` và `rất xa` nhưng không cho địa danh hoặc câu trả lời về múi giờ.
-- Air Groove đồng ý cho Equinox gửi ảnh nhóm và crop từ ảnh gốc vào phạm vi gia đình. Đoạn chat không cho cô dữ kiện để xác định những thành viên khác đang ở đâu, đang làm gì hoặc vì sao không nhắn.
-- Air Groove chỉ nghi ngờ Equinox giấu một phần quê nhà. Cô giữ các giả thuyết đời thường và không kết luận Equinox đến từ thế giới khác; cô không hình dung được khoảng cách thật giữa Shibuya và nơi trong ảnh.
 - Air Groove đã vào căn hộ tầng 39 Park Court Shibuya The Tower và trực tiếp thấy bố cục gồm phòng khách, bếp, phòng ăn, phòng làm việc, thư viện nhỏ, hai phòng ngủ nhìn toàn cảnh, ba phòng tắm, hai phòng thay đồ và ban công có hồ bơi vô cực.
 - Air Groove nhận thẻ ra vào dự phòng/mật khẩu cho kỳ lưu trú, biết ranh giới không gian riêng và quy tắc Equinox phải mặc đồ trong khu vực sinh hoạt chung. Quyền truy cập tạm thời không bao gồm hồ sơ Tracen hoặc thiết bị riêng chưa được cho phép.
 - Air Groove chủ động xử lý lượt giặt đầu trong căn hộ có máy giặt nhưng không có máy sấy và theo dõi danh sách việc nhà. Điều này không biến cô thành người quản lý toàn bộ sinh hoạt của Equinox.
@@ -54,8 +51,13 @@
 - Air Groove trực tiếp chứng kiến người ngoài hiểu nhầm ba học sinh là con của Equinox và việc Equinox không sửa lời người phụ nữ lớn tuổi. Cô biết đây là lựa chọn tránh giải thích một hiểu nhầm vô hại, không phải thay đổi quan hệ pháp lý hoặc nghề nghiệp.
 - Air Groove trực tiếp nghỉ ăn kem cùng nhóm; biết Equinox/Rudolf/mình/Brian lần lượt chọn vani/matcha/dâu-sữa/chocolate đen và Equinox thanh toán. Cô biết xe thực phẩm chưa thanh toán, phần hàng phi thực phẩm còn ở phía sau và nhóm đã tiếp tục đi trong siêu thị.
 - Air Groove biết nhóm đã hoàn tất đủ việc mua sắm để mang thực phẩm mới về căn hộ; tổng thanh toán và danh sách đầy đủ phần hàng phi thực phẩm vẫn không được tự điền nếu prose không xác lập.
-- Air Groove trực tiếp tham gia buổi thể lực 02/04, biết mục tiêu vận động, tempo chậm và quy tắc dừng ở thất bại kỹ thuật. Cô biết chân phải mình tiếp tục được theo dõi và tự báo vào bữa tối rằng hai chân chỉ nặng đều, không còn điểm căng riêng.
-- Air Groove trực tiếp nhận báo cáo đúng phân quyền lúc 17:15, đọc phần liên quan của Track 7/buổi đánh giá và phụ lục cá nhân của mình. Cô biết Track 7 vẫn khóa, còn chờ kiểm tra kỹ thuật và đề nghị trừ lương chưa được Tracen chấp thuận.
+- Air Groove trực tiếp tham gia khám phá nhà trưa 02/04 và buổi training cường độ trung bình–cao chiều 02/04.
+- Khoảng 17:10 JST ngày 02/04 trên đường về sau training, Air Groove trực tiếp xem nhóm chat gia đình trên màn hình Equinox. Cô thấy tin nhắn/ảnh từ Zenith, Elaina, Azusa và Beelzebub; thấy ảnh gốc cùng ảnh ghép so sánh bầu trời phía nhà với Shibuya; biết Equinox mô tả nơi đó là `gần nhà` và `rất xa` nhưng không cho địa danh hoặc câu trả lời về múi giờ.
+- Air Groove đồng ý cho Equinox gửi ảnh nhóm và crop từ ảnh gốc vào phạm vi gia đình. Đoạn chat không cho cô dữ kiện để xác định những thành viên khác đang ở đâu, đang làm gì hoặc vì sao không nhắn.
+- Air Groove chỉ nghi ngờ Equinox giấu một phần quê nhà. Cô giữ các giả thuyết đời thường và không kết luận Equinox đến từ thế giới khác; cô không hình dung được khoảng cách thật giữa Shibuya và nơi trong ảnh.
+- Air Groove trực tiếp chơi Old Maid tối 02/04 cùng nhóm; repo chưa khóa số ván hoặc kết quả. Không gán chuỗi ảnh/chat ngày 02/04 thành ký ức đã có tối 01/04.
+- Air Groove trực tiếp tham gia buổi thể lực cường độ cao sáng 03/04 ở khu gym thuê riêng, biết mục tiêu vận động, tempo chậm và quy tắc dừng ở thất bại kỹ thuật. Cô biết chân phải mình tiếp tục được theo dõi và tự báo vào bữa tối rằng hai chân chỉ nặng đều, không còn điểm căng riêng.
+- Air Groove trực tiếp nhận báo cáo đúng phân quyền lúc 17:15 ngày 03/04, đọc phần liên quan của bản chi tiết Track 7, hai tóm tắt training 01/04–02/04 và phụ lục cá nhân của mình. Cô biết Track 7 vẫn khóa, còn chờ kiểm tra kỹ thuật và đề nghị trừ lương chưa được Tracen chấp thuận.
 - Air Groove biết mỗi trainee chỉ được xem phụ lục cá nhân của chính mình; cô không tự biết dữ liệu riêng trong phụ lục Rudolf hoặc Brian.
 - Air Groove trực tiếp xác nhận mỗi tài liệu chỉ dùng từ “tốt” một lần và hiểu đó là kết luận cụ thể, không phải lời khen chung để làm mềm phê bình.
 - Air Groove trực tiếp yêu cầu Equinox nghỉ, biết cô ấy ngủ đúng 30 phút rồi dậy nấu tối. Cô cùng nhóm chuẩn bị lẩu miso gà/cơm/rau bina trộn mè và hoàn tất việc nhà.
@@ -64,7 +66,7 @@
 - Air Groove trực tiếp nghe Equinox chơi guitar và hát `Tsuki ga Kirei ne to Iwaretai`, sau đó là `Bunny Girl` của AKASAKI theo hướng solo acoustic. Cô biết Equinox có kỹ thuật guitar vững, dùng bass/hợp âm/mute/percussion/slide/hammer-on và không cần sân khấu hoặc micro cho buổi chơi trong phòng khách.
 - Air Groove trực tiếp thấy Equinox mở hé mắt trái khi hát rồi khép lại sau mỗi bài; biết giọng hát khi đó mềm, ngọt, airy, thấp hơn nhưng giống màu giọng Zenith lúc hát. Cô không tự biết cơ chế OU sâu hơn chỉ từ việc nghe hoặc nhìn.
 - Air Groove nghe Brian yêu cầu bài thứ hai và muốn nghe thêm sau `Bunny Girl`; biết Brian thích nhịp bài thứ hai hơn. Sau nhịp ấy, buổi đàn tiếp tục tới `Kẻ Thù` và `Phonecert`. Cô nghe Equinox nói không thích tiếng Hàn khi hát dù thích trong giao tiếp, và xác nhận người nhận của `Phonecert` vẫn là Zenith.
-- Air Groove trực tiếp kiểm tra tay Equinox cuối buổi: da đỏ/rát, chưa rách/chảy máu/nổi bóng nước; biết guitar đã được cất và lịch kiểm tra sáng 03/04 là 08:00. Sau đó cô về chỗ ngủ đã bố trí.
+- Air Groove trực tiếp kiểm tra tay Equinox cuối buổi: da đỏ/rát, chưa rách/chảy máu/nổi bóng nước; biết guitar đã được cất và lịch kiểm tra sáng 04/04 là 08:00. Sau đó cô về chỗ ngủ đã bố trí.
 
 Khi lớp tách thành nhiều nhóm nói chuyện chồng lên nhau, registry **không** mặc định Air Groove nghe trọn mọi trao đổi Opera–Fuji, Brian–Laurel, Hishi–Taishin, Gold City–Gentildonna hoặc các nhóm khác chỉ vì cô ở cùng phòng. Chỉ chuyển từng nội dung sang `KNOWN` nếu prose xác lập cô tham gia, chú ý hoặc ở vị trí nghe rõ.
 

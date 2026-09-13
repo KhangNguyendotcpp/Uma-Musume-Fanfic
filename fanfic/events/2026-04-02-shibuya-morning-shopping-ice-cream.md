@@ -43,7 +43,7 @@
 - Cả bốn đã ăn hết kem, Equinox phân loại cốc/thìa vào đúng thùng rác và quay lại xe.
 - Air Groove nói tiếp tục; Equinox đẩy xe hàng gần đầy rời khu nghỉ và cả bốn nhập lại dòng khách trong siêu thị.
 - Họ **chưa thanh toán xe thực phẩm, chưa rời trung tâm thương mại và chưa trở về căn hộ**. Các mặt hàng không phải thực phẩm vẫn còn ở phần mua sắm tiếp theo.
-- Phần prose sau đã vượt endpoint này và xác nhận nhóm hoàn tất đủ việc mua sắm để mang thực phẩm về căn hộ. Tổng thanh toán, danh sách đầy đủ hàng phi thực phẩm và giờ về chính xác không được khóa trong file này; phần tiếp theo nằm tại `fanfic/events/2026-04-02-apartment-strength-reports-dinner.md`.
+- Phần prose sau đã vượt endpoint này và xác nhận nhóm hoàn tất đủ việc mua sắm để mang thực phẩm về căn hộ. Tổng thanh toán, danh sách đầy đủ hàng phi thực phẩm và giờ về chính xác không được khóa trong file này; phần tiếp theo là khám phá nhà vào trưa 02/04 tại `fanfic/events/2026-04-02-apartment-exploration-training-sunset-old-maid.md`.
 
 ## Ranh giới kiến thức và trạng thái
 

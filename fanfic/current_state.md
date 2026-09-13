@@ -2,7 +2,9 @@
 
 > **CANON GUARD — KHÔNG ĐƯỢC HẠ CẤP TRẠNG THÁI:** Equinox **đã vượt qua toàn bộ quy trình tuyển dụng tăng tốc và đã chính thức trở thành cả giáo viên Lịch sử lẫn trainer của Tracen Academy trong ngày 2026-03-09**. Không được viết hoặc suy luận rằng cô vẫn chỉ là ứng viên, mới qua vòng một, chưa đậu, hoặc phải chờ đến 2026-03-23 mới trở thành staff.
 
-**Mốc hiện tại của prose:** **cuối tối 2026-04-02, khi Equinox, Symboli Rudolf, Air Groove và Narita Brian đã ngủ tại căn hộ tầng 39 Park Court Shibuya The Tower**. Equinox đã khép buổi guitar bằng `Phonecert` bản Việt, cất đàn, nhắn riêng với Zenith, bôi kem dưỡng tay rồi ngủ; Rudolf, Air Groove và Brian cũng đã ngủ. Zenith đã được kể về buổi đàn qua tin nhắn và nhận ảnh tay, không nghe trực tiếp buổi diễn. Track 7 vẫn bị khóa, Team Zenith chưa được chứng nhận, cơ sở tập riêng chỉ đang được cân nhắc, khảo sát Izu chưa bắt đầu và ngày Zenith tới thăm Tracen vẫn `TBD`. Những gì ghi là “đã xảy ra” trong file này là `STORY-ESTABLISHED / LOCKED`.
+**Mốc hiện tại của prose:** **cuối tối 2026-04-03, khi Equinox, Symboli Rudolf, Air Groove và Narita Brian đã ngủ tại căn hộ tầng 39 Park Court Shibuya The Tower**. Equinox đã khép buổi guitar bằng `Phonecert` bản Việt, cất đàn, nhắn riêng với Zenith, bôi kem dưỡng tay rồi ngủ; Rudolf, Air Groove và Brian cũng đã ngủ. Zenith đã được kể về buổi đàn qua tin nhắn và nhận ảnh tay, không nghe trực tiếp buổi diễn. Track 7 vẫn bị khóa, Team Zenith chưa được chứng nhận, cơ sở tập riêng chỉ đang được cân nhắc, khảo sát Izu chưa bắt đầu và ngày Zenith tới thăm Tracen vẫn `TBD`. Những gì ghi là “đã xảy ra” trong file này là `STORY-ESTABLISHED / LOCKED`.
+
+**Lịch ngày 01–03/04 đã đính chính:** đọc `fanfic/timeline/2026-04-01-to-03-chronology.md` trước khi nối cảnh. Ảnh buổi chiều thuộc 02/04; gym/bốn giờ báo cáo/đêm đàn thuộc 03/04.
 
 ## 1. Trạng thái nghề nghiệp của Equinox
 
@@ -233,13 +235,10 @@ Các điều sau là kế hoạch tương lai, **không được viết như ký
 - Ở endpoint riêng của cảnh cổng, Zenith chưa biết buổi đánh giá, thiệt hại Track 7, lời mời lưu trú hoặc việc bốn người đã rời trường. Sau đó cô trực tiếp xuất hiện tại buffet Shibuya; phạm vi biết mới được khóa riêng trong mục 13 và `fanfic/knowledge/zenith.md`.
 - Sự kiện và ranh giới kiến thức đầy đủ nằm tại `fanfic/events/2026-04-01-tracen-gate-departure.md`.
 
-## 13. Hành trình tới Shibuya, bữa buffet và đường về
+## 13. Hành trình tới Shibuya và bữa buffet — 2026-04-01
 
 - Nhóm đi tuyến Keiō từ Fuchu, đổi tại Meidaimae rồi tới Shibuya. Trong toa đông, Air Groove bị sàm sỡ; Equinox khống chế người gây ra và bàn giao cho phía đường sắt/cảnh sát. Air Groove chọn tiếp tục hành trình.
 - Cả bốn ăn buffet tại khu thương mại gần Shibuya Station. Zenith bất ngờ xuất hiện trực tiếp, nhập bữa và gặp Rudolf/Air Groove/Brian ngoài màn hình lần đầu, sau đó rời về The Beyond Valley trước khi nhóm tới căn hộ.
-- Khoảng 17:10 trên đường đi bộ về, bốn người chụp ảnh dưới bầu trời Shibuya. Equinox cho ba học sinh xem nhóm chat gia đình nơi Zenith, Elaina, Azusa và Beelzebub gửi/so sánh ảnh hoàng hôn phía nhà với ảnh Shibuya; Equinox cũng gửi ảnh nhóm và các crop được ba em cho phép giữ nội bộ.
-- Taki và Haise vẫn mất ý thức nên không nhắn; thế hệ con không xuất hiện hoặc được nhắc tới. Tin nhắn không gọi tên The Beyond. Rudolf, Air Groove và Brian chỉ biết ảnh đến từ một nơi gia đình Equinox gọi là `bên nhà/gần nhà/rất xa`; cả ba nghi ngờ cô ấy giấu một phần quê nhà nhưng không kết luận nguồn gốc ngoài thế giới hoặc hình dung đúng khoảng cách.
-- Equinox báo với gia đình khi nhóm ở sảnh và khi đã tới cửa. Cảnh đường về dừng lúc cô ấy mở cửa căn hộ tầng 39 cho Rudolf, Air Groove và Brian bước vào; mọi diễn biến sinh hoạt bên trong xảy ra sau endpoint này.
 - Việc Zenith xuất hiện ở Shibuya không phải chuyến thăm Tracen. Ngày tới trường, đăng ký khách và tiếp đón vẫn chưa được chốt.
 
 ## 14. Đêm đầu tại căn hộ và tám ván cờ
@@ -264,19 +263,29 @@ Các điều sau là kế hoạch tương lai, **không được viết như ký
 - Sau khi ăn, không ai báo đau tăng và dấu căng rất nhỏ ở bước chân phải đầu tiên của Air Groove không còn xuất hiện. Cả bốn đứng dậy tiếp tục mua sắm; xe thực phẩm chưa thanh toán và phần hàng phi thực phẩm còn ở phía sau.
 - Chi tiết đầy đủ nằm tại `fanfic/events/2026-04-02-shibuya-morning-shopping-ice-cream.md`.
 
-## 16. 2026-04-02: buổi thể lực, báo cáo và buổi tối tại căn hộ
+## 16. 2026-04-02: khám phá nhà, training, ảnh buổi chiều và Old Maid
 
-- Phần prose sau xác nhận nhóm đã hoàn tất đủ việc mua sắm để mang thực phẩm mới về căn hộ. Tổng thanh toán, danh sách hàng phi thực phẩm và giờ về chính xác chưa được repo khóa.
-- Equinox tổ chức một buổi thể lực dùng tempo chậm và ngưỡng thất bại kỹ thuật, phục vụ truyền lực khi chạy, ổn định một chân, kiểm soát chuỗi khớp, sức chịu tải của gân kheo/cơ dép, độ cứng thân người và khả năng giữ tư thế khi mệt.
-- Trong khối tự do bốn giờ, Equinox viết báo cáo Track 7 **19 trang chính + 6 trang phụ lục**, báo cáo buổi đánh giá hôm trước với phụ lục cá nhân và bản tóm tắt thể lực sáng 02/04. Bản tóm tắt chưa phải báo cáo cuối vì còn chờ đau cơ buổi tối, giấc ngủ và trạng thái sáng hôm sau.
-- Cả ba tài liệu chỉ dùng từ “tốt” đúng một lần cho một kết luận cụ thể; Brian phát hiện, Air Groove và Rudolf xác nhận. Đây không phải hạn ngạch Equinox cố ý đặt.
-- Các báo cáo được gửi lúc **17:15 JST** theo đúng phân quyền. Track 7 vẫn bị khóa; đề nghị trừ chi phí khỏi lương vẫn chỉ là đề nghị và chưa có kết luận kỹ thuật/tài chính cuối cùng.
-- Equinox nghỉ đúng 30 phút rồi cùng ba học sinh nấu **lẩu miso gà, cơm và rau bina trộn mè**; mì được dùng cuối nồi. Sau ăn, cả bốn tự chia việc nhà và hoàn tất toàn bộ dọn dẹp.
-- Air Groove tự báo hai chân nặng đều, không còn điểm căng riêng ở chân phải; Rudolf mỏi sau đùi/cơ dép; Brian mỏi nhưng không đau, gồm lưng trên. Đây chưa phải medical clearance hoặc kết luận phục hồi cuối.
-- Equinox xác nhận đang cân nhắc mua một cơ sở tập riêng và sẽ làm báo cáo về yêu cầu kỹ thuật/vận hành. **Chưa có nơi nào được mua hoặc chọn**, chưa khóa địa điểm, chi phí, nhân sự, thiết kế hay quyền sử dụng.
-- Chi tiết đầy đủ và ranh giới kiến thức nằm tại `fanfic/events/2026-04-02-apartment-strength-reports-dinner.md`.
+- Sau mua sắm buổi sáng, nhóm đem thực phẩm về căn hộ và khám phá nhà vào buổi trưa; tổng thanh toán/danh sách hàng phi thực phẩm và chi tiết khám phá chưa được nguồn hiện có khóa.
+- Chiều 02/04 có buổi training **cường độ trung bình–cao**, riêng biệt với buổi đánh giá Track 7 ngày 01/04 và gym thể lực sáng 03/04. Không gán bài tập/tải của buổi khác vào buổi này.
+- Khoảng 17:10 JST ngày 02/04, trên đường về sau training, bốn người chụp ảnh dưới bầu trời Shibuya. Equinox cho ba học sinh xem nhóm chat gia đình nơi Zenith, Elaina, Azusa và Beelzebub gửi/so sánh ảnh hoàng hôn phía nhà với ảnh Shibuya; Equinox cũng gửi ảnh nhóm và các crop được ba em cho phép giữ nội bộ.
+- Taki và Haise vẫn mất ý thức nên không nhắn; thế hệ con không xuất hiện hoặc được nhắc tới. Tin nhắn không gọi tên The Beyond. Rudolf, Air Groove và Brian chỉ biết ảnh đến từ một nơi gia đình Equinox gọi là `bên nhà/gần nhà/rất xa`; cả ba nghi ngờ cô ấy giấu một phần quê nhà nhưng không kết luận nguồn gốc ngoài thế giới hoặc hình dung đúng khoảng cách.
+- Equinox báo với gia đình khi nhóm ở sảnh và khi đã tới cửa. Cảnh đường về dừng lúc cô ấy mở cửa căn hộ tầng 39 cho Rudolf, Air Groove và Brian bước vào; các hoạt động tối 02/04 xảy ra sau endpoint riêng này; đây không phải lần đầu vào căn hộ.
+- Sau nhịp ảnh/đường về, Equinox viết **bản tóm tắt Track 7**, khác thông báo sự cố 01/04 và bản chi tiết hoàn tất 03/04.
+- Nhóm chơi **Old Maid** vào tối 02/04. Tên trò và ngày đã khóa; kết quả, số ván và diễn biến rút bài còn `TBD`.
+- Chi tiết và kênh biết nằm tại `fanfic/events/2026-04-02-apartment-exploration-training-sunset-old-maid.md`.
 
-## 17. 2026-04-02: đêm acoustic, Phonecert và đi ngủ
+## 17. 2026-04-03: gym thể lực cường độ cao, bốn giờ báo cáo và bữa tối
+
+- Cả nhóm dậy **06:00 JST**, vệ sinh/tắm rửa, nấu bữa sáng rồi sửa soạn đi tập. Equinox đã thuê một khu gym riêng trong tòa nhà; **sáng 03/04** tập thể lực cường độ cao với tempo chậm, ổn định một chân/chuỗi khớp và ngưỡng dừng thất bại kỹ thuật.
+- Chiều, Equinox làm việc trọn **bốn giờ** để hoàn tất đúng ba tài liệu: **bản chi tiết Track 7 (19 trang chính + 6 trang phụ lục), tóm tắt buổi đánh giá/training 01/04, tóm tắt buổi training trung bình–cao 02/04**. Không đổi tài liệu thứ ba thành báo cáo buổi sáng 03/04.
+- Cả ba tài liệu chỉ dùng từ “tốt” đúng một lần; gửi lúc **17:15 JST ngày 03/04** theo phân quyền. Track 7 vẫn khóa và đề nghị trừ lương chưa được Tracen chấp thuận.
+- Trong lúc đó Air Groove làm việc hội học sinh, đọc/nghe nhạc và nghỉ; Rudolf xử lý thư rồi phân tích các ván cờ **tối 01/04**; Brian tách óc chó, xem replay của mình và ngủ.
+- Equinox nghỉ 30 phút rồi cùng nhóm nấu lẩu miso gà, cơm, rau bina trộn mè, dùng mì cuối nồi và hoàn tất việc nhà. Các tự báo cáo mỏi tại bữa tối chưa phải medical clearance.
+- Dữ liệu thể lực **sáng 03/04** được theo dõi riêng, còn chờ giấc ngủ và phục hồi sáng **04/04**; chưa tự xác lập báo cáo cuối hay tài liệu thứ tư đã gửi.
+- Equinox đang cân nhắc mua cơ sở tập riêng và hứa làm báo cáo kỹ thuật/vận hành. Việc thuê khu gym đã xảy ra; chưa mua hoặc chọn cơ sở lâu dài.
+- Xem `fanfic/events/2026-04-03-apartment-strength-reports-dinner.md`.
+
+## 18. 2026-04-03: đêm acoustic, Phonecert và đi ngủ
 
 - Sau khi hoàn tất việc nhà, Equinox lấy cây guitar acoustic cũ có những nét vẽ của hai đứa trẻ nay đã trưởng thành và chơi cho Rudolf, Air Groove, Brian nghe trong phòng khách; không có sân khấu hoặc micro.
 - Bài đầu là `Tsuki ga Kirei ne to Iwaretai`, được phối chậm bằng rải dây, bass, hợp âm mở và tiếng gõ nhẹ trên thân đàn. Bài thứ hai là `Bunny Girl` của AKASAKI, chơi theo hướng solo acoustic 4/4 với bass, hợp âm, mute, slide và hammer-on.
@@ -284,11 +293,11 @@ Các điều sau là kế hoạch tương lai, **không được viết như ký
 - Rudolf nhận ra lớp nghĩa tỏ tình gián tiếp của bài đầu và nghi ngờ có người nhận ở xa nhưng không xác định danh tính. Air Groove chú ý tới cả khung cảnh trăng phía sau Equinox và cách chơi; Brian là người liên tục yêu cầu nghe thêm, đồng thời thích nhịp mạnh hơn của bài thứ hai.
 - Sau hai bài đầu, chuỗi bài truy hồi gồm `Giữ Lấy Làm Gì`, `Nghe kể là năm 90s`, `Tình Đắng Như Ly Cà Phê`, `Tình ca tình ta`, `I Love You 3000`, `Kẻ Thù`, rồi `Phonecert` bản Việt của Hoàng Dũng (gốc 10CM). Nguồn phần giữa chỉ còn tóm tắt; không tự phục dựng lời thoại hoặc phản ứng chưa có văn bản. Brian thích `Kẻ Thù` vì lực của bài và vì không nói về tình yêu.
 - `Phonecert` là bài cuối theo quyết định tác giả. Equinox nói mình không thích tiếng Hàn khi hát nhưng thích trong giao tiếp; Air Groove xác định đó là sở thích cá nhân. Equinox xác nhận người được hướng tới trong `Phonecert` vẫn là Zenith, không phải ba trainee.
-- Hai bàn tay Equinox đỏ/rát sau buổi đàn, chưa rách/chảy máu/phồng nước qua quan sát của Air Groove. Guitar đã cất, cả ba về chỗ ngủ; Brian ở sofa bed, Rudolf/Air Groove ở chỗ ngủ phía trong. Equinox hẹn kiểm tra 08:00 sáng 03/04.
+- Hai bàn tay Equinox đỏ/rát sau buổi đàn, chưa rách/chảy máu/phồng nước qua quan sát của Air Groove. Guitar đã cất, cả ba về chỗ ngủ; Brian ở sofa bed, Rudolf/Air Groove ở chỗ ngủ phía trong. Equinox hẹn kiểm tra 08:00 sáng 04/04.
 - Equinox nhắn riêng với Zenith, gửi danh sách bài và ảnh tay trước/sau bôi kem, báo ba học sinh đã ngủ và ngày hôm nay ổn. Zenith muốn nghe lại khi tay hết đau nhưng chưa có lịch; không có cuộc gọi hát ru thực sự diễn ra. Equinox sau đó tắt màn hình và ngủ; máy rửa chén đã kết thúc chu trình.
-- Chi tiết đầy đủ và ranh giới kiến thức nằm tại `fanfic/events/2026-04-02-apartment-acoustic-night.md`.
+- Chi tiết đầy đủ và ranh giới kiến thức nằm tại `fanfic/events/2026-04-03-apartment-acoustic-night.md`.
 
-## 18. Quan niệm cơ thể và giới tính đã khóa
+## 19. Quan niệm cơ thể và giới tính đã khóa
 
 - Equinox không xem giới tính là trục cốt lõi giữ danh tính. Cơ thể, hormone, quần áo hoặc thói quen chăm sóc có thể thay đổi trải nghiệm nhưng không tự thay giá trị quan, tính cách hay người cô yêu.
 - Việc chăm tóc, dưỡng da, mặc đồ nữ hoặc nhận ra cơ thể hiện tại đẹp không quyết định xu hướng tính dục hay buộc cô vào một vai giới cố định.
@@ -297,8 +306,8 @@ Các điều sau là kế hoạch tương lai, **không được viết như ký
 - Hôn nhân khiến giới tính được gọi tên rõ hơn trong quan hệ, nhưng đối tượng Equinox yêu là Zenith chứ không phải một danh mục giới tính hay vai “chồng/vợ” được viết sẵn.
 - Equinox thoải mái với khỏa thân trong không gian riêng và ngủ khỏa thân. Không được biến sự thoải mái này thành quyền để nhân vật khác xâm phạm riêng tư hoặc thành trò phản ứng tập thể.
 
-## 19. Điểm nối cảnh
+## 20. Điểm nối cảnh
 
-Điểm tiếp tục trực tiếp là **cuối tối 2026-04-02, khi cả bốn đã ngủ sau `Phonecert` và cuộc nhắn tin riêng Equinox–Zenith**. Guitar đã cất, bếp/bàn sạch và máy rửa chén đã kết thúc chu trình. Buổi kiểm tra 08:00 sáng 03/04 mới là lịch hẹn; báo cáo thể lực cuối vẫn chờ dữ liệu đau cơ/giấc ngủ/trạng thái sáng hôm sau. Repo không tự điền trò chơi cờ/bài chưa được prose hiện có xác lập tên hoặc kết quả. Track 7 vẫn bị khóa; Team Zenith chưa được chứng nhận; cơ sở tập riêng mới chỉ ở mức xem xét; khảo sát Izu chưa được xử lý; ngày Zenith tới thăm Tracen vẫn `TBD`. Ban cán sự vẫn là **Sirius Symboli / Hishi Amazon / T.M. Opera O / Eishin Flash** và Special Week không xuất hiện trước ngày nhập học 2026-04-06.
+Điểm tiếp tục trực tiếp là **cuối tối 2026-04-03, khi cả bốn đã ngủ sau `Phonecert` và cuộc nhắn tin riêng Equinox–Zenith**. Guitar đã cất, bếp/bàn sạch và máy rửa chén đã kết thúc chu trình. Buổi kiểm tra 08:00 sáng 04/04 mới là lịch hẹn; báo cáo thể lực cuối vẫn chờ dữ liệu đau cơ/giấc ngủ/trạng thái sáng hôm sau. Old Maid tối 02/04 đã được tác giả xác nhận; không tự điền kết quả trò bài hoặc việc chơi thêm shogi/cờ vây/cờ tướng. Track 7 vẫn bị khóa; Team Zenith chưa được chứng nhận; cơ sở tập riêng mới chỉ ở mức xem xét; khảo sát Izu chưa được xử lý; ngày Zenith tới thăm Tracen vẫn `TBD`. Ban cán sự vẫn là **Sirius Symboli / Hishi Amazon / T.M. Opera O / Eishin Flash** và Special Week không xuất hiện trước ngày nhập học 2026-04-06.
 
 Không được quay lại trạng thái “ứng viên” hay buộc Equinox thi lại. Không mặc định nhân vật biết một sự kiện đã qua nếu họ không được xác lập là người tham dự/người được kể lại; xem `fanfic/style/prohibited_tendencies.md`, `fanfic/knowledge/air-groove.md` và `fanfic/knowledge/zenith.md`.

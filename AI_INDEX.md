@@ -21,7 +21,8 @@ File này là điểm vào bắt buộc của repo. Mọi AI, writer hoặc edit
 9. `fanfic/style/xung-ho-and-dialogue-register.md`
 10. `fanfic/style/prose_audit.md`
 11. `fanfic/timeline/CANON_TIMELINE_2025_2035.md`
-12. file event/continuity/calendar liên quan trực tiếp đến cảnh sắp viết
+12. `fanfic/style/scene-time-anchors.md` — quy tắc cứng ghi đủ giờ/phút/thứ/ngày/tháng/năm trước cảnh có bước nhảy thời gian
+13. file event/continuity/calendar liên quan trực tiếp đến cảnh sắp viết; giai đoạn 01–03/04/2026 bắt buộc đọc `fanfic/timeline/2026-04-01-to-03-chronology.md`
 
 Nếu cảnh có Haise, Takiyama, Equinox, Zenith hoặc dữ kiện thuộc Original Universe, phải đọc thêm `OU_LINKAGE.md`, profile/note liên quan trong repo này và nguồn OU có thẩm quyền theo `CANON_PRIORITY.md`.
 
@@ -70,6 +71,7 @@ Trước khi viết phải rà toàn repo bằng tên nhân vật, ngày, team, 
 Phải trả lời được:
 
 - Cảnh bắt đầu chính xác sau sự kiện nào?
+- Khi có bước nhảy thời gian, đã có dòng `HH:MM JST — Thứ ..., ngày DD tháng MM năm YYYY` ngay trước đoạn đầu cảnh mới và thứ khớp ngày chưa?
 - Ai thực sự có mặt và ai chỉ bị nhắc tên?
 - Mỗi nhân vật biết thông tin bằng kênh nào?
 - Trạng thái hiện tại là `LOCKED`, `APPROVED`, `DRAFT`, `TBD` hay `UNSPECIFIED`?
@@ -85,8 +87,9 @@ Sau khi viết xong, phải thực hiện các lượt rà tách biệt:
 1. **Rà xưng hô:** đọc từng câu thoại theo cặp `người nói → người nghe`; quét `em`, `cô`, `chị`, `anh`, `tôi`, `tớ`, `ta`, `tui`, `mi`, `cậu`, `bà`, `chúng tôi`, `chúng em`, `bọn em`.
 2. **Rà voice/OOC:** so từng nhân vật với profile và relationship note đã đọc.
 3. **Rà knowledge:** chứng minh kênh biết cho mỗi thông tin không công khai.
-4. **Rà continuity:** so ngày, cast, team, chức vụ, địa điểm, đạo cụ và điểm nối với current state/event/timeline.
-5. **Rà prose:** áp dụng toàn bộ `fanfic/style/prohibited_tendencies.md` và các lỗi đang mở trong `fanfic/style/prose_audit.md`.
+4. **Rà thời gian:** bắt buộc đủ giờ, phút, thứ, ngày, tháng, năm trước đoạn đầu mỗi cảnh có bước nhảy thời gian; so lịch Gregory, “hôm qua/sáng mai” và ngày của từng báo cáo theo `fanfic/style/scene-time-anchors.md`.
+5. **Rà continuity:** so ngày, cast, team, chức vụ, địa điểm, đạo cụ và điểm nối với current state/event/timeline.
+6. **Rà prose:** áp dụng toàn bộ `fanfic/style/prohibited_tendencies.md` và các lỗi đang mở trong `fanfic/style/prose_audit.md`.
 
 Phát hiện một lỗi xưng hô không chỉ sửa một từ. Phải kiểm tra toàn đoạn quanh nó vì lỗi thường xuất hiện khi người nói vừa đổi người nghe.
 

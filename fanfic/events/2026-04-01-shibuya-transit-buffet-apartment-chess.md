@@ -2,13 +2,13 @@
 
 **Trạng thái:** `STORY-ESTABLISHED / LOCKED`
 
-**Thời điểm:** cuối chiều–buổi tối 2026-04-01, nối trực tiếp sau khi Equinox, Symboli Rudolf, Air Groove và Narita Brian rời cổng Tracen; ảnh hoàng hôn trên đường về được chụp khoảng **17:10 JST**, các giờ khác vẫn `TBD`
+**Thời điểm:** cuối chiều–buổi tối 2026-04-01, nối trực tiếp sau khi Equinox, Symboli Rudolf, Air Groove và Narita Brian rời cổng Tracen; giờ chính xác vẫn `TBD`
 
 **Địa điểm:** tuyến Keiō từ Fuchu qua Meidaimae tới Shibuya; khu buffet gần Shibuya Station; đường đi bộ tại Shibuya; căn hộ của Equinox tại tầng 39 Park Court Shibuya The Tower
 
 **Người tham gia chính:** Equinox, Symboli Rudolf, Air Groove, Narita Brian
 
-**Người xuất hiện trong một phần sự kiện:** Zenith trực tiếp nhập nhóm tại buffet rồi rời về The Beyond Valley trước khi bốn người vào căn hộ; Zenith, Azusa, Beelzebub và Elaina tiếp tục xuất hiện từ xa qua nhóm chat gia đình trên đường nhóm đi bộ về
+**Người xuất hiện trong một phần sự kiện:** Zenith trực tiếp nhập nhóm tại buffet rồi rời về The Beyond Valley trước khi bốn người vào căn hộ
 
 ## Di chuyển và sự cố trên tàu
 
@@ -24,19 +24,9 @@
 - Zenith bất ngờ xuất hiện trực tiếp, nhập bữa và gặp Rudolf, Air Groove cùng Brian ngoài màn hình lần đầu. Sau bữa buffet, cô rời về The Beyond Valley; bốn người còn lại tiếp tục đi bộ tới căn hộ.
 - Việc Zenith gặp nhóm tại Shibuya không phải chuyến thăm Tracen đã được cân nhắc trong cuộc gọi giờ trưa. Ngày cô tới trường, thủ tục đăng ký khách và hình thức tiếp đón vẫn `TBD`.
 
-## Đường về và nhóm chat bầu trời — khoảng 17:10 JST
-
-- Sau khi Zenith rời buffet, Equinox, Rudolf, Air Groove và Brian chụp một ảnh nhóm dưới bầu trời Shibuya lúc khoảng 17:10 rồi tiếp tục đi bộ về căn hộ.
-- Nhóm chat gia đình của Equinox nhận một loạt ảnh hoàng hôn từ phía nhà. Chỉ **Zenith, Elaina, Azusa và Beelzebub** nhắn trong đoạn này: Zenith spam ảnh và nói trời hôm nay đẹp đặc biệt; Elaina đáp rằng bên nhà ngày nào cũng đẹp; Azusa kết luận hôm nay vẻ đẹp ấy lan tới tận chỗ Equinox; Beelzebub kiểm tra ảnh gốc, so màu/ánh sáng và ghép hai bầu trời để đối chiếu.
-- Chuỗi thoại giữ đúng voice OU: Zenith nhiều lời, thích ảnh và kéo chủ đề đi xa; Elaina tự tin, châm biếm và bảo vệ ảnh mình chụp; Azusa bình tĩnh, thực tế, nhắc mọi người về ăn tối; Beelzebub chính xác, thiên dữ liệu và logistics. Equinox trả lời ngắn, dùng đúng `anh–em` với cả bốn người nhà.
-- **Haise và Takiyama không nhắn** vì vẫn mất ý thức để chuẩn bị incarnation vào thế giới Uma. **Twilight, Lux và toàn bộ thế hệ con không xuất hiện hoặc được nhắc tới trong đoạn chat** vì prose chưa có voice canon phù hợp để dùng cho họ ở cảnh này.
-- Equinox xin phép rồi gửi ảnh nhóm; Rudolf, Air Groove và Brian chỉ đồng ý cho dùng ảnh đã chụp. Về sau, khi Zenith muốn nhìn rõ từng học sinh, Equinox chỉ crop từ ảnh gốc sau khi hỏi lại và xác nhận ảnh được giữ trong nhóm gia đình, không đăng công khai.
-- Equinox nghiêng màn hình cho ba học sinh cùng đọc. Tin nhắn gia đình **không dùng tên `The Beyond`, `The Beyond Valley` hoặc bất kỳ mô tả vũ trụ học nào**; nơi chụp chỉ được gọi là `bên nhà`, `gần nhà` hoặc một nơi `rất xa`. Equinox không trả lời địa danh và né câu hỏi về múi giờ.
-- Ba học sinh trực tiếp thấy hai bầu trời có dải tím–hồng–cam và hướng sáng tương đồng bất thường, thấy ảnh gốc/ảnh ghép Beelzebub gửi và biết gia đình Equinox xem cảnh trời phía nhà là điều quen thuộc. Rudolf giữ lập trường chưa đủ bằng chứng; Air Groove duy trì các giả thuyết đời thường; Brian nghi ngờ Equinox đang giấu thông tin nhưng dừng hỏi khi biết cô ấy không muốn trả lời.
-- Sự nghi ngờ chỉ dừng ở mức Equinox che giấu một phần quê nhà/địa điểm gia đình sống. Không ai trong ba học sinh kết luận cô ấy đến từ thế giới khác, không biết nơi trong ảnh là The Beyond Valley và càng không hình dung khoảng cách giữa hai nơi vượt xa tàu, máy bay hoặc một chuyến đi dài.
-- Tới sảnh, Equinox báo mình đang ở dưới tòa nhà; cả bốn lên tầng 39. Trước cửa căn hộ, cô ấy nhắn `Rồi` để xác nhận đã về rồi mở cửa. Cảnh đường về dừng khi Rudolf, Air Groove và Brian theo Equinox bước vào, trước mọi quan sát/sắp xếp bên trong căn hộ.
-
 ## Căn hộ và quy tắc lưu trú
+
+- Đây là lần nhận chỗ ở tối 01/04; nhịp khám phá nhà tiếp theo thuộc trưa 02/04. Không gộp hai lần trở về căn hộ.
 
 - Căn hộ nằm tại tầng 39 Park Court Shibuya The Tower. Không gian đã được thấy gồm phòng khách, bếp lớn, phòng ăn, phòng làm việc, thư viện nhỏ, hai phòng ngủ nhìn toàn cảnh, ba phòng tắm, hai phòng thay đồ và ban công lớn có hồ bơi vô cực.
 - Căn hộ có máy giặt nhưng không có máy sấy. Air Groove chủ động xử lý lượt giặt đầu và danh sách việc nhà; không biến việc này thành quyền quản lý toàn bộ đời sống của Equinox.
@@ -75,9 +65,8 @@
 
 ## Ranh giới kiến thức và trạng thái
 
-- Equinox, Rudolf, Air Groove và Brian trực tiếp biết toàn bộ phần đường về, căn hộ và tám ván cờ. Ba học sinh chỉ biết nội dung chat/ảnh Equinox chủ động cho xem; họ không biết tên, vị trí thật hoặc bản chất OU của nơi phía gia đình.
-- Zenith trực tiếp biết phần buffet mà cô tham gia, ảnh nhóm/các crop đã được gửi và việc bốn người đã tới cửa căn hộ qua tin nhắn. Cô đã rời trước khi nhóm vào căn hộ, nên không được mặc định biết cách phân chỗ, quy tắc sinh hoạt, kế hoạch sáng hôm sau hoặc kết quả cờ.
-- Azusa, Beelzebub và Elaina biết ảnh nhóm, ảnh bầu trời được chia sẻ và trạng thái Equinox đã về qua chính đoạn chat; cảnh này không trao cho họ quyền biết phần sinh hoạt/cờ sau khi cửa căn hộ khép lại.
+- Equinox, Rudolf, Air Groove và Brian trực tiếp biết chuyến tàu, buffet, việc nhận chỗ lưu trú và tám ván cờ ngày 01/04. Cảnh ảnh/chat bầu trời thuộc chiều 02/04, không phải đường về sau buffet.
+- Zenith trực tiếp biết phần buffet mà cô tham gia. Cô đã rời trước khi nhóm vào căn hộ, nên không được mặc định biết cách phân chỗ, quy tắc sinh hoạt, kế hoạch sáng hôm sau hoặc kết quả cờ. Ảnh nhóm/crop và tin nhắn báo về trong chuỗi bầu trời chỉ được gửi ngày 02/04.
 - Team Zenith vẫn chưa được Tracen chứng nhận; kỳ lưu trú không tự hoàn tất thủ tục team hoặc thêm thành viên thứ tư–năm.
 - Track 7 vẫn bị khóa chờ kiểm tra. Không có diễn biến tại Shibuya nào tự xác nhận track đã sửa, chi phí đã chốt hoặc đề nghị khấu trừ lương được chấp thuận.
 - Khảo sát Izu vẫn chưa bắt đầu; Special Week chưa nhập học trước 2026-04-06.

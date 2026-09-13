@@ -39,6 +39,10 @@ Một giá trị `DRAFT`, `TBD` hoặc `UNSPECIFIED` tuyệt đối không đư�
 - Khi có knowledge registry riêng trong `fanfic/knowledge/`, registry đó phải được cập nhật cùng commit làm thay đổi điều nhân vật biết.
 - Audit lỗi đã thấy tới điểm prose hiện tại nằm tại `fanfic/style/prose_audit.md`; audit không tự retcon sự kiện nhưng các lỗi `CRITICAL/HIGH` không được lặp lại.
 
+## Quy tắc mốc thời gian prose — HARD / BLOCKING
+
+Khi có chuyển biến thời gian đủ dài giữa các cảnh, bắt buộc đặt dòng **giờ:phút, thứ, ngày, tháng, năm** ngay trước đoạn đầu cảnh mới. Không thay bằng “sáng hôm sau” hoặc nhãn buổi chung. Định dạng, timezone, kiểm tra ngày và xử lý giờ chưa khóa nằm tại `fanfic/style/scene-time-anchors.md`; đây là cổng bắt buộc trước khi giao prose.
+
 ## Quy tắc timeline
 
 - Các mốc ngày tháng cụ thể 2025–2035 là chronology của fanfic.

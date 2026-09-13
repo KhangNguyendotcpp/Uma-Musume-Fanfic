@@ -2,6 +2,8 @@
 
 Mục đích: ngăn chồng lịch vô lý giữa race, lớp học, thi, lễ hội, training, travel, recovery và Winning Live. **Mọi giờ học/Live là `FANFIC ORIGINAL` trừ khi ghi rõ có nguồn.** Giờ mặc định JST; race quốc tế dùng giờ địa phương.
 
+Lịch đính chính bắt buộc cho 01–03/04: `fanfic/timeline/2026-04-01-to-03-chronology.md`. Trước đoạn đầu cảnh có bước nhảy thời gian, phải ghi đủ HH:MM, thứ, ngày, tháng, năm theo `fanfic/style/scene-time-anchors.md`. Lịch ngày thường dưới đây là baseline, không áp cứng lên ngày sinh hoạt đầu năm 01/04 hoặc hai ngày không có lớp 02–03/04.
+
 ## Đồng hồ ngày thường tiêu chuẩn tại Tracen
 
 | Giờ | Hoạt động |
@@ -45,8 +47,12 @@ Mốc Live là quy ước `ORIGINAL`. Với international campaign, Equinox ph�
 - **2026-04-01 Thứ Tư, cuối chiều–tối, giờ chính xác TBD — Fuchu/Meidaimae/Shibuya:** Nhóm đi tuyến Keiō tới Shibuya; Equinox xử lý vụ sàm sỡ Air Groove trên tàu. Cả bốn ăn buffet cùng Zenith xuất hiện trực tiếp, sau đó bắt đầu lưu trú tại căn hộ tầng 39 Park Court Shibuya The Tower.
 - **2026-04-01 Thứ Tư, buổi tối, giờ chính xác TBD — Căn hộ Shibuya:** Nhóm thống nhất quyền ra vào, riêng tư, việc nhà và kế hoạch sáng hôm sau. Equinox thắng Rudolf tám ván cờ liên tiếp bằng tám dạng chiếu hết; mốc prose dừng sau khi cất bộ cờ vua, trước khi mở shogi/cờ vây/cờ tướng.
 - **2026-04-02 Thứ Năm, buổi sáng, giờ chính xác TBD — Căn hộ Shibuya/trung tâm thương mại gần đó:** Equinox kiểm tra trạng thái Rudolf/Air Groove/Brian rồi cả bốn đi bộ tới siêu thị, lấy gần đầy một xe thực phẩm và nghỉ ăn kem. Phần prose sau xác nhận nhóm hoàn tất đủ việc mua sắm để mang thực phẩm về căn hộ; tổng thanh toán, inventory phi thực phẩm và giờ về vẫn `TBD`.
-- **2026-04-02 Thứ Năm, trong ngày–buổi tối; báo cáo gửi 17:15 — Căn hộ Shibuya:** Equinox tổ chức buổi thể lực, dành bốn giờ viết ba tài liệu, gửi đúng phân quyền lúc 17:15, nghỉ 30 phút rồi cùng ba trainee nấu lẩu miso gà và hoàn tất việc nhà. Sau đó cô chơi guitar và hát `Tsuki ga Kirei ne to Iwaretai` cùng `Bunny Girl` cho ba học sinh. Buổi đàn tiếp tục và khép bằng `Phonecert` sau `Kẻ Thù`; Equinox cất đàn, nhắn Zenith, bôi kem tay rồi ngủ sau ba học sinh. Kiểm tra 08:00 sáng 03/04 đã được hẹn nhưng chưa diễn ra; Track 7 vẫn khóa và cơ sở tập riêng chỉ đang được cân nhắc.
-- **2026-04-03 Thứ Sáu — Tracen/Shibuya:** không có tiết học cho học sinh; chỉ một số hoạt động chuẩn bị nội bộ tại trường. Exact diễn biến tiếp theo của kỳ lưu trú chưa xảy ra tại endpoint hiện tại.
+- **2026-04-02 Thứ Năm, trưa–tối — Shibuya:** trưa khám phá nhà; chiều training trung bình–cao; khoảng **17:10** chụp ảnh buổi chiều/chat gia đình trên đường về. Sau đó Equinox viết bản tóm tắt Track 7 và nhóm chơi Old Maid.
+- **2026-04-03 Thứ Sáu, 06:00–buổi sáng — Căn hộ/khu gym thuê riêng:** dậy 06:00, vệ sinh/nấu bữa sáng/chuẩn bị; tập thể lực cường độ cao. Không gộp với buổi training chiều 02/04.
+- **2026-04-03 Thứ Sáu, chiều; gửi 17:15 — Căn hộ:** Equinox làm việc bốn giờ, gửi bản chi tiết Track 7 và hai tóm tắt training 01/04–02/04 theo đúng phân quyền; mỗi tài liệu có một chữ “tốt”.
+- **2026-04-03 Thứ Sáu, tối — Căn hộ:** sau nghỉ 30 phút, nấu ăn/dọn nhà, chơi guitar tới Phonecert; Equinox nhắn Zenith và ngủ sau ba học sinh. **Endpoint hiện tại là cả bốn đã ngủ cuối 03/04.**
+- **2026-04-02 Thứ Năm–2026-04-03 Thứ Sáu — Tracen:** học sinh không có tiết học; trường có một số hoạt động chuẩn bị nội bộ, không tự thêm nghĩa vụ cho nhóm lưu trú.
+- **2026-04-04 Thứ Bảy, 08:00 — Căn hộ:** lịch kiểm tra phục hồi đã hẹn sau đêm đàn; chưa diễn ra. Dữ liệu buổi gym 03/04 chưa có báo cáo cuối.
 - **2026-04-05 Chủ Nhật, giờ TBD — Shibuya → Tracen:** mốc trở về dự kiến của Rudolf/Air Groove/Brian theo lời mời bốn đêm; đây là kế hoạch đã đồng ý, chưa phải sự kiện đã hoàn tất.
 - **2026-04-06 Thứ Hai 08:30 — Đại sảnh Tracen:** lễ khai giảng/nhập học toàn trường; Special Week nhập học.
 - **2026-05-25 Thứ Hai 08:40–05-29 Thứ Sáu 12:20 — Khối học thuật:** giữa kỳ mùa xuân; training chiều giảm còn 90 phút.

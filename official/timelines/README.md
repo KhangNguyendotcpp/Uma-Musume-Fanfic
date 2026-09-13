@@ -20,7 +20,7 @@ Thư mục này ghi thứ tự narrative và race **bên trong từng production
 - `CONFLICTING`: hai continuity đưa ra quan hệ, trainer, kết quả hoặc bối cảnh không thể đồng thời đúng; giữ cả hai và gắn nguồn.
 - `UNSPECIFIED`: nguồn không nói rõ ngày hoặc quan hệ; không dùng lịch sử ngựa thật để tự lấp.
 - Năm phát hành chỉ là metadata production, **không phải** năm diễn ra trong truyện.
-- Calendar fanfic nằm tại `fanfic/timeline/CANON_TIMELINE_2025_2029.md`; mọi phép ánh xạ từ đây sang calendar đó là `ADOPTED` hoặc `NEEDS_FANFIC_DECISION`.
+- Calendar fanfic nằm tại `fanfic/timeline/CANON_TIMELINE_2025_2035.md`; mọi phép ánh xạ từ đây sang calendar đó là `ADOPTED` hoặc `NEEDS_FANFIC_DECISION`.
 - Drive corpus là bằng chứng primary cho hình, subtitle, credit, race card và on-screen text. Wiki dùng làm index/navigation; fact quan trọng phải quay về footage, subtitle hoặc trang chính thức khi có thể.
 
 ## Nguồn tra cứu

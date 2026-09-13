@@ -41,7 +41,7 @@
 
 - Cú đạp xuất phát, từng điểm tiếp đất ở tốc độ tối đa và quãng hãm sau đích làm hư hỏng liên tục line ngoài của Track 7: nứt/vỡ nền, bật mảng cỏ và đất, tạo hố nông/gờ đất; vùng xuất phát và khu giảm tốc chịu thiệt hại nặng nhất. Ít nhất một cọc cảm biến bị lệch nền.
 - Equinox đi bộ bình thường không tiếp tục phá mặt sân; thiệt hại xuất hiện khi lực vận động tăng tới mức chạy tối đa.
-- Không có người bị thương. Equinox chụp ảnh, gắn vị trí thiệt hại, đánh dấu line ngoài không an toàn và gửi báo cáo tới bảo trì/Race Operations.
+- Không có người bị thương. Đây là thông báo sự cố tại hiện trường 01/04, khác bản tóm tắt viết 02/04 và bản chi tiết hoàn tất 03/04. Equinox chụp ảnh, gắn vị trí thiệt hại, đánh dấu line ngoài không an toàn và gửi báo cáo tới bảo trì/Race Operations.
 - Track 7 được tự động chuyển sang trạng thái tạm khóa chờ kiểm tra mặt nền, lớp chịu lực, thoát nước và cảm biến. Đội bảo trì đã tới hiện trường; **việc sửa xong và thời điểm mở lại vẫn chưa xảy ra**.
 - Equinox nhận trách nhiệm trong báo cáo và yêu cầu gửi tổng chi phí để trừ phần trách nhiệm cá nhân vào lương. Đây mới là đề nghị của Equinox; Tracen chưa xác nhận mức thiệt hại, trách nhiệm pháp lý cuối cùng hoặc việc khấu trừ lương.
 

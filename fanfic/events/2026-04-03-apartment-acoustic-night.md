@@ -1,8 +1,8 @@
-# Đêm acoustic và Phonecert khép tối — 2026-04-02
+# Đêm acoustic và Phonecert khép tối — 2026-04-03
 
-**Trạng thái:** `STORY-ESTABLISHED / LOCKED`
+**Trạng thái:** `STORY-ESTABLISHED / LOCKED`; ngày sự kiện đã được tác giả đính chính sang **03/04/2026** trong quyết định 2026-09-13. Đối chiếu `fanfic/timeline/2026-04-01-to-03-chronology.md`.
 
-**Thời điểm:** tối Thứ Năm 2026-04-02, ngay sau khi Equinox, Symboli Rudolf, Air Groove và Narita Brian hoàn tất toàn bộ việc nhà; giờ chính xác `TBD`
+**Thời điểm:** tối Thứ Sáu 2026-04-03, ngay sau khi Equinox, Symboli Rudolf, Air Groove và Narita Brian hoàn tất toàn bộ việc nhà; giờ chính xác `TBD`
 
 **Địa điểm:** phòng khách căn hộ tầng 39 Park Court Shibuya The Tower
 
@@ -48,8 +48,8 @@
 
 - Air Groove kiểm tra hai bàn tay sau khi Equinox đồng ý chìa ra: da đỏ ở đầu ngón tay trái, mặt ngón/cạnh tay phải; chưa rách da, chảy máu hoặc nổi bóng nước. Đây là quan sát trong cảnh, không phải chẩn đoán y khoa.
 - Equinox cất guitar vào hộp, đóng chốt và đưa về chỗ cũ; vì quai làm rát tay, cô ấy chuyển sang ôm hộp bằng cẳng tay. Nét vẽ trên đàn thuộc Twilight và Lux theo nguồn OU và lời kể; không mặc định học sinh đã được giải thích đầy đủ lịch sử cây đàn.
-- Nhóm gom cốc vào bếp; Equinox kiểm tra bếp, cửa ban công và điều hòa. Brian ngủ trên sofa bed; Rudolf và Air Groove về chỗ ngủ phía trong đã bố trí từ đêm trước. Không tạo thêm phòng ngủ.
-- Equinox hẹn kiểm tra **08:00 sáng 2026-04-03**, để từng học sinh tự chọn giờ dậy nhưng phải có mặt lúc kiểm tra. Việc kiểm tra chưa diễn ra; chưa có dữ liệu phục hồi sáng sau.
+- Nhóm gom cốc vào bếp; Equinox kiểm tra bếp, cửa ban công và điều hòa. Brian ngủ trên sofa bed; Rudolf và Air Groove về chỗ ngủ phía trong đã bố trí từ đêm đầu 01/04. Không tạo thêm phòng ngủ.
+- Equinox hẹn kiểm tra **08:00 sáng 2026-04-04**, để từng học sinh tự chọn giờ dậy nhưng phải có mặt lúc kiểm tra. Việc kiểm tra chưa diễn ra; chưa có dữ liệu phục hồi sáng sau.
 - Equinox về phòng riêng và trả lời tin nhắn Zenith đã gửi trước đó. Cô ấy kể vừa hát trước ba học sinh, gửi danh sách bài đã chơi và xác nhận bài cuối là `Phonecert`.
 - Zenith chỉ lúc này mới được kể về buổi đàn. Equinox gửi ảnh hai tay đỏ rồi ảnh sau khi bôi kem; Zenith nhắc chăm sóc tay/ngủ và muốn nghe lại khi hết đau. Equinox chưa chốt ngày diễn lại. Đề nghị gọi để Zenith hát ru không trở thành một cuộc gọi đã thực hiện.
 - Equinox báo ba học sinh đã ngủ và ngày hôm nay ổn; lời này không truyền toàn bộ nội dung training, ba báo cáo hoặc dự định cơ sở tập cho Zenith.
@@ -57,10 +57,10 @@
 
 ## Endpoint và ranh giới kiến thức
 
-- Điểm tiếp tục trực tiếp là **cuối tối 2026-04-02, khi cả bốn đã ngủ**. Guitar đã cất; cuộc nhắn tin Equinox–Zenith đã kết thúc. Không quay lại điểm dừng sau `Bunny Girl`.
+- Điểm tiếp tục trực tiếp là **cuối tối 2026-04-03, khi cả bốn đã ngủ**. Guitar đã cất; cuộc nhắn tin Equinox–Zenith đã kết thúc. Không quay lại điểm dừng sau `Bunny Girl`.
 - Rudolf, Air Groove và Brian trực tiếp biết các bài đã nghe, gu ngôn ngữ Equinox vừa nói, trạng thái tay cuối buổi và việc `Phonecert` hướng tới Zenith. Cả ba không biết tin nhắn riêng sau khi về chỗ ngủ hoặc nội tâm chưa được nói ra; riêng người nhận của bài đầu vẫn chưa được Equinox trực tiếp xác nhận.
 - Zenith không có mặt và không nghe trực tiếp buổi diễn. Sau đó cô biết những gì Equinox nhắn/gửi ảnh: danh sách bài, `Phonecert` là bài cuối, hai tay đỏ/rát, đã bôi kem, ba học sinh đã ngủ và ngày hôm nay ổn. Không biết trọn phản ứng học sinh, chi tiết bản phối, trạng thái mắt/giọng hoặc dữ liệu Tracen.
-- Buổi thể lực sáng vẫn chưa có báo cáo cuối vì còn chờ dữ liệu đau cơ, giấc ngủ và trạng thái sáng 03/04. Team Zenith chưa được chứng nhận; Track 7 vẫn khóa; cơ sở tập riêng chỉ đang được cân nhắc; kỳ lưu trú chưa kết thúc.
+- Buổi thể lực sáng vẫn chưa có báo cáo cuối vì còn chờ dữ liệu đau cơ, giấc ngủ và trạng thái sáng 04/04. Team Zenith chưa được chứng nhận; Track 7 vẫn khóa; cơ sở tập riêng chỉ đang được cân nhắc; kỳ lưu trú chưa kết thúc.
 
 ## Xưng hô bắt buộc
 

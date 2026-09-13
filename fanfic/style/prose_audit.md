@@ -1,6 +1,6 @@
 # Prose Audit — từ mở đầu đến điểm hiện tại
 
-**Phạm vi:** các sự kiện prose đã được khóa trong repo từ Equinox xuất hiện ngày 2026-03-09 tới khi cả bốn đã ngủ sau `Phonecert` và tin nhắn riêng Equinox–Zenith tại căn hộ Shibuya cuối tối 2026-04-02. Repo hiện giữ phần lớn các cảnh dưới dạng continuity summary thay vì chapter nguyên văn; vì vậy audit này chỉ kết luận chắc chắn ở nơi còn đủ văn bản/dữ kiện, không dựng lỗi cho đoạn không còn nguyên văn.
+**Phạm vi:** các sự kiện prose đã được khóa trong repo từ Equinox xuất hiện ngày 2026-03-09 tới khi cả bốn đã ngủ sau `Phonecert` và tin nhắn riêng Equinox–Zenith tại căn hộ Shibuya cuối tối 2026-04-03. Repo hiện giữ phần lớn các cảnh dưới dạng continuity summary thay vì chapter nguyên văn; vì vậy audit này chỉ kết luận chắc chắn ở nơi còn đủ văn bản/dữ kiện, không dựng lỗi cho đoạn không còn nguyên văn.
 
 **Trạng thái:** tài liệu chẩn đoán, không tự retcon sự kiện. Guardrail bắt buộc nằm tại `fanfic/style/prohibited_tendencies.md`.
 
@@ -98,10 +98,6 @@
 - Tuyến di chuyển khớp setup đã có: Fuchu → Meidaimae bằng Keiō Line, đổi sang Keiō Inokashira Line → Shibuya. Không được quay lại endpoint “chưa lên tàu/chưa tới Shibuya”.
 - Vụ sàm sỡ chỉ khóa việc Air Groove bị nhắm tới, Equinox khống chế người gây ra, phía đường sắt/cảnh sát tiếp nhận và Air Groove tự chọn tiếp tục. Không tự thêm bản án, kết quả điều tra hoặc chấn thương.
 - Zenith trực tiếp xuất hiện tại buffet, sau đó rời về The Beyond Valley trước khi bốn người vào căn hộ. Vì vậy cô biết phần mình dự nhưng không tự biết bố trí lưu trú, sinh hoạt hoặc tám ván cờ.
-- Cảnh chat bầu trời khoảng 17:10 chỉ dùng bốn người nhà có voice OU đã khóa: Zenith, Elaina, Azusa và Beelzebub. Haise/Takiyama vẫn mất ý thức; thế hệ con không xuất hiện hoặc bị lôi vào thoại khi chưa có voice canon phù hợp.
-- Tên `The Beyond` không xuất hiện trong phần tin nhắn mà ba học sinh đọc. Các em chỉ thấy ảnh từ `bên nhà/gần nhà/rất xa`; sự tương đồng của bầu trời tạo nghi ngờ nhưng không đủ cho kết luận ngoài thế giới. Không được hồi tố Air Groove biết nhãn `The Beyond Valley` chỉ vì narrator/repo dùng tên đó.
-- Việc gửi ảnh có consent hai bước: ảnh nhóm được cả ba đồng ý; crop riêng chỉ lấy từ ảnh đã cho phép và được xác nhận giữ trong gia đình. Không nâng thành quyền gửi ảnh mới hoặc đăng công khai.
-- Endpoint riêng của nhịp đường về là lúc Equinox nhắn đã về rồi mở cửa cho ba học sinh bước vào. Zenith/Azusa/Beelzebub/Elaina không tự biết phần trong căn hộ sau đó chỉ vì còn ở cùng group chat.
 - Căn hộ khóa ở tầng 39 Park Court Shibuya The Tower với hai phòng ngủ, ba phòng tắm, hai phòng thay đồ, máy giặt không có máy sấy, ban công/hồ bơi vô cực cùng các không gian đã ghi trong event. Không tự thêm phòng hoặc tiện ích mới chỉ để phục vụ cảnh.
 - Quy tắc Equinox mặc đồ tại khu vực sinh hoạt chung bảo vệ ranh giới của ba học sinh; không dùng nó làm cớ xóa quyền riêng tư của Equinox trong phòng ngủ/phòng tắm/phòng thay đồ.
 - Bốn bộ cờ và vật liệu đã khóa: cờ vua hộp platinum, bàn kính, quân đá quý gothic; shogi/cờ vây/cờ tướng dùng hộp, bàn và quân gỗ quý.
@@ -119,19 +115,28 @@
 - Register chính khớp: Equinox dùng `cô–em/các em` với học sinh và dùng cách lịch sự trung tính với nhân viên/người lạ; Rudolf/Air Groove/Brian dùng baseline `tôi–cậu` khi nói ngang hàng. Không để cách người phụ nữ gọi Equinox là “cô” biến thành tự xưng của Equinox với người lớn.
 - Endpoint rõ: nhóm vừa ăn kem xong và tiếp tục đi trong siêu thị; xe thực phẩm gần đầy nhưng chưa thanh toán, phần hàng phi thực phẩm chưa xong, cả bốn chưa rời trung tâm hoặc trở về căn hộ.
 
-## Kiểm tra buổi thể lực, báo cáo và buổi tối 2026-04-02
+## Kiểm tra khám phá nhà, training, ảnh buổi chiều và Old Maid 2026-04-02
+
+- Lịch tác giả đính chính: khám phá nhà buổi trưa; training trung bình–cao buổi chiều; ảnh/chat trên đường về khoảng 17:10; tối tóm tắt Track 7 và Old Maid. Không ghép với buffet/cờ vua 01/04 hoặc gym/guitar 03/04.
+- Cảnh chat bầu trời ngày 02/04 khoảng 17:10 chỉ dùng bốn người nhà có voice OU đã khóa: Zenith, Elaina, Azusa và Beelzebub. Haise/Takiyama vẫn mất ý thức; thế hệ con không xuất hiện hoặc bị lôi vào thoại khi chưa có voice canon phù hợp.
+- Tên `The Beyond` không xuất hiện trong phần tin nhắn mà ba học sinh đọc. Các em chỉ thấy ảnh từ `bên nhà/gần nhà/rất xa`; sự tương đồng của bầu trời tạo nghi ngờ nhưng không đủ cho kết luận ngoài thế giới. Không được hồi tố Air Groove biết nhãn `The Beyond Valley` chỉ vì narrator/repo dùng tên đó.
+- Việc gửi ảnh có consent hai bước: ảnh nhóm được cả ba đồng ý; crop riêng chỉ lấy từ ảnh đã cho phép và được xác nhận giữ trong gia đình. Không nâng thành quyền gửi ảnh mới hoặc đăng công khai.
+- Endpoint riêng của nhịp đường về là lúc Equinox nhắn đã về rồi mở cửa cho ba học sinh bước vào. Zenith/Azusa/Beelzebub/Elaina không tự biết phần trong căn hộ sau đó chỉ vì còn ở cùng group chat.
+- Old Maid đã khóa tên/ngày, chưa khóa số ván hoặc kết quả. Giữ giới hạn nguồn cho chi tiết khám phá nhà và bài tập; không mượn bài tập buổi 03/04.
+
+## Kiểm tra buổi thể lực, báo cáo và buổi tối 2026-04-03
 
 - Cast chỉ gồm Equinox, Rudolf, Air Groove và Brian. Zenith không có mặt, không được kể lại và không tự biết bất kỳ phần nào của buổi thể lực, báo cáo, cơ sở tập đang cân nhắc, bữa tối hoặc việc nhà.
-- Ba báo cáo giữ đúng ranh giới dữ liệu: bản Track 7 chỉ sao chép phần liên quan cho trainee; báo cáo đánh giá có phụ lục cá nhân; mỗi trainee chỉ xem phần của mình. Không dùng việc cả ba thiết bị cùng nhận thông báo làm quyền đọc chéo dữ liệu.
+- Ba tài liệu chiều 03/04 là bản chi tiết Track 7 và hai tóm tắt training 01/04–02/04. Bản Track 7 chỉ sao chép phần liên quan cho trainee; các phụ lục cá nhân chỉ gửi cho đúng người. Không dùng việc cả ba thiết bị cùng nhận thông báo làm quyền đọc chéo dữ liệu.
 - Báo cáo Track 7 phân biệt observation/log/suy luận/chờ kiểm tra và không kết luận mặt sân yếu hay một nguyên nhân duy nhất. Đề nghị trừ lương vẫn không phải quyết định Tracen; track vẫn khóa.
-- Bản tóm tắt thể lực chưa hoàn chỉnh vì phản ứng đau cơ trễ, giấc ngủ và trạng thái sáng sau chưa có. Các tự báo cáo trong bữa tối không được nâng thành medical clearance.
+- Dữ liệu thể lực sáng 03/04 theo dõi riêng và chưa có báo cáo cuối vì còn chờ phản ứng đau cơ trễ, giấc ngủ và trạng thái sáng 04/04. Không thay một trong hai tóm tắt training 01/04–02/04 bằng dữ liệu sáng 03/04. Các tự báo cáo trong bữa tối không được nâng thành medical clearance.
 - Việc mỗi tài liệu chỉ dùng “tốt” một lần là beat characterization có payoff rõ; không kéo nó thành running gag trong mọi báo cáo sau nếu prose chưa lặp lại.
 - Air Groove có quyền yêu cầu Equinox nghỉ và nêu điều kiện phân tích trước khi mua cơ sở tập, nhưng Equinox vẫn tự chọn nghỉ, tự quyết định nấu và tự cam kết làm báo cáo. Không biến Air Groove thành người quản lý toàn bộ đời sống/tài sản của cô ấy.
 - Cơ sở tập riêng chỉ ở mức Equinox đang xem xét. Không tự tạo địa điểm, giá, nhân sự, thiết kế, lịch mua hoặc quyền sử dụng trước khi author khóa.
 - Endpoint riêng của event này là sau bữa tối và việc nhà; prose đã đi tiếp sang hai bài acoustic. Chi tiết shopping giữa quán kem và lúc về căn hộ chỉ được dùng ở mức prose thật sự xác lập; tổng tiền và inventory phi thực phẩm không được tự dựng từ việc thấy tủ lạnh đã đầy.
 - Register trong đoạn hiện có khớp ma trận chính: Equinox dùng `cô–em/các em`; học sinh dùng `em–cô`; Rudolf/Air Groove/Brian dùng `tôi–cậu` khi nói ngang hàng. Không để lời kể gọi Equinox là `cô` thay cho `cô ấy`.
 
-## Kiểm tra hai bài acoustic tối 2026-04-02
+## Kiểm tra hai bài acoustic tối 2026-04-03
 
 - Cast vẫn chỉ gồm Equinox, Rudolf, Air Groove và Brian. Zenith không có mặt hoặc ở trong cuộc gọi; sự giống nhau giữa màu giọng hát của Equinox và Zenith là so sánh của ba người từng trực tiếp nghe Zenith hát, không phải kênh để Zenith biết cảnh này.
 - Hai bài và thứ tự đã khóa: `Tsuki ga Kirei ne to Iwaretai`, sau đó `Bunny Girl` của AKASAKI. Không chép nguyên lời bài hát vào continuity summary và phần tiếp theo đã được bổ sung ở event đêm acoustic; không tự dựng lời thoại cho các đoạn chỉ còn tóm tắt.
@@ -157,12 +162,20 @@
 - kênh truyền thông tin giữa HR, staff, Student Council và Air Groove;
 - sự chuyển biến quan hệ Equinox–Air Groove có đủ bước đệm hay chưa.
 
-## Kiểm tra Phonecert và khép đêm 02/04
+## Kiểm tra Phonecert và khép đêm 03/04
 
-- Quyết định trực tiếp của tác giả khóa `Phonecert` là bài cuối và dừng khi cả bốn ngủ. Không tự thêm encore hoặc cảnh sáng 03/04. Chuỗi bài giữa `Bunny Girl` và `Kẻ Thù` chỉ còn bản tóm tắt truy hồi trong lần cập nhật; event ghi rõ giới hạn nguồn.
+- Quyết định trực tiếp của tác giả khóa `Phonecert` là bài cuối và dừng khi cả bốn ngủ. Không tự thêm encore hoặc cảnh sáng 04/04. Chuỗi bài giữa `Bunny Girl` và `Kẻ Thù` chỉ còn bản tóm tắt truy hồi trong lần cập nhật; event ghi rõ giới hạn nguồn.
 - Phân biệt khán giả trong phòng với người được hướng tới trong bài: Equinox trực tiếp xác nhận `Phonecert` dành cho Zenith. Không suy tình cảm lãng mạn giáo viên–trainee hoặc hồi tố người nhận cho mọi bài khác.
 - Zenith chỉ biết buổi diễn qua danh sách bài và ảnh/tin nhắn sau đó. Ba học sinh đã về chỗ ngủ nên không biết cuộc nhắn riêng. Không truyền dữ liệu training hoặc báo cáo bằng câu trả lời “ổn”.
-- Tay đỏ/rát là tình trạng cụ thể trong cảnh, không tự dựng chấn thương nặng hoặc tuyên bố đã hồi phục sau bôi kem. Hẹn kiểm tra 08:00 sáng 03/04 chưa phải sự kiện kiểm tra đã hoàn tất.
+- Tay đỏ/rát là tình trạng cụ thể trong cảnh, không tự dựng chấn thương nặng hoặc tuyên bố đã hồi phục sau bôi kem. Hẹn kiểm tra 08:00 sáng 04/04 chưa phải sự kiện kiểm tra đã hoàn tất.
 - Bản prose mới cho Equinox thay đồ ngủ trong phòng riêng, khác thói quen ngủ khỏa thân đã khóa. Không nâng chi tiết một đêm thành thay đổi thói quen chung; khi sửa chapter cần giữ ranh giới giữa thói quen và lựa chọn cụ thể, không tự xóa canon cũ.
 - Air Groove quan sát tay và nhắc dừng có căn cứ trực tiếp; không nâng thành quyền quyết định đời sống của Equinox hoặc chẩn đoán y khoa. Gu tiếng Hàn là ý kiến nhân vật, không phải sự thật khách quan của narrator.
 - Ba block tác giả chỉnh `28416`, `73146`, `56391` đã được đối chiếu với event căn tin/baseline và các ngoại lệ register hiện hành; không kéo mốc truyện lùi về 01/04 hoặc đổi ban cán sự.
+
+## Đính chính timeline theo tác giả — 2026-09-13
+
+- Đã sửa lỗi gốc: ảnh/chat bầu trời chuyển khỏi 01/04 sang 02/04; buổi gym, bốn giờ báo cáo và toàn bộ đêm acoustic chuyển sang 03/04. Tên file event được đổi theo ngày, liên kết được đồng bộ.
+- Đã tách thông báo sự cố Track 7 01/04, tóm tắt 02/04 và bản chi tiết 03/04; hai tóm tắt training gửi 03/04 phải mang ngày hoạt động 01/04, 02/04.
+- Cờ vua ở tối 01/04 nên Rudolf phân tích lại vào 03/04 không được gọi là “đêm trước”. Kiểm tra “sáng mai 08:00” sau Phonecert là 04/04.
+- Timestamp mới bắt buộc đủ giờ/phút/thứ/ngày/tháng/năm trước cảnh có bước nhảy thời gian; xem `fanfic/style/scene-time-anchors.md`. Giờ cũ chưa có nguồn vẫn để TBD trong hồ sơ, không bịa phút chính xác.
+- Đã sửa hai liên kết lịch cũ còn trỏ tới tên file kết thúc năm 2029 trong `fanfic/world/winning-live-protocol.md` và `official/timelines/README.md`; đích đúng là bộ lịch 2025/2026–2035.

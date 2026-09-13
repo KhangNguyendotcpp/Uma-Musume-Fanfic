@@ -90,7 +90,7 @@ Các điều cấm:
 
 **Điểm chưa giải quyết:** Zenith để lại áo ngực đầu tiên cho Equinox nhưng sản phẩm sai cả kích cỡ lẫn cấu trúc dù Zenith biết cơ thể incarnation. Cần một lời giải được tác giả duyệt—ví dụ trạng thái đồ tạm khẩn cấp—trước khi xem đây là logic hoàn chỉnh; không tự chế lời giải trong prose.
 
-**Lưu trú Shibuya:** phê duyệt có điều kiện của quản lý ký túc xá không thay quyền đồng ý của Rudolf/Air Groove/Brian hoặc đơn riêng từng em. Tại endpoint mới, cả ba đã hoàn tất đơn, tới Shibuya, bắt đầu lưu trú, trải qua tám ván cờ, kiểm tra trạng thái, mua sắm, buổi thể lực, khối báo cáo, bữa tối, việc nhà, buổi acoustic khép bằng `Phonecert` và đi ngủ ngày 02/04. Không được tự cho kỳ lưu trú đã kết thúc, biến tự báo cáo mỏi/không đau thành medical clearance, cho Track 7 đã mở lại, biến cơ sở tập riêng thành tài sản đã mua, cho Zenith biết toàn bộ sinh hoạt chỉ từ tin nhắn cuối đêm; cô chỉ nhận danh sách bài, ảnh tay và lời báo ngắn của Equinox.
+**Lưu trú Shibuya:** phê duyệt có điều kiện của quản lý ký túc xá không thay quyền đồng ý của Rudolf/Air Groove/Brian hoặc đơn riêng từng em. Tại endpoint mới, cả ba đã hoàn tất đơn, tới Shibuya, bắt đầu lưu trú, trải qua tám ván cờ, kiểm tra trạng thái, mua sắm, buổi thể lực, khối báo cáo, bữa tối, việc nhà, buổi acoustic khép bằng `Phonecert` và đi ngủ ngày 03/04; riêng ảnh/chat bầu trời cùng Old Maid thuộc 02/04. Không được tự cho kỳ lưu trú đã kết thúc, biến tự báo cáo mỏi/không đau thành medical clearance, cho Track 7 đã mở lại, biến cơ sở tập riêng thành tài sản đã mua, cho Zenith biết toàn bộ sinh hoạt chỉ từ tin nhắn cuối đêm; cô chỉ nhận danh sách bài, ảnh tay và lời báo ngắn của Equinox.
 
 **Cảnh cổng Tracen:** các nhóm tới và rời cổng theo từng thời điểm. Team Spica không biết mục đích chờ; Hana biết Track 7 và bữa buffet nhưng chưa biết lưu trú; Tachyon/Cafe, Urara/Rice chỉ biết cuộc nói chuyện trực tiếp của mình; Rudolf/Air Groove/Brian tới sau nên không tự biết các cuộc gặp trước. Việc người kể biết Equinox thay đồ lót không truyền thông tin đó cho bất kỳ nhân vật nào.
 
@@ -110,7 +110,11 @@ Các điều cấm:
 - Mỗi lần Air Groove can thiệp phải có căn cứ mà cô bé thật sự biết ở thời điểm đó.
 - Sự thân thiết phải tăng qua hành động và thời gian, không nhảy thẳng từ dè chừng sang quyền kiểm soát đời tư.
 
-## 10. Checklist bắt buộc trước khi tiếp tục cảnh
+## 10. Mốc thời gian khi chuyển cảnh — HARD / BLOCKING
+
+Nếu có bước nhảy thời gian đủ dài giữa các cảnh, bắt buộc ghi **giờ, phút, thứ, ngày, tháng, năm** ngay trước đoạn đầu cảnh mới, theo `fanfic/style/scene-time-anchors.md`. Không dùng “hôm sau/vài giờ sau” thay mốc đầy đủ. Khi đổi ngày phải rà lại báo cáo, lịch hẹn và kiến thức nhân vật. Lịch 01–03/04 đã sửa nằm tại `fanfic/timeline/2026-04-01-to-03-chronology.md`.
+
+## 11. Checklist bắt buộc trước khi tiếp tục cảnh
 
 1. Ai có mặt trong cảnh trước?
 2. Mỗi người biết thông tin này từ đâu?
@@ -120,3 +124,4 @@ Các điều cấm:
 6. Con số/đạo cụ có tự mâu thuẫn không?
 7. Hành động mới có làm ai mất thẩm quyền hoặc năng lực chỉ để đẩy thoại không?
 8. Chi tiết riêng tư có được truyền qua một kênh hợp lệ không?
+9. Mỗi cảnh có bước nhảy thời gian đã có timestamp đủ giờ/phút/thứ/ngày/tháng/năm ở đầu chưa? Thứ, timezone và mọi “hôm qua/sáng mai” có khớp không?

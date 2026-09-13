@@ -7,7 +7,7 @@
 - **Số đo ba vòng (ngực–eo–hông):** **210–118–200 cm** — STORY-ESTABLISHED / LOCKED
 - **Cơ quan:** Tracen Academy
 - **Vai trò hiện tại:** giáo viên Lịch sử + trainer chính thức + giáo viên chủ nhiệm Senior 3-A, với quyền trong từng phạm vi chuyên môn — STORY-ESTABLISHED / LOCKED
-- **Trạng thái tại điểm prose hiện tại:** tối 2026-04-02 tại căn hộ tầng 39 Park Court Shibuya The Tower; sau buổi thể lực, ba tài liệu, bữa tối và việc nhà, Equinox đã chơi guitar/hát `Tsuki ga Kirei ne to Iwaretai` cùng `Bunny Girl` cho Rudolf/Air Groove/Brian. Equinox đã khép buổi guitar bằng `Phonecert` bản Việt, cất đàn, nhắn riêng với Zenith, bôi kem dưỡng tay rồi ngủ; Rudolf, Air Groove và Brian cũng đã ngủ. Track 7 vẫn khóa; cơ sở tập riêng mới ở mức cân nhắc — STORY-ESTABLISHED / LOCKED
+- **Trạng thái tại điểm prose hiện tại:** tối 2026-04-03 tại căn hộ tầng 39 Park Court Shibuya The Tower; sau buổi thể lực, ba tài liệu, bữa tối và việc nhà, Equinox đã chơi guitar/hát `Tsuki ga Kirei ne to Iwaretai` cùng `Bunny Girl` cho Rudolf/Air Groove/Brian. Equinox đã khép buổi guitar bằng `Phonecert` bản Việt, cất đàn, nhắn riêng với Zenith, bôi kem dưỡng tay rồi ngủ; Rudolf, Air Groove và Brian cũng đã ngủ. Track 7 vẫn khóa; cơ sở tập riêng mới ở mức cân nhắc — STORY-ESTABLISHED / LOCKED
 - **Môn giảng dạy/đã giảng thử:** Lịch sử — STORY-ESTABLISHED / LOCKED
 - **Chức danh hợp đồng chính xác:** TBD; không ảnh hưởng kết quả tuyển dụng đã chốt
 
@@ -118,10 +118,6 @@ Equinox là Uma nhưng **không được định hướng làm racer thi đấu*
 - Đi cùng Rudolf/Air Groove/Brian theo tuyến Keiō từ Fuchu, đổi tại Meidaimae tới Shibuya.
 - Trong toa đông, phát hiện Air Groove bị sàm sỡ, khống chế người gây ra và bàn giao cho phía đường sắt/cảnh sát. Để Air Groove tự quyết định việc tiếp tục hành trình; cô bé chọn đi tiếp.
 - Dùng buffet cùng ba học sinh và Zenith khi vợ bất ngờ xuất hiện trực tiếp. Sau bữa buffet, Zenith rời về The Beyond Valley; bốn người còn lại tới căn hộ.
-- Khoảng 17:10 trên đường đi bộ về, cho ba học sinh xem nhóm chat nơi Zenith, Elaina, Azusa và Beelzebub gửi/so sánh bầu trời phía nhà với ảnh Shibuya; gửi ảnh nhóm và crop riêng từng em sau khi xin phép, với phạm vi chỉ giữ trong gia đình.
-- Chỉ trả lời nơi chụp là `gần nhà` và `rất xa`, không cung cấp địa danh hoặc múi giờ. Gia đình không dùng tên The Beyond trong chat; Equinox không xác nhận bất kỳ suy đoán nào của Rudolf, Air Groove hoặc Brian về quê nhà.
-- Báo `Dưới sảnh` rồi `Rồi` trong nhóm gia đình khi bốn người tới tòa nhà/cửa căn hộ. Cảnh đường về kết thúc lúc mở cửa cho ba học sinh bước vào.
-
 ## Đêm đầu lưu trú và tám ván cờ — 2026-04-01
 
 - Cho ba học sinh quyền ra vào tạm thời bằng thẻ dự phòng/mật khẩu, thống nhất ranh giới riêng tư và chấp nhận phải mặc đồ tại khu vực sinh hoạt chung trong thời gian có học sinh ở cùng.
@@ -140,16 +136,25 @@ Equinox là Uma nhưng **không được định hướng làm racer thi đấu*
 - Không sửa lời một phụ nữ lớn tuổi gọi ba học sinh là “các con nhà cô” vì hiểu nhầm không gây hại và người phụ nữ đang vui. Đây không phải việc Equinox tự nhận vai phụ huynh.
 - Chọn kem vani, trả tiền cả bốn phần rồi bắt đầu lơ mơ khi ngồi nghỉ. Sau khi ăn xong và phân loại rác, tiếp tục đẩy xe vào dòng khách; xe thực phẩm chưa thanh toán và phần hàng phi thực phẩm còn ở phía sau.
 
-## Buổi thể lực, báo cáo và buổi tối — 2026-04-02
+## Khám phá nhà, training, ảnh buổi chiều và Old Maid — 2026-04-02
 
-- Tổ chức buổi thể lực dùng tempo chậm và thất bại kỹ thuật làm ngưỡng dừng, không cho trainee đổi kỹ thuật để hoàn thành thêm rep.
-- Dành khối tự do bốn giờ viết ba tài liệu: báo cáo Track 7 19 trang chính + 6 phụ lục, báo cáo buổi đánh giá hôm trước và tóm tắt thể lực chưa hoàn chỉnh. Gửi đúng phân quyền lúc 17:15.
+- Trưa khám phá nhà sau mua sắm; chiều phụ trách buổi training cường độ trung bình–cao của ba trainee.
+- Khoảng 17:10 ngày 02/04 trên đường về sau training, cho ba học sinh xem nhóm chat nơi Zenith, Elaina, Azusa và Beelzebub gửi/so sánh bầu trời phía nhà với ảnh Shibuya; gửi ảnh nhóm và crop riêng từng em sau khi xin phép, với phạm vi chỉ giữ trong gia đình.
+- Chỉ trả lời nơi chụp là `gần nhà` và `rất xa`, không cung cấp địa danh hoặc múi giờ. Gia đình không dùng tên The Beyond trong chat; Equinox không xác nhận bất kỳ suy đoán nào của Rudolf, Air Groove hoặc Brian về quê nhà.
+- Báo `Dưới sảnh` rồi `Rồi` trong nhóm gia đình khi bốn người tới tòa nhà/cửa căn hộ. Cảnh đường về kết thúc lúc mở cửa cho ba học sinh bước vào.
+
+- Tối viết bản tóm tắt Track 7 rồi cùng nhóm chơi Old Maid; kết quả trò bài chưa khóa.
+
+## Buổi thể lực, báo cáo và buổi tối — 2026-04-03
+
+- Sau khi nhóm dậy 06:00 và ăn sáng, tổ chức buổi thể lực cường độ cao tại khu gym đã thuê riêng trong tòa nhà, dùng tempo chậm và thất bại kỹ thuật làm ngưỡng dừng, không cho trainee đổi kỹ thuật để hoàn thành thêm rep.
+- Dành khối tự do bốn giờ viết ba tài liệu: báo cáo Track 7 19 trang chính + 6 phụ lục, tóm tắt buổi đánh giá/training 01/04 và tóm tắt training trung bình–cao 02/04. Gửi đúng phân quyền lúc 17:15 ngày 03/04. Dữ liệu thể lực sáng 03/04 theo dõi riêng, chưa có báo cáo cuối.
 - Trong báo cáo Track 7, tách dữ kiện, suy luận và phần chờ kiểm tra; tự nhận trách nhiệm cho quyết định chạy tối đa khi chưa có thử nghiệm lực tương ứng. Không viết đề nghị trừ lương như thể Tracen đã duyệt.
 - Chỉ dùng từ “tốt” đúng một lần trong mỗi tài liệu vì cho rằng phần đó chính xác, không nhằm làm mềm phê bình hoặc tạo lời động viên chung chung.
 - Nằm nghỉ đúng 30 phút theo yêu cầu của Air Groove rồi dậy nấu tối. Cùng ba học sinh chuẩn bị lẩu miso gà, cơm và rau bina trộn mè, sau đó chia và hoàn tất việc nhà.
 - Đang xem xét mua một cơ sở tập riêng vì nhu cầu thiết bị cố định, dữ liệu thống nhất, kiểm soát quyền truy cập, mặt sàn/khu chạy chịu tải và không phải đặt lịch. Đã đồng ý làm báo cáo riêng trước quyết định; chưa mua hoặc chọn địa điểm.
 
-## Guitar và giọng hát — tối 2026-04-02
+## Guitar và giọng hát — tối 2026-04-03
 
 - Sở hữu và chơi thành thạo một cây guitar acoustic cũ có nét vẽ của hai đứa trẻ nay đã trưởng thành trên thân đàn; gần một tháng không chạm vào đàn không làm cô mất khả năng chơi liền mạch sau một quãng ngắn tìm lại cảm giác.
 - Chơi `Tsuki ga Kirei ne to Iwaretai` theo bản phối chậm, rồi `Bunny Girl` của AKASAKI theo hướng solo acoustic 4/4 có bass, hợp âm, mute, slide, tiếng gõ thân đàn và hammer-on.
