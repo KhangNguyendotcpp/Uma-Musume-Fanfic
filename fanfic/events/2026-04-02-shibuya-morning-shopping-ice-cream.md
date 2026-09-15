@@ -10,7 +10,7 @@
 
 ## Điểm nối và kiểm tra buổi sáng
 
-- Cảnh diễn ra sau đêm đầu tại căn hộ. Ba bộ shogi/cờ vây/cờ tướng có được chơi sau tám ván cờ hay không **không được xác lập bởi phần prose đã chuẩn hóa trong repo này**; không tự điền kết quả hoặc tỷ số.
+- Cảnh diễn ra sau đêm đầu tại căn hộ. Việc ba bộ shogi/cờ vây/cờ tướng có được chơi trong khoảng từ lúc cất cờ vua tối 01/04 tới sáng 02/04 hay không **không được xác lập bởi phần prose đã chuẩn hóa trong repo này**; không tự điền kết quả hoặc tỷ số cho khoảng trống đó. Cờ vây chỉ được xác nhận mở về sau, trong hai ván tối 04/04.
 - Buổi kiểm tra trạng thái dự kiến lúc 08:00 đã diễn ra trước khi nhóm ra ngoài. Dữ liệu buổi sáng không cho thấy bất thường cấp tính; prose chỉ cho biết Equinox đã ghi nhận một độ căng rất nhỏ ở chân phải Air Groove trong căn hộ.
 - Cả bốn rời căn hộ vào buổi sáng để thực hiện phần mua sắm đã dự kiến. Giờ rời nhà chính xác và tên trung tâm thương mại vẫn `TBD`.
 

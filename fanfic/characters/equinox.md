@@ -7,7 +7,7 @@
 - **Số đo ba vòng (ngực–eo–hông):** **210–118–200 cm** — STORY-ESTABLISHED / LOCKED
 - **Cơ quan:** Tracen Academy
 - **Vai trò hiện tại:** giáo viên Lịch sử + trainer chính thức + giáo viên chủ nhiệm Senior 3-A, với quyền trong từng phạm vi chuyên môn — STORY-ESTABLISHED / LOCKED
-- **Trạng thái tại điểm prose hiện tại:** tối 2026-04-03 tại căn hộ tầng 39 Park Court Shibuya The Tower; sau buổi thể lực, ba tài liệu, bữa tối và việc nhà, Equinox đã chơi guitar/hát `Tsuki ga Kirei ne to Iwaretai` cùng `Bunny Girl` cho Rudolf/Air Groove/Brian. Equinox đã khép buổi guitar bằng `Phonecert` bản Việt, cất đàn, nhắn riêng với Zenith, bôi kem dưỡng tay rồi ngủ; Rudolf, Air Groove và Brian cũng đã ngủ. Track 7 vẫn khóa; cơ sở tập riêng mới ở mức cân nhắc — STORY-ESTABLISHED / LOCKED
+- **Trạng thái tại điểm prose hiện tại:** sau 22:11 JST tối 2026-04-04 tại căn hộ tầng 39 Park Court Shibuya The Tower; sau kiểm tra 08:00, buổi hồ bơi và loạt ảnh gửi Zenith, Equinox đã dạy Rudolf/Air Groove/Brian chơi cờ vây bằng hai ván thực chiến 19×19, chấp chín quân mỗi ván và thắng cả hai. Ván hai kết thúc 22:11; bộ cờ được thu/cất sau đó, phút chính xác chưa khóa. Chưa có cảnh ngủ tối 04/04. Track 7 vẫn khóa; cơ sở tập riêng mới ở mức cân nhắc — STORY-ESTABLISHED / LOCKED
 - **Môn giảng dạy/đã giảng thử:** Lịch sử — STORY-ESTABLISHED / LOCKED
 - **Chức danh hợp đồng chính xác:** TBD; không ảnh hưởng kết quả tuyển dụng đã chốt
 
@@ -161,6 +161,14 @@ Equinox là Uma nhưng **không được định hướng làm racer thi đấu*
 - Khi hát, mở hé mắt trái; giọng trở nên mềm, ngọt, hơi airy, có độ khàn nhẹ và giống Zenith lúc hát nhưng thấp hơn. Cách nhả chữ, hơi thở ấm và sắc trầm vẫn là của Equinox; không viết như cô biến thành hoặc bắt chước hoàn toàn Zenith.
 - Không cần sân khấu/micro và không phô diễn kỹ thuật. Cách kết bài tùy bản phối: `Kẻ Thù` được chặn dây, `Phonecert` để hợp âm cuối tự tắt rồi khép mắt trái. Ở endpoint, guitar đã cất và cả bốn đã ngủ.
 - Chọn `Phonecert` bản Việt để khép tối; xác nhận gu cá nhân không thích tiếng Hàn khi hát dù thích trong giao tiếp và người nhận của bài này vẫn là Zenith. Hai tay đỏ/rát sau buổi đàn; bôi kem theo lời nhắc của Zenith qua tin nhắn riêng rồi ngủ. Việc hát lại chờ tay hết đau, chưa có lịch.
+
+## Hồ bơi và cờ vây — 2026-04-04
+
+- Hoàn tất buổi kiểm tra 08:00 đã hẹn; snapshot hiện có không khóa chỉ số chi tiết hoặc medical clearance.
+- Sau khi cả nhóm nấu/ăn trưa, nghỉ, thay đồ và khởi động, Equinox xuống hồ bơi vô cực bằng phao lớn dạng ghế, đeo kính râm và chụp ảnh Rudolf/Air Groove/Brian chơi bóng/nghịch nước. Cô cho ba em xem ảnh rồi gửi đúng loạt ảnh cho Zenith; không mở quyền chia sẻ công khai.
+- Dạy cờ vây bằng hai ván thực chiến trên bàn 19×19. Ba học sinh dùng chung quân đen, nhận chín quân chấp và phải đồng thuận từng nước; Equinox cầm trắng, giải thích luật/khái niệm khi chúng xuất hiện thay vì giảng tách rời.
+- Thắng cả hai ván sau khi ba học sinh chủ động nhận thua. Equinox không dùng chiến thắng để làm nhục; sau mỗi ván cô giữ bàn để chỉ nước cứu nhóm lớn, chấp nhận hy sinh, cách giữ lợi thế và các điểm then chốt đã bỏ qua.
+- Ván hai kết thúc lúc 22:11; sau đó cùng ba học sinh thu quân, lau bàn, phủ vải, khóa hộp và cất bộ cờ vây vào tủ. Phút kết thúc dọn dẹp chưa khóa; chưa đi ngủ tại endpoint.
 
 ## Nguyên tắc nghề nghiệp đã thể hiện
 - Sức khỏe và medical clearance đứng trên race, Winning Live và sức ép khán giả.

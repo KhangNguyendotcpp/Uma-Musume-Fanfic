@@ -50,9 +50,9 @@ Mốc Live là quy ước `ORIGINAL`. Với international campaign, Equinox ph�
 - **2026-04-02 Thứ Năm, trưa–tối — Shibuya:** trưa khám phá nhà; chiều training trung bình–cao; khoảng **17:10** chụp ảnh buổi chiều/chat gia đình trên đường về. Sau đó Equinox viết bản tóm tắt Track 7 và nhóm chơi Old Maid.
 - **2026-04-03 Thứ Sáu, 06:00–buổi sáng — Căn hộ/khu gym thuê riêng:** dậy 06:00, vệ sinh/nấu bữa sáng/chuẩn bị; tập thể lực cường độ cao. Không gộp với buổi training chiều 02/04.
 - **2026-04-03 Thứ Sáu, chiều; gửi 17:15 — Căn hộ:** Equinox làm việc bốn giờ, gửi bản chi tiết Track 7 và hai tóm tắt training 01/04–02/04 theo đúng phân quyền; mỗi tài liệu có một chữ “tốt”.
-- **2026-04-03 Thứ Sáu, tối — Căn hộ:** sau nghỉ 30 phút, nấu ăn/dọn nhà, chơi guitar tới Phonecert; Equinox nhắn Zenith và ngủ sau ba học sinh. **Endpoint hiện tại là cả bốn đã ngủ cuối 03/04.**
+- **2026-04-03 Thứ Sáu, tối — Căn hộ:** sau nghỉ 30 phút, nấu ăn/dọn nhà, chơi guitar tới Phonecert; Equinox nhắn Zenith và ngủ sau ba học sinh. Đây là endpoint lịch sử trước cảnh 04/04.
 - **2026-04-02 Thứ Năm–2026-04-03 Thứ Sáu — Tracen:** học sinh không có tiết học; trường có một số hoạt động chuẩn bị nội bộ, không tự thêm nghĩa vụ cho nhóm lưu trú.
-- **2026-04-04 Thứ Bảy, 08:00 — Căn hộ:** lịch kiểm tra phục hồi đã hẹn sau đêm đàn; chưa diễn ra. Dữ liệu buổi gym 03/04 chưa có báo cáo cuối.
+- **2026-04-04 Thứ Bảy, 08:00–sau 22:11 — Căn hộ:** kiểm tra phục hồi lúc 08:00; trưa nấu/ăn và nghỉ; chiều khởi động rồi vui chơi ở hồ bơi, Equinox gửi ảnh cho Zenith; tối học cờ vây qua hai ván thực chiến có chín quân chấp. Cả ba trainee nhận thua hai ván; ván hai kết thúc 22:11 rồi nhóm thu/cất bộ cờ, phút chính xác chưa khóa. **Đây là endpoint hiện tại; chưa có cảnh ngủ.**
 - **2026-04-05 Chủ Nhật, giờ TBD — Shibuya → Tracen:** mốc trở về dự kiến của Rudolf/Air Groove/Brian theo lời mời bốn đêm; đây là kế hoạch đã đồng ý, chưa phải sự kiện đã hoàn tất.
 - **2026-04-06 Thứ Hai 08:30 — Đại sảnh Tracen:** lễ khai giảng/nhập học toàn trường; Special Week nhập học.
 - **2026-05-25 Thứ Hai 08:40–05-29 Thứ Sáu 12:20 — Khối học thuật:** giữa kỳ mùa xuân; training chiều giảm còn 90 phút.

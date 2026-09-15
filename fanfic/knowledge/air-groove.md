@@ -1,6 +1,6 @@
 # Air Groove — Knowledge Registry tại điểm prose hiện tại
 
-**Mốc:** cuối tối 2026-04-03; Air Groove đã nghe hết buổi guitar khép bằng `Phonecert` và về chỗ ngủ. Tin nhắn riêng Equinox–Zenith sau đó không thuộc kiến thức của cô bé.
+**Mốc:** sau 22:11 JST tối 2026-04-04; Air Groove đã tham gia buổi hồ bơi và hai ván cờ vây, sau đó cùng nhóm cất bộ cờ. Phút chính xác sau khi dọn chưa khóa. Tin nhắn riêng Equinox–Zenith sau đêm acoustic 03/04 vẫn không thuộc kiến thức của cô bé.
 
 ## KNOWN — có nguồn trực tiếp
 
@@ -44,7 +44,7 @@
 - Air Groove chủ động xử lý lượt giặt đầu trong căn hộ có máy giặt nhưng không có máy sấy và theo dõi danh sách việc nhà. Điều này không biến cô thành người quản lý toàn bộ sinh hoạt của Equinox.
 - Air Groove trực tiếp biết kế hoạch sáng 02/04: kiểm tra trạng thái lúc 08:00 và đi mua đồ lúc 08:30. Hai phần đã được thực hiện vào sáng 02/04; giờ rời nhà chính xác chưa được repo khóa.
 - Air Groove trực tiếp quan sát tám ván cờ giữa Rudolf và Equinox, biết thời gian năm phút mỗi bên, tỷ số 0–8, thứ tự tám dạng chiếu hết và mục tiêu cuối của Rudolf là buộc Equinox dừng tay. Cô biết Equinox không dừng, dùng 24 giây trong ván cuối và cả hai nhớ được tám ván.
-- Air Groove giữ tờ danh sách mua sắm có ghi tỷ số thay vì xé bỏ; cô cùng cả nhóm kiểm đủ 32 quân và cất bộ cờ vua. Cô biết ba bộ shogi/cờ vây/cờ tướng còn nguyên trên bàn tại endpoint.
+- Air Groove giữ tờ danh sách mua sắm có ghi tỷ số thay vì xé bỏ; cô cùng cả nhóm kiểm đủ 32 quân và cất bộ cờ vua. Cô biết ba bộ shogi/cờ vây/cờ tướng còn nguyên trên bàn tại endpoint riêng của cảnh 01/04; cờ vây chỉ được mở về sau trong hai ván tối 04/04.
 - Air Groove trực tiếp tham gia kiểm tra trạng thái buổi sáng. Cô biết dữ liệu không cho thấy bất thường cấp tính, Equinox đã quan sát một dấu căng rất nhỏ ở chân phải mình trong căn hộ và dấu ấy không còn xuất hiện ở bước đầu sau khoảng nghỉ ăn kem.
 - Air Groove trực tiếp đi bộ cùng nhóm tới trung tâm thương mại, giữ danh sách, kiểm độ tươi/hạn dùng/sức chứa và sắp xe. Cô biết Equinox cho phép tự chọn đồ trong giới hạn lưu trữ/độ tuổi, không đặt trần ngân sách thực tế và không mua rượu trong chuyến đi.
 - Air Groove trực tiếp thấy Equinox lấy ba túi snack đậu xanh nước dừa, khẳng định đó là món mình thích và nói hàng ở nhà đã hết. Cô biết Equinox nhớ không gian còn lại trong tủ lạnh/tủ khô, nhưng không được nâng lời nhớ này thành một phép kiểm kho độc lập của chính Air Groove.
@@ -67,6 +67,12 @@
 - Air Groove trực tiếp thấy Equinox mở hé mắt trái khi hát rồi khép lại sau mỗi bài; biết giọng hát khi đó mềm, ngọt, airy, thấp hơn nhưng giống màu giọng Zenith lúc hát. Cô không tự biết cơ chế OU sâu hơn chỉ từ việc nghe hoặc nhìn.
 - Air Groove nghe Brian yêu cầu bài thứ hai và muốn nghe thêm sau `Bunny Girl`; biết Brian thích nhịp bài thứ hai hơn. Sau nhịp ấy, buổi đàn tiếp tục tới `Kẻ Thù` và `Phonecert`. Cô nghe Equinox nói không thích tiếng Hàn khi hát dù thích trong giao tiếp, và xác nhận người nhận của `Phonecert` vẫn là Zenith.
 - Air Groove trực tiếp kiểm tra tay Equinox cuối buổi: da đỏ/rát, chưa rách/chảy máu/nổi bóng nước; biết guitar đã được cất và lịch kiểm tra sáng 04/04 là 08:00. Sau đó cô về chỗ ngủ đã bố trí.
+- Air Groove trực tiếp tham gia buổi kiểm tra phục hồi 08:00 ngày 04/04. Snapshot hiện có không khóa chỉ số chi tiết; registry không tự nâng việc tiếp tục ngày nghỉ thành medical clearance.
+- Air Groove cùng nhóm nấu/ăn trưa, nghỉ, thay đồ và khởi động trước khi xuống hồ bơi. Cô trực tiếp thấy Equinox dùng phao lớn dạng ghế/đeo kính râm và tham gia các hoạt động chơi bóng, nghịch nước cùng Rudolf và Brian.
+- Air Groove được Equinox cho xem loạt ảnh hồ bơi trước khi chúng được gửi cho Zenith; biết Zenith yêu cầu thêm ảnh có mặt Equinox, ảnh từng trainee và các khoảnh khắc cả ba chơi bóng/nghịch nước. Việc này không trao quyền đăng công khai hoặc gửi ảnh khác ngoài cảnh.
+- Air Groove trực tiếp học cờ vây trong hai ván tối 04/04. Cô biết ba trainee cùng cầm đen, nhận chín quân chấp mỗi ván, phải đồng thuận trước khi đặt và đều nhận thua; Equinox cầm trắng.
+- Air Groove biết các khái niệm được Equinox dạy qua vị trí thật: khí/bắt quân, atari, mắt, ko/ko threat, hy sinh, ảnh hưởng, sente, hình nặng, tam giác rỗng, khớp tre, bậc thang, đếm đất và nước cuối ván. Cô trực tiếp phát hiện nhiều nhóm yếu/điểm cắt và tham gia chọn bỏ nhóm cạnh phải để giữ trung tâm ở ván hai.
+- Air Groove biết ván thứ hai kết thúc lúc 22:11 mà không cần đếm chính xác. Sau đó cô xử lý quân ở cạnh trái, kiểm tra các góc bàn rồi cùng Equinox/Rudolf/Brian phủ vải, khóa hộp và cất bộ cờ.
 
 Khi lớp tách thành nhiều nhóm nói chuyện chồng lên nhau, registry **không** mặc định Air Groove nghe trọn mọi trao đổi Opera–Fuji, Brian–Laurel, Hishi–Taishin, Gold City–Gentildonna hoặc các nhóm khác chỉ vì cô ở cùng phòng. Chỉ chuyển từng nội dung sang `KNOWN` nếu prose xác lập cô tham gia, chú ý hoặc ở vị trí nghe rõ.
 
@@ -82,7 +88,7 @@ Khi lớp tách thành nhiều nhóm nói chuyện chồng lên nhau, registry *
 - Chi tiết Equinox và Zenith trao đổi riêng trước/sau phần Zenith trực tiếp ở buffet, nếu không được nói trước mặt Air Groove.
 - Những gì Zenith làm hoặc biết sau khi đã rời buffet; Air Groove không thể suy ngược rằng Zenith thấy phần căn hộ hay tám ván cờ.
 - Tên `The Beyond`, `The Beyond Valley`, vị trí/bản chất OU của nơi chụp ảnh, khoảng cách thật giữa hai nơi và nguyên nhân vật lý/siêu hình khiến hai bầu trời tương đồng.
-- Việc ba bộ shogi/cờ vây/cờ tướng có được chơi sau tám ván cờ hay không, nếu phần prose không trực tiếp xác lập.
+- Việc shogi hoặc cờ tướng có được chơi hay không. Cờ vây đã được mở và chơi hai ván tối 04/04; không hồi tố chúng thành phần tiếp nối ngay sau tám ván cờ vua tối 01/04.
 - Lịch sử đầy đủ của cây guitar và ý nghĩa riêng của các nét vẽ; người nhận của các bài khác không tự được xác nhận từ việc `Phonecert` hướng tới Zenith.
 - Tin nhắn riêng Equinox–Zenith sau khi ba học sinh về chỗ ngủ, ảnh tay gửi vợ, việc bôi kem trong phòng riêng và yêu cầu Zenith muốn nghe lại.
 - Bất kỳ thông tin nào chỉ xuất hiện trong lời kể khi Air Groove không ở trong cảnh.

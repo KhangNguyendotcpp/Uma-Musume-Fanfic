@@ -1,6 +1,6 @@
 # Prose Audit — từ mở đầu đến điểm hiện tại
 
-**Phạm vi:** các sự kiện prose đã được khóa trong repo từ Equinox xuất hiện ngày 2026-03-09 tới khi cả bốn đã ngủ sau `Phonecert` và tin nhắn riêng Equinox–Zenith tại căn hộ Shibuya cuối tối 2026-04-03. Repo hiện giữ phần lớn các cảnh dưới dạng continuity summary thay vì chapter nguyên văn; vì vậy audit này chỉ kết luận chắc chắn ở nơi còn đủ văn bản/dữ kiện, không dựng lỗi cho đoạn không còn nguyên văn.
+**Phạm vi:** các sự kiện prose đã được khóa trong repo từ Equinox xuất hiện ngày 2026-03-09 tới sau 22:11 JST tối 2026-04-04, khi cả bốn đã cất bộ cờ vây sau hai ván tại căn hộ Shibuya. Ván hai kết thúc đúng 22:11; phút dọn xong chưa khóa. Repo hiện giữ phần lớn các cảnh dưới dạng continuity summary thay vì chapter nguyên văn; vì vậy audit này chỉ kết luận chắc chắn ở nơi còn đủ văn bản/dữ kiện, không dựng lỗi cho đoạn không còn nguyên văn.
 
 **Trạng thái:** tài liệu chẩn đoán, không tự retcon sự kiện. Guardrail bắt buộc nằm tại `fanfic/style/prohibited_tendencies.md`.
 
@@ -164,10 +164,10 @@
 
 ## Kiểm tra Phonecert và khép đêm 03/04
 
-- Quyết định trực tiếp của tác giả khóa `Phonecert` là bài cuối và dừng khi cả bốn ngủ. Không tự thêm encore hoặc cảnh sáng 04/04. Chuỗi bài giữa `Bunny Girl` và `Kẻ Thù` chỉ còn bản tóm tắt truy hồi trong lần cập nhật; event ghi rõ giới hạn nguồn.
+- Quyết định trực tiếp của tác giả khóa `Phonecert` là bài cuối của đêm 03/04 và dừng event đó khi cả bốn ngủ. Không tự thêm encore trong cùng đêm. Prose sau đã được tác giả nối sang 04/04 bằng kiểm tra 08:00, hồ bơi và cờ vây; không dùng guard lịch sử này để xóa cảnh mới. Chuỗi bài giữa `Bunny Girl` và `Kẻ Thù` chỉ còn bản tóm tắt truy hồi trong lần cập nhật; event ghi rõ giới hạn nguồn.
 - Phân biệt khán giả trong phòng với người được hướng tới trong bài: Equinox trực tiếp xác nhận `Phonecert` dành cho Zenith. Không suy tình cảm lãng mạn giáo viên–trainee hoặc hồi tố người nhận cho mọi bài khác.
 - Zenith chỉ biết buổi diễn qua danh sách bài và ảnh/tin nhắn sau đó. Ba học sinh đã về chỗ ngủ nên không biết cuộc nhắn riêng. Không truyền dữ liệu training hoặc báo cáo bằng câu trả lời “ổn”.
-- Tay đỏ/rát là tình trạng cụ thể trong cảnh, không tự dựng chấn thương nặng hoặc tuyên bố đã hồi phục sau bôi kem. Hẹn kiểm tra 08:00 sáng 04/04 chưa phải sự kiện kiểm tra đã hoàn tất.
+- Tay đỏ/rát là tình trạng cụ thể trong cảnh, không tự dựng chấn thương nặng hoặc tuyên bố đã hồi phục chỉ từ việc bôi kem. Tại endpoint đêm 03/04, kiểm tra 08:00 mới là lịch hẹn; sự kiện 04/04 sau đó xác nhận buổi kiểm tra đã diễn ra nhưng không khóa chỉ số chi tiết hay báo cáo cuối.
 - Bản prose mới cho Equinox thay đồ ngủ trong phòng riêng, khác thói quen ngủ khỏa thân đã khóa. Không nâng chi tiết một đêm thành thay đổi thói quen chung; khi sửa chapter cần giữ ranh giới giữa thói quen và lựa chọn cụ thể, không tự xóa canon cũ.
 - Air Groove quan sát tay và nhắc dừng có căn cứ trực tiếp; không nâng thành quyền quyết định đời sống của Equinox hoặc chẩn đoán y khoa. Gu tiếng Hàn là ý kiến nhân vật, không phải sự thật khách quan của narrator.
 - Ba block tác giả chỉnh `28416`, `73146`, `56391` đã được đối chiếu với event căn tin/baseline và các ngoại lệ register hiện hành; không kéo mốc truyện lùi về 01/04 hoặc đổi ban cán sự.
@@ -179,3 +179,12 @@
 - Cờ vua ở tối 01/04 nên Rudolf phân tích lại vào 03/04 không được gọi là “đêm trước”. Kiểm tra “sáng mai 08:00” sau Phonecert là 04/04.
 - Timestamp mới bắt buộc đủ giờ/phút/thứ/ngày/tháng/năm trước cảnh có bước nhảy thời gian; xem `fanfic/style/scene-time-anchors.md`. Giờ cũ chưa có nguồn vẫn để TBD trong hồ sơ, không bịa phút chính xác.
 - Đã sửa hai liên kết lịch cũ còn trỏ tới tên file kết thúc năm 2029 trong `fanfic/world/winning-live-protocol.md` và `official/timelines/README.md`; đích đúng là bộ lịch 2025/2026–2035.
+
+## Kiểm tra ngày hồ bơi và hai ván cờ vây 04/04
+
+- Cảnh 04/04 nối đúng sau giấc ngủ cuối 03/04: kiểm tra 08:00, trưa nấu/ăn và nghỉ, sau đó thay đồ/khởi động trước hồ bơi, rồi sinh hoạt tối và cờ vây. Ván hai kết thúc **22:11 JST — Thứ Bảy, ngày 04 tháng 04 năm 2026**; endpoint nằm sau phần thu/cất cờ liên tục, với phút chính xác chưa khóa. Chưa có cảnh ngủ hoặc trở về Tracen.
+- Loạt ảnh hồ bơi là kênh kiến thức mới cho Zenith. Cô chỉ biết những gì nhìn thấy trong ảnh và yêu cầu chụp thêm; không tự biết kết quả kiểm tra, đối thoại trong hồ hoặc hai ván cờ vây.
+- Cơ chế chấp hợp lệ trong phạm vi cảnh: ba người mới chơi dùng chung đen, đặt chín quân chấp rồi trắng đi trước. Cụm “mức chấp cao nhất” chỉ khóa **mức chấp cố định dùng trong cảnh**, không được biến thành khẳng định tuyệt đối cho mọi luật/biến thể cờ vây.
+- Ván hai có tiến bộ thực sự nhưng không được nâng thành trình độ thi đấu sau một tối. Việc đen bắt nhiều quân, thắng một ko hoặc đọc đúng bậc thang không tự đồng nghĩa đang dẫn điểm toàn ván.
+- Cả hai lần nhận thua là quyết định chung sau khi ba học sinh không còn tìm được nước đủ thay đổi thế cờ. Không viết thành Equinox làm nhục trainee hoặc Brian đầu hàng dễ dàng; cô ấy là người phản đối nhận thua lâu nhất và tự tay thu nhóm quân đen bị bỏ.
+- Phần dạy luật diễn ra qua thế cờ thật. Khi viết tiếp, không cần lặp toàn bộ danh sách khí/atari/mắt/ko/sente/hình/bậc thang như một bài giảng lần hai; chỉ gọi lại khái niệm có payoff mới.

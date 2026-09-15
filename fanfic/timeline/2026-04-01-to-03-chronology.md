@@ -22,7 +22,7 @@ Ba dòng in đậm là đúng ba tài liệu trong khối làm việc bốn gi�
 
 ## Điểm nối và giờ chưa khóa
 
-- Endpoint hiện tại: **cuối tối 03/04**, sau Phonecert và tin nhắn riêng Equinox–Zenith, cả bốn đã ngủ. Lịch kiểm tra “sáng mai 08:00” nay là **08:00 JST — Thứ Bảy, ngày 04 tháng 04 năm 2026**, mới được hẹn, chưa diễn ra.
+- Endpoint của riêng khối 01–03/04: **cuối tối 03/04**, sau Phonecert và tin nhắn riêng Equinox–Zenith, cả bốn đã ngủ. Lịch kiểm tra **08:00 JST — Thứ Bảy, ngày 04 tháng 04 năm 2026** sau đó đã diễn ra; phần tiếp nối được khóa riêng tại `fanfic/timeline/2026-04-04-chronology.md`.
 - Kỳ lưu trú vẫn dự kiến kết thúc **Chủ Nhật 05/04**. Hai ngày 02–03/04 không có tiết học; không gọi chúng là cuối tuần.
 - Ngoài các giờ có nguồn nêu trên, giờ/phút cụ thể của cảnh cũ vẫn `TBD`. Không tự suy 13:15 là đầu khối làm việc chỉ từ bốn giờ và giờ gửi 17:15: có thể còn thời gian kiểm tra/gửi sau khi viết.
 - Bản tóm tắt nguồn chưa xác lập chi tiết khám phá nhà, bài tập ngày 02/04 hoặc kết quả Old Maid; giữ sự kiện đã chốt nhưng không dựng chi tiết.
