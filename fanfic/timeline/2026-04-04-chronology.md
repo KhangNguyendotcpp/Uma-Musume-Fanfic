@@ -8,7 +8,7 @@
 | **Trưa–chiều, giờ chính xác TBD** | Cả bốn cùng nấu và ăn trưa, nghỉ, thay đồ rồi khởi động trước khi xuống hồ bơi vô cực của căn hộ. Equinox dùng phao lớn dạng ghế nằm và đeo kính râm; ba trainee chơi bóng, nghịch nước và tham gia các hoạt động trong hồ. |
 | **Trong buổi hồ bơi, giờ chính xác TBD** | Equinox cho ba học sinh xem các ảnh cô chụp rồi gửi ảnh cho Zenith. Zenith yêu cầu chụp thêm nhiều góc: có mặt Equinox, ảnh Rudolf/Air Groove/Brian và các khoảnh khắc cả ba chơi bóng, nghịch nước. Việc gửi này chỉ khóa đúng loạt ảnh trong cảnh, không tạo quyền đăng công khai hoặc gửi ảnh khác về sau. |
 | **Buổi tối, bắt đầu giờ chính xác TBD; ván hai kết thúc 22:11 JST** | Sau sinh hoạt tối thường lệ, Equinox dạy ba học sinh chơi cờ vây bằng thực chiến. Cả ba cùng cầm đen, nhận chín quân chấp trên bàn 19×19 và phải đồng thuận trước mỗi nước; Equinox cầm trắng. Nhóm chơi hai ván, học luật và khái niệm ngay trong ván; cả hai lần ba học sinh đều chủ động nhận thua khi không còn tìm được nước thay đổi thế cờ. |
-| **22:11 JST — Thứ Bảy, ngày 04 tháng 04 năm 2026** | Ván thứ hai kết thúc không cần đếm chính xác. Ngay sau đó, Equinox chỉ lại ba điểm then chốt; cả bốn thu quân, lau bàn, xếp bàn và hai hộp quân vào hộp gỗ lớn rồi cất lại trong tủ. Endpoint nằm sau phần dọn liên tục này; phút chính xác chưa khóa. |
+| **22:11 JST — Thứ Bảy, ngày 04 tháng 04 năm 2026** | Ván thứ hai kết thúc không cần đếm chính xác. Ngay sau đó, Equinox chỉ lại ba điểm then chốt; cả bốn thu quân, lau bàn, xếp bàn và hai hộp quân vào hộp gỗ lớn rồi cất lại trong tủ. Endpoint riêng của event 04/04 nằm sau phần dọn liên tục này; phút chính xác chưa khóa. |
 
 ## Khóa cho hai ván cờ vây
 
@@ -23,3 +23,7 @@
 - Kỳ lưu trú chưa kết thúc; lịch trở về vẫn là Chủ Nhật 05/04.
 - Team Zenith chưa đủ năm và chưa được chứng nhận. Track 7 vẫn khóa. Cơ sở tập riêng chưa được mua; ngày Zenith tới Tracen và khảo sát Izu vẫn `TBD`.
 - Zenith biết loạt ảnh hồ bơi được gửi trực tiếp, nhưng không tự biết nội dung hai ván cờ vây hoặc mọi sinh hoạt khác trong căn hộ nếu chưa được kể.
+
+## Cảnh tiếp theo
+
+Prose đã nối sang chuyến công viên Chủ Nhật 05/04, tới lúc tìm được bàn ăn trưa sau 12:14; xem `fanfic/timeline/2026-04-05-chronology.md`. Không lấy endpoint lịch sử sau cờ vây làm current state. Phần chuyển đêm/đầu sáng chưa truy hồi đầy đủ, xem `fanfic/checkpoints/2026-10-22-recovery-ledger.md`.

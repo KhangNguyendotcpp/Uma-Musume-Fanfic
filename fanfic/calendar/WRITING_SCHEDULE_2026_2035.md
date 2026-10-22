@@ -52,7 +52,8 @@ Mốc Live là quy ước `ORIGINAL`. Với international campaign, Equinox ph�
 - **2026-04-03 Thứ Sáu, chiều; gửi 17:15 — Căn hộ:** Equinox làm việc bốn giờ, gửi bản chi tiết Track 7 và hai tóm tắt training 01/04–02/04 theo đúng phân quyền; mỗi tài liệu có một chữ “tốt”.
 - **2026-04-03 Thứ Sáu, tối — Căn hộ:** sau nghỉ 30 phút, nấu ăn/dọn nhà, chơi guitar tới Phonecert; Equinox nhắn Zenith và ngủ sau ba học sinh. Đây là endpoint lịch sử trước cảnh 04/04.
 - **2026-04-02 Thứ Năm–2026-04-03 Thứ Sáu — Tracen:** học sinh không có tiết học; trường có một số hoạt động chuẩn bị nội bộ, không tự thêm nghĩa vụ cho nhóm lưu trú.
-- **2026-04-04 Thứ Bảy, 08:00–sau 22:11 — Căn hộ:** kiểm tra phục hồi lúc 08:00; trưa nấu/ăn và nghỉ; chiều khởi động rồi vui chơi ở hồ bơi, Equinox gửi ảnh cho Zenith; tối học cờ vây qua hai ván thực chiến có chín quân chấp. Cả ba trainee nhận thua hai ván; ván hai kết thúc 22:11 rồi nhóm thu/cất bộ cờ, phút chính xác chưa khóa. **Đây là endpoint hiện tại; chưa có cảnh ngủ.**
+- **2026-04-04 Thứ Bảy, 08:00–sau 22:11 — Căn hộ:** kiểm tra phục hồi lúc 08:00; trưa nấu/ăn và nghỉ; chiều khởi động rồi vui chơi ở hồ bơi, Equinox gửi ảnh cho Zenith; tối học cờ vây qua hai ván thực chiến có chín quân chấp. Cả ba trainee nhận thua hai ván; ván hai kết thúc 22:11 rồi nhóm thu/cất bộ cờ, phút chính xác chưa khóa. Đây là endpoint lịch sử của event 04/04; cảnh đi ngủ đêm ấy chưa có trong nguồn truy hồi.
+- **2026-04-05 Chủ Nhật, sáng–sau 12:14 — Công viên cảm giác mạnh:** sau routine sáng/nấu cơm mang theo theo chỉ định tác giả, chơi năm trò: Vệt Sét (giờ đầu TBD), Độ Cao Tuyệt Đối 10:17, Thiên Chùy 10:49, Quỹ Đạo Bay 11:18, Trục Tự Do 11:50. Từ 12:14 lấy cơm và tìm chỗ; endpoint là bàn dưới giàn dây leo nhìn xuống Vệt Sét, **chưa mở hộp/ăn**, phút tới bàn TBD. Chi tiết sáng/hành trình còn thiếu: `fanfic/timeline/2026-04-05-chronology.md`, `fanfic/checkpoints/2026-10-22-recovery-ledger.md`.
 - **2026-04-05 Chủ Nhật, giờ TBD — Shibuya → Tracen:** mốc trở về dự kiến của Rudolf/Air Groove/Brian theo lời mời bốn đêm; đây là kế hoạch đã đồng ý, chưa phải sự kiện đã hoàn tất.
 - **2026-04-06 Thứ Hai 08:30 — Đại sảnh Tracen:** lễ khai giảng/nhập học toàn trường; Special Week nhập học.
 - **2026-05-25 Thứ Hai 08:40–05-29 Thứ Sáu 12:20 — Khối học thuật:** giữa kỳ mùa xuân; training chiều giảm còn 90 phút.
@@ -239,3 +240,4 @@ Chi tiết winner/loser bắt buộc đọc từ `MASTER_RACE_CALENDAR_2026_2035
 - International travel không được xếp một domestic race chỉ vài ngày sau khi về Nhật nếu chưa có medical/recovery clearance.
 - Một runner không có hai peak campaign đồng thời. Equinox phải chỉ định race A-priority và B-priority.
 - Winning Live quốc tế chỉ dùng nếu event/fanfic contract nói có; không mặc định mọi organizer ngoài Nhật vận hành như Tracen.
+

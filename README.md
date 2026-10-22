@@ -38,5 +38,7 @@ Danh sách nhân vật được quản lý tại `official/characters/INDEX.md`.
 
 ## Lịch đầu tháng 4 và mốc thời gian prose
 
-- Lịch 01–03/04/2026 đã được tác giả đính chính: `fanfic/timeline/2026-04-01-to-03-chronology.md`; phần tiếp nối 04/04 nằm tại `fanfic/timeline/2026-04-04-chronology.md`.
+- Lịch 01–03/04/2026 đã được tác giả đính chính: `fanfic/timeline/2026-04-01-to-03-chronology.md`; phần tiếp nối 04/04 nằm tại `fanfic/timeline/2026-04-04-chronology.md`; ngày công viên 05/04 tới lúc tìm được bàn ăn nằm tại `fanfic/timeline/2026-04-05-chronology.md`.
 - Quy tắc cứng khi chuyển cảnh: `fanfic/style/scene-time-anchors.md` — ghi đủ giờ/phút/thứ/ngày/tháng/năm ngay trước đoạn đầu cảnh mới.
+
+- Độ phủ từ checkpoint cũ và khoảng thiếu chưa truy hồi: `fanfic/checkpoints/2026-10-22-recovery-ledger.md`. Không tự bịa chi tiết sáng sớm hoặc coi nhóm đã ăn/trở về Tracen.

@@ -1,6 +1,6 @@
 # Air Groove — Knowledge Registry tại điểm prose hiện tại
 
-**Mốc:** sau 22:11 JST tối 2026-04-04; Air Groove đã tham gia buổi hồ bơi và hai ván cờ vây, sau đó cùng nhóm cất bộ cờ. Phút chính xác sau khi dọn chưa khóa. Tin nhắn riêng Equinox–Zenith sau đêm acoustic 03/04 vẫn không thuộc kiến thức của cô bé.
+**Mốc:** **sau 12:14 JST — Chủ Nhật, ngày 05 tháng 04 năm 2026**, khi Equinox, Symboli Rudolf, Air Groove và Narita Brian đã tìm được bàn ăn dưới giàn dây leo trên sân gỗ sau đài quan sát, sát lan can nhìn xuống Vệt Sét; phút tới bàn chính xác `TBD`. Air Groove trực tiếp tham gia năm trò, lấy đồ và tìm bàn; chưa mở cơm. Tin nhắn riêng Equinox–Zenith và phần chỉ có narrator vẫn không thuộc kiến thức của cô bé.
 
 ## KNOWN — có nguồn trực tiếp
 
@@ -74,6 +74,12 @@
 - Air Groove biết các khái niệm được Equinox dạy qua vị trí thật: khí/bắt quân, atari, mắt, ko/ko threat, hy sinh, ảnh hưởng, sente, hình nặng, tam giác rỗng, khớp tre, bậc thang, đếm đất và nước cuối ván. Cô trực tiếp phát hiện nhiều nhóm yếu/điểm cắt và tham gia chọn bỏ nhóm cạnh phải để giữ trung tâm ở ván hai.
 - Air Groove biết ván thứ hai kết thúc lúc 22:11 mà không cần đếm chính xác. Sau đó cô xử lý quân ở cạnh trái, kiểm tra các góc bàn rồi cùng Equinox/Rudolf/Brian phủ vải, khóa hộp và cất bộ cờ.
 
+- Ngày 05/04, Air Groove trực tiếp cùng nhóm đi công viên, chơi Vệt Sét, Độ Cao Tuyệt Đối, Thiên Chùy, Quỹ Đạo Bay và Trục Tự Do. Cô biết phản ứng nghe/thấy được của Rudolf/Brian/Equinox; không tự biết nguyên nhân siêu hình hoặc nội tâm chưa được nói.
+- Air Groove biết Rudolf lưu ảnh tự động Vệt Sét sau đề nghị của Brian. Chưa chứng kiến việc gửi ảnh cho Zenith; không tự cho cô biết ảnh đã được chia sẻ.
+- Air Groove tự trải qua tiếng bật ở zero-g, tiếng hét khi thả rơi và bước lệch ngắn sau Thiên Chùy. Các biểu hiện ấy không tự thành chẩn đoán, chấn thương hoặc kết luận sợ độ cao; cô vẫn tham gia cả năm trò.
+- Air Groove trực tiếp nghe Equinox nói chỉ có gió/gia tốc/lực, thấy cô ấy ngáp khi Quỹ Đạo Bay giảm tốc và xác nhận không định thử ngủ. Cô không biết một giới hạn hoặc cơ chế OU mới từ trải nghiệm này.
+- Từ 12:14, Air Groove đi lấy cơm cùng nhóm, thấy Equinox nhường Brian mang túi rồi theo Rudolf lên sân gỗ sau đài quan sát. Cô kiểm tra và đồng ý bàn cuối dưới giàn dây leo vì sạch/khô, có bóng cây, không chắn lối, nhìn xuống Vệt Sét; chưa mở cơm. Chi tiết sáng còn thiếu chỉ được registry dùng khi có nguồn bổ sung, xem `fanfic/checkpoints/2026-10-22-recovery-ledger.md`.
+
 Khi lớp tách thành nhiều nhóm nói chuyện chồng lên nhau, registry **không** mặc định Air Groove nghe trọn mọi trao đổi Opera–Fuji, Brian–Laurel, Hishi–Taishin, Gold City–Gentildonna hoặc các nhóm khác chỉ vì cô ở cùng phòng. Chỉ chuyển từng nội dung sang `KNOWN` nếu prose xác lập cô tham gia, chú ý hoặc ở vị trí nghe rõ.
 
 ## UNKNOWN — không được mặc định biết
@@ -94,3 +100,4 @@ Khi lớp tách thành nhiều nhóm nói chuyện chồng lên nhau, registry *
 - Bất kỳ thông tin nào chỉ xuất hiện trong lời kể khi Air Groove không ở trong cảnh.
 
 Air Groove chỉ chuyển một mục từ `UNKNOWN` sang `KNOWN` khi prose xác lập rõ cô được kể lại, đọc nguồn hợp lệ hoặc tự suy luận từ dữ kiện thật sự có. Không dùng câu “có lẽ cô bé đã nghe ở đâu đó” để sửa ngược continuity.
+

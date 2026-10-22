@@ -2,7 +2,7 @@
 
 **Phạm vi:** những gì Zenith biết qua các kênh gia đình, cuộc gọi căn tin, buffet 01/04, group chat ảnh bầu trời 02/04, tin nhắn riêng cuối tối 03/04 và loạt ảnh hồ bơi 04/04. Zenith không nghe trực tiếp buổi acoustic hoặc chứng kiến hai ván cờ vây; file này không thay thế canon OU về danh tính hoặc lịch sử.
 
-| Lĩnh vực | Trạng thái tại endpoint sau 22:11 JST tối 2026-04-04 |
+| Lĩnh vực | Trạng thái tại endpoint sau 12:14 JST trưa Chủ Nhật 2026-04-05 (phút tới bàn TBD) |
 |---|---|
 | Equinox đã trở thành giáo viên Lịch sử + trainer Tracen | KNOWN; Equinox đã trực tiếp xác nhận |
 | Công việc ngày 2026-03-11 | KNOWN ở mức tóm tắt: xác nhận quyền truy cập, họp tổ Lịch sử, sửa rubric, chuẩn bị học liệu |
@@ -35,6 +35,7 @@
 | Hát lại Phonecert | OPEN: Zenith muốn nghe khi tay hết đau; Equinox chưa chốt lịch. Đề nghị Zenith gọi hát không thành cuộc gọi thực tế |
 | Buổi hồ bơi 04/04 | PARTIALLY_KNOWN qua ảnh gửi trực tiếp: thấy các ảnh Equinox chụp Rudolf/Air Groove/Brian chơi bóng/nghịch nước; đã yêu cầu thêm ảnh có mặt Equinox, ảnh từng trainee và nhiều khoảnh khắc hoạt động. Ảnh không truyền toàn bộ diễn biến, đối thoại hoặc đánh giá phục hồi |
 | Hai ván cờ vây tối 04/04 | UNKNOWN tại endpoint: Zenith không có mặt và chưa có cảnh được kể lại; không biết chín quân chấp, luật được dạy, hai lần nhận thua hoặc mốc 22:11 |
+| Chuyến công viên 05/04, năm trò, ảnh tự động Vệt Sét và tìm bàn ăn trưa | UNKNOWN trong phần văn bản truy hồi: Zenith không xuất hiện, chưa có tin/ảnh hôm nay được xác lập là đã gửi. Rudolf lưu ảnh không tự tạo kênh biết cho Zenith; phần mở đầu bị thiếu không được dùng để bịa một cuộc gọi hoặc chia sẻ |
 
 ## Guardrail
 
@@ -48,3 +49,5 @@
 - Tin nhắn cuối 03/04 là kênh mới, không cho Zenith quyền truy cập ngược các cảnh cô vắng mặt. Lời “ổn” không chứa dữ liệu Track 7, báo cáo, thực đơn hoặc kế hoạch mua cơ sở tập.
 
 - Thứ tự kênh biết: buffet trực tiếp 01/04 → ảnh/chat gia đình chiều 02/04 → tin nhắn sau guitar tối 03/04 → ảnh hồ bơi chiều 04/04. Không gộp các kênh thành một tối hoặc cho Zenith biết ảnh trước ngày chụp.
+
+- Endpoint đã tiến sang 05/04 nhưng không có kênh mới cho Zenith. Loạt ảnh hồ bơi 04/04 không phải ảnh công viên; không tự để Zenith phản ứng với năm trò hoặc bàn ăn. Xem `fanfic/checkpoints/2026-10-22-recovery-ledger.md`.

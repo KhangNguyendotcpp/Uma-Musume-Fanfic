@@ -90,7 +90,7 @@ Các điều cấm:
 
 **Điểm chưa giải quyết:** Zenith để lại áo ngực đầu tiên cho Equinox nhưng sản phẩm sai cả kích cỡ lẫn cấu trúc dù Zenith biết cơ thể incarnation. Cần một lời giải được tác giả duyệt—ví dụ trạng thái đồ tạm khẩn cấp—trước khi xem đây là logic hoàn chỉnh; không tự chế lời giải trong prose.
 
-**Lưu trú Shibuya:** phê duyệt có điều kiện của quản lý ký túc xá không thay quyền đồng ý của Rudolf/Air Groove/Brian hoặc đơn riêng từng em. Tại endpoint mới, cả ba đã hoàn tất đơn, tới Shibuya, trải qua chuỗi 01–03/04 đã khóa, rồi hoàn tất kiểm tra 08:00, buổi hồ bơi và hai ván cờ vây ngày 04/04; ván hai kết thúc 22:11, bộ cờ được cất sau đó nhưng chưa có cảnh ngủ hoặc trở về Tracen. Không được tự cho kỳ lưu trú đã kết thúc, biến việc tiếp tục ngày nghỉ thành medical clearance, cho Track 7 đã mở lại, biến cơ sở tập riêng thành tài sản đã mua hoặc cho Zenith biết toàn bộ sinh hoạt. Zenith chỉ biết tin nhắn/ảnh đã được gửi trực tiếp, gồm loạt ảnh hồ bơi 04/04; cô chưa biết hai ván cờ vây.
+**Lưu trú Shibuya:** phê duyệt có điều kiện của quản lý ký túc xá không thay quyền đồng ý của Rudolf/Air Groove/Brian hoặc đơn riêng từng em. Tại endpoint riêng của ngày 04/04, cả ba đã hoàn tất đơn, tới Shibuya, trải qua chuỗi 01–03/04 đã khóa, rồi hoàn tất kiểm tra 08:00, buổi hồ bơi và hai ván cờ vây ngày 04/04; ván hai kết thúc 22:11, bộ cờ được cất sau đó. Prose hiện đã sang công viên 05/04: sau năm trò, nhóm tìm bàn ăn trưa sau 12:14 nhưng chưa mở cơm hoặc trở về Tracen. Phần chuyển đêm/đầu sáng chưa truy hồi; không tự dựng lại. Không được tự cho kỳ lưu trú đã kết thúc, biến việc tiếp tục ngày nghỉ thành medical clearance, cho Track 7 đã mở lại, biến cơ sở tập riêng thành tài sản đã mua hoặc cho Zenith biết toàn bộ sinh hoạt. Zenith chỉ biết tin nhắn/ảnh đã được gửi trực tiếp, gồm loạt ảnh hồ bơi 04/04; cô chưa biết hai ván cờ vây.
 
 **Cảnh cổng Tracen:** các nhóm tới và rời cổng theo từng thời điểm. Team Spica không biết mục đích chờ; Hana biết Track 7 và bữa buffet nhưng chưa biết lưu trú; Tachyon/Cafe, Urara/Rice chỉ biết cuộc nói chuyện trực tiếp của mình; Rudolf/Air Groove/Brian tới sau nên không tự biết các cuộc gặp trước. Việc người kể biết Equinox thay đồ lót không truyền thông tin đó cho bất kỳ nhân vật nào.
 
@@ -125,3 +125,10 @@ Nếu có bước nhảy thời gian đủ dài giữa các cảnh, bắt buộc
 7. Hành động mới có làm ai mất thẩm quyền hoặc năng lực chỉ để đẩy thoại không?
 8. Chi tiết riêng tư có được truyền qua một kênh hợp lệ không?
 9. Mỗi cảnh có bước nhảy thời gian đã có timestamp đủ giờ/phút/thứ/ngày/tháng/năm ở đầu chưa? Thứ, timezone và mọi “hôm qua/sáng mai” có khớp không?
+
+## 12. Công viên 05/04 — khóa nguồn và endpoint
+
+- 12:14 là lúc bắt đầu lấy cơm/tìm bàn, không phải giờ đã ngồi ăn. Bàn đã tìm được nhưng chưa mở hộp; không tự thêm cảnh ăn/chiều/trở về.
+- Equinox không biểu cảm trước năm trò; không suy thành mất cảm xúc nói chung, không viết cô ấy đã ngủ trên tàu. Không suy ra năng lực OU mới từ phản ứng vật lý.
+- Ảnh tự động Vệt Sét chỉ được Rudolf lưu; chưa có nguồn xác lập gửi Zenith.
+- Không lấy giờ dậy, thực đơn hoặc hành trình ở ngày khác lấp phần sáng bị cắt. Giữ TBD và đối chiếu `fanfic/checkpoints/2026-10-22-recovery-ledger.md`; chronology đủ mốc đã có nguồn nằm tại `fanfic/timeline/2026-04-05-chronology.md`.

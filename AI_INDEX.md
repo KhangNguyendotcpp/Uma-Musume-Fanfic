@@ -22,7 +22,7 @@ File này là điểm vào bắt buộc của repo. Mọi AI, writer hoặc edit
 10. `fanfic/style/prose_audit.md`
 11. `fanfic/timeline/CANON_TIMELINE_2025_2035.md`
 12. `fanfic/style/scene-time-anchors.md` — quy tắc cứng ghi đủ giờ/phút/thứ/ngày/tháng/năm trước cảnh có bước nhảy thời gian
-13. file event/continuity/calendar liên quan trực tiếp đến cảnh sắp viết; giai đoạn 01–03/04/2026 bắt buộc đọc `fanfic/timeline/2026-04-01-to-03-chronology.md`, còn ngày 04/04 và endpoint hiện tại bắt buộc đọc `fanfic/timeline/2026-04-04-chronology.md`
+13. file event/continuity/calendar liên quan trực tiếp đến cảnh sắp viết; giai đoạn 01–03/04/2026 bắt buộc đọc `fanfic/timeline/2026-04-01-to-03-chronology.md`, ngày 04/04 đọc `fanfic/timeline/2026-04-04-chronology.md`; với ngày 05/04 và endpoint hiện tại bắt buộc đọc `fanfic/timeline/2026-04-05-chronology.md` cùng `fanfic/checkpoints/2026-10-22-recovery-ledger.md` (độ phủ nguồn và khoảng thiếu đầu buổi sáng)
 
 Nếu cảnh có Haise, Takiyama, Equinox, Zenith hoặc dữ kiện thuộc Original Universe, phải đọc thêm `OU_LINKAGE.md`, profile/note liên quan trong repo này và nguồn OU có thẩm quyền theo `CANON_PRIORITY.md`.
 
@@ -105,3 +105,4 @@ Chỉ được coi là hoàn tất khi:
 - mọi file index/rule/event/knowledge bị ảnh hưởng đã được cập nhật cùng thay đổi.
 
 Nếu một yêu cầu trực tiếp mới nhất của tác giả khác repo, áp dụng yêu cầu mới theo `CANON_PRIORITY.md`, rồi đồng bộ tất cả file liên quan trong cùng lần sửa. Không giữ hai đáp án song song.
+

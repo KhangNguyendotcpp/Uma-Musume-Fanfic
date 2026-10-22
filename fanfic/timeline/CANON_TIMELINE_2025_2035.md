@@ -8,6 +8,8 @@ Mọi giờ nội địa dùng Japan Standard Time (JST). Giờ xuất phát maj
 
 **Lịch 01–03/04/2026:** `fanfic/timeline/2026-04-01-to-03-chronology.md` là bảng đối chiếu đã đính chính; quy tắc timestamp bắt buộc tại `fanfic/style/scene-time-anchors.md`.
 
+Chi tiết ngày công viên/endpoint hiện tại: `fanfic/timeline/2026-04-05-chronology.md`; phần chưa truy hồi không được tự điền, xem `fanfic/checkpoints/2026-10-22-recovery-ledger.md`.
+
 ## 2025 — Thế hệ trước / Cinderella Gray block
 
 | Ngày & giờ | Địa điểm | Mốc | Trạng thái |
@@ -56,7 +58,10 @@ Mọi giờ nội địa dùng Japan Standard Time (JST). Giờ xuất phát maj
 | 2026-04-03 Thứ Sáu, 06:00 JST–buổi sáng | Căn hộ → khu gym thuê riêng trong tòa nhà | Cả nhóm dậy 06:00, vệ sinh/nấu ăn sáng/chuẩn bị; tập thể lực cường độ cao dưới sự phụ trách của Equinox | AUTHOR-DIRECTED / LOCKED |
 | 2026-04-03 Thứ Sáu, chiều; gửi 17:15 JST | Căn hộ Shibuya | Equinox làm việc trọn bốn giờ, hoàn tất bản chi tiết Track 7 (19 trang + 6 trang phụ lục) và hai tóm tắt training 01/04, 02/04; gửi đúng phân quyền. Dữ liệu buổi thể lực sáng 03/04 theo dõi riêng, chưa có báo cáo cuối | AUTHOR-DIRECTED / LOCKED |
 | 2026-04-03 Thứ Sáu, tối (giờ chính xác TBD) | Căn hộ Shibuya | Sau nghỉ 30 phút, nấu ăn và dọn nhà, Equinox chơi guitar, khép bằng Phonecert; cất đàn, nhắn Zenith, bôi kem tay rồi ngủ sau ba học sinh. Cả bốn đã ngủ; kiểm tra 08:00 sáng 04/04 được hẹn | AUTHOR-DIRECTED / LOCKED |
-| 2026-04-04 Thứ Bảy 08:00 JST–sau 22:11 JST | Căn hộ Shibuya | Kiểm tra phục hồi lúc 08:00; trưa nấu/ăn rồi nghỉ; chiều khởi động và vui chơi ở hồ bơi, Equinox gửi ảnh cho Zenith; tối Equinox dạy Rudolf/Air Groove/Brian chơi cờ vây bằng hai ván thực chiến, chấp chín quân mỗi ván và thắng cả hai. Ván hai kết thúc 22:11; sau đó cả bốn thu và cất bộ cờ, phút chính xác chưa khóa; chưa có cảnh đi ngủ | STORY-ESTABLISHED / LOCKED / CURRENT PROSE |
+| 2026-04-04 Thứ Bảy 08:00 JST–sau 22:11 JST | Căn hộ Shibuya | Kiểm tra phục hồi lúc 08:00; trưa nấu/ăn rồi nghỉ; chiều khởi động và vui chơi ở hồ bơi, Equinox gửi ảnh cho Zenith; tối Equinox dạy Rudolf/Air Groove/Brian chơi cờ vây bằng hai ván thực chiến, chấp chín quân mỗi ván và thắng cả hai. Ván hai kết thúc 22:11; sau đó cả bốn thu và cất bộ cờ, phút chính xác chưa khóa; chưa có cảnh đi ngủ trong nguồn lưu của riêng event này | STORY-ESTABLISHED / LOCKED |
+| 2026-04-05 Chủ Nhật, sáng sớm (giờ/phút TBD) | Căn hộ Shibuya → công viên (tên/tuyến đi TBD) | Tác giả yêu cầu giữ vệ sinh, ăn sáng, làm việc và nấu cơm mang theo. Prose chi tiết mở đầu chưa truy hồi; phần sau xác nhận bốn hộp cơm, hai túi đá và nước trong tủ khóa | AUTHOR-DIRECTED; missing details TBD |
+| 2026-04-05 Chủ Nhật, trước 10:17–sau 11:50 JST | Công viên cảm giác mạnh | Vệt Sét (giờ đầu TBD), Độ Cao Tuyệt Đối 10:17, Thiên Chùy 10:49, Quỹ Đạo Bay 11:18, Trục Tự Do 11:50. Equinox không cảm xúc; ba trainee phản ứng khác nhau. Rudolf lưu ảnh Vệt Sét, chưa gửi Zenith | STORY-ESTABLISHED / LOCKED |
+| 2026-04-05 Chủ Nhật, từ 12:14 JST; phút tới bàn TBD | Tủ khóa → sân gỗ sau đài quan sát, dưới giàn dây leo | Nhóm lấy cơm, Brian mang túi, Rudolf tìm bàn cuối sạch có bóng cây nhìn xuống Vệt Sét. Đã tìm chỗ nhưng chưa mở hộp/ăn; chưa về Tracen | STORY-ESTABLISHED / LOCKED / CURRENT PROSE |
 | 2026-04-06 Thứ Hai 08:30 JST | Tracen Academy | Lễ khai giảng/nhập học toàn trường; Special Week nhập học; S1 era bắt đầu | APPROVED baseline |
 | 2026-04-12 Chủ Nhật 14:50 JST | Tokyo Racecourse | Debut race của Special Week | Spe thắng; ADOPTED result / date ORIGINAL |
 | 2026-04-13 đến 2026-04-20, giờ TBD | Điểm xuất hiện/Tracen TBD | Cửa sổ Zenith dự kiến đưa Haise và Takiyama tới, khoảng một đến hai tuần sau khi Special Week nhập học; ngày, thứ tự xuất hiện và thủ tục nhập học riêng của từng người chưa khóa | AUTHOR PLAN / exact details TBD |
@@ -183,3 +188,4 @@ Haise/Taki không tham gia Classic hoặc main calendar 2034. Nếu còn affilia
 ## Điểm kết thúc phạm vi hiện hành
 
 2035-12-23 là race endpoint đang được calendar normalize. Hậu truyện, retirement ceremony, faculty transition và chronology 2036+ vẫn `TBD`.
+

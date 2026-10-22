@@ -1,6 +1,6 @@
 # Prose Audit — từ mở đầu đến điểm hiện tại
 
-**Phạm vi:** các sự kiện prose đã được khóa trong repo từ Equinox xuất hiện ngày 2026-03-09 tới sau 22:11 JST tối 2026-04-04, khi cả bốn đã cất bộ cờ vây sau hai ván tại căn hộ Shibuya. Ván hai kết thúc đúng 22:11; phút dọn xong chưa khóa. Repo hiện giữ phần lớn các cảnh dưới dạng continuity summary thay vì chapter nguyên văn; vì vậy audit này chỉ kết luận chắc chắn ở nơi còn đủ văn bản/dữ kiện, không dựng lỗi cho đoạn không còn nguyên văn.
+**Phạm vi:** từ mở đầu 09/03/2026 tới khi cả bốn tìm được bàn ăn công viên sau 12:14 JST — Chủ Nhật 05/04/2026; phút tới bàn TBD, chưa mở hộp/ăn trưa. Repo giữ phần lớn cảnh dưới dạng continuity summary; đoạn đầu sáng 05/04 và phần chuyển đêm chưa truy hồi đầy đủ, xem `fanfic/checkpoints/2026-10-22-recovery-ledger.md`. Audit không tuyên bố độ phủ 100% hoặc phục dựng prose còn thiếu.
 
 **Trạng thái:** tài liệu chẩn đoán, không tự retcon sự kiện. Guardrail bắt buộc nằm tại `fanfic/style/prohibited_tendencies.md`.
 
@@ -182,9 +182,20 @@
 
 ## Kiểm tra ngày hồ bơi và hai ván cờ vây 04/04
 
-- Cảnh 04/04 nối đúng sau giấc ngủ cuối 03/04: kiểm tra 08:00, trưa nấu/ăn và nghỉ, sau đó thay đồ/khởi động trước hồ bơi, rồi sinh hoạt tối và cờ vây. Ván hai kết thúc **22:11 JST — Thứ Bảy, ngày 04 tháng 04 năm 2026**; endpoint nằm sau phần thu/cất cờ liên tục, với phút chính xác chưa khóa. Chưa có cảnh ngủ hoặc trở về Tracen.
+- Cảnh 04/04 nối đúng sau giấc ngủ cuối 03/04: kiểm tra 08:00, trưa nấu/ăn và nghỉ, sau đó thay đồ/khởi động trước hồ bơi, rồi sinh hoạt tối và cờ vây. Ván hai kết thúc **22:11 JST — Thứ Bảy, ngày 04 tháng 04 năm 2026**; endpoint nằm sau phần thu/cất cờ liên tục, với phút chính xác chưa khóa. Ở endpoint riêng của event 04/04 chưa có cảnh ngủ hoặc trở về Tracen; cảnh công viên 05/04 sau đó đã có, không làm chứng cho chi tiết chuyển đêm bị thiếu.
 - Loạt ảnh hồ bơi là kênh kiến thức mới cho Zenith. Cô chỉ biết những gì nhìn thấy trong ảnh và yêu cầu chụp thêm; không tự biết kết quả kiểm tra, đối thoại trong hồ hoặc hai ván cờ vây.
 - Cơ chế chấp hợp lệ trong phạm vi cảnh: ba người mới chơi dùng chung đen, đặt chín quân chấp rồi trắng đi trước. Cụm “mức chấp cao nhất” chỉ khóa **mức chấp cố định dùng trong cảnh**, không được biến thành khẳng định tuyệt đối cho mọi luật/biến thể cờ vây.
 - Ván hai có tiến bộ thực sự nhưng không được nâng thành trình độ thi đấu sau một tối. Việc đen bắt nhiều quân, thắng một ko hoặc đọc đúng bậc thang không tự đồng nghĩa đang dẫn điểm toàn ván.
 - Cả hai lần nhận thua là quyết định chung sau khi ba học sinh không còn tìm được nước đủ thay đổi thế cờ. Không viết thành Equinox làm nhục trainee hoặc Brian đầu hàng dễ dàng; cô ấy là người phản đối nhận thua lâu nhất và tự tay thu nhóm quân đen bị bỏ.
 - Phần dạy luật diễn ra qua thế cờ thật. Khi viết tiếp, không cần lặp toàn bộ danh sách khí/atari/mắt/ko/sente/hình/bậc thang như một bài giảng lần hai; chỉ gọi lại khái niệm có payoff mới.
+
+## Kiểm tra chuyến công viên 05/04 và độ phủ checkpoint
+
+- Đã đối chiếu block tác giả chỉnh 28416/73146/56391 với event căn tin/baseline hiện có: chúng đã lưu ở checkpoint cũ, không được làm mốc hiện tại lùi về 01/04. Các event 01–04/04 được giữ, không nhập dự án khác.
+- Ngày tiếp theo sau Thứ Bảy 04/04 là Chủ Nhật 05/04/2026. Các mốc 10:17, 10:49, 11:18, 11:50, 12:14 đi xuôi. Giờ bắt đầu Vệt Sét và phút tới bàn chưa có nguồn; chronology ghi TBD, không bịa để hợp lệ hóa timestamp cũ.
+- Năm trò được phân biệt đúng: Vệt Sét 128 km/h, hơn 50 m, rơi 87 độ; tháp rơi hơn 80 m; Thiên Chùy vừa quay vừa vung; Quỹ Đạo Bay nằm sấp/pretzel; Trục Tự Do bảy lượt lật. Ghế/đai Equinox được điều chỉnh theo từng trò, nhưng nguồn không cho khối lượng hoặc thông số chịu tải.
+- Brian thích tốc độ nhưng không thích lật thiếu hướng tiến; Rudolf từ phân tích sang cười; Air Groove vẫn chủ động tham gia dù không thích thiếu dự đoán; Equinox không biểu cảm. Không gọi phản ứng Air Groove là chứng bệnh/chấn thương hoặc kéo không cảm xúc của Equinox thành mất khả năng yêu/thích nói chung.
+- Ảnh Vệt Sét có bốn người và được Rudolf lưu sau đề nghị Brian; chưa có cảnh gửi Zenith. Dòng knowledge mới phải giữ Zenith UNKNOWN và không cho ba trainee kết luận nguồn gốc OU.
+- 12:14 mở nhịp lấy cơm/tìm bàn; endpoint nằm sau khi tìm được bàn cuối dưới giàn dây leo, trước mở cơm. Không xác lập đã ăn, chơi chiều hoặc trở về Tracen. Kế hoạch về trong ngày chưa bị thay đổi.
+- Lỗi trình bày nguồn: các nhãn giờ trong đoạn chuyển tiếp thiếu thứ/ngày đầy đủ; bản chronology/summary lần này đã bổ sung ngày theo chuỗi 04→05/04, không tuyên bố đã sửa chapter nguyên văn. Nếu lưu chapter sau này, áp đúng `fanfic/style/scene-time-anchors.md`.
+- Khoảng thiếu sáng sớm/hành trình được công khai trong `fanfic/checkpoints/2026-10-22-recovery-ledger.md`. Không thể chứng nhận đã thu hồi mọi chat bị lược; chỉ khóa dữ kiện thực sự có nguồn. Không tự phục dựng đối thoại hoặc biến chỉ định làm việc thành một báo cáo mới đã gửi.

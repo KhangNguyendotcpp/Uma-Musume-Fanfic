@@ -49,7 +49,7 @@ University, Resident Athlete và postgraduate facility không phải official Cy
 
 ## 6. Equinox
 
-- Từ 2026-03-09, Equinox đã được tuyển chính thức làm trainer + giáo viên Lịch sử. Trong ngày 2026-04-01, cô đã được xác nhận là giáo viên chủ nhiệm Senior 3-A, điều hành xong cả bốn vòng bầu ban cán sự, hoàn tất sinh hoạt/kiểm tra cơ sở vật chất và phần hỏi đáp làm quen; Sirius Symboli, Hishi Amazon, T.M. Opera O và Eishin Flash lần lượt giữ bốn chức vụ đã khóa. Điểm prose hiện tại đã chuyển tới sau 22:11 tối 2026-04-04, khi nhóm đã dọn/cất cờ sau buổi kiểm tra 08:00, hồ bơi và hai ván cờ vây tại Shibuya; cuộc gọi giờ trưa, buổi đánh giá, các cuộc gặp ở cổng, hành trình, buffet, cờ vua và kỳ lưu trú không thay đổi các chức vụ hoặc quy trình học thuật này.
+- Từ 2026-03-09, Equinox đã được tuyển chính thức làm trainer + giáo viên Lịch sử. Trong ngày 2026-04-01, cô đã được xác nhận là giáo viên chủ nhiệm Senior 3-A, điều hành xong cả bốn vòng bầu ban cán sự, hoàn tất sinh hoạt/kiểm tra cơ sở vật chất và phần hỏi đáp làm quen; Sirius Symboli, Hishi Amazon, T.M. Opera O và Eishin Flash lần lượt giữ bốn chức vụ đã khóa. Điểm prose hiện tại là sau 12:14 JST — Chủ Nhật 05/04/2026, khi nhóm đã chơi năm trò ở công viên và tìm được bàn dưới giàn dây leo nhìn xuống Vệt Sét; phút tới bàn TBD, chưa mở cơm hoặc về Tracen. Chuỗi 01–04/04 và chuyến công viên không thay đổi các chức vụ hoặc quy trình học thuật này. Xem `fanfic/timeline/2026-04-05-chronology.md` và giới hạn nguồn tại `fanfic/checkpoints/2026-10-22-recovery-ledger.md`.
 - Contract title chi tiết và team ownership vẫn `TBD`; **kết quả tuyển dụng không còn TBD**.
 - Equinox có faculty authority trong classroom và trainer authority trong training; không vì vậy được bypass medical/race operations.
 
@@ -85,3 +85,4 @@ University, Resident Athlete và postgraduate facility không phải official Cy
 - `fanfic/world/racing-rules.md`
 - `fanfic/calendar/WRITING_SCHEDULE_2026_2035.md`
 - `fanfic/teams/equinox-team-career-framework.md`
+

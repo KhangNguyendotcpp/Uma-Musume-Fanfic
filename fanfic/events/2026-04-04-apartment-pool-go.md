@@ -43,9 +43,10 @@
 
 - **22:11 JST — Thứ Bảy, ngày 04 tháng 04 năm 2026:** ván thứ hai kết thúc. Equinox chỉ lại một nước đen quá tập trung, một nước đáng lẽ phải nối trước khi tranh ko và một điểm cuối ván bị bỏ qua.
 - Cả bốn cùng thu quân. Rudolf gom phần trên, Air Groove xử lý cạnh trái và kiểm tra góc bàn, Brian thu phần giữa rồi lấy lại một quân lăn dưới mép sofa; Equinox xếp quân trắng, lau mặt bàn và mở hộp gỗ lớn.
-- Bàn cùng hai hộp quân được đặt đúng vị trí, phủ vải bảo vệ, khóa chốt và cất lại vào tủ. Cánh tủ đóng lại. Đây là **endpoint prose hiện tại**; chưa có cảnh đi ngủ hoặc sáng 05/04.
+- Bàn cùng hai hộp quân được đặt đúng vị trí, phủ vải bảo vệ, khóa chốt và cất lại vào tủ. Cánh tủ đóng lại. Đây là **endpoint riêng của event 04/04**. Cảnh tiếp theo đã sang sáng/công viên 05/04, xem `fanfic/events/2026-04-05-amusement-park-morning.md`; phần đi ngủ đêm 04/04 chưa có trong nguồn truy hồi, không tự dựng.
 
 ## Ranh giới kiến thức và xưng hô
 
 - Equinox, Rudolf, Air Groove và Brian trực tiếp biết toàn bộ hoạt động trong ngày được nói/quan sát trước mặt nhau. Zenith chỉ biết các ảnh và yêu cầu chụp thêm trong buổi hồ bơi; cô không tự biết kết quả, luật hoặc diễn biến hai ván cờ.
 - Equinox nói với ba học sinh bằng `cô–em/các em`; ba học sinh nói với Equinox bằng `em–cô/thưa cô`; Rudolf/Air Groove/Brian dùng baseline `tôi–cậu` khi nói ngang hàng. Lời kể gọi Equinox là `cô ấy` hoặc dùng tên.
+

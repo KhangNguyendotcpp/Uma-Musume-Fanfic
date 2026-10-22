@@ -7,7 +7,7 @@
 - **Số đo ba vòng (ngực–eo–hông):** **210–118–200 cm** — STORY-ESTABLISHED / LOCKED
 - **Cơ quan:** Tracen Academy
 - **Vai trò hiện tại:** giáo viên Lịch sử + trainer chính thức + giáo viên chủ nhiệm Senior 3-A, với quyền trong từng phạm vi chuyên môn — STORY-ESTABLISHED / LOCKED
-- **Trạng thái tại điểm prose hiện tại:** sau 22:11 JST tối 2026-04-04 tại căn hộ tầng 39 Park Court Shibuya The Tower; sau kiểm tra 08:00, buổi hồ bơi và loạt ảnh gửi Zenith, Equinox đã dạy Rudolf/Air Groove/Brian chơi cờ vây bằng hai ván thực chiến 19×19, chấp chín quân mỗi ván và thắng cả hai. Ván hai kết thúc 22:11; bộ cờ được thu/cất sau đó, phút chính xác chưa khóa. Chưa có cảnh ngủ tối 04/04. Track 7 vẫn khóa; cơ sở tập riêng mới ở mức cân nhắc — STORY-ESTABLISHED / LOCKED
+- **Trạng thái tại điểm prose hiện tại:** **sau 12:14 JST — Chủ Nhật, ngày 05 tháng 04 năm 2026**, khi Equinox, Symboli Rudolf, Air Groove và Narita Brian đã tìm được bàn ăn dưới giàn dây leo trên sân gỗ sau đài quan sát, sát lan can nhìn xuống Vệt Sét; phút tới bàn chính xác `TBD`. Cả năm trò không tạo biểu hiện cảm xúc ở Equinox; cô ấy ngáp khi Quỹ Đạo Bay giảm tốc nhưng không ngủ trên tàu. Đã kiểm tra đồ ở tủ khóa và nhường Brian mang túi; chưa mở hộp/ăn trưa. Track 7 còn khóa, Team Zenith chưa chứng nhận, cơ sở tập riêng chưa mua — STORY-ESTABLISHED / LOCKED. Chi tiết sáng sớm chưa truy hồi: `fanfic/checkpoints/2026-10-22-recovery-ledger.md`.
 - **Môn giảng dạy/đã giảng thử:** Lịch sử — STORY-ESTABLISHED / LOCKED
 - **Chức danh hợp đồng chính xác:** TBD; không ảnh hưởng kết quả tuyển dụng đã chốt
 
@@ -168,7 +168,15 @@ Equinox là Uma nhưng **không được định hướng làm racer thi đấu*
 - Sau khi cả nhóm nấu/ăn trưa, nghỉ, thay đồ và khởi động, Equinox xuống hồ bơi vô cực bằng phao lớn dạng ghế, đeo kính râm và chụp ảnh Rudolf/Air Groove/Brian chơi bóng/nghịch nước. Cô cho ba em xem ảnh rồi gửi đúng loạt ảnh cho Zenith; không mở quyền chia sẻ công khai.
 - Dạy cờ vây bằng hai ván thực chiến trên bàn 19×19. Ba học sinh dùng chung quân đen, nhận chín quân chấp và phải đồng thuận từng nước; Equinox cầm trắng, giải thích luật/khái niệm khi chúng xuất hiện thay vì giảng tách rời.
 - Thắng cả hai ván sau khi ba học sinh chủ động nhận thua. Equinox không dùng chiến thắng để làm nhục; sau mỗi ván cô giữ bàn để chỉ nước cứu nhóm lớn, chấp nhận hy sinh, cách giữ lợi thế và các điểm then chốt đã bỏ qua.
-- Ván hai kết thúc lúc 22:11; sau đó cùng ba học sinh thu quân, lau bàn, phủ vải, khóa hộp và cất bộ cờ vây vào tủ. Phút kết thúc dọn dẹp chưa khóa; chưa đi ngủ tại endpoint.
+- Ván hai kết thúc lúc 22:11; sau đó cùng ba học sinh thu quân, lau bàn, phủ vải, khóa hộp và cất bộ cờ vây vào tủ. Phút kết thúc dọn dẹp chưa khóa; chưa đi ngủ tại endpoint riêng của event 04/04; cảnh sau đã sang ngày 05/04 nhưng không có nguyên văn phần chuyển đêm.
+
+## Công viên cảm giác mạnh — 2026-04-05
+
+- Đi cùng Rudolf/Air Groove/Brian, chơi lần lượt Vệt Sét, Độ Cao Tuyệt Đối, Thiên Chùy, Quỹ Đạo Bay và Trục Tự Do. Không biểu lộ sợ hãi, vui hoặc thích thú trước năm trò; vẫn nhận biết gió/gia tốc/quán tính, tóc/tai/đuôi và cơ thể chịu lực bình thường trong mô tả.
+- Ghế/đai được kiểm tra phù hợp từng trò; không dùng năng lực OU để thay thủ tục. Không bịa khối lượng, giới hạn cơ học hoặc cơ chế siêu nhiên từ cảnh.
+- Không phản đối Rudolf lưu ảnh tự động Vệt Sét theo yêu cầu Brian. Chưa gửi ảnh cho Zenith. Chỉ ngáp khi Quỹ Đạo Bay giảm tốc; không có việc ngủ trên tàu.
+- Từ 12:14 lấy đồ ở tủ khóa, kiểm tra hai túi đá còn lạnh, hộp không nghiêng và nước còn nguyên. Ban đầu nói không nặng nhưng đồng ý cho Brian mang túi, giải thích bằng phân chia tải.
+- Cảnh dừng ở bàn dưới giàn dây leo nhìn xuống Vệt Sét; chưa mở cơm. Sự không cảm xúc chỉ khóa cho năm trò trong cảnh, không xóa những cảm xúc khác đã thể hiện với Zenith/học sinh. Xem `fanfic/events/2026-04-05-amusement-park-morning.md`.
 
 ## Nguyên tắc nghề nghiệp đã thể hiện
 - Sức khỏe và medical clearance đứng trên race, Winning Live và sức ép khán giả.
@@ -184,3 +192,4 @@ Equinox là Uma nhưng **không được định hướng làm racer thi đấu*
 - Kính chỉ giúp đọc lâu dễ chịu hơn.
 - Hỗ trợ môi trường làm việc duy nhất cô chủ động yêu cầu là ghế lớn hơn.
 - Có thể chạy cùng trainee khi phù hợp, nhưng chỉ theo đúng vai trò pacer/kích thích bài tập; không dùng training để chứng minh mình mạnh hơn học sinh.
+

@@ -139,7 +139,7 @@ Mỗi hoạt động cần tối thiểu: mục tiêu giáo dục, danh sách h�
 
 - Chiều 2026-04-01, quản lý ký túc xá đã duyệt có điều kiện phương án để Rudolf, Air Groove và Brian ở căn hộ Shibuya của Equinox tới Chủ Nhật 2026-04-05.
 - Phê duyệt phương án của staff không thay quyết định cá nhân: từng học sinh vẫn phải tự nộp đơn lưu trú ngoài ký túc xá; xác nhận người giám hộ/liên hệ khẩn cấp áp dụng theo hồ sơ.
-- Cả ba đã đồng ý, hoàn tất đơn qua đúng ký túc xá, mang hành lý rời Tracen cùng Equinox và bắt đầu kỳ lưu trú tại tầng 39 Park Court Shibuya The Tower. Ngày 01/04: đi tàu, sự cố Air Groove, buffet gặp Zenith, nhận chỗ ở và tám ván cờ vua. Ngày 02/04: mua sắm, khám phá nhà, training trung bình–cao, ảnh/chat gia đình khoảng 17:10, tóm tắt Track 7 và Old Maid. Ngày 03/04: gym thể lực cường độ cao, bốn giờ làm việc, ba tài liệu, ăn tối/dọn nhà và guitar khép bằng Phonecert; nhắn Zenith rồi cả bốn ngủ. Ngày 04/04: kiểm tra 08:00, nấu/ăn trưa, hồ bơi/ảnh gửi Zenith và hai ván cờ vây chấp chín quân; ván hai kết thúc 22:11 rồi bộ cờ được cất sau đó. Xem hai chronology đầu tháng 4. Kỳ lưu trú chưa kết thúc; dự kiến trở về Chủ Nhật 05/04.
+- Cả ba đã đồng ý, hoàn tất đơn qua đúng ký túc xá, mang hành lý rời Tracen cùng Equinox và bắt đầu kỳ lưu trú tại tầng 39 Park Court Shibuya The Tower. Ngày 01/04: đi tàu, sự cố Air Groove, buffet gặp Zenith, nhận chỗ ở và tám ván cờ vua. Ngày 02/04: mua sắm, khám phá nhà, training trung bình–cao, ảnh/chat gia đình khoảng 17:10, tóm tắt Track 7 và Old Maid. Ngày 03/04: gym thể lực cường độ cao, bốn giờ làm việc, ba tài liệu, ăn tối/dọn nhà và guitar khép bằng Phonecert; nhắn Zenith rồi cả bốn ngủ. Ngày 04/04: kiểm tra 08:00, nấu/ăn trưa, hồ bơi/ảnh gửi Zenith và hai ván cờ vây chấp chín quân; ván hai kết thúc 22:11 rồi bộ cờ được cất sau đó. Ngày 05/04: nhóm đi công viên cảm giác mạnh, chơi năm trò và tìm được bàn ăn sau 12:14; chưa mở cơm hoặc trở về Tracen. Xem các chronology 01–03/04, 04/04 và `fanfic/timeline/2026-04-05-chronology.md`; phần đầu sáng còn thiếu nguồn tại `fanfic/checkpoints/2026-10-22-recovery-ledger.md`. Kỳ lưu trú chưa kết thúc; dự kiến trở về trong Chủ Nhật 05/04, chưa có quyết định gia hạn.
 - Đây là hoạt động trainer/trainee có mục tiêu quan sát phục hồi và bữa ăn, không phải chuyến đi lớp 3-A hoặc khảo sát Izu.
 
 ### 8.7. Lớp Senior 3-A
@@ -209,3 +209,4 @@ Nếu Equinox trực tiếp dạy/huấn luyện Rudolf hoặc Air, quan hệ ph
 - `fanfic/world/class-3a-roster-2026.md`
 - `fanfic/teams/equinox-team-career-framework.md`
 - `fanfic/calendar/WRITING_SCHEDULE_2026_2035.md`
+
