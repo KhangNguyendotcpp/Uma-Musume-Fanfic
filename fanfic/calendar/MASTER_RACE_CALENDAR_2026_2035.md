@@ -6,7 +6,7 @@
 
 ## S1 era — 2026–2028
 
-Ba suất Classic tương lai liên quan Special Week, Haise và Taki đang được tác giả cân nhắc. Satsuki Sho, Japanese Derby và Kikuka Sho 2027 là cách đối chiếu theo lịch; xem `UNRESOLVED_DECISIONS.md` trước khi viết kết quả. Các kết quả nền ở bảng dưới vẫn dùng để đối chiếu.
+Các phương án Classic đang cân nhắc được lưu riêng trong ghi chú meta `fanfic/meta/takiyama-racing-plans.md`. Bảng dưới giữ kết quả nền để đối chiếu.
 
 | Ngày giờ | Địa điểm | Race / cấp / surface / distance | Winner / key result | Status |
 |---|---|---|---|---|

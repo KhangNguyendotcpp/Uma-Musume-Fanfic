@@ -46,9 +46,7 @@ Không có thứ gì trong file này trở thành canon chỉ vì nó được l
 
 ## Race calendar / result
 
-- Finish của Haise/Taki trong Satsuki, Derby, Kikuka 2027: TBD. Trong trao đổi sau checkpoint, tác giả để ngỏ ba suất Classic tương lai liên quan đến Special Week, Haise và Taki, muốn cân nhắc Triple Crown cho Taki nhưng vẫn giữ vai trò của Special Week.
-- Đối chiếu khả dĩ với lịch repo là **Satsuki Sho, Japanese Derby, Kikuka Sho 2027**; tên ba suất chưa có xác nhận trực tiếp truy hồi được. Kết quả nền lần lượt là Seiun Sky, Special Week/El Condor Pasa đồng hạng và Seiun Sky. Giữ chúng làm baseline tham chiếu trong khi chờ xác nhận ba suất và kết quả fanfic; chưa chọn người thắng mới. Phương án Autumn Triple Crown 2029 là đề xuất riêng, chưa được tác giả duyệt.
-- Berserker Sprint và hướng chơi xấu đầu arc đã ghi ở `fanfic/internal-character-notes/takiyama-writing-guide.md`. Cú về đích thử nghiệm, cuộc đua áp dụng, hậu quả cụ thể và các finish vẫn mở.
+- Finish của Haise/Taki trong Satsuki, Derby, Kikuka 2027: TBD. Kế hoạch đua tương lai liên quan nằm ở tầng meta, tại `fanfic/meta/takiyama-racing-plans.md`.
 - Người thắng Satsuki Sho 2034: source animation không cho một tên nhân vật dùng được; giữ `UNNAMED / UNRESOLVED`.
 - Exact finish ngoài podium không được source/author xác định: TBD, không suy từ ngựa thật.
 - Kết quả career riêng của Rudolf/Air Groove/Brian và các G1 quốc tế của Haise/Taki: DRAFT cho tới khi author duyệt từng campaign.

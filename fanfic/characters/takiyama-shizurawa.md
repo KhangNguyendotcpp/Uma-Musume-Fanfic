@@ -40,8 +40,6 @@ Một Uma năm nhất cực kỳ cao, với cách chạy hiếm khi chịu nằm
 - **Điểm yếu:** biomechanics và risk chấn thương từ kỹ thuật thử nghiệm hung hãn.
 - **Hành vi đặc trưng:** bắt đầu cười trong cạnh tranh căng thẳng thường nghĩa là vừa nghĩ ra một ý tưởng đáng báo động.
 
-**Kỹ thuật cá nhân:** Berserker Sprint kết hợp biên độ bước cực lớn với tần số bước cực cao, đổi góc nghiêng thân theo tốc độ và tình trạng cơ thể. Xem `fanfic/internal-character-notes/takiyama-writing-guide.md` để dùng đúng giới hạn.
-
 ## Lộ trình
 - **2026:** debut/foundation và kiểm tra surface/distance.
 - **2027:** Classic Year duy nhất; kết quả crown còn TBD.

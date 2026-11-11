@@ -66,6 +66,8 @@ Quy tắc đầy đủ nằm tại `fanfic/style/xung-ho-and-dialogue-register.m
 
 ## 4. Cổng continuity và kiến thức
 
+Nhánh đua tương lai của Taki đang ở tầng meta của tác giả (`fanfic/meta/takiyama-racing-plans.md`). Mọi nhân vật, kể cả Taki, đều chưa biết các nội dung ở đó. Khi tác giả mở một chi tiết vào truyện, xác định cảnh và kênh biết cho từng nhân vật trước khi dùng trong suy nghĩ, lời thoại hoặc hành động.
+
 Trước khi viết phải rà toàn repo bằng tên nhân vật, ngày, team, lớp, chức vụ, race và sự kiện liên quan để phát hiện dữ kiện khóa hoặc xung đột.
 
 Phải trả lời được:
