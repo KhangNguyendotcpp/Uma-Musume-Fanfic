@@ -7,7 +7,7 @@
 - **Số đo ba vòng (ngực–eo–hông):** **210–118–200 cm** — STORY-ESTABLISHED / LOCKED
 - **Cơ quan:** Tracen Academy
 - **Vai trò hiện tại:** giáo viên Lịch sử + trainer chính thức + giáo viên chủ nhiệm Senior 3-A, với quyền trong từng phạm vi chuyên môn — STORY-ESTABLISHED / LOCKED
-- **Trạng thái tại điểm prose hiện tại:** **sau 12:14 JST — Chủ Nhật, ngày 05 tháng 04 năm 2026**, khi Equinox, Symboli Rudolf, Air Groove và Narita Brian đã tìm được bàn ăn dưới giàn dây leo trên sân gỗ sau đài quan sát, sát lan can nhìn xuống Vệt Sét; phút tới bàn chính xác `TBD`. Cả năm trò không tạo biểu hiện cảm xúc ở Equinox; cô ấy ngáp khi Quỹ Đạo Bay giảm tốc nhưng không ngủ trên tàu. Đã kiểm tra đồ ở tủ khóa và nhường Brian mang túi; chưa mở hộp/ăn trưa. Track 7 còn khóa, Team Zenith chưa chứng nhận, cơ sở tập riêng chưa mua — STORY-ESTABLISHED / LOCKED. Chi tiết sáng sớm chưa truy hồi: `fanfic/checkpoints/2026-10-22-recovery-ledger.md`.
+- **Trạng thái tại điểm prose hiện tại:** **Sau nhịp 21:32 JST — Chủ Nhật, ngày 05 tháng 04 năm 2026**, Equinox ngủ tại căn hộ Shibuya cùng Rudolf, Air Groove và Brian sau bữa tối. Cô ấy đã báo và nhận xác nhận lịch mới rời căn hộ lúc 06:00 JST sáng 06/04. Track 7 còn khóa, Team Zenith chưa chứng nhận, cơ sở tập riêng chưa mua. Chi tiết và khoảng thiếu: `fanfic/timeline/2026-04-05-chronology.md`, `fanfic/checkpoints/2026-11-11-recovery-ledger.md`.
 - **Môn giảng dạy/đã giảng thử:** Lịch sử — STORY-ESTABLISHED / LOCKED
 - **Chức danh hợp đồng chính xác:** TBD; không ảnh hưởng kết quả tuyển dụng đã chốt
 
@@ -170,13 +170,15 @@ Equinox là Uma nhưng **không được định hướng làm racer thi đấu*
 - Thắng cả hai ván sau khi ba học sinh chủ động nhận thua. Equinox không dùng chiến thắng để làm nhục; sau mỗi ván cô giữ bàn để chỉ nước cứu nhóm lớn, chấp nhận hy sinh, cách giữ lợi thế và các điểm then chốt đã bỏ qua.
 - Ván hai kết thúc lúc 22:11; sau đó cùng ba học sinh thu quân, lau bàn, phủ vải, khóa hộp và cất bộ cờ vây vào tủ. Phút kết thúc dọn dẹp chưa khóa; chưa đi ngủ tại endpoint riêng của event 04/04; cảnh sau đã sang ngày 05/04 nhưng không có nguyên văn phần chuyển đêm.
 
-## Công viên cảm giác mạnh — 2026-04-05
+## Công viên và đêm cuối Shibuya — 2026-04-05
 
 - Đi cùng Rudolf/Air Groove/Brian, chơi lần lượt Vệt Sét, Độ Cao Tuyệt Đối, Thiên Chùy, Quỹ Đạo Bay và Trục Tự Do. Không biểu lộ sợ hãi, vui hoặc thích thú trước năm trò; vẫn nhận biết gió/gia tốc/quán tính, tóc/tai/đuôi và cơ thể chịu lực bình thường trong mô tả.
 - Ghế/đai được kiểm tra phù hợp từng trò; không dùng năng lực OU để thay thủ tục. Không bịa khối lượng, giới hạn cơ học hoặc cơ chế siêu nhiên từ cảnh.
 - Không phản đối Rudolf lưu ảnh tự động Vệt Sét theo yêu cầu Brian. Chưa gửi ảnh cho Zenith. Chỉ ngáp khi Quỹ Đạo Bay giảm tốc; không có việc ngủ trên tàu.
 - Từ 12:14 lấy đồ ở tủ khóa, kiểm tra hai túi đá còn lạnh, hộp không nghiêng và nước còn nguyên. Ban đầu nói không nặng nhưng đồng ý cho Brian mang túi, giải thích bằng phân chia tải.
-- Cảnh dừng ở bàn dưới giàn dây leo nhìn xuống Vệt Sét; chưa mở cơm. Sự không cảm xúc chỉ khóa cho năm trò trong cảnh, không xóa những cảm xúc khác đã thể hiện với Zenith/học sinh. Xem `fanfic/events/2026-04-05-amusement-park-morning.md`.
+- Event buổi sáng dừng ở bàn dưới giàn dây leo; cảnh ăn trưa chưa truy hồi. Chiều Equinox chơi ba trò ở khu nước, ngủ trên phao ghế, chụp các em ở hồ tạo sóng và cười nhẹ khi xem ảnh dưới cổng khu nước. Sự bình thản trên năm trò buổi sáng không kéo sang mọi hoạt động.
+- Ghé siêu thị mua đồ nướng/lẩu vì sáng mai ba học sinh về Tracen. Tối cô ấy uống rượu Sheila gửi, nói rượu địa phương nhạt, vẫn để ý đũa sạch và món trên vỉ trước khi buồn ngủ trên sofa. Chưa có dữ kiện về mẻ rượu cụ thể.
+- Khi say, Equinox kéo ba học sinh lên giường và ôm qua chăn, nới tay khi Air Groove lên tiếng. Cô ấy lẩm bẩm “Bố yêu các con nhiều lắm…”. Khả năng nhận nhầm các em với Twilight/Lux là phỏng đoán trong cảnh; tiếng bố thuộc cách nói với con trong nhà. Xem `fanfic/events/2026-04-05-water-park-and-last-night.md`.
 
 ## Nguyên tắc nghề nghiệp đã thể hiện
 - Sức khỏe và medical clearance đứng trên race, Winning Live và sức ép khán giả.

@@ -4,7 +4,7 @@
 
 ## 1. Trạng thái tại điểm prose hiện tại
 
-- Điểm prose hiện tại: **sau 12:14 JST — Chủ Nhật, ngày 05 tháng 04 năm 2026**, khi cả bốn đã chơi năm trò cảm giác mạnh và tìm được bàn ăn dưới giàn dây leo trên sân gỗ sau đài quan sát nhìn xuống Vệt Sét; phút tới bàn TBD, **chưa mở cơm/ăn trưa hoặc về Tracen**. Chuỗi 01–04/04 giữ nguyên theo chronology đã khóa. Xem `fanfic/timeline/2026-04-05-chronology.md` và `fanfic/checkpoints/2026-10-22-recovery-ledger.md` cho phần đầu sáng còn thiếu nguồn. Track 7 còn khóa; cơ sở tập riêng chưa mua; Team Zenith chưa đủ năm. Đi công viên không tự tạo một buổi training hoặc certified team.
+- Điểm prose hiện tại: cuối nhịp **21:32 JST — Chủ Nhật, ngày 05 tháng 04 năm 2026**. Equinox và ba trainee đã qua công viên, ăn tối rồi ngủ tại căn hộ Shibuya. Lịch mới rời căn hộ 06:00 sáng 06/04 đã được xác nhận; chuyến về chưa được kể. Track 7 còn khóa, cơ sở tập riêng chưa mua, Team Zenith chưa đủ năm. Chuyến công viên là hoạt động nghỉ. Xem `fanfic/timeline/2026-04-05-chronology.md` và `fanfic/checkpoints/2026-11-11-recovery-ledger.md`.
 - Equinox đã là trainer + giáo viên Lịch sử chính thức. Rudolf, Air Groove và Brian đã nộp đơn ngày 2026-03-23, Equinox đã nhận đơn và hiện là ba trainee/ứng viên đầu tiên trong nhóm chờ duyệt.
 - **Team Zenith** là tên nhóm đang dùng trong continuity nhưng chưa phải certified team. Trước khi đủ tối thiểu năm Uma theo rule TV S1, prose phải dùng **nhóm training do Equinox phụ trách / Team Zenith đang chờ duyệt** và không mô tả team đã được Tracen công nhận.
 - Equinox phải quyết định trước cuối tuần sau 2026-04-01 việc chủ động mời thêm người hay tiếp tục chờ đơn; quyết định và thành viên thứ tư–năm vẫn `TBD`.

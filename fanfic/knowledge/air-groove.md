@@ -1,6 +1,6 @@
 # Air Groove — Knowledge Registry tại điểm prose hiện tại
 
-**Mốc:** **sau 12:14 JST — Chủ Nhật, ngày 05 tháng 04 năm 2026**, khi Equinox, Symboli Rudolf, Air Groove và Narita Brian đã tìm được bàn ăn dưới giàn dây leo trên sân gỗ sau đài quan sát, sát lan can nhìn xuống Vệt Sét; phút tới bàn chính xác `TBD`. Air Groove trực tiếp tham gia năm trò, lấy đồ và tìm bàn; chưa mở cơm. Tin nhắn riêng Equinox–Zenith và phần chỉ có narrator vẫn không thuộc kiến thức của cô bé.
+**Mốc:** **Sau nhịp 21:32 JST — Chủ Nhật, ngày 05 tháng 04 năm 2026**, Air Groove đã ngủ tại căn hộ Shibuya sau bữa tối cùng Equinox, Rudolf và Brian. Tin nhắn riêng và phần chỉ có narrator vẫn không thuộc kiến thức của cô bé.
 
 ## KNOWN — có nguồn trực tiếp
 
@@ -78,7 +78,11 @@
 - Air Groove biết Rudolf lưu ảnh tự động Vệt Sét sau đề nghị của Brian. Chưa chứng kiến việc gửi ảnh cho Zenith; không tự cho cô biết ảnh đã được chia sẻ.
 - Air Groove tự trải qua tiếng bật ở zero-g, tiếng hét khi thả rơi và bước lệch ngắn sau Thiên Chùy. Các biểu hiện ấy không tự thành chẩn đoán, chấn thương hoặc kết luận sợ độ cao; cô vẫn tham gia cả năm trò.
 - Air Groove trực tiếp nghe Equinox nói chỉ có gió/gia tốc/lực, thấy cô ấy ngáp khi Quỹ Đạo Bay giảm tốc và xác nhận không định thử ngủ. Cô không biết một giới hạn hoặc cơ chế OU mới từ trải nghiệm này.
-- Từ 12:14, Air Groove đi lấy cơm cùng nhóm, thấy Equinox nhường Brian mang túi rồi theo Rudolf lên sân gỗ sau đài quan sát. Cô kiểm tra và đồng ý bàn cuối dưới giàn dây leo vì sạch/khô, có bóng cây, không chắn lối, nhìn xuống Vệt Sét; chưa mở cơm. Chi tiết sáng còn thiếu chỉ được registry dùng khi có nguồn bổ sung, xem `fanfic/checkpoints/2026-10-22-recovery-ledger.md`.
+- Từ 12:14, Air Groove đi lấy cơm cùng nhóm, thấy Equinox nhường Brian mang túi rồi theo Rudolf lên sân gỗ sau đài quan sát. Cô kiểm tra và đồng ý bàn cuối dưới giàn dây leo vì sạch/khô, có bóng cây, không chắn lối, nhìn xuống Vệt Sét. Event buổi sáng dừng trước mở cơm; giờ tới bàn, đoạn ăn và phần đầu khu nước còn thiếu nguồn, xem `fanfic/checkpoints/2026-11-11-recovery-ledger.md`.
+- Air Groove trực tiếp tham gia hồ tạo sóng/trượt thảm, xem Equinox nghỉ trên phao và biết cô ấy chơi ba trò ở khu nước. Cô chụp Brian/Rudolf, nhận lại chuỗi ảnh Brian chụp mình và xem ảnh chung. Air Groove có quyền truy cập album Rudolf lập cho bốn người, gồm ảnh Vệt Sét; chưa chứng kiến gửi Zenith.
+- Air Groove tham gia mua và sơ chế, nghe Rudolf tính giờ rời căn hộ 06:00 sáng 06/04 để cất đồ trước khai giảng. Nhóm biết giờ đã được xác nhận; nội dung tin nhắn/thông tin tài khoản không tự động thuộc kiến thức của cô bé.
+- Air Groove trực tiếp nghe Equinox nói rượu do Sheila gửi, thấy cô ấy uống, lẩm bẩm và ngủ trên sofa; không biết tên rượu, nồng độ, mẻ ủ hoặc quan hệ OU mới từ đó. Cô bé đưa nước, cùng hai bạn dọn bếp, rồi đi với Equinox vào phòng.
+- Air Groove nghe câu “Bố yêu các con nhiều lắm…” và liên hệ với lời Zenith về Twilight/Lux trong cuộc gọi 01/04. Cô không biết Equinox đang nghĩ đến ai; chuyện nhận nhầm là phỏng đoán. Equinox nới tay khi Air Groove lên tiếng, và cô bé tự chọn nằm lại. Rudolf đã bật báo thức; giờ báo thức cụ thể chưa có nguồn.
 
 Khi lớp tách thành nhiều nhóm nói chuyện chồng lên nhau, registry **không** mặc định Air Groove nghe trọn mọi trao đổi Opera–Fuji, Brian–Laurel, Hishi–Taishin, Gold City–Gentildonna hoặc các nhóm khác chỉ vì cô ở cùng phòng. Chỉ chuyển từng nội dung sang `KNOWN` nếu prose xác lập cô tham gia, chú ý hoặc ở vị trí nghe rõ.
 

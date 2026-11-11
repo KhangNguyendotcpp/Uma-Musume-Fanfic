@@ -63,12 +63,12 @@
 - Brian đề nghị mang túi dù Equinox nói không nặng. Lần này Equinox nhường; trước câu hỏi của Air Groove, cô ấy giải thích bằng phân chia tải. Đây là hành động chia việc, không thay quan hệ giáo viên–học sinh thành quan hệ phụ huynh.
 - Dãy bàn đầu ngoài nắng đã kín; dãy có mái che cạnh tàu trẻ em ồn vì chuông. Rudolf tìm lối dốc sau quầy nước, dẫn tới sân gỗ sau đài quan sát dưới giàn dây leo.
 - Bàn thứ nhất kín, bàn thứ hai còn đồ ăn chưa dọn. **Bàn cuối trống, sạch/khô, có bóng cây, sát lan can nhìn xuống ray Vệt Sét và không chắn lối đi.** Air Groove xác nhận phù hợp, Brian đặt túi giữa bàn, Rudolf kéo ghế, Equinox dừng cạnh ghế lớn nhất.
-- **Endpoint:** cả bốn đã tìm được chỗ ăn trưa; phút tới bàn chính xác chưa có nguồn. Chưa mở hộp, chưa bắt đầu ăn, chưa có hoạt động chiều hoặc trở về Tracen.
+- **Endpoint riêng của event buổi sáng:** cả bốn tìm được chỗ ăn trưa; phút tới bàn chính xác chưa có nguồn. Cảnh dừng trước khi mở hộp. Phần truy hồi được tiếp theo nằm ở `fanfic/events/2026-04-05-water-park-and-last-night.md`.
 
 ## Khóa nhân vật, kiến thức và điểm tiếp tục
 
 - Brian thích tốc độ/hướng tiến rõ hơn việc bị lật ngẫu nhiên; Rudolf dần bỏ phân tích để cười và tận hưởng; Air Groove vẫn cứng cỏi, chủ động tham gia dù không thích mất khả năng dự đoán; Equinox hoàn toàn không biểu lộ cảm xúc trước năm trò theo yêu cầu tác giả.
 - Ba học sinh chỉ trực tiếp chứng kiến những phản ứng này, không biết một nguyên nhân siêu hình mới. Không tự dùng buổi chơi để chứng minh/tiết lộ danh tính OU của Equinox.
 - Cả bốn biết các phần công khai mình trải qua. Zenith và người ngoài chưa có kênh biết mới trong văn bản truy hồi; ảnh Vệt Sét chỉ mới được lưu trên thiết bị/vòng vé của Rudolf.
-- Team Zenith chưa được chứng nhận; Track 7 còn khóa; cơ sở tập riêng chưa mua; Izu và ngày Zenith thăm Tracen vẫn TBD. Lịch về Chủ Nhật 05/04 chưa được thực hiện tại endpoint; không tự gia hạn lưu trú.
+- Team Zenith chưa được chứng nhận; Track 7 còn khóa; cơ sở tập riêng chưa mua; Izu và ngày Zenith thăm Tracen vẫn TBD. Lịch về Chủ Nhật còn là phương án tại điểm dừng buổi sáng; cảnh mua hàng 17:18 sau đó xác lập lịch mới rời nhà lúc 06:00 sáng 06/04.
 - Đây là continuity summary, không phải tái tạo chapter nguyên văn. Với cảnh mới sau bàn ăn, phải xác lập timestamp đủ theo `fanfic/style/scene-time-anchors.md`; không bịa giờ cũ để lấp chỗ thiếu.

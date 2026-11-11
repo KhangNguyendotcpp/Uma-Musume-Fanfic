@@ -90,7 +90,7 @@ Các điều cấm:
 
 **Điểm chưa giải quyết:** Zenith để lại áo ngực đầu tiên cho Equinox nhưng sản phẩm sai cả kích cỡ lẫn cấu trúc dù Zenith biết cơ thể incarnation. Cần một lời giải được tác giả duyệt—ví dụ trạng thái đồ tạm khẩn cấp—trước khi xem đây là logic hoàn chỉnh; không tự chế lời giải trong prose.
 
-**Lưu trú Shibuya:** phê duyệt có điều kiện của quản lý ký túc xá không thay quyền đồng ý của Rudolf/Air Groove/Brian hoặc đơn riêng từng em. Tại endpoint riêng của ngày 04/04, cả ba đã hoàn tất đơn, tới Shibuya, trải qua chuỗi 01–03/04 đã khóa, rồi hoàn tất kiểm tra 08:00, buổi hồ bơi và hai ván cờ vây ngày 04/04; ván hai kết thúc 22:11, bộ cờ được cất sau đó. Prose hiện đã sang công viên 05/04: sau năm trò, nhóm tìm bàn ăn trưa sau 12:14 nhưng chưa mở cơm hoặc trở về Tracen. Phần chuyển đêm/đầu sáng chưa truy hồi; không tự dựng lại. Không được tự cho kỳ lưu trú đã kết thúc, biến việc tiếp tục ngày nghỉ thành medical clearance, cho Track 7 đã mở lại, biến cơ sở tập riêng thành tài sản đã mua hoặc cho Zenith biết toàn bộ sinh hoạt. Zenith chỉ biết tin nhắn/ảnh đã được gửi trực tiếp, gồm loạt ảnh hồ bơi 04/04; cô chưa biết hai ván cờ vây.
+**Lưu trú Shibuya:** phê duyệt có điều kiện của quản lý ký túc xá không thay quyền đồng ý của Rudolf/Air Groove/Brian hoặc đơn riêng từng em. Tại endpoint riêng của ngày 04/04, cả ba đã hoàn tất đơn, tới Shibuya, trải qua chuỗi 01–03/04 đã khóa, rồi hoàn tất kiểm tra 08:00, buổi hồ bơi và hai ván cờ vây ngày 04/04; ván hai kết thúc 22:11, bộ cờ được cất sau đó. Prose hiện ở sau nhịp 21:32 tối 05/04: nhóm đã qua công viên, ăn tối và ngủ tại căn hộ. Giờ rời nhà mới 06:00 sáng 06/04 đã được ký túc xá xác nhận; chuyến về chưa diễn ra. Phần chuyển đêm 04/04 và đầu sáng 05/04 chưa truy hồi; không tự dựng lại. Không được tự cho kỳ lưu trú đã kết thúc, biến việc tiếp tục ngày nghỉ thành medical clearance, cho Track 7 đã mở lại, biến cơ sở tập riêng thành tài sản đã mua hoặc cho Zenith biết toàn bộ sinh hoạt. Zenith chỉ biết tin nhắn/ảnh đã được gửi trực tiếp, gồm loạt ảnh hồ bơi 04/04; cô chưa biết hai ván cờ vây.
 
 **Cảnh cổng Tracen:** các nhóm tới và rời cổng theo từng thời điểm. Team Spica không biết mục đích chờ; Hana biết Track 7 và bữa buffet nhưng chưa biết lưu trú; Tachyon/Cafe, Urara/Rice chỉ biết cuộc nói chuyện trực tiếp của mình; Rudolf/Air Groove/Brian tới sau nên không tự biết các cuộc gặp trước. Việc người kể biết Equinox thay đồ lót không truyền thông tin đó cho bất kỳ nhân vật nào.
 
@@ -128,7 +128,9 @@ Nếu có bước nhảy thời gian đủ dài giữa các cảnh, bắt buộc
 
 ## 12. Công viên 05/04 — khóa nguồn và endpoint
 
-- 12:14 là lúc bắt đầu lấy cơm/tìm bàn, không phải giờ đã ngồi ăn. Bàn đã tìm được nhưng chưa mở hộp; không tự thêm cảnh ăn/chiều/trở về.
+- 12:14 là lúc bắt đầu lấy cơm/tìm bàn. Phút tới bàn và cảnh ăn trưa chưa có nguồn; hộp cơm rỗng là dữ kiện cuối chiều. Phần khu nước truy hồi được bắt đầu ở hồ tạo sóng.
 - Equinox không biểu cảm trước năm trò; không suy thành mất cảm xúc nói chung, không viết cô ấy đã ngủ trên tàu. Không suy ra năng lực OU mới từ phản ứng vật lý.
-- Ảnh tự động Vệt Sét chỉ được Rudolf lưu; chưa có nguồn xác lập gửi Zenith.
-- Không lấy giờ dậy, thực đơn hoặc hành trình ở ngày khác lấp phần sáng bị cắt. Giữ TBD và đối chiếu `fanfic/checkpoints/2026-10-22-recovery-ledger.md`; chronology đủ mốc đã có nguồn nằm tại `fanfic/timeline/2026-04-05-chronology.md`.
+- Rudolf lưu ảnh tự động Vệt Sét rồi đưa vào album dành cho cả bốn. Album này không xác lập Zenith nhận ảnh; ảnh hồ riêng đã gửi Zenith thuộc 04/04.
+- Giữ giờ dậy, thực đơn và hành trình sáng 05/04 ở trạng thái TBD, xem `fanfic/checkpoints/2026-11-11-recovery-ledger.md` và `fanfic/timeline/2026-04-05-chronology.md`.
+- 17:18 ghé siêu thị xảy ra trước 17:41 về căn hộ. Hai đoạn nguồn cùng tả một lần mở cửa; không kể thành hai lượt.
+- Tiếng “bố” lúc say là lời lẩm bẩm nghe được, còn chuyện Equinox nhận nhầm là suy đoán của học sinh. Cả ba không đổi register cô–em hoặc có thêm kiến thức OU từ sự việc. Giờ 06:00 là giờ dự kiến rời nhà, không suy thành giờ thức dậy.

@@ -8,7 +8,7 @@ Mọi giờ nội địa dùng Japan Standard Time (JST). Giờ xuất phát maj
 
 **Lịch 01–03/04/2026:** `fanfic/timeline/2026-04-01-to-03-chronology.md` là bảng đối chiếu đã đính chính; quy tắc timestamp bắt buộc tại `fanfic/style/scene-time-anchors.md`.
 
-Chi tiết ngày công viên/endpoint hiện tại: `fanfic/timeline/2026-04-05-chronology.md`; phần chưa truy hồi không được tự điền, xem `fanfic/checkpoints/2026-10-22-recovery-ledger.md`.
+Chi tiết ngày công viên/endpoint hiện tại: `fanfic/timeline/2026-04-05-chronology.md`; phần chưa truy hồi không được tự điền, xem `fanfic/checkpoints/2026-11-11-recovery-ledger.md`.
 
 ## 2025 — Thế hệ trước / Cinderella Gray block
 
@@ -61,7 +61,11 @@ Chi tiết ngày công viên/endpoint hiện tại: `fanfic/timeline/2026-04-05-
 | 2026-04-04 Thứ Bảy 08:00 JST–sau 22:11 JST | Căn hộ Shibuya | Kiểm tra phục hồi lúc 08:00; trưa nấu/ăn rồi nghỉ; chiều khởi động và vui chơi ở hồ bơi, Equinox gửi ảnh cho Zenith; tối Equinox dạy Rudolf/Air Groove/Brian chơi cờ vây bằng hai ván thực chiến, chấp chín quân mỗi ván và thắng cả hai. Ván hai kết thúc 22:11; sau đó cả bốn thu và cất bộ cờ, phút chính xác chưa khóa; chưa có cảnh đi ngủ trong nguồn lưu của riêng event này | STORY-ESTABLISHED / LOCKED |
 | 2026-04-05 Chủ Nhật, sáng sớm (giờ/phút TBD) | Căn hộ Shibuya → công viên (tên/tuyến đi TBD) | Tác giả yêu cầu giữ vệ sinh, ăn sáng, làm việc và nấu cơm mang theo. Prose chi tiết mở đầu chưa truy hồi; phần sau xác nhận bốn hộp cơm, hai túi đá và nước trong tủ khóa | AUTHOR-DIRECTED; missing details TBD |
 | 2026-04-05 Chủ Nhật, trước 10:17–sau 11:50 JST | Công viên cảm giác mạnh | Vệt Sét (giờ đầu TBD), Độ Cao Tuyệt Đối 10:17, Thiên Chùy 10:49, Quỹ Đạo Bay 11:18, Trục Tự Do 11:50. Equinox không cảm xúc; ba trainee phản ứng khác nhau. Rudolf lưu ảnh Vệt Sét, chưa gửi Zenith | STORY-ESTABLISHED / LOCKED |
-| 2026-04-05 Chủ Nhật, từ 12:14 JST; phút tới bàn TBD | Tủ khóa → sân gỗ sau đài quan sát, dưới giàn dây leo | Nhóm lấy cơm, Brian mang túi, Rudolf tìm bàn cuối sạch có bóng cây nhìn xuống Vệt Sét. Đã tìm chỗ nhưng chưa mở hộp/ăn; chưa về Tracen | STORY-ESTABLISHED / LOCKED / CURRENT PROSE |
+| 2026-04-05 Chủ Nhật, từ 12:14 JST; phút tới bàn TBD | Tủ khóa → sân gỗ sau đài quan sát, dưới giàn dây leo | Nhóm lấy cơm, Brian mang túi, Rudolf tìm bàn cuối nhìn xuống Vệt Sét. Mốc cuối event buổi sáng; cảnh ăn trưa chưa truy hồi, cuối chiều hộp cơm đã rỗng | STORY-ESTABLISHED / LOCKED |
+| 2026-04-05 Chủ Nhật, trước 15:39–sau 16:47 JST | Khu nước và cổng công viên | Hồ tạo sóng, Equinox chơi ba trò và nghỉ phao, máng trượt thảm, chụp ảnh, thay đồ, mua quà và rời công viên; không quay lại Vệt Sét | STORY-ESTABLISHED / LOCKED |
+| 2026-04-05 Chủ Nhật, 17:18–17:41 JST | Siêu thị → căn hộ Shibuya | Mua đồ nướng/lẩu, báo và nhận xác nhận lịch rời căn hộ 06:00 hôm sau. Rudolf lập album cho bốn người; nhóm về và chuẩn bị bàn | STORY-ESTABLISHED / LOCKED |
+| 2026-04-05 Chủ Nhật, 18:26–sau 21:32 JST | Căn hộ Shibuya | Equinox say rượu Sheila gửi và ngủ sofa; Rudolf, Air Groove, Brian dọn bếp. Khi chuẩn bị ngủ, Equinox kéo cả ba lên giường, ôm qua chăn và lẩm bẩm lời của bố. Cả bốn ngủ; phút ngủ hẳn TBD | STORY-ESTABLISHED / LOCKED / CURRENT PROSE |
+| 2026-04-06 Thứ Hai, 06:00 JST | Căn hộ Shibuya → ký túc xá Tracen | Lịch rời căn hộ đã được xác nhận; cất hành lý trước lễ khai giảng 08:30. Chuyến về chưa được kể | CONFIRMED PLAN |
 | 2026-04-06 Thứ Hai 08:30 JST | Tracen Academy | Lễ khai giảng/nhập học toàn trường; Special Week nhập học; S1 era bắt đầu | APPROVED baseline |
 | 2026-04-12 Chủ Nhật 14:50 JST | Tokyo Racecourse | Debut race của Special Week | Spe thắng; ADOPTED result / date ORIGINAL |
 | 2026-04-13 đến 2026-04-20, giờ TBD | Điểm xuất hiện/Tracen TBD | Cửa sổ Zenith dự kiến đưa Haise và Takiyama tới, khoảng một đến hai tuần sau khi Special Week nhập học; ngày, thứ tự xuất hiện và thủ tục nhập học riêng của từng người chưa khóa | AUTHOR PLAN / exact details TBD |

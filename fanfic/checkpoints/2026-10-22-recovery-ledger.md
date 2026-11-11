@@ -1,5 +1,7 @@
 # Đối chiếu checkpoint và giới hạn truy hồi — 2026-10-22
 
+Mốc trong file này là lịch sử. Xem [đối chiếu 2026-11-11](2026-11-11-recovery-ledger.md) để biết phần đã bổ sung và điểm tiếp tục mới.
+
 Đây là nhật ký độ phủ nguồn, **không phải một cảnh trong truyện**. Ngày 2026-10-22 là ngày cập nhật; các sự kiện mới xảy ra ngày 05/04/2026 trong chronology fanfic.
 
 ## Điểm xuất phát
@@ -30,4 +32,4 @@
 
 ## Điểm tiếp tục được xác nhận
 
-**Sau 12:14 JST — Chủ Nhật, ngày 05 tháng 04 năm 2026**, tại bàn cuối dưới giàn dây leo trên sân gỗ sau đài quan sát, nhìn xuống Vệt Sét. Nhóm đã tìm chỗ; cơm chưa mở. Phút đến bàn chính xác TBD. Current state, chronology, calendar, knowledge và các entry point phải dẫn về đây.
+**Sau 12:14 JST — Chủ Nhật, ngày 05 tháng 04 năm 2026**, tại bàn cuối dưới giàn dây leo trên sân gỗ sau đài quan sát, nhìn xuống Vệt Sét. Nhóm đã tìm chỗ; cơm chưa mở. Phút đến bàn chính xác TBD. Đây là mốc của lần cập nhật 2026-10-22.

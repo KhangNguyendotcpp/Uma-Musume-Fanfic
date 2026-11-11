@@ -26,4 +26,4 @@
 
 ## Cảnh tiếp theo
 
-Prose đã nối sang chuyến công viên Chủ Nhật 05/04, tới lúc tìm được bàn ăn trưa sau 12:14; xem `fanfic/timeline/2026-04-05-chronology.md`. Không lấy endpoint lịch sử sau cờ vây làm current state. Phần chuyển đêm/đầu sáng chưa truy hồi đầy đủ, xem `fanfic/checkpoints/2026-10-22-recovery-ledger.md`.
+Prose đã nối sang chuyến công viên Chủ Nhật 05/04 và đêm cuối tại căn hộ Shibuya; xem `fanfic/timeline/2026-04-05-chronology.md`. Không lấy endpoint lịch sử sau cờ vây làm current state. Phần chuyển đêm/đầu sáng chưa truy hồi đầy đủ, xem `fanfic/checkpoints/2026-10-22-recovery-ledger.md`.

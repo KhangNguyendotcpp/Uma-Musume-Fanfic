@@ -1,6 +1,6 @@
 # Prose Audit — từ mở đầu đến điểm hiện tại
 
-**Phạm vi:** từ mở đầu 09/03/2026 tới khi cả bốn tìm được bàn ăn công viên sau 12:14 JST — Chủ Nhật 05/04/2026; phút tới bàn TBD, chưa mở hộp/ăn trưa. Repo giữ phần lớn cảnh dưới dạng continuity summary; đoạn đầu sáng 05/04 và phần chuyển đêm chưa truy hồi đầy đủ, xem `fanfic/checkpoints/2026-10-22-recovery-ledger.md`. Audit không tuyên bố độ phủ 100% hoặc phục dựng prose còn thiếu.
+**Phạm vi:** từ mở đầu 09/03/2026 tới cuối nhịp **21:32 JST — Chủ Nhật, ngày 05 tháng 04 năm 2026**. Repo giữ phần lớn cảnh dưới dạng continuity summary. Phần chuyển đêm 04/04, đầu sáng 05/04 và đoạn nối từ bữa trưa đến hồ tạo sóng còn thiếu nguồn, xem `fanfic/checkpoints/2026-11-11-recovery-ledger.md`.
 
 **Trạng thái:** tài liệu chẩn đoán, không tự retcon sự kiện. Guardrail bắt buộc nằm tại `fanfic/style/prohibited_tendencies.md`.
 
@@ -79,7 +79,7 @@
 - Bản chỉnh sửa hiện hành giữ nguyên `Em khuyên cậu đừng thử` của Rudolf và `Em chưa nói sẽ thử` của Brian khi hai người nói với nhau trong cuộc tranh luận trước cửa phòng giáo vụ. Đây là ngoại lệ scene-specific do tác giả khóa; baseline `tôi–cậu` vẫn áp dụng cho cảnh mới nếu không có quyết định khác.
 - 50 km/h trên 2400 m tương đương 172,8 giây nếu giữ đều sau bước chạy hoàn chỉnh đầu tiên; prose không cần in thời gian này nhưng không được tạo split mâu thuẫn. Chậm 0,9 giây ở vạch đích không xác lập thứ tự nội bộ của Rudolf/Air Groove/Brian.
 - Thiệt hại Track 7 đã được báo và track bị khóa; chưa có kết luận bảo trì. Câu Equinox xin trừ chi phí vào lương là đề nghị đơn phương, không phải quyết định hành chính hoặc số tiền đã tính.
-- Khoảng lưu trú hợp lý theo lịch: tối Thứ Tư 01/04 qua bốn đêm Thứ Tư–Thứ Bảy, trở về Chủ Nhật 05/04. Hai ngày 02–03/04 không có tiết học theo prose mới; không gọi chúng là cuối tuần.
+- Lịch lưu trú ban đầu là bốn đêm Thứ Tư 01/04–Thứ Bảy 04/04, dự kiến về Chủ Nhật. Cảnh 17:18 ngày 05/04 xác nhận lịch mới rời căn hộ lúc 06:00 Thứ Hai 06/04. Hai ngày 02–03/04 không có tiết học nhưng vẫn là ngày trong tuần.
 - Quản lý ký túc xá mới duyệt phương án có điều kiện ở nhịp Track 7. Cảnh cổng tiếp theo đã khóa việc từng học sinh hoàn tất thủ tục và rời trường; điều này không retcon quyền tự quyết tại thời điểm được hỏi.
 - Zenith chưa có kênh biết buổi đánh giá, thiệt hại hoặc lời mời. Không cho cô chuẩn bị căn hộ/đồ ăn trước khi được kể.
 
@@ -195,7 +195,9 @@
 - Ngày tiếp theo sau Thứ Bảy 04/04 là Chủ Nhật 05/04/2026. Các mốc 10:17, 10:49, 11:18, 11:50, 12:14 đi xuôi. Giờ bắt đầu Vệt Sét và phút tới bàn chưa có nguồn; chronology ghi TBD, không bịa để hợp lệ hóa timestamp cũ.
 - Năm trò được phân biệt đúng: Vệt Sét 128 km/h, hơn 50 m, rơi 87 độ; tháp rơi hơn 80 m; Thiên Chùy vừa quay vừa vung; Quỹ Đạo Bay nằm sấp/pretzel; Trục Tự Do bảy lượt lật. Ghế/đai Equinox được điều chỉnh theo từng trò, nhưng nguồn không cho khối lượng hoặc thông số chịu tải.
 - Brian thích tốc độ nhưng không thích lật thiếu hướng tiến; Rudolf từ phân tích sang cười; Air Groove vẫn chủ động tham gia dù không thích thiếu dự đoán; Equinox không biểu cảm. Không gọi phản ứng Air Groove là chứng bệnh/chấn thương hoặc kéo không cảm xúc của Equinox thành mất khả năng yêu/thích nói chung.
-- Ảnh Vệt Sét có bốn người và được Rudolf lưu sau đề nghị Brian; chưa có cảnh gửi Zenith. Dòng knowledge mới phải giữ Zenith UNKNOWN và không cho ba trainee kết luận nguồn gốc OU.
-- 12:14 mở nhịp lấy cơm/tìm bàn; endpoint nằm sau khi tìm được bàn cuối dưới giàn dây leo, trước mở cơm. Không xác lập đã ăn, chơi chiều hoặc trở về Tracen. Kế hoạch về trong ngày chưa bị thay đổi.
+- Ảnh Vệt Sét có bốn người và được Rudolf lưu sau đề nghị Brian, rồi thêm vào album chung của cả bốn trên đường về. Zenith chưa có kênh biết mới; ba trainee cũng không có thêm bằng chứng về nguồn gốc OU.
+- 12:14 mở nhịp lấy cơm/tìm bàn; event buổi sáng kết thúc trước mở hộp. Cuối chiều xác nhận hộp rỗng. Cảnh ăn, giờ vào khu nước và trình tự phần đầu chưa truy hồi; phần còn lại có hồ tạo sóng và các mốc 15:39, 16:13, 16:47.
 - Lỗi trình bày nguồn: các nhãn giờ trong đoạn chuyển tiếp thiếu thứ/ngày đầy đủ; bản chronology/summary lần này đã bổ sung ngày theo chuỗi 04→05/04, không tuyên bố đã sửa chapter nguyên văn. Nếu lưu chapter sau này, áp đúng `fanfic/style/scene-time-anchors.md`.
-- Khoảng thiếu sáng sớm/hành trình được công khai trong `fanfic/checkpoints/2026-10-22-recovery-ledger.md`. Không thể chứng nhận đã thu hồi mọi chat bị lược; chỉ khóa dữ kiện thực sự có nguồn. Không tự phục dựng đối thoại hoặc biến chỉ định làm việc thành một báo cáo mới đã gửi.
+- 17:18 ghé siêu thị trước lần về nhà duy nhất lúc 17:41, kế đó là bữa tối 18:26, dọn bếp 19:53, rồi nhịp đi ngủ 21:32. Lịch mới 06:00 sáng 06/04 là giờ rời căn hộ; báo thức đã bật nhưng giờ báo thức chưa xác lập.
+- Ba học sinh nghe Equinox xưng bố trong lúc say; giữ khả năng nhận nhầm ở mức phỏng đoán. Album công viên chỉ có kênh chia sẻ trong nhóm.
+- Các khoảng thiếu nguồn và quyết định đua đang mở được ghi tại `fanfic/checkpoints/2026-11-11-recovery-ledger.md`.

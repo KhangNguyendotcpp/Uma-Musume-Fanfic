@@ -38,7 +38,7 @@ Không có thứ gì trong file này trở thành canon chỉ vì nó được l
 - Rudolf, Air Groove và Narita Brian đã nộp đơn ngày 2026-03-23 và hoàn tất buổi đánh giá nền tự nguyện đầu tiên chiều 2026-04-01: STORY-ESTABLISHED / LOCKED. Thành viên thứ tư–năm, thời điểm Team Zenith đủ điều kiện và quyết định tuyển chủ động của Equinox: TBD
 - Trạng thái chuyển team chính xác của Rudolf/Air Groove/Brian đối với roster Rigil trên giấy trong thời gian Team Zenith chờ duyệt: TBD; không tự coi profile TV Rigil là current fanfic paperwork hoặc tự tuyên bố chuyển team đã hoàn tất
 - Track 7 đã bị khóa vì thiệt hại do lượt chạy của Equinox; kết luận kỹ thuật, chi phí, trách nhiệm tài chính cuối cùng và ngày mở lại: TBD
-- Kỳ lưu trú Shibuya bốn đêm đã được duyệt, ba trainee hoàn tất đơn và đã tới căn hộ. Ngày 01/04: đi tàu, sự cố Air Groove, buffet gặp Zenith, nhận chỗ ở và tám ván cờ. Ngày 02/04: mua sắm, khám phá nhà, training trung bình–cao, ảnh/chat gia đình khoảng 17:10, tóm tắt Track 7 và Old Maid. Ngày 03/04: gym thể lực cường độ cao, bốn giờ làm việc, ba tài liệu, ăn tối/dọn nhà và guitar khép bằng Phonecert; nhắn Zenith rồi cả bốn ngủ. Ngày 04/04: kiểm tra 08:00, nấu/ăn trưa, hồ bơi/ảnh gửi Zenith và hai ván cờ vây chấp chín quân; ván hai kết thúc 22:11, bộ cờ được cất sau đó, phút chính xác chưa khóa; cảnh ngủ/chuyển đêm chưa được truy hồi. Ngày 05/04 nhóm đã đi công viên, chơi năm trò và tìm được bàn ăn sau 12:14, chưa mở cơm. Xem các chronology 01–03/04, 04/04 và `fanfic/timeline/2026-04-05-chronology.md`; không còn ở endpoint cờ vây. Thời điểm tay Equinox hết rát, hát lại cho Zenith, kết quả Old Maid, chỉ số kiểm tra chi tiết 04/04, chi tiết khám phá/mua sắm còn thiếu và việc trở về 05/04 vẫn chưa khóa hoặc chưa diễn ra.
+- Kỳ lưu trú Shibuya bốn đêm đã được duyệt, ba trainee hoàn tất đơn và đã tới căn hộ. Ngày 01/04: đi tàu, sự cố Air Groove, buffet gặp Zenith, nhận chỗ ở và tám ván cờ. Ngày 02/04: mua sắm, khám phá nhà, training trung bình–cao, ảnh/chat gia đình khoảng 17:10, tóm tắt Track 7 và Old Maid. Ngày 03/04: gym thể lực cường độ cao, bốn giờ làm việc, ba tài liệu, ăn tối/dọn nhà và guitar khép bằng Phonecert; nhắn Zenith rồi cả bốn ngủ. Ngày 04/04: kiểm tra 08:00, nấu/ăn trưa, hồ bơi/ảnh gửi Zenith và hai ván cờ vây chấp chín quân; ván hai kết thúc 22:11, bộ cờ được cất sau đó, phút chính xác chưa khóa; cảnh ngủ/chuyển đêm chưa được truy hồi. Ngày 05/04 nhóm đi công viên, qua khu nước rồi về căn hộ ăn tối; cuối nhịp 21:32 cả bốn ngủ. Lịch mới đã xác nhận rời nhà lúc 06:00 sáng 06/04, chuyến về chưa diễn ra. Xem `fanfic/timeline/2026-04-05-chronology.md`. Thời điểm tay Equinox hết rát, hát lại cho Zenith, kết quả Old Maid và các chỉ số kiểm tra 04/04 còn mở.
 - Equinox đang cân nhắc mua một cơ sở tập riêng và đã hứa làm báo cáo kỹ thuật/vận hành trước quyết định. Địa điểm, giá, ngân sách, nhân sự, thiết kế, quyền sử dụng, lịch mua và việc có mua hay không: TBD
 - Kết quả xin phòng lưu trú/căn hộ công vụ của Tracen: TBD
 - Ngày Equinox chính thức trở thành head trainer của certified team: TBD
@@ -46,7 +46,9 @@ Không có thứ gì trong file này trở thành canon chỉ vì nó được l
 
 ## Race calendar / result
 
-- Finish của Haise/Taki trong Satsuki, Derby, Kikuka 2027: TBD.
+- Finish của Haise/Taki trong Satsuki, Derby, Kikuka 2027: TBD. Trong trao đổi sau checkpoint, tác giả để ngỏ ba suất Classic tương lai liên quan đến Special Week, Haise và Taki, muốn cân nhắc Triple Crown cho Taki nhưng vẫn giữ vai trò của Special Week.
+- Đối chiếu khả dĩ với lịch repo là **Satsuki Sho, Japanese Derby, Kikuka Sho 2027**; tên ba suất chưa có xác nhận trực tiếp truy hồi được. Kết quả nền lần lượt là Seiun Sky, Special Week/El Condor Pasa đồng hạng và Seiun Sky. Giữ chúng làm baseline tham chiếu trong khi chờ xác nhận ba suất và kết quả fanfic; chưa chọn người thắng mới. Phương án Autumn Triple Crown 2029 là đề xuất riêng, chưa được tác giả duyệt.
+- Berserker Sprint và hướng chơi xấu đầu arc đã ghi ở `fanfic/internal-character-notes/takiyama-writing-guide.md`. Cú về đích thử nghiệm, cuộc đua áp dụng, hậu quả cụ thể và các finish vẫn mở.
 - Người thắng Satsuki Sho 2034: source animation không cho một tên nhân vật dùng được; giữ `UNNAMED / UNRESOLVED`.
 - Exact finish ngoài podium không được source/author xác định: TBD, không suy từ ngựa thật.
 - Kết quả career riêng của Rudolf/Air Groove/Brian và các G1 quốc tế của Haise/Taki: DRAFT cho tới khi author duyệt từng campaign.
@@ -68,5 +70,5 @@ Không có thứ gì trong file này trở thành canon chỉ vì nó được l
 ## Khoảng thiếu nguồn 05/04 và điểm nối
 
 - Chưa truy hồi prose đầy đủ đầu buổi sáng/hành trình/mở đầu Vệt Sét: giờ dậy, thực đơn, công việc cụ thể, phương tiện/tuyến đi, tên công viên, vé/giá và giờ chơi trò đầu vẫn TBD. Không xem đây là giấy phép tự viết canon cũ.
-- Phút tới bàn sau 12:14 còn TBD. Mở hộp/ăn trưa, chơi chiều, gửi ảnh công viên cho Zenith và về Tracen chưa được phần nguồn hiện có xác lập.
-- Độ phủ checkpoint cũ và dữ kiện đã lưu: `fanfic/checkpoints/2026-10-22-recovery-ledger.md`.
+- Phút tới bàn sau 12:14, cảnh ăn trưa và đoạn đầu khu nước tới hồ tạo sóng còn thiếu nguồn. Chưa có danh sách đủ ba trò Equinox chơi. Không có kênh xác lập Zenith nhận album công viên. Giờ báo thức, thức dậy và diễn biến chuyến về Tracen 06/04 còn mở.
+- Độ phủ checkpoint cũ và dữ kiện đã lưu: `fanfic/checkpoints/2026-11-11-recovery-ledger.md`.
